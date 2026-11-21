@@ -29,7 +29,9 @@
     "requirement": "US version", "features": ["widescreen", "high-fps", "mods"],
     "repositoryUrl": "https://github.com/Rainchus/Donkey-Kong-64-Recompiled", "colors": ["#c9a227", "#7a3b12", "#140a03"],
     "install": "download", "assets": [{ "pattern": "DK64Recompiled-Windows-Release-*.zip" }],
-    "roms": [{ "label": "US", "sha1": "cf806ff2603640a748fca5026ded28802f1f4a50", "sizeBytes": 33554432 }]
+    "roms": [{ "label": "US", "sha1": "cf806ff2603640a748fca5026ded28802f1f4a50", "sizeBytes": 33554432 }],
+    "romFile": "dk64.z64", "saves": "saves", "modsFolder": "mods", "portableFile": "portable.txt",
+    "keep": ["general.json", "graphics.json", "controls.json", "sound.json", "technical.json", "mods.json", "mod_config", "mod_data"]
   },
   {
     "id": "dusklight", "name": "Dusklight", "game": "The Legend of Zelda: Twilight Princess", "shortName": "Twilight Princess",
