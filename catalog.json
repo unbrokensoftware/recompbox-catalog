@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generated": "2026-11-21T05:57:39+00:00",
+  "generated": "2026-11-21T09:15:52+00:00",
   "ports": [
     {
       "id": "007-agentunderfire-recomp",
@@ -820,7 +820,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/DivinusX/a-port-of-the-order-1886-thats-actually-alive",
       "license": "GPL-2.0",
-      "stars": 57,
+      "stars": 58,
       "added": "2026-11-07T02:34:02+00:00",
       "updated": "2026-11-21T02:04:45+00:00",
       "colors": [],
@@ -1587,7 +1587,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/Nycolazs/ACNHRecomp",
       "license": "MIT",
-      "stars": 371,
+      "stars": 372,
       "added": "2026-10-21T19:25:48+00:00",
       "updated": "2026-11-17T12:45:17+00:00",
       "colors": [],
@@ -2474,7 +2474,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/eliasm4r/AgeOfCalamityRecomp",
       "license": "GPL-3.0",
-      "stars": 44,
+      "stars": 45,
       "added": "2026-11-19T16:55:39+00:00",
       "updated": "2026-11-20T21:23:23+00:00",
       "colors": [],
@@ -5399,7 +5399,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/rigaz29/Ascension-R",
       "license": "",
-      "stars": 174,
+      "stars": 175,
       "added": "2026-10-26T16:03:59+00:00",
       "updated": "2026-11-19T05:45:41+00:00",
       "colors": [],
@@ -8700,7 +8700,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/TGP482/BLACK-XBERecomp",
       "license": "",
-      "stars": 979,
+      "stars": 980,
       "added": "2026-10-03T22:11:56+00:00",
       "updated": "2026-10-29T14:24:11+00:00",
       "colors": [],
@@ -9326,7 +9326,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/deadinside28/bloodborne_pc",
       "license": "GPL-2.0",
-      "stars": 4156,
+      "stars": 4158,
       "added": "2026-10-01T05:50:31+00:00",
       "updated": "2026-10-28T23:58:29+00:00",
       "colors": [],
@@ -9371,7 +9371,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/lapothecary/bloodborne-pc-vulkan",
       "license": "",
-      "stars": 5,
+      "stars": 6,
       "added": "2026-11-02T19:26:10+00:00",
       "updated": "2026-11-20T17:11:45+00:00",
       "colors": [],
@@ -10504,7 +10504,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/guideahon/BOTW-VR-RECOMP",
       "license": "",
-      "stars": 3,
+      "stars": 4,
       "added": "2026-11-10T21:50:50+00:00",
       "updated": "2026-11-12T12:48:58+00:00",
       "colors": [],
@@ -10771,7 +10771,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/marcoscodas/bravely-emerald",
       "license": "",
-      "stars": 117,
+      "stars": 119,
       "added": "2026-11-14T20:02:42+00:00",
       "updated": "2026-11-20T00:51:37+00:00",
       "colors": [],
@@ -13020,7 +13020,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/jmafort/CastlevaniaCOD-PC",
       "license": "GPL-2.0",
-      "stars": 81,
+      "stars": 82,
       "added": "2026-11-01T20:56:40+00:00",
       "updated": "2026-11-18T22:17:27+00:00",
       "colors": [],
@@ -14283,7 +14283,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/FrankHUN88453/CoD3Recomp",
       "license": "",
-      "stars": 440,
+      "stars": 441,
       "added": "2026-09-17T06:04:09+00:00",
       "updated": "2026-10-07T15:03:25+00:00",
       "colors": [],
@@ -15877,7 +15877,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/tmcleroy/cps2recomp",
       "license": "GPL-3.0",
-      "stars": 204,
+      "stars": 205,
       "added": "2026-10-13T14:38:26+00:00",
       "updated": "2026-11-21T03:35:51+00:00",
       "colors": [],
@@ -16120,7 +16120,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/saulob/crackdown-xbox360-recompiled",
       "license": "GPL-2.0",
-      "stars": 131,
+      "stars": 132,
       "added": "2026-10-12T01:58:32+00:00",
       "updated": "2026-10-25T17:23:52+00:00",
       "colors": [],
@@ -16256,7 +16256,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/jake-r-r-w/crash_bash_decomp",
       "license": "",
-      "stars": 30,
+      "stars": 31,
       "added": "2026-10-10T08:27:36+00:00",
       "updated": "2026-11-19T23:54:00+00:00",
       "colors": [],
@@ -16848,7 +16848,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/denzi-gh/crashwoc-nuworld",
       "license": "GPL-3.0",
-      "stars": 93,
+      "stars": 94,
       "added": "2026-10-14T13:55:06+00:00",
       "updated": "2026-11-20T20:40:41+00:00",
       "colors": [],
@@ -18114,7 +18114,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/springah/daytona_recomp",
       "license": "BSD-3-Clause",
-      "stars": 15,
+      "stars": 16,
       "added": "2026-06-12T23:28:33+00:00",
       "updated": "2026-11-20T05:19:06+00:00",
       "colors": [],
@@ -18759,7 +18759,7 @@
       "license": "",
       "stars": 3,
       "added": "2026-11-12T13:04:30+00:00",
-      "updated": "2026-11-13T09:07:16+00:00",
+      "updated": "2026-11-21T07:16:55+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -18768,6 +18768,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v1.1.0",
+          "published": "2026-11-21T07:16:55+00:00",
+          "sizeBytes": 5726658,
+          "prerelease": false
+        },
         {
           "version": "v1.0.0",
           "published": "2026-11-13T09:07:16+00:00",
@@ -20608,7 +20614,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/retrogameworld/Diablo-III-Switch-Recomp",
       "license": "",
-      "stars": 64,
+      "stars": 66,
       "added": "2026-11-17T07:14:33+00:00",
       "updated": "2026-11-18T10:42:17+00:00",
       "colors": [],
@@ -20659,7 +20665,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/alexbeavs-ps1-ports/diablo-recomp",
       "license": "",
-      "stars": 7,
+      "stars": 8,
       "added": "2026-09-03T10:09:55+00:00",
       "updated": "2026-11-15T17:34:44+00:00",
       "colors": [],
@@ -21065,7 +21071,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/al4xdev/digimon-world-3-definitive-edition",
       "license": "MIT",
-      "stars": 2,
+      "stars": 3,
       "added": "2026-10-21T13:14:13+00:00",
       "updated": "2026-11-20T15:34:16+00:00",
       "colors": [],
@@ -22201,7 +22207,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/Lucas-blip-png/dkb-pc-recomp",
       "license": "GPL-3.0",
-      "stars": 1257,
+      "stars": 1259,
       "added": "2026-11-01T15:03:52+00:00",
       "updated": "2026-11-20T10:42:54+00:00",
       "colors": [],
@@ -23419,7 +23425,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/Nyaldee/dokuro-chan-ps2",
       "license": "GPL-3.0",
-      "stars": 1,
+      "stars": 2,
       "added": "2026-10-30T10:44:54+00:00",
       "updated": "2026-10-30T10:52:43+00:00",
       "colors": [],
@@ -23507,7 +23513,7 @@
       "license": "GPL-3.0",
       "stars": 9,
       "added": "2026-11-04T09:12:45+00:00",
-      "updated": "2026-11-19T08:35:58+00:00",
+      "updated": "2026-11-21T08:37:24+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -23516,6 +23522,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v0.1.15",
+          "published": "2026-11-21T08:37:24+00:00",
+          "sizeBytes": 22502058,
+          "prerelease": false
+        },
         {
           "version": "v0.1.14",
           "published": "2026-11-19T08:35:58+00:00",
@@ -23538,12 +23550,6 @@
           "version": "v0.1.11",
           "published": "2026-11-12T04:40:24+00:00",
           "sizeBytes": 22328266,
-          "prerelease": false
-        },
-        {
-          "version": "v0.1.10",
-          "published": "2026-11-11T04:00:36+00:00",
-          "sizeBytes": 22327892,
           "prerelease": false
         }
       ],
@@ -24220,9 +24226,9 @@
       "pick": false,
       "repositoryUrl": "https://github.com/skuza-oss/downhill-revived",
       "license": "GPL-3.0",
-      "stars": 235,
+      "stars": 236,
       "added": "2026-10-17T14:50:17+00:00",
-      "updated": "2026-11-17T17:27:24+00:00",
+      "updated": "2026-11-21T08:08:55+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -24231,6 +24237,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v0.8.11",
+          "published": "2026-11-21T08:08:55+00:00",
+          "sizeBytes": 25164577,
+          "prerelease": false
+        },
         {
           "version": "v0.8.10",
           "published": "2026-11-17T17:27:24+00:00",
@@ -24253,12 +24265,6 @@
           "version": "v0.8.7",
           "published": "2026-11-16T04:12:40+00:00",
           "sizeBytes": 25107952,
-          "prerelease": false
-        },
-        {
-          "version": "v0.8.6",
-          "published": "2026-11-15T17:04:41+00:00",
-          "sizeBytes": 25091193,
           "prerelease": false
         }
       ],
@@ -24630,7 +24636,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/birabittoh/DQ9Recompiled",
       "license": "MIT",
-      "stars": 29,
+      "stars": 30,
       "added": "2026-11-12T11:49:14+00:00",
       "updated": "2026-11-19T18:25:36+00:00",
       "colors": [],
@@ -25291,7 +25297,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/saulob/dragons-crown-pro-pc",
       "license": "GPL-2.0",
-      "stars": 534,
+      "stars": 537,
       "added": "2026-10-14T11:32:56+00:00",
       "updated": "2026-11-20T06:00:23+00:00",
       "colors": [],
@@ -25519,7 +25525,7 @@
       "license": "GPL-3.0",
       "stars": 16,
       "added": "2026-10-28T08:55:51+00:00",
-      "updated": "2026-11-20T23:22:04+00:00",
+      "updated": "2026-11-21T07:35:38+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -25528,6 +25534,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v0.1.33",
+          "published": "2026-11-21T07:35:38+00:00",
+          "sizeBytes": 150370370,
+          "prerelease": false
+        },
         {
           "version": "v0.1.32",
           "published": "2026-11-20T23:22:04+00:00",
@@ -25550,12 +25562,6 @@
           "version": "v0.1.29",
           "published": "2026-11-19T09:55:10+00:00",
           "sizeBytes": 137398963,
-          "prerelease": false
-        },
-        {
-          "version": "v0.1.28",
-          "published": "2026-11-18T10:05:33+00:00",
-          "sizeBytes": 137372175,
           "prerelease": false
         }
       ],
@@ -26834,7 +26840,7 @@
       "pick": true,
       "repositoryUrl": "https://github.com/TwilitRealm/dusklight",
       "license": "CC0-1.0",
-      "stars": 6495,
+      "stars": 6497,
       "added": "2025-11-30T01:27:51+00:00",
       "updated": "2026-09-30T07:06:44+00:00",
       "colors": [
@@ -28242,7 +28248,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/XiONDiGiTaL/EmblemWeave",
       "license": "GPL-3.0",
-      "stars": 174,
+      "stars": 176,
       "added": "2026-11-08T06:22:50+00:00",
       "updated": "2026-11-20T19:47:43+00:00",
       "colors": [],
@@ -28742,7 +28748,7 @@
         {
           "version": "dev",
           "published": "2026-10-22T04:26:39+00:00",
-          "sizeBytes": 10004526,
+          "sizeBytes": 10008760,
           "prerelease": false
         }
       ],
@@ -29077,7 +29083,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/birabittoh/EternalSonataReprise",
       "license": "MIT",
-      "stars": 215,
+      "stars": 216,
       "added": "2026-06-05T14:13:20+00:00",
       "updated": "2026-11-09T22:51:06+00:00",
       "colors": [],
@@ -29215,7 +29221,7 @@
       "license": "GPL-3.0",
       "stars": 2,
       "added": "2026-11-18T04:39:52+00:00",
-      "updated": "2026-11-19T19:28:28+00:00",
+      "updated": "2026-11-21T07:35:17+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -29224,6 +29230,18 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v0.1.2",
+          "published": "2026-11-21T07:35:17+00:00",
+          "sizeBytes": 22598544,
+          "prerelease": false
+        },
+        {
+          "version": "v0.1.1",
+          "published": "2026-11-21T07:15:35+00:00",
+          "sizeBytes": 22420333,
+          "prerelease": false
+        },
         {
           "version": "v0.1.0",
           "published": "2026-11-19T19:28:28+00:00",
@@ -29513,7 +29531,7 @@
       "license": "MIT",
       "stars": 122,
       "added": "2026-08-27T03:28:41+00:00",
-      "updated": "2026-11-17T07:49:19+00:00",
+      "updated": "2026-11-21T09:15:31+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -29522,6 +29540,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v2.1.1",
+          "published": "2026-11-21T09:15:31+00:00",
+          "sizeBytes": 1165986867,
+          "prerelease": false
+        },
         {
           "version": "v2.1.0",
           "published": "2026-11-17T07:49:19+00:00",
@@ -29543,12 +29567,6 @@
         {
           "version": "v2.0.0",
           "published": "2026-11-14T00:07:42+00:00",
-          "sizeBytes": 1166225012,
-          "prerelease": false
-        },
-        {
-          "version": "v0.20.0-rc.3",
-          "published": "2026-11-12T01:24:18+00:00",
           "sizeBytes": 1166225012,
           "prerelease": false
         }
@@ -29705,7 +29723,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/himdo/Fable-2-Recomp",
       "license": "MIT",
-      "stars": 706,
+      "stars": 707,
       "added": "2026-08-30T18:16:58+00:00",
       "updated": "2026-11-15T20:38:46+00:00",
       "colors": [],
@@ -31757,7 +31775,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/djultra64/Fight-Night-Round-3-Recomp",
       "license": "",
-      "stars": 19,
+      "stars": 18,
       "added": "2026-10-21T00:41:44+00:00",
       "updated": "2026-11-02T04:00:52+00:00",
       "colors": [],
@@ -32745,7 +32763,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/zer0ducksgiven/Forza-Motorsport-2-ReGPU",
       "license": "MIT",
-      "stars": 86,
+      "stars": 87,
       "added": "2026-10-18T17:37:58+00:00",
       "updated": "2026-11-18T19:39:00+00:00",
       "colors": [],
@@ -33080,7 +33098,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/PateeerQ/FreedomUniteRecomp",
       "license": "GPL-3.0",
-      "stars": 67,
+      "stars": 68,
       "added": "2026-10-24T03:02:22+00:00",
       "updated": "2026-11-17T09:27:50+00:00",
       "colors": [],
@@ -33149,7 +33167,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/Frizti/Fritchii",
       "license": "GPL-3.0",
-      "stars": 4427,
+      "stars": 4429,
       "added": "2026-11-05T04:04:51+00:00",
       "updated": "2026-11-19T07:18:07+00:00",
       "colors": [],
@@ -33344,7 +33362,7 @@
       "license": "MIT",
       "stars": 21,
       "added": "2026-10-18T07:36:56+00:00",
-      "updated": "2026-11-05T18:47:12+00:00",
+      "updated": "2026-11-21T08:59:54+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -33353,6 +33371,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "1.4",
+          "published": "2026-11-21T08:59:54+00:00",
+          "sizeBytes": 47117122,
+          "prerelease": false
+        },
         {
           "version": "1.3",
           "published": "2026-11-05T18:47:12+00:00",
@@ -36939,7 +36963,7 @@
       "license": "MIT",
       "stars": 69,
       "added": "2026-10-15T16:58:21+00:00",
-      "updated": "2026-11-05T19:19:23+00:00",
+      "updated": "2026-11-21T08:27:37+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -36948,6 +36972,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "1.6",
+          "published": "2026-11-21T08:27:37+00:00",
+          "sizeBytes": 28474590,
+          "prerelease": false
+        },
         {
           "version": "1.5",
           "published": "2026-11-05T19:19:23+00:00",
@@ -36970,12 +37000,6 @@
           "version": "1.2",
           "published": "2026-10-20T17:06:33+00:00",
           "sizeBytes": 20889789,
-          "prerelease": false
-        },
-        {
-          "version": "1.1",
-          "published": "2026-10-19T17:06:37+00:00",
-          "sizeBytes": 20887682,
           "prerelease": false
         }
       ],
@@ -37476,7 +37500,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/cuesta4/GOW3rehooked",
       "license": "",
-      "stars": 197,
+      "stars": 200,
       "added": "2026-11-17T23:06:07+00:00",
       "updated": "2026-11-21T01:05:02+00:00",
       "colors": [],
@@ -37661,7 +37685,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/junminlee2004/GR2port",
       "license": "GPL-2.0",
-      "stars": 224,
+      "stars": 226,
       "added": "2026-11-04T17:44:06+00:00",
       "updated": "2026-11-18T15:31:20+00:00",
       "colors": [],
@@ -37874,7 +37898,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/Mabec-games/Gran-Turismo-6-PC",
       "license": "GPL-3.0",
-      "stars": 237,
+      "stars": 238,
       "added": "2026-11-06T20:15:49+00:00",
       "updated": "2026-11-09T15:54:50+00:00",
       "colors": [],
@@ -38212,7 +38236,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/qnfn/GRport",
       "license": "GPL-2.0",
-      "stars": 188,
+      "stars": 189,
       "added": "2026-10-29T08:44:05+00:00",
       "updated": "2026-11-20T18:23:48+00:00",
       "colors": [],
@@ -38439,7 +38463,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/Silentwarior112/GT3-PC-ENHANCED",
       "license": "",
-      "stars": 168,
+      "stars": 173,
       "added": "2026-10-25T14:39:17+00:00",
       "updated": "2026-11-21T02:34:26+00:00",
       "colors": [],
@@ -38585,7 +38609,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/batinium/gta-stories-recompiled",
       "license": "GPL-3.0",
-      "stars": 47,
+      "stars": 48,
       "added": "2026-11-19T11:31:53+00:00",
       "updated": "2026-11-19T16:36:48+00:00",
       "colors": [],
@@ -38628,7 +38652,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/gothamor/gta-vcs-recomp",
       "license": "GPL-3.0",
-      "stars": 731,
+      "stars": 734,
       "added": "2026-10-30T03:46:44+00:00",
       "updated": "2026-11-14T13:15:02+00:00",
       "colors": [],
@@ -38991,7 +39015,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/trev82usa/Guardians-of-Heroes-static-recomp",
       "license": "",
-      "stars": 15,
+      "stars": 16,
       "added": "2026-11-13T22:33:31+00:00",
       "updated": "2026-11-19T13:28:08+00:00",
       "colors": [],
@@ -39919,7 +39943,7 @@
       "license": "",
       "stars": 82,
       "added": "2026-11-17T00:58:33+00:00",
-      "updated": "2026-11-20T07:51:06+00:00",
+      "updated": "2026-11-21T06:11:38+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -39928,6 +39952,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v1.4.1",
+          "published": "2026-11-21T06:11:38+00:00",
+          "sizeBytes": 48360781,
+          "prerelease": false
+        },
         {
           "version": "v1.4",
           "published": "2026-11-20T07:51:06+00:00",
@@ -39950,12 +39980,6 @@
           "version": "v1.1",
           "published": "2026-11-19T01:12:38+00:00",
           "sizeBytes": 54491578,
-          "prerelease": false
-        },
-        {
-          "version": "v1.0",
-          "published": "2026-11-17T00:59:49+00:00",
-          "sizeBytes": 49342191,
           "prerelease": false
         }
       ],
@@ -41120,7 +41144,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/florinp93/hells-gate-recomp",
       "license": "",
-      "stars": 932,
+      "stars": 933,
       "added": "2026-08-31T08:32:13+00:00",
       "updated": "2026-11-08T00:00:17+00:00",
       "colors": [],
@@ -41341,7 +41365,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/Sacrappy/HeyListen",
       "license": "GPL-3.0",
-      "stars": 254,
+      "stars": 256,
       "added": "2026-11-08T21:16:14+00:00",
       "updated": "2026-11-20T12:13:15+00:00",
       "colors": [],
@@ -41897,7 +41921,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/davidptrssvea/HOTD4-recomp",
       "license": "",
-      "stars": 41,
+      "stars": 42,
       "added": "2026-11-17T11:51:41+00:00",
       "updated": "2026-11-21T01:16:06+00:00",
       "colors": [],
@@ -41966,7 +41990,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/Zexyen/Hotel-Luigi",
       "license": "GPL-3.0",
-      "stars": 24,
+      "stars": 25,
       "added": "2026-11-12T13:12:41+00:00",
       "updated": "2026-11-19T14:31:52+00:00",
       "colors": [],
@@ -42789,7 +42813,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/Alano6678/hwaoi-recomp",
       "license": "GPL-3.0",
-      "stars": 99,
+      "stars": 100,
       "added": "2026-11-05T14:45:05+00:00",
       "updated": "2026-11-20T18:30:35+00:00",
       "colors": [],
@@ -42855,7 +42879,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/blocker-3/HWDER",
       "license": "",
-      "stars": 135,
+      "stars": 136,
       "added": "2026-10-23T19:16:25+00:00",
       "updated": "2026-11-01T22:58:07+00:00",
       "colors": [],
@@ -43256,7 +43280,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/nathanialf/ico-pc",
       "license": "",
-      "stars": 565,
+      "stars": 566,
       "added": "2026-10-03T02:06:56+00:00",
       "updated": "2026-11-21T04:18:58+00:00",
       "colors": [],
@@ -46816,7 +46840,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/jonnisvibes/jvppbport",
       "license": "",
-      "stars": 27,
+      "stars": 28,
       "added": "2026-11-06T05:24:33+00:00",
       "updated": "2026-11-17T16:32:14+00:00",
       "colors": [],
@@ -48000,7 +48024,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/RivierGrullon/kirby-epic-yarn-recomp",
       "license": "GPL-3.0",
-      "stars": 40,
+      "stars": 41,
       "added": "2026-11-13T13:49:13+00:00",
       "updated": "2026-11-21T05:53:14+00:00",
       "colors": [],
@@ -48776,7 +48800,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/lucdubois/KnightOfLodisRecomp",
       "license": "",
-      "stars": 36,
+      "stars": 38,
       "added": "2026-11-17T17:54:18+00:00",
       "updated": "2026-11-21T04:37:49+00:00",
       "colors": [],
@@ -48995,7 +49019,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/spita90/konami-viper-recomp",
       "license": "",
-      "stars": 61,
+      "stars": 62,
       "added": "2026-09-29T20:22:25+00:00",
       "updated": "2026-11-19T15:36:11+00:00",
       "colors": [],
@@ -49247,7 +49271,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/NJH-1001/KTDIR",
       "license": "",
-      "stars": 0,
+      "stars": 1,
       "added": "2026-09-01T20:58:20+00:00",
       "updated": "2026-09-02T00:09:01+00:00",
       "colors": [],
@@ -49928,7 +49952,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/peiikai/LASRecomp",
       "license": "",
-      "stars": 2528,
+      "stars": 2530,
       "added": "2026-10-08T22:42:12+00:00",
       "updated": "2026-11-15T06:35:20+00:00",
       "colors": [],
@@ -49995,7 +50019,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/open-goal/launcher",
       "license": "ISC",
-      "stars": 264,
+      "stars": 265,
       "added": "2022-08-11T23:12:53+00:00",
       "updated": "2025-10-31T22:26:22+00:00",
       "colors": [],
@@ -51673,7 +51697,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/Fwha/Lost-Paradise",
       "license": "MIT",
-      "stars": 40,
+      "stars": 41,
       "added": "2026-10-12T20:17:49+00:00",
       "updated": "2026-11-18T11:11:17+00:00",
       "colors": [],
@@ -51794,7 +51818,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/freefrank/LostOdysseyRecomp",
       "license": "GPL-3.0",
-      "stars": 1020,
+      "stars": 1021,
       "added": "2026-09-05T07:01:47+00:00",
       "updated": "2026-10-26T01:12:52+00:00",
       "colors": [],
@@ -52206,7 +52230,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/MrWifi1143/LZA-Recomp",
       "license": "",
-      "stars": 13,
+      "stars": 14,
       "added": "2026-10-19T00:49:01+00:00",
       "updated": "2026-11-18T05:39:49+00:00",
       "colors": [],
@@ -53222,7 +53246,7 @@
       "license": "GPL-3.0",
       "stars": 6,
       "added": "2026-11-15T05:58:09+00:00",
-      "updated": "2026-11-21T05:52:54+00:00",
+      "updated": "2026-11-21T06:57:18+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -53231,6 +53255,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v0.1.71",
+          "published": "2026-11-21T06:57:18+00:00",
+          "sizeBytes": 23373137,
+          "prerelease": false
+        },
         {
           "version": "v0.1.70",
           "published": "2026-11-21T05:52:54+00:00",
@@ -53253,12 +53283,6 @@
           "version": "v0.1.67",
           "published": "2026-11-20T15:02:40+00:00",
           "sizeBytes": 23365192,
-          "prerelease": false
-        },
-        {
-          "version": "v0.1.66",
-          "published": "2026-11-20T14:52:52+00:00",
-          "sizeBytes": 23365194,
           "prerelease": false
         }
       ],
@@ -53932,7 +53956,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/Ieatzcrayonz/MarioTennisRecomp",
       "license": "GPL-3.0",
-      "stars": 16,
+      "stars": 17,
       "added": "2026-11-07T16:56:52+00:00",
       "updated": "2026-11-19T01:35:04+00:00",
       "colors": [],
@@ -57183,7 +57207,7 @@
       "license": "GPL-3.0",
       "stars": 173,
       "added": "2026-09-12T01:54:19+00:00",
-      "updated": "2026-11-21T04:01:56+00:00",
+      "updated": "2026-11-21T06:42:40+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -57192,6 +57216,18 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v0.9.995",
+          "published": "2026-11-21T06:42:40+00:00",
+          "sizeBytes": 178019550,
+          "prerelease": false
+        },
+        {
+          "version": "parts-0.9.995",
+          "published": "2026-11-21T06:42:20+00:00",
+          "sizeBytes": 22366628,
+          "prerelease": false
+        },
         {
           "version": "v0.9.994",
           "published": "2026-11-21T04:01:56+00:00",
@@ -57208,18 +57244,6 @@
           "version": "v0.9.993",
           "published": "2026-11-21T02:46:01+00:00",
           "sizeBytes": 177990692,
-          "prerelease": false
-        },
-        {
-          "version": "parts-0.9.993",
-          "published": "2026-11-21T02:45:36+00:00",
-          "sizeBytes": 22350677,
-          "prerelease": false
-        },
-        {
-          "version": "v0.9.992",
-          "published": "2026-11-21T00:53:55+00:00",
-          "sizeBytes": 177989917,
           "prerelease": false
         }
       ],
@@ -57851,9 +57875,9 @@
       "pick": false,
       "repositoryUrl": "https://github.com/metrist38/fefw-recomp",
       "license": "GPL-3.0",
-      "stars": 329,
+      "stars": 334,
       "added": "2026-11-10T11:04:14+00:00",
-      "updated": "2026-11-20T15:11:38+00:00",
+      "updated": "2026-11-21T09:07:00+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -57862,6 +57886,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v0.2.10",
+          "published": "2026-11-21T09:07:00+00:00",
+          "sizeBytes": 165448912,
+          "prerelease": false
+        },
         {
           "version": "v0.2.9",
           "published": "2026-11-20T15:11:38+00:00",
@@ -57884,12 +57914,6 @@
           "version": "v0.2.6",
           "published": "2026-11-18T10:47:42+00:00",
           "sizeBytes": 165292830,
-          "prerelease": false
-        },
-        {
-          "version": "v0.2.5",
-          "published": "2026-11-18T08:53:49+00:00",
-          "sizeBytes": 165291554,
           "prerelease": false
         }
       ],
@@ -58719,7 +58743,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/CompaLarios18/MH4UltimateDC",
       "license": "GPL-3.0",
-      "stars": 150,
+      "stars": 151,
       "added": "2026-10-06T19:32:25+00:00",
       "updated": "2026-11-03T08:05:32+00:00",
       "colors": [],
@@ -58855,7 +58879,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/MEKCCK/MHGU-Relink",
       "license": "MIT",
-      "stars": 4,
+      "stars": 5,
       "added": "2026-11-06T19:17:33+00:00",
       "updated": "2026-11-19T19:27:04+00:00",
       "colors": [],
@@ -58915,7 +58939,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/morerokk/MHGURecomp",
       "license": "MIT",
-      "stars": 691,
+      "stars": 692,
       "added": "2026-10-22T13:43:06+00:00",
       "updated": "2026-11-20T17:38:05+00:00",
       "colors": [],
@@ -60173,7 +60197,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/adriadam10/mkw-recomp",
       "license": "MIT",
-      "stars": 1598,
+      "stars": 1600,
       "added": "2026-11-09T15:40:06+00:00",
       "updated": "2026-11-20T19:27:38+00:00",
       "colors": [],
@@ -60471,7 +60495,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/tgacquin/mm3d-dekui",
       "license": "GPL-2.0",
-      "stars": 283,
+      "stars": 284,
       "added": "2026-10-02T00:55:30+00:00",
       "updated": "2026-10-25T01:43:59+00:00",
       "colors": [],
@@ -62179,7 +62203,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/gminustwo/msr2ds",
       "license": "GPL-2.0",
-      "stars": 269,
+      "stars": 270,
       "added": "2026-10-29T23:21:31+00:00",
       "updated": "2026-11-20T18:04:19+00:00",
       "colors": [],
@@ -63035,7 +63059,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/PaulCombal/mw2-recompiled",
       "license": "GPL-3.0",
-      "stars": 211,
+      "stars": 212,
       "added": "2026-09-26T15:23:06+00:00",
       "updated": "2026-10-27T08:54:44+00:00",
       "colors": [],
@@ -63562,7 +63586,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/Masterllgod/naruto-storm-2-port-nativo",
       "license": "",
-      "stars": 64,
+      "stars": 65,
       "added": "2026-10-16T12:14:20+00:00",
       "updated": "2026-10-18T05:57:34+00:00",
       "colors": [],
@@ -63617,7 +63641,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/Masterllgod/naruto-storm-3-full-burst-port-nativo",
       "license": "",
-      "stars": 102,
+      "stars": 103,
       "added": "2026-10-16T12:14:28+00:00",
       "updated": "2026-10-17T02:47:39+00:00",
       "colors": [],
@@ -64061,7 +64085,7 @@
       "license": "",
       "stars": 8,
       "added": "2026-11-03T14:35:13+00:00",
-      "updated": "2026-11-16T10:40:21+00:00",
+      "updated": "2026-11-21T07:32:49+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -64070,6 +64094,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v2026.11.21",
+          "published": "2026-11-21T07:32:49+00:00",
+          "sizeBytes": 4023320,
+          "prerelease": false
+        },
         {
           "version": "v2026.11.16",
           "published": "2026-11-16T10:40:21+00:00",
@@ -64679,7 +64709,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/MatyMeatBoy/NewSnapRecomp",
       "license": "MIT",
-      "stars": 15,
+      "stars": 16,
       "added": "2026-11-13T07:08:54+00:00",
       "updated": "2026-11-20T23:09:52+00:00",
       "colors": [],
@@ -65030,7 +65060,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/madelrandel-blip/NFSMW-Recompiled",
       "license": "GPL-3.0",
-      "stars": 247,
+      "stars": 248,
       "added": "2026-09-10T12:23:15+00:00",
       "updated": "2026-10-28T22:20:44+00:00",
       "colors": [],
@@ -65130,7 +65160,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/gamboozino/ng2recomp",
       "license": "GPL-3.0",
-      "stars": 303,
+      "stars": 305,
       "added": "2026-10-30T00:03:18+00:00",
       "updated": "2026-11-20T15:03:38+00:00",
       "colors": [],
@@ -65199,7 +65229,7 @@
       "license": "GPL-2.0",
       "stars": 39,
       "added": "2026-10-24T06:54:37+00:00",
-      "updated": "2026-11-19T11:04:43+00:00",
+      "updated": "2026-11-21T07:28:06+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -65208,6 +65238,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v2.2.37.4",
+          "published": "2026-11-21T07:28:06+00:00",
+          "sizeBytes": 3441410,
+          "prerelease": false
+        },
         {
           "version": "v2.2.37.3",
           "published": "2026-11-19T11:04:43+00:00",
@@ -65230,12 +65266,6 @@
           "version": "v2.2.37",
           "published": "2026-11-18T09:21:14+00:00",
           "sizeBytes": 3500630,
-          "prerelease": false
-        },
-        {
-          "version": "v2.2.36.3",
-          "published": "2026-11-18T08:24:02+00:00",
-          "sizeBytes": 3428110,
           "prerelease": false
         }
       ],
@@ -65267,7 +65297,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/gamboozino/ngbrecomp",
       "license": "GPL-3.0",
-      "stars": 364,
+      "stars": 365,
       "added": "2026-10-15T14:54:44+00:00",
       "updated": "2026-11-21T04:23:54+00:00",
       "colors": [],
@@ -65671,7 +65701,7 @@
       "license": "",
       "stars": 8,
       "added": "2026-10-26T04:17:30+00:00",
-      "updated": "2026-11-20T10:36:51+00:00",
+      "updated": "2026-11-21T06:22:40+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -65680,6 +65710,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v1.1.1",
+          "published": "2026-11-21T06:22:40+00:00",
+          "sizeBytes": 10710902,
+          "prerelease": false
+        },
         {
           "version": "v1.1.0",
           "published": "2026-11-20T10:36:51+00:00",
@@ -67133,9 +67169,9 @@
       "pick": false,
       "repositoryUrl": "https://github.com/xinthefreefallxai/ObeliskChamber",
       "license": "GPL-3.0",
-      "stars": 135,
+      "stars": 138,
       "added": "2026-11-11T23:44:11+00:00",
-      "updated": "2026-11-18T04:25:05+00:00",
+      "updated": "2026-11-21T07:25:56+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -67144,6 +67180,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v0.3.1",
+          "published": "2026-11-21T07:25:56+00:00",
+          "sizeBytes": 165227311,
+          "prerelease": false
+        },
         {
           "version": "v0.3.0",
           "published": "2026-11-18T04:25:05+00:00",
@@ -67304,7 +67346,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/OTPR26/Ocarina-ReTuned",
       "license": "",
-      "stars": 136,
+      "stars": 137,
       "added": "2026-10-20T03:15:12+00:00",
       "updated": "2026-11-20T15:21:03+00:00",
       "colors": [],
@@ -67497,7 +67539,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/saulob/odin-sphere-leifthrasir-pc",
       "license": "GPL-2.0",
-      "stars": 216,
+      "stars": 217,
       "added": "2026-10-19T05:16:38+00:00",
       "updated": "2026-11-19T12:25:23+00:00",
       "colors": [],
@@ -67564,7 +67606,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/rwwo8/OdysseyRecomp",
       "license": "",
-      "stars": 104,
+      "stars": 106,
       "added": "2026-11-10T03:59:41+00:00",
       "updated": "2026-11-20T16:35:23+00:00",
       "colors": [],
@@ -68406,7 +68448,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/OpenGP-dev/OpenGP",
       "license": "GPL-3.0",
-      "stars": 72,
+      "stars": 74,
       "added": "2026-10-25T13:22:58+00:00",
       "updated": "2026-11-17T22:07:00+00:00",
       "colors": [],
@@ -68842,7 +68884,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/tyscorp/openpete",
       "license": "MIT",
-      "stars": 8,
+      "stars": 9,
       "added": "2026-11-20T00:16:49+00:00",
       "updated": "2026-11-20T02:28:46+00:00",
       "colors": [],
@@ -68956,7 +68998,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/OpenRAC/OpenRAC",
       "license": "",
-      "stars": 225,
+      "stars": 226,
       "added": "2026-10-03T21:00:55+00:00",
       "updated": "2026-11-18T13:00:25+00:00",
       "colors": [],
@@ -69098,7 +69140,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/GiZcesi/OpenTricky",
       "license": "GPL-3.0",
-      "stars": 170,
+      "stars": 171,
       "added": "2026-10-04T11:14:26+00:00",
       "updated": "2026-11-13T12:17:52+00:00",
       "colors": [],
@@ -70962,7 +71004,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/imnotsharingmyname/pcportastrobot",
       "license": "",
-      "stars": 1025,
+      "stars": 1028,
       "added": "2026-11-08T20:22:33+00:00",
       "updated": "2026-11-21T00:26:29+00:00",
       "colors": [],
@@ -72057,7 +72099,7 @@
         {
           "version": "v0.2.0",
           "published": "2026-11-20T20:41:49+00:00",
-          "sizeBytes": 4754094,
+          "sizeBytes": 5127325,
           "prerelease": false
         },
         {
@@ -73869,7 +73911,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/mamesj/pokemon-fulldex",
       "license": "GPL-3.0",
-      "stars": 1214,
+      "stars": 1215,
       "added": "2026-10-25T22:17:49+00:00",
       "updated": "2026-11-20T14:55:02+00:00",
       "colors": [],
@@ -75835,7 +75877,7 @@
       "license": "MIT",
       "stars": 51,
       "added": "2026-11-05T03:17:31+00:00",
-      "updated": "2026-11-20T08:37:34+00:00",
+      "updated": "2026-11-21T07:42:24+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -75844,6 +75886,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v0.1.14",
+          "published": "2026-11-21T07:42:24+00:00",
+          "sizeBytes": 190493979,
+          "prerelease": false
+        },
         {
           "version": "v0.1.13",
           "published": "2026-11-20T08:37:34+00:00",
@@ -75866,12 +75914,6 @@
           "version": "v0.1.10",
           "published": "2026-11-17T10:51:57+00:00",
           "sizeBytes": 190350544,
-          "prerelease": false
-        },
-        {
-          "version": "v0.1.9",
-          "published": "2026-11-16T10:02:20+00:00",
-          "sizeBytes": 190888736,
           "prerelease": false
         }
       ],
@@ -76027,7 +76069,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/theokyr/Project8Recomp",
       "license": "",
-      "stars": 59,
+      "stars": 60,
       "added": "2026-08-17T18:07:44+00:00",
       "updated": "2026-08-24T13:53:28+00:00",
       "colors": [],
@@ -76611,7 +76653,7 @@
       "license": "GPL-3.0",
       "stars": 18,
       "added": "2026-11-07T00:13:39+00:00",
-      "updated": "2026-11-20T10:45:45+00:00",
+      "updated": "2026-11-21T09:15:52+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -76620,6 +76662,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v0.6.1-beta",
+          "published": "2026-11-21T09:15:52+00:00",
+          "sizeBytes": 4608769,
+          "prerelease": false
+        },
         {
           "version": "v0.6.0-beta",
           "published": "2026-11-20T10:45:45+00:00",
@@ -76642,12 +76690,6 @@
           "version": "v0.2.0-alpha",
           "published": "2026-11-09T02:50:01+00:00",
           "sizeBytes": 7893995,
-          "prerelease": false
-        },
-        {
-          "version": "v0.1.1-alpha",
-          "published": "2026-11-07T03:30:44+00:00",
-          "sizeBytes": 4005552,
           "prerelease": false
         }
       ],
@@ -78939,7 +78981,7 @@
       "license": "GPL-3.0",
       "stars": 11,
       "added": "2026-11-02T09:54:55+00:00",
-      "updated": "2026-11-19T19:30:40+00:00",
+      "updated": "2026-11-21T08:21:33+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -78948,6 +78990,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v0.1.21",
+          "published": "2026-11-21T08:21:33+00:00",
+          "sizeBytes": 22592699,
+          "prerelease": false
+        },
         {
           "version": "v0.1.20",
           "published": "2026-11-19T19:30:40+00:00",
@@ -78970,12 +79018,6 @@
           "version": "v0.1.17",
           "published": "2026-11-14T23:47:14+00:00",
           "sizeBytes": 22415320,
-          "prerelease": false
-        },
-        {
-          "version": "v0.1.16",
-          "published": "2026-11-14T18:14:53+00:00",
-          "sizeBytes": 22414917,
           "prerelease": false
         }
       ],
@@ -79750,7 +79792,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/QuietClubGames/ReBuriki",
       "license": "",
-      "stars": 13,
+      "stars": 14,
       "added": "2026-11-11T02:48:20+00:00",
       "updated": "2026-11-11T03:01:27+00:00",
       "colors": [],
@@ -79863,7 +79905,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/Dittobyte/Recompia",
       "license": "GPL-3.0",
-      "stars": 944,
+      "stars": 945,
       "added": "2026-11-02T21:44:06+00:00",
       "updated": "2026-11-20T15:43:30+00:00",
       "colors": [],
@@ -80322,7 +80364,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/gminustwo/red_two",
       "license": "MIT",
-      "stars": 188,
+      "stars": 194,
       "added": "2026-11-15T07:31:32+00:00",
       "updated": "2026-11-20T01:06:14+00:00",
       "colors": [],
@@ -81394,7 +81436,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/st4rwhx/Resident-Evil-4-Native-Port",
       "license": "CC0-1.0",
-      "stars": 50,
+      "stars": 53,
       "added": "2026-09-25T12:47:56+00:00",
       "updated": "2026-11-20T02:55:11+00:00",
       "colors": [],
@@ -81523,7 +81565,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/ecruells/resident-evil-pc-decomp",
       "license": "GPL-3.0",
-      "stars": 202,
+      "stars": 203,
       "added": "2026-05-28T12:31:59+00:00",
       "updated": "2026-11-04T18:41:32+00:00",
       "colors": [],
@@ -82163,7 +82205,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/FluffyQuack/rexglue-SoulCaliburIV",
       "license": "",
-      "stars": 42,
+      "stars": 43,
       "added": "2026-07-05T10:47:25+00:00",
       "updated": "2026-07-07T15:11:50+00:00",
       "colors": [],
@@ -83742,7 +83784,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/gminustwo/RondoRecomp",
       "license": "",
-      "stars": 88,
+      "stars": 89,
       "added": "2026-11-10T01:56:50+00:00",
       "updated": "2026-11-19T06:40:54+00:00",
       "colors": [],
@@ -84349,7 +84391,7 @@
       "license": "GPL-3.0",
       "stars": 19,
       "added": "2026-10-10T06:00:17+00:00",
-      "updated": "2026-11-17T20:19:08+00:00",
+      "updated": "2026-11-21T09:03:07+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -84358,6 +84400,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v0.1.79",
+          "published": "2026-11-21T09:03:07+00:00",
+          "sizeBytes": 19005150,
+          "prerelease": false
+        },
         {
           "version": "v0.1.78",
           "published": "2026-11-17T20:19:08+00:00",
@@ -84380,12 +84428,6 @@
           "version": "v0.1.75",
           "published": "2026-11-16T14:54:51+00:00",
           "sizeBytes": 37617452,
-          "prerelease": false
-        },
-        {
-          "version": "v0.1.74",
-          "published": "2026-11-15T20:15:30+00:00",
-          "sizeBytes": 37605247,
           "prerelease": false
         }
       ],
@@ -84575,7 +84617,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/RyGT-Team/rygt7",
       "license": "GPL-2.0",
-      "stars": 118,
+      "stars": 119,
       "added": "2026-11-08T01:58:39+00:00",
       "updated": "2026-11-17T00:29:43+00:00",
       "colors": [],
@@ -85180,7 +85222,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/CaduGimenes/SanctuaryPort",
       "license": "GPL-2.0",
-      "stars": 129,
+      "stars": 136,
       "added": "2026-11-10T13:53:55+00:00",
       "updated": "2026-11-21T02:03:02+00:00",
       "colors": [],
@@ -85251,7 +85293,7 @@
       "license": "GPL-3.0",
       "stars": 0,
       "added": "2026-11-17T06:33:08+00:00",
-      "updated": "2026-11-21T05:40:49+00:00",
+      "updated": "2026-11-21T06:31:26+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -85260,6 +85302,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v0.3.4",
+          "published": "2026-11-21T06:31:26+00:00",
+          "sizeBytes": 353947537,
+          "prerelease": false
+        },
         {
           "version": "v0.3.3",
           "published": "2026-11-21T05:40:49+00:00",
@@ -85282,12 +85330,6 @@
           "version": "v0.3.0",
           "published": "2026-11-20T23:52:49+00:00",
           "sizeBytes": 354105660,
-          "prerelease": false
-        },
-        {
-          "version": "v0.2.29-alpha",
-          "published": "2026-11-20T22:27:18+00:00",
-          "sizeBytes": 354096356,
           "prerelease": false
         }
       ],
@@ -85320,7 +85362,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/Revivedx/SavageWindRecomp",
       "license": "",
-      "stars": 4904,
+      "stars": 4907,
       "added": "2026-10-16T17:34:55+00:00",
       "updated": "2026-11-16T00:38:13+00:00",
       "colors": [],
@@ -85634,7 +85676,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/TGP482/SCDA-XBERecomp",
       "license": "MIT",
-      "stars": 497,
+      "stars": 498,
       "added": "2026-09-27T07:17:18+00:00",
       "updated": "2026-10-29T14:40:46+00:00",
       "colors": [],
@@ -86780,7 +86822,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/Madxbio97/SF-pc-port",
       "license": "MIT",
-      "stars": 154,
+      "stars": 155,
       "added": "2026-07-23T21:49:51+00:00",
       "updated": "2026-11-18T13:45:19+00:00",
       "colors": [],
@@ -87657,7 +87699,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/nakaionyt/ShadowOfTheColossus-PC-FrameGen",
       "license": "GPL-2.0",
-      "stars": 46,
+      "stars": 45,
       "added": "2026-10-17T12:12:58+00:00",
       "updated": "2026-10-17T17:08:26+00:00",
       "colors": [],
@@ -87962,7 +88004,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/MatyMeatBoy/ShiningSource",
       "license": "",
-      "stars": 21,
+      "stars": 22,
       "added": "2026-11-12T18:53:28+00:00",
       "updated": "2026-11-21T02:06:46+00:00",
       "colors": [],
@@ -88641,7 +88683,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/cheviman/simpsons-port",
       "license": "BSD-3-Clause",
-      "stars": 125,
+      "stars": 126,
       "added": "2026-11-13T22:57:30+00:00",
       "updated": "2026-11-20T04:48:54+00:00",
       "colors": [],
@@ -90276,7 +90318,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/smm2recomp/smm2recomp",
       "license": "GPL-3.0",
-      "stars": 295,
+      "stars": 297,
       "added": "2026-10-19T03:02:41+00:00",
       "updated": "2026-11-17T05:24:22+00:00",
       "colors": [],
@@ -93130,7 +93172,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/GTTeancum/SpideyPS1recomp",
       "license": "",
-      "stars": 65,
+      "stars": 66,
       "added": "2026-08-28T16:45:58+00:00",
       "updated": "2026-09-29T18:18:01+00:00",
       "colors": [],
@@ -93566,7 +93608,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/Elie-0066/SPR-Recomp-Project",
       "license": "GPL-3.0",
-      "stars": 59,
+      "stars": 60,
       "added": "2026-11-13T20:59:52+00:00",
       "updated": "2026-11-20T17:19:30+00:00",
       "colors": [],
@@ -94281,7 +94323,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/AmarilloNL/ssx-recomp",
       "license": "",
-      "stars": 35,
+      "stars": 36,
       "added": "2026-11-01T20:33:45+00:00",
       "updated": "2026-11-20T17:47:20+00:00",
       "colors": [],
@@ -96149,7 +96191,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/jeff-strutb/stuntracefx",
       "license": "CC0-1.0",
-      "stars": 83,
+      "stars": 84,
       "added": "2026-10-12T02:48:03+00:00",
       "updated": "2026-11-17T18:42:49+00:00",
       "colors": [],
@@ -96721,7 +96763,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/Simon3Sarkis/super-odyssey-pc-recomp",
       "license": "",
-      "stars": 463,
+      "stars": 472,
       "added": "2026-11-12T01:49:10+00:00",
       "updated": "2026-11-21T05:57:39+00:00",
       "colors": [],
@@ -98019,7 +98061,7 @@
       "license": "",
       "stars": 161,
       "added": "2026-06-08T20:17:18+00:00",
-      "updated": "2026-11-20T19:18:06+00:00",
+      "updated": "2026-11-21T07:05:20+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -98028,6 +98070,18 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v0.4.10",
+          "published": "2026-11-21T07:05:20+00:00",
+          "sizeBytes": 15281016,
+          "prerelease": false
+        },
+        {
+          "version": "v0.4.9",
+          "published": "2026-11-21T06:22:03+00:00",
+          "sizeBytes": 15280908,
+          "prerelease": false
+        },
         {
           "version": "v0.4.8",
           "published": "2026-11-20T19:18:06+00:00",
@@ -98044,18 +98098,6 @@
           "version": "v0.4.6",
           "published": "2026-11-13T23:38:04+00:00",
           "sizeBytes": 15528551,
-          "prerelease": false
-        },
-        {
-          "version": "v0.4.5",
-          "published": "2026-11-09T17:43:56+00:00",
-          "sizeBytes": 15522852,
-          "prerelease": false
-        },
-        {
-          "version": "v0.4.4",
-          "published": "2026-11-08T17:18:31+00:00",
-          "sizeBytes": 15246552,
           "prerelease": false
         }
       ],
@@ -98277,7 +98319,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/vfjoo888/SuperWonders",
       "license": "MIT",
-      "stars": 165,
+      "stars": 167,
       "added": "2026-11-09T18:18:39+00:00",
       "updated": "2026-11-20T12:22:24+00:00",
       "colors": [],
@@ -98504,7 +98546,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/Warden2048/swes-recompiled",
       "license": "GPL-3.0",
-      "stars": 5,
+      "stars": 6,
       "added": "2026-10-29T02:48:39+00:00",
       "updated": "2026-11-01T14:32:12+00:00",
       "colors": [],
@@ -99842,7 +99884,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/omarma/tekken3-expanded",
       "license": "",
-      "stars": 164,
+      "stars": 165,
       "added": "2026-09-27T18:06:37+00:00",
       "updated": "2026-11-14T22:43:00+00:00",
       "colors": [],
@@ -99970,7 +100012,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/mahmoud-mess/tekken6-recomp",
       "license": "",
-      "stars": 94,
+      "stars": 95,
       "added": "2026-09-28T14:23:02+00:00",
       "updated": "2026-10-16T04:33:03+00:00",
       "colors": [],
@@ -101537,7 +101579,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/IgorAugustoHH/The-Order-1886-PC-Port",
       "license": "GPL-2.0",
-      "stars": 239,
+      "stars": 241,
       "added": "2026-10-07T10:25:37+00:00",
       "updated": "2026-11-01T07:14:31+00:00",
       "colors": [],
@@ -102820,7 +102862,7 @@
       "license": "GPL-3.0",
       "stars": 84,
       "added": "2026-11-07T07:12:08+00:00",
-      "updated": "2026-11-20T10:39:40+00:00",
+      "updated": "2026-11-21T08:20:40+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -102829,6 +102871,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v1.3.2",
+          "published": "2026-11-21T08:20:40+00:00",
+          "sizeBytes": 118668583,
+          "prerelease": false
+        },
         {
           "version": "v1.3.1",
           "published": "2026-11-20T10:39:40+00:00",
@@ -102851,12 +102899,6 @@
           "version": "v1.2.0",
           "published": "2026-11-16T19:28:29+00:00",
           "sizeBytes": 118569856,
-          "prerelease": false
-        },
-        {
-          "version": "v1.1.0",
-          "published": "2026-11-14T22:05:51+00:00",
-          "sizeBytes": 118547837,
           "prerelease": false
         }
       ],
@@ -102939,7 +102981,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/TheDoffman/timesplitters-future-perfect-pc",
       "license": "GPL-3.0",
-      "stars": 158,
+      "stars": 159,
       "added": "2026-10-15T06:23:46+00:00",
       "updated": "2026-11-19T18:19:05+00:00",
       "colors": [],
@@ -103276,7 +103318,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/SulphurS16/TLG-Port",
       "license": "GPL-3.0",
-      "stars": 215,
+      "stars": 214,
       "added": "2026-10-20T17:19:33+00:00",
       "updated": "2026-11-14T08:37:07+00:00",
       "colors": [],
@@ -103465,7 +103507,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/ravencaio/tlou-remastered-pc",
       "license": "GPL-2.0",
-      "stars": 372,
+      "stars": 373,
       "added": "2026-11-01T20:52:57+00:00",
       "updated": "2026-11-20T03:47:06+00:00",
       "colors": [],
@@ -103644,7 +103686,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/cheviman/tmnt-port",
       "license": "BSD-3-Clause",
-      "stars": 125,
+      "stars": 127,
       "added": "2026-11-04T20:10:09+00:00",
       "updated": "2026-11-20T02:08:31+00:00",
       "colors": [],
@@ -105554,7 +105596,7 @@
       "license": "GPL-3.0",
       "stars": 13,
       "added": "2026-10-06T20:26:59+00:00",
-      "updated": "2026-11-05T18:02:50+00:00",
+      "updated": "2026-11-21T06:21:15+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -105563,6 +105605,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v1.1.0",
+          "published": "2026-11-21T06:21:15+00:00",
+          "sizeBytes": 30369288,
+          "prerelease": false
+        },
         {
           "version": "v1.0.0",
           "published": "2026-11-05T18:02:50+00:00",
@@ -105598,7 +105646,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/valentderah/totk-pc-recomp",
       "license": "MIT",
-      "stars": 7855,
+      "stars": 7867,
       "added": "2026-10-29T12:32:46+00:00",
       "updated": "2026-11-15T16:45:04+00:00",
       "colors": [],
@@ -106466,7 +106514,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/roz1077/true-crime-new-york-city-recomp",
       "license": "",
-      "stars": 65,
+      "stars": 66,
       "added": "2026-11-08T01:40:53+00:00",
       "updated": "2026-11-19T00:14:23+00:00",
       "colors": [],
@@ -106657,7 +106705,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/aidp2/tssm-ports",
       "license": "CC0-1.0",
-      "stars": 2,
+      "stars": 3,
       "added": "2026-11-14T05:32:44+00:00",
       "updated": "2026-11-20T10:39:25+00:00",
       "colors": [],
@@ -107005,7 +107053,7 @@
       "license": "GPL-3.0",
       "stars": 4,
       "added": "2026-11-11T14:40:36+00:00",
-      "updated": "2026-11-20T07:18:01+00:00",
+      "updated": "2026-11-21T08:53:35+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -107014,6 +107062,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v0.2.21",
+          "published": "2026-11-21T08:53:35+00:00",
+          "sizeBytes": 22521221,
+          "prerelease": false
+        },
         {
           "version": "v0.2.20",
           "published": "2026-11-20T07:18:01+00:00",
@@ -107036,12 +107090,6 @@
           "version": "v0.2.17",
           "published": "2026-11-20T06:26:25+00:00",
           "sizeBytes": 22358526,
-          "prerelease": false
-        },
-        {
-          "version": "v0.2.16",
-          "published": "2026-11-19T21:51:04+00:00",
-          "sizeBytes": 22358860,
           "prerelease": false
         }
       ],
@@ -107075,7 +107123,7 @@
       "license": "GPL-3.0",
       "stars": 3,
       "added": "2026-11-11T14:40:42+00:00",
-      "updated": "2026-11-20T07:45:45+00:00",
+      "updated": "2026-11-21T08:53:49+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -107084,6 +107132,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v0.2.10",
+          "published": "2026-11-21T08:53:49+00:00",
+          "sizeBytes": 22930852,
+          "prerelease": false
+        },
         {
           "version": "v0.2.9",
           "published": "2026-11-20T07:45:45+00:00",
@@ -107106,12 +107160,6 @@
           "version": "v0.2.6",
           "published": "2026-11-15T07:24:45+00:00",
           "sizeBytes": 22750049,
-          "prerelease": false
-        },
-        {
-          "version": "v0.2.5",
-          "published": "2026-11-15T00:28:34+00:00",
-          "sizeBytes": 22749816,
           "prerelease": false
         }
       ],
@@ -107200,7 +107248,7 @@
       "license": "GPL-3.0",
       "stars": 3,
       "added": "2026-11-11T14:40:46+00:00",
-      "updated": "2026-11-20T07:42:04+00:00",
+      "updated": "2026-11-21T08:52:40+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -107209,6 +107257,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v0.2.11",
+          "published": "2026-11-21T08:52:40+00:00",
+          "sizeBytes": 22393048,
+          "prerelease": false
+        },
         {
           "version": "v0.2.10",
           "published": "2026-11-20T07:42:04+00:00",
@@ -107231,12 +107285,6 @@
           "version": "v0.2.7",
           "published": "2026-11-15T00:01:29+00:00",
           "sizeBytes": 22209084,
-          "prerelease": false
-        },
-        {
-          "version": "v0.2.6",
-          "published": "2026-11-14T11:19:27+00:00",
-          "sizeBytes": 22207756,
           "prerelease": false
         }
       ],
@@ -108047,7 +108095,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/thefixinhixon/UltraCombo",
       "license": "MIT",
-      "stars": 82,
+      "stars": 83,
       "added": "2026-10-18T14:05:30+00:00",
       "updated": "2026-11-19T04:11:01+00:00",
       "colors": [],
@@ -108364,7 +108412,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/Supermedo/uncharted_pc",
       "license": "GPL-2.0",
-      "stars": 2336,
+      "stars": 2338,
       "added": "2026-10-15T00:17:23+00:00",
       "updated": "2026-11-15T18:45:35+00:00",
       "colors": [],
@@ -109103,7 +109151,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/abilliontokens/urbz-recomp",
       "license": "",
-      "stars": 31,
+      "stars": 32,
       "added": "2026-10-14T10:22:55+00:00",
       "updated": "2026-10-20T02:16:02+00:00",
       "colors": [],
@@ -111515,7 +111563,7 @@
       "license": "MPL-2.0",
       "stars": 5,
       "added": "2026-11-11T06:03:40+00:00",
-      "updated": "2026-11-16T01:22:25+00:00",
+      "updated": "2026-11-21T07:50:07+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -111524,6 +111572,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "v0.6.0",
+          "published": "2026-11-21T07:50:07+00:00",
+          "sizeBytes": 45723713,
+          "prerelease": false
+        },
         {
           "version": "v0.5.1",
           "published": "2026-11-16T01:22:25+00:00",
@@ -112155,7 +112209,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/mattiasribera/WarriorsReborn",
       "license": "GPL-3.0",
-      "stars": 10,
+      "stars": 11,
       "added": "2026-11-01T07:54:26+00:00",
       "updated": "2026-11-19T13:46:19+00:00",
       "colors": [],
@@ -112702,7 +112756,7 @@
       "license": "MIT",
       "stars": 73,
       "added": "2026-08-29T21:37:48+00:00",
-      "updated": "2026-11-05T22:36:07+00:00",
+      "updated": "2026-11-21T08:23:01+00:00",
       "colors": [],
       "install": "download",
       "recipe": "",
@@ -112711,6 +112765,12 @@
       "saves": "",
       "modsFolder": "",
       "releases": [
+        {
+          "version": "1.7",
+          "published": "2026-11-21T08:23:01+00:00",
+          "sizeBytes": 34505522,
+          "prerelease": false
+        },
         {
           "version": "1.6",
           "published": "2026-11-05T22:36:07+00:00",
@@ -112733,12 +112793,6 @@
           "version": "1.3",
           "published": "2026-10-07T06:59:22+00:00",
           "sizeBytes": 26992222,
-          "prerelease": false
-        },
-        {
-          "version": "1.2",
-          "published": "2026-10-05T16:31:36+00:00",
-          "sizeBytes": 28990627,
           "prerelease": false
         }
       ],
@@ -113061,7 +113115,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/arelkair/wiiparty-recomp",
       "license": "GPL-3.0",
-      "stars": 29,
+      "stars": 30,
       "added": "2026-09-19T16:54:40+00:00",
       "updated": "2026-11-20T13:53:08+00:00",
       "colors": [],
@@ -115090,7 +115144,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/Jarrodfeng/wwe2k14-recomp",
       "license": "BSD-3-Clause",
-      "stars": 53,
+      "stars": 54,
       "added": "2026-10-17T07:46:46+00:00",
       "updated": "2026-11-20T14:09:22+00:00",
       "colors": [],
@@ -115608,7 +115662,7 @@
       "pick": true,
       "repositoryUrl": "https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp",
       "license": "MPL-2.0",
-      "stars": 1625,
+      "stars": 1627,
       "added": "2026-10-01T12:28:45+00:00",
       "updated": "2026-11-06T14:33:31+00:00",
       "colors": [
@@ -117459,7 +117513,7 @@
       "pick": true,
       "repositoryUrl": "https://github.com/Zelda64Recomp/Zelda64Recomp",
       "license": "GPL-3.0",
-      "stars": 7746,
+      "stars": 7747,
       "added": "2023-10-23T19:54:50+00:00",
       "updated": "2025-08-27T00:58:35+00:00",
       "colors": [
