@@ -5,7 +5,8 @@
     "description": "Majora's Mask rebuilt as a PC game. Plays at any frame rate and resolution with dual analog camera and mod support.",
     "requirement": "US version", "features": ["widescreen", "high-fps", "mods", "gyro"],
     "repositoryUrl": "https://github.com/Zelda64Recomp/Zelda64Recomp", "colors": ["#7b3fe4", "#2fb37a", "#1a0d2e"],
-    "install": "download", "assets": [{ "pattern": "Zelda64Recompiled-*-Windows.zip" }]
+    "install": "download", "assets": [{ "pattern": "Zelda64Recompiled-*-Windows.zip" }],
+    "roms": [{ "label": "US", "sha1": "d6133ace5afaa0882cf214cf88daba39e266c078", "sizeBytes": 33554432 }]
   },
   {
     "id": "2ship2harkinian", "name": "2 Ship 2 Harkinian", "game": "The Legend of Zelda: Majora's Mask", "shortName": "Majora's Mask",

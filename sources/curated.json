@@ -1,0 +1,38 @@
+[
+  {
+    "id": "banjorecomp", "name": "Banjo: Recompiled", "game": "Banjo-Kazooie", "shortName": "Banjo-Kazooie",
+    "platform": "Nintendo 64", "developer": "BanjoRecomp", "kind": "recomp",
+    "description": "Banjo-Kazooie recompiled as a native PC game with widescreen, high frame rates and mod support.",
+    "requirement": "US version", "features": ["widescreen", "high-fps", "mods"],
+    "repositoryUrl": "https://github.com/BanjoRecomp/BanjoRecomp", "colors": ["#d9822b", "#2f7fd1", "#1a0e05"],
+    "install": "download", "assets": [{ "pattern": "BanjoRecompiled-*-Windows.zip" }],
+    "roms": [{ "label": "US", "sha1": "1fe1632098865f639e22c11b9a81ee8f29c75d7a", "sizeBytes": 16777216 }]
+  },
+  {
+    "id": "dk64recomp", "name": "Donkey Kong 64: Recompiled", "game": "Donkey Kong 64", "shortName": "Donkey Kong 64",
+    "platform": "Nintendo 64", "developer": "Rainchus", "kind": "recomp",
+    "description": "Donkey Kong 64 recompiled for PC with widescreen, high frame rates and mod support.",
+    "requirement": "US version", "features": ["widescreen", "high-fps", "mods"],
+    "repositoryUrl": "https://github.com/Rainchus/Donkey-Kong-64-Recompiled", "colors": ["#c9a227", "#7a3b12", "#140a03"],
+    "install": "download", "assets": [{ "pattern": "DK64Recompiled-Windows-Release-*.zip" }],
+    "roms": [{ "label": "US", "sha1": "cf806ff2603640a748fca5026ded28802f1f4a50", "sizeBytes": 33554432 }]
+  },
+  {
+    "id": "dusklight", "name": "Dusklight", "game": "The Legend of Zelda: Twilight Princess", "shortName": "Twilight Princess",
+    "aliases": ["Zelda: Twilight Princess"],
+    "platform": "Nintendo GameCube", "developer": "TwilitRealm", "kind": "decomp",
+    "description": "Twilight Princess running natively on PC from the decompilation, with widescreen and high frame rates.",
+    "requirement": "GameCube or Wii disc", "features": ["widescreen", "high-fps"],
+    "repositoryUrl": "https://github.com/TwilitRealm/dusklight", "colors": ["#3f6b4a", "#c8a24a", "#0b120d"],
+    "install": "download", "assets": [{ "pattern": "Dusklight-*-win32-x86_64.zip" }]
+  },
+  {
+    "id": "wwhdrecomp", "name": "Wind Waker HD Recompiled", "game": "The Legend of Zelda: The Wind Waker HD", "shortName": "Wind Waker HD",
+    "aliases": ["Zelda: The Wind Waker HD", "The Wind Waker HD"],
+    "platform": "Nintendo Wii U", "developer": "ZeldaWWHDRecomp", "kind": "recomp",
+    "description": "The Wind Waker HD recompiled for PC. Built on your PC from your own Wii U game files on first run.",
+    "requirement": "US Wii U game files", "features": ["widescreen", "high-fps"],
+    "repositoryUrl": "https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp", "colors": ["#2a8fc9", "#e8d27a", "#06121c"],
+    "install": "download", "assets": [{ "pattern": "WindWakerHD-*-windows-x86_64.zip" }]
+  }
+]
