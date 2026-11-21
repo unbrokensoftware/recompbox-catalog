@@ -13,7 +13,16 @@ internal static class FeedType
 
 internal sealed record FeedFile
 {
+    /// <summary>A port whose project stops working stays listed (as last seen) this many days, then drops out until it works again.</summary>
+    public int RemoveAfterDays { get; init; } = 7;
     public List<FeedConfig> Feeds { get; init; } = [];
+}
+
+/// <summary>health.json: ports that are currently failing, by id. Ports that work aren't listed.</summary>
+internal sealed record PortHealth
+{
+    public DateTimeOffset FirstFailed { get; init; }
+    public string LastError { get; init; } = "";
 }
 
 /// <summary>One place the generator pulls from. Fields not used by a feed's type are ignored.</summary>

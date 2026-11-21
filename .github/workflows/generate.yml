@@ -37,7 +37,7 @@ jobs:
 
       - name: Publish
         run: |
-          git add catalog.json candidates
+          git add catalog.json candidates health.json maintenance.md sources
           if git diff --cached --quiet; then
             echo "Catalog unchanged."
             exit 0

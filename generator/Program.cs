@@ -81,6 +81,16 @@ internal static partial class Program
             entries.AddRange(loaded);
         }
 
+        // Upkeep state: the last published catalog (last good copy of each port) and which ports are failing since when.
+        Dictionary<string, CatalogPort> lastGood = LoadPrevious(output);
+        string healthFile = Path.Combine(root, "health.json");
+        var health = File.Exists(healthFile)
+            ? JsonSerializer.Deserialize<Dictionary<string, PortHealth>>(File.ReadAllText(healthFile), ReadOptions) ?? []
+            : new Dictionary<string, PortHealth>();
+        var stillFailing = new Dictionary<string, PortHealth>(StringComparer.Ordinal);
+        var report = new Report();
+        DateTimeOffset today = DateTimeOffset.UtcNow;
+
         var ports = new List<CatalogPort>();
         var ids = new HashSet<string>(StringComparer.Ordinal);
         var repos = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
@@ -92,16 +102,45 @@ internal static partial class Program
             if (!source.Strict && repo is not null && repos.Contains(repo))
                 continue;
             string? reason = ValidateSource(entry) ?? (ids.Contains(entry.Id) ? "duplicate id" : null);
-            CatalogPort? port = null;
-            if (reason is null)
-            {
-                (port, reason) = await EnrichAsync(github, entry with { Pick = picks.Contains(entry.Id) });
-                reason ??= ValidateOutput(port!);
-            }
             if (reason is not null)
             {
+                // Our own mistake in the entry, not the project breaking: no grace period.
                 Reject($"{label} ({source.Origin})", source.Feed, reason, source.Strict);
+                report.Rejected.Add($"`{label}` ({source.Origin}): {reason}");
                 continue;
+            }
+
+            (CatalogPort? port, reason, string? movedTo) = await EnrichAsync(github, entry with { Pick = picks.Contains(entry.Id) });
+            reason ??= ValidateOutput(port!);
+            if (movedTo is not null && repo is not null)
+            {
+                report.Moved.Add($"`{entry.Id}`: {repo} → {movedTo}");
+                if (source.Strict) FixSource(root, source.Origin, entry.RepositoryUrl, "https://github.com/" + movedTo);
+                repo = movedTo;
+            }
+
+            if (reason is not null)
+            {
+                // The project stopped working (gone, or no Windows download matches any more). Keep the last good copy
+                // for a while in case it's temporary; drop it once it has failed for RemoveAfterDays.
+                PortHealth h = health.TryGetValue(entry.Id, out PortHealth? old) ? old with { LastError = reason } : new PortHealth { FirstFailed = today, LastError = reason };
+                stillFailing[entry.Id] = h;
+                int days = (int)(today - h.FirstFailed).TotalDays;
+                if (days < feeds.RemoveAfterDays && lastGood.TryGetValue(entry.Id, out CatalogPort? kept))
+                {
+                    report.Failing.Add($"`{entry.Id}` ({source.Origin}): {reason}. Failing {days} days; still listed, removed after {feeds.RemoveAfterDays}.");
+                    Warn($"Keeping last good {entry.Id} from {source.Feed}: {reason}");
+                    port = kept with { Pick = picks.Contains(entry.Id) };
+                }
+                else
+                {
+                    if (lastGood.ContainsKey(entry.Id) || health.ContainsKey(entry.Id))
+                        report.Removed.Add($"`{entry.Id}` ({source.Origin}): {reason}. Failing since {h.FirstFailed:yyyy-MM-dd}; comes back on its own once it works.");
+                    else
+                        report.Rejected.Add($"`{label}` ({source.Origin}): {reason}");
+                    Reject($"{label} ({source.Origin})", source.Feed, reason, source.Strict && !lastGood.ContainsKey(entry.Id) && !health.ContainsKey(entry.Id));
+                    continue;
+                }
             }
             ids.Add(port!.Id);
             if (repo is not null) repos.Add(repo);
@@ -130,6 +169,12 @@ internal static partial class Program
         };
         Write(output, Encoding.UTF8.GetBytes(JsonSerializer.Serialize(catalog, WriteOptions) + "\n"));
         Console.WriteLine($"Wrote {ports.Count} ports, rejected {_rejections}.");
+        if (Path.GetDirectoryName(output) == Path.TrimEndingDirectorySeparator(root))
+        {
+            // Upkeep state only follows the published catalog, not trial runs written elsewhere.
+            Write(healthFile, Encoding.UTF8.GetBytes(JsonSerializer.Serialize(new SortedDictionary<string, PortHealth>(stillFailing, StringComparer.Ordinal), WriteOptions) + "\n"));
+            Write(Path.Combine(root, "maintenance.md"), Encoding.UTF8.GetBytes(report.ToMarkdown(ports.Count)));
+        }
 
         if (candidates)
         {
@@ -195,7 +240,64 @@ internal static partial class Program
         return null;
     }
 
-    private static async Task<(CatalogPort? Port, string? Reason)> EnrichAsync(GitHub github, CatalogPort entry)
+    private static Dictionary<string, CatalogPort> LoadPrevious(string output)
+    {
+        try
+        {
+            if (File.Exists(output) && JsonSerializer.Deserialize<Catalog>(File.ReadAllText(output), ReadOptions) is { } previous)
+                return previous.Ports.Where(p => p is not null && IsId(p.Id)).GroupBy(p => p.Id).ToDictionary(g => g.Key, g => g.First(), StringComparer.Ordinal);
+        }
+        catch (JsonException) { }
+        return new(StringComparer.Ordinal);
+    }
+
+    /// <summary>Points a source file at a repository's new address after GitHub reports it moved.</summary>
+    private static void FixSource(string root, string origin, string oldUrl, string newUrl)
+    {
+        string file = Path.GetFullPath(Path.Combine(root, origin));
+        if (!file.StartsWith(root, StringComparison.OrdinalIgnoreCase) || !File.Exists(file)) return;
+        string text = File.ReadAllText(file);
+        string quoted = JsonSerializer.Serialize(oldUrl);
+        if (!text.Contains(quoted, StringComparison.Ordinal)) return;
+        Write(file, Encoding.UTF8.GetBytes(text.Replace(quoted, JsonSerializer.Serialize(newUrl), StringComparison.Ordinal)));
+    }
+
+    private sealed class Report
+    {
+        public List<string> Moved { get; } = [];
+        public List<string> Failing { get; } = [];
+        public List<string> Removed { get; } = [];
+        public List<string> Rejected { get; } = [];
+
+        public string ToMarkdown(int listed)
+        {
+            var sb = new StringBuilder("# Catalog upkeep\n\n");
+            sb.Append($"Written by the catalog job. {listed} ports listed.\n");
+            Section(sb, "Moved", "GitHub reports these repositories moved. The catalog and our source files now use the new address.", Moved);
+            Section(sb, "Failing", "Stopped working recently. Still listed as last seen, in case it's temporary.", Failing);
+            Section(sb, "Removed", "Stopped working for too long and left out of the catalog. Their entries stay, so they return once they work again.", Removed);
+            Section(sb, "Rejected", "Entries that never made it in. Fix or delete them.", Rejected);
+            return sb.ToString();
+        }
+
+        private static void Section(StringBuilder sb, string title, string about, List<string> items)
+        {
+            sb.Append($"\n## {title} ({items.Count})\n\n");
+            if (items.Count == 0) { sb.Append("None.\n"); return; }
+            sb.Append(about).Append("\n\n");
+            foreach (string item in items.Order(StringComparer.Ordinal)) sb.Append("- ").Append(item.Replace("\n", " ")).Append('\n');
+        }
+    }
+
+    private static async Task<(CatalogPort? Port, string? Reason, string? MovedTo)> EnrichAsync(GitHub github, CatalogPort entry)
+    {
+        (CatalogPort? port, string? reason) = await EnrichCoreAsync(github, entry);
+        string? from = GitHubRepo(entry.RepositoryUrl);
+        string? to = GitHubRepo(port?.RepositoryUrl);
+        return (port, reason, from is not null && to is not null && !from.Equals(to, StringComparison.OrdinalIgnoreCase) ? to : null);
+    }
+
+    private static async Task<(CatalogPort? Port, string? Reason)> EnrichCoreAsync(GitHub github, CatalogPort entry)
     {
         var port = entry with
         {
@@ -212,6 +314,12 @@ internal static partial class Program
 
         JsonElement? info = await github.GetAsync($"repos/{repo}");
         if (info is not { } r) return (null, $"GitHub repository {repo} not found");
+        // A renamed or transferred repository redirects; carry on at its new address.
+        if (r.GetProperty("full_name").GetString() is { } fullName && IsRepo(fullName) && !fullName.Equals(repo, StringComparison.OrdinalIgnoreCase))
+        {
+            repo = fullName;
+            port = port with { RepositoryUrl = "https://github.com/" + fullName };
+        }
         string license = r.TryGetProperty("license", out var lic) && lic.ValueKind == JsonValueKind.Object &&
                          lic.TryGetProperty("spdx_id", out var spdx) && spdx.GetString() is { } id && id != "NOASSERTION" ? id : "";
         port = port with

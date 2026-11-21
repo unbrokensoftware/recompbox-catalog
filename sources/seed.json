@@ -13,7 +13,7 @@
     "platform": "Nintendo 64", "developer": "HarbourMasters", "kind": "decomp",
     "description": "Majora's Mask on the libultraship engine with enhancements, cheats and a built-in mod manager.",
     "requirement": "US version", "features": ["widescreen", "high-fps", "mods", "randomizer"],
-    "repositoryUrl": "https://github.com/HarbourMasters/2ship2harkinian", "colors": ["#6a32c9", "#e0a43a", "#160a26"],
+    "repositoryUrl": "https://github.com/2ship2harkinian/2ship2harkinian", "colors": ["#6a32c9", "#e0a43a", "#160a26"],
     "install": "download", "assets": [{ "pattern": "2Ship-*-Win64.zip" }]
   },
   {
@@ -71,7 +71,7 @@
     "platform": "Nintendo 64", "developer": "fgsfdsfgs", "kind": "decomp",
     "description": "Perfect Dark with mouse and keyboard, high frame rates and widescreen.",
     "requirement": "US 1.1 version", "features": ["high-fps", "widescreen"],
-    "repositoryUrl": "https://github.com/fgsfdsfgs/perfect_dark", "colors": ["#c21d3b", "#3a3f4a", "#0b0b0e"],
+    "repositoryUrl": "https://github.com/perfect-dark-pc-port/perfect_dark", "colors": ["#c21d3b", "#3a3f4a", "#0b0b0e"],
     "install": "download", "assets": [{ "pattern": "pd-x86_64-windows.zip" }]
   },
   {

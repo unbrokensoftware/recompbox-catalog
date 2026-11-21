@@ -24,6 +24,19 @@ For every entry the generator reads the GitHub repository (stars, license, creat
 that have a Windows download matching the entry's asset pattern. Entries that fail a check are left out with a
 warning in the job log. If GitHub can't be reached, nothing is written, so a partial catalog is never published.
 
+## Upkeep
+
+Every run also checks that each listed project still works, and records what it found in
+[`maintenance.md`](maintenance.md):
+
+- **Moved:** GitHub redirects renamed or transferred repositories. The run follows the redirect and rewrites the
+  address in our source files, so the change is saved with the catalog.
+- **Failing:** the repository is gone, or no release has a Windows download matching the entry any more. The port
+  stays listed as last seen, in case it's temporary. [`health.json`](health.json) records when it started failing.
+- **Removed:** failing for `removeAfterDays` (7, in `feeds.json`). It's left out of the catalog, but its entry stays,
+  so it comes back on its own once it works again.
+- Ports that are simply quiet (no new release in a long time) are never removed.
+
 ## Adding a port
 
 Add a JSON file under `sources/community/` and open a pull request. A check runs the generator on it.
