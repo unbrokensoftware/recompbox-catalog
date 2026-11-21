@@ -18,6 +18,9 @@ internal sealed record CatalogPort
     public string ShortName { get; init; } = "";
     public string Platform { get; init; } = "";
     public IReadOnlyList<string> Aliases { get; init; } = [];
+    // The game's LaunchBox Games Database id, for box art when its name doesn't find it.
+    [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingDefault)]
+    public int LaunchBoxDbId { get; init; }
     public string Developer { get; init; } = "";
     public string Kind { get; init; } = "";
     public string Description { get; init; } = "";

@@ -1568,6 +1568,7 @@
     "id": "wii-menu-recomp",
     "name": "Wii Menu Recomp",
     "game": "Wii System Menu",
+    "launchBoxDbId": 442136,
     "shortName": "Wii System Menu",
     "platform": "Nintendo Wii",
     "aliases": [],

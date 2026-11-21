@@ -3267,6 +3267,7 @@
     "id": "superryuworld1-recomp",
     "name": "Super Ryu World 1 — Native PC Port (Recomp tooling)",
     "game": "Super Ryu World 1",
+    "launchBoxDbId": 164406,
     "shortName": "Super Ryu World 1",
     "platform": "Super Nintendo Entertainment System",
     "aliases": [],

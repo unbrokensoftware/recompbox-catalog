@@ -740,6 +740,7 @@
     "id": "nsmb-mariovsluigi",
     "name": "Mario Vs Luigi Online",
     "game": "New Super Mario Bros. DS: Mario vs. Luigi",
+    "launchBoxDbId": 6859,
     "shortName": "New Super Mario Bros. DS: Mario vs. Luigi",
     "platform": "Nintendo DS",
     "aliases": [

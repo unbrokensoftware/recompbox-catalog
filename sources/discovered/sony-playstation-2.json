@@ -1970,6 +1970,7 @@
     "id": "make-baseball-team-game-project",
     "name": "Yakyuu Tsuku 3 PC",
     "game": "Pro Yakyuu Team wo Tsukurou! 3",
+    "launchBoxDbId": 200805,
     "shortName": "Pro Yakyuu Team wo Tsukurou! 3",
     "platform": "Sony Playstation 2",
     "aliases": [],
@@ -2332,6 +2333,7 @@
     "id": "nun5-recomp",
     "name": "NUN5 Recomp",
     "game": "Naruto: Ultimate Ninja 5",
+    "launchBoxDbId": 18137,
     "shortName": "Naruto: Ultimate Ninja 5",
     "platform": "Sony Playstation 2",
     "aliases": [
@@ -2773,6 +2775,7 @@
     "id": "ratatouille-pc",
     "name": "Ratatouille PC",
     "game": "Disney·Pixar Ratatouille",
+    "launchBoxDbId": 32086,
     "shortName": "Disney·Pixar Ratatouille",
     "platform": "Sony Playstation 2",
     "aliases": [],
