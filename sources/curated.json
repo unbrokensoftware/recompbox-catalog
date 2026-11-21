@@ -51,10 +51,10 @@
   },
   {
     "id": "zelda3-recompbox", "name": "Zelda 3 Reborn", "game": "The Legend of Zelda: A Link to the Past", "shortName": "A Link to the Past",
-    "platform": "Super Nintendo Entertainment System", "developer": "xander-haj, snesrev and RecompBox", "kind": "decomp",
+    "platform": "Super Nintendo Entertainment System", "developer": "xander-haj, snesrev and FaeranB", "kind": "decomp",
     "description": "A Link to the Past as a native PC game: true 16:9 with the original HUD, crisp pixels, no sprite flicker, quick item buttons and an in-game settings menu. Built from your own ROM.",
     "requirement": "USA version", "features": ["widescreen", "mods"],
-    "repositoryUrl": "https://github.com/unbrokensoftware/Zelda3-RecompBox", "license": "MIT", "colors": ["#2e8b57", "#c9a227", "#0b1a10"],
+    "repositoryUrl": "https://github.com/FaeranB/Zelda3-RecompBox", "license": "MIT", "colors": ["#2e8b57", "#c9a227", "#0b1a10"],
     "install": "download", "assets": [{ "pattern": "Zelda3-RecompBox-*-Windows-x64.zip" }],
     "executable": "Zelda3Enhanced.exe",
     "roms": [{ "label": "USA", "sha1": "6d4f10a8b10e10dbe624cb23cf03b88bb8252973", "sizeBytes": 1048576 }],
