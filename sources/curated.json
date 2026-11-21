@@ -3,10 +3,10 @@
     "id": "banjorecomp", "name": "Banjo: Recompiled", "game": "Banjo-Kazooie", "shortName": "Banjo-Kazooie",
     "platform": "Nintendo 64", "developer": "BanjoRecomp", "kind": "recomp",
     "description": "Banjo-Kazooie recompiled as a native PC game with widescreen, high frame rates and mod support.",
-    "requirement": "US version", "features": ["widescreen", "high-fps", "mods"],
+    "requirement": "US 1.0 version (not Rev 1)", "features": ["widescreen", "high-fps", "mods"],
     "repositoryUrl": "https://github.com/BanjoRecomp/BanjoRecomp", "colors": ["#d9822b", "#2f7fd1", "#1a0e05"],
     "install": "download", "assets": [{ "pattern": "BanjoRecompiled-*-Windows.zip" }],
-    "roms": [{ "label": "US", "sha1": "1fe1632098865f639e22c11b9a81ee8f29c75d7a", "sizeBytes": 16777216 }],
+    "roms": [{ "label": "US 1.0", "sha1": "1fe1632098865f639e22c11b9a81ee8f29c75d7a", "sizeBytes": 16777216 }],
     "romFile": "bk.n64.us.1.0.z64", "saves": "saves", "modsFolder": "mods", "portableFile": "portable.txt", "modOrderFile": "mods.json",
     "keep": ["general.json", "graphics.json", "controls.json", "sound.json", "mods.json", "mod_config", "mod_data"],
     "defaultFiles": [
