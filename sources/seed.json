@@ -85,7 +85,8 @@
     "requirement": "US version", "features": ["online", "mods", "widescreen"],
     "repositoryUrl": "https://github.com/coop-deluxe/sm64coopdx", "colors": ["#e8452c", "#3bb0e8", "#1a0a07"],
     "install": "download", "assets": [{ "pattern": "sm64coopdx_Windows.zip" }],
-    "roms": [{ "label": "US", "sha1": "9bef1128717f958171a4afac3ed78ee2bb4e86ce", "sizeBytes": 8388608 }]
+    "roms": [{ "label": "US", "sha1": "9bef1128717f958171a4afac3ed78ee2bb4e86ce", "sizeBytes": 8388608 }],
+    "romFile": "baserom.us.z64"
   },
   {
     "id": "perfect-dark", "name": "Perfect Dark", "game": "Perfect Dark", "shortName": "Perfect Dark",
