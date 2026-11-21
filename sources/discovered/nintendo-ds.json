@@ -1,0 +1,1104 @@
+[
+  {
+    "id": "asphalt-urban-gt-2-recomp",
+    "name": "Asphalt Urban GT 2 Recomp",
+    "game": "Asphalt: Urban GT 2",
+    "shortName": "Asphalt: Urban GT 2",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "samsixx6",
+    "kind": "port",
+    "description": "Asphalt: Urban GT 2 ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/samsixx6/Asphalt-Urban-GT-2-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Asphalt-Urban-GT-2-v*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "digimon-super-xros-wars-recomp",
+    "name": "Digimon Super Xros Wars Recomp",
+    "game": "Digimon Story: Super Xros Wars Red",
+    "shortName": "Digimon Story: Super Xros Wars Red",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "aoxzh",
+    "kind": "port",
+    "description": "Digimon Story: Super Xros Wars Red ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/aoxzh/digimon-super-xros-wars-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DigimonSuperXrosWarsRecomp-win64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dq9-remastered",
+    "name": "DQ9 Decomp",
+    "game": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "shortName": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "dq9-remastered",
+    "kind": "port",
+    "description": "Dragon Quest IX: Sentinels of the Starry Skies ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/dq9-remastered/DQ9-Remastered",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "dq9-decomp-windows-kit-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dq9recomp-releases",
+    "name": "DQ9 Recomp",
+    "game": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "shortName": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "Ajustor",
+    "kind": "port",
+    "description": "Dragon Quest IX: Sentinels of the Starry Skies ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Ajustor/dq9Recomp-releases",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "dq9recomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dq9recompiled",
+    "name": "DQ9Recompiled",
+    "game": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "shortName": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "birabittoh",
+    "kind": "port",
+    "description": "Dragon Quest IX: Sentinels of the Starry Skies ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/birabittoh/DQ9Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DQ9Recompiled-*-win-amd64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dragon-quest-ix-modern",
+    "name": "Dragon Quest IX Modern",
+    "game": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "shortName": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "romusan495",
+    "kind": "port",
+    "description": "Dragon Quest IX: Sentinels of the Starry Skies ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/romusan495/Dragon-Quest-IX-Modern",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Dragon-Quest-IX-Modern-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ds-kart-recompiled",
+    "name": "DS Kart Recompiled",
+    "game": "Mario Kart DS",
+    "shortName": "Mario Kart DS",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "AlonsoTlol",
+    "kind": "recomp",
+    "description": "Mario Kart DS recompiled from the DS version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/AlonsoTlol/DS-Kart-Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DS-Kart-Recompiled-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ebaouendan-musiclives",
+    "name": "Elite Beat Ouendan: Music LIVES!",
+    "game": "Elite Beat Agents",
+    "shortName": "Elite Beat Agents",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "BehonArt",
+    "kind": "port",
+    "description": "Elite Beat Agents ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/BehonArt/ebaouendan_musiclives",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "eba-recomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "egg-of-time",
+    "name": "Egg of Time",
+    "game": "Chrono Trigger",
+    "shortName": "Chrono Trigger",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "power-pudu",
+    "kind": "recomp",
+    "description": "Chrono Trigger recompiled from the DS version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/power-pudu/egg-of-time",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "EggOfTime-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "eidos",
+    "name": "Eidos",
+    "game": "Pokemon Black / Pokemon White",
+    "shortName": "Pokemon Black / Pokemon White",
+    "platform": "Nintendo DS",
+    "aliases": [
+      "Pokémon Black Version"
+    ],
+    "developer": "Project-Holon",
+    "kind": "decomp",
+    "description": "Pokemon Black / Pokemon White running natively on PC, built from the decompiled DS game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Project-Holon/eidos",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "eidos-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ffcceot-recomp",
+    "name": "FFCCEOT Recomp",
+    "game": "Final Fantasy Crystal Chronicles: Echoes of Time",
+    "shortName": "Final Fantasy Crystal Chronicles: Echoes of Time",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "JonathanDC64",
+    "kind": "recomp",
+    "description": "Final Fantasy Crystal Chronicles: Echoes of Time recompiled from the DS version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/JonathanDC64/FFCCEOT-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FFCCEOT-Recomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ie3ogre-nds-recomp",
+    "name": "Inazuma Eleven 3: The Ogre Recomp",
+    "game": "Inazuma Eleven 3: Sekai heno Chousen!! The Ogre",
+    "shortName": "Inazuma Eleven 3: Sekai heno Chousen!! The Ogre",
+    "platform": "Nintendo DS",
+    "aliases": [
+      "Inazuma Eleven 3: Team Ogre Attacks!"
+    ],
+    "developer": "matheus2x",
+    "kind": "recomp",
+    "description": "Inazuma Eleven 3: Sekai heno Chousen!! The Ogre recompiled from the DS version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/matheus2x/ie3ogre-nds-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ie3ogre-recomp-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "inazumaelevenrecomp",
+    "name": "InazumaElevenRecomp",
+    "game": "Inazuma Eleven",
+    "shortName": "Inazuma Eleven",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "2002-source",
+    "kind": "port",
+    "description": "Inazuma Eleven ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/2002-source/InazumaElevenRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "InazumaElevenRecomp-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "khdays-port",
+    "name": "KH Days Port",
+    "game": "Kingdom Hearts 358/2 Days",
+    "shortName": "Kingdom Hearts 358/2 Days",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "Yokimitsuro",
+    "kind": "decomp",
+    "description": "Kingdom Hearts 358/2 Days running natively on PC, built from the decompiled DS game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Yokimitsuro/khdays-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "KH-Studio-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "legobattles-pc",
+    "name": "Legobattles Pc",
+    "game": "LEGO Battles",
+    "shortName": "LEGO Battles",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "AgitationSkeleton",
+    "kind": "port",
+    "description": "LEGO Battles ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/AgitationSkeleton/legobattles-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "LegoBattles-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "lsw2ds-pc",
+    "name": "Lsw2ds Pc",
+    "game": "LEGO Star Wars II: The Original Trilogy",
+    "shortName": "LEGO Star Wars II: The Original Trilogy",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "AgitationSkeleton",
+    "kind": "port",
+    "description": "LEGO Star Wars II: The Original Trilogy ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/AgitationSkeleton/lsw2ds-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "LSW2DS-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "magiciansquest-recomp",
+    "name": "Magician's Quest Recomp",
+    "game": "Magician's Quest: Mysterious Times",
+    "shortName": "Magician's Quest: Mysterious Times",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "waifoof",
+    "kind": "port",
+    "description": "Magician's Quest: Mysterious Times ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/waifoof/MagiciansQuest-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MagiciansQuest-Recomp-0.1.0-alpha-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "metroidprimehuntersrecomp",
+    "name": "MetroidPrimeHuntersRecomp",
+    "game": "Metroid Prime Hunters",
+    "shortName": "Metroid Prime Hunters",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Metroid Prime Hunters recompiled from the DS version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mstan/MetroidPrimeHuntersRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MetroidPrimeHuntersRecomp-windows-x64-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mkdsrust",
+    "name": "MKDSrust",
+    "game": "Mario Kart DS",
+    "shortName": "Mario Kart DS",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "CameronStorer",
+    "kind": "port",
+    "description": "Mario Kart DS ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/CameronStorer/MKDSrust",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MKDSrust-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mphread",
+    "name": "MphRead",
+    "game": "Metroid Prime Hunters",
+    "shortName": "Metroid Prime Hunters",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "NoneGiven",
+    "kind": "port",
+    "description": "Metroid Prime Hunters ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/NoneGiven/MphRead",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MphRead-*-win-dbg.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "newm-ds-recomp",
+    "name": "NewM DS Recomp",
+    "game": "New Super Mario Bros.",
+    "shortName": "New Super Mario Bros.",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "guimaraf",
+    "kind": "port",
+    "description": "New Super Mario Bros. ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/guimaraf/newM-DS-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "New-Super-Mario-Bros-DS-Decomp-Windows-x64-no-ROM.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "nsmb-ds-vanillaplus-releases",
+    "name": "NSMB DS Vanilla+",
+    "game": "New Super Mario Bros.",
+    "shortName": "New Super Mario Bros.",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "xcoffeetommyx",
+    "kind": "port",
+    "description": "New Super Mario Bros. ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/xcoffeetommyx/NSMB-DS-VanillaPlus-Releases",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NSMB-VanillaPlus-Offline-Builder.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "nsmb-mariovsluigi",
+    "name": "Mario Vs Luigi Online",
+    "game": "New Super Mario Bros. DS: Mario vs. Luigi",
+    "shortName": "New Super Mario Bros. DS: Mario vs. Luigi",
+    "platform": "Nintendo DS",
+    "aliases": [
+      "New Super Mario Bros. DS: Mario vs. Luigi (Mario Vs Luigi Online)"
+    ],
+    "developer": "ipodtouch0218",
+    "kind": "port",
+    "description": "New Super Mario Bros. DS: Mario vs. Luigi ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ipodtouch0218/NSMB-MarioVsLuigi",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MarioVsLuigi-Win64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "openplatinum",
+    "name": "OpenPlatinum",
+    "game": "Pokemon Platinum",
+    "shortName": "Pokemon Platinum",
+    "platform": "Nintendo DS",
+    "aliases": [
+      "Pokemon Platinum (OpenPlatinum)"
+    ],
+    "developer": "shinzarou-eng",
+    "kind": "port",
+    "description": "Pokemon Platinum ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/shinzarou-eng/OpenPlatinum",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "OpenPlatinum-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "platinum",
+    "name": "Pokémon Platinum (by xgcModding)",
+    "game": "Pokemon Platinum",
+    "shortName": "Pokemon Platinum",
+    "platform": "Nintendo DS",
+    "aliases": [
+      "Pokémon Platinum Version"
+    ],
+    "developer": "xgcModding",
+    "kind": "decomp",
+    "description": "Pokemon Platinum running natively on PC, built from the decompiled DS game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/xgcModding/platinum",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "platinum-windows-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "platinum-3hds",
+    "name": "Platinum3HDS",
+    "game": "Pokemon Platinum",
+    "shortName": "Pokemon Platinum",
+    "platform": "Nintendo DS",
+    "aliases": [
+      "Pokemon Platinum (Platinum3HDS)"
+    ],
+    "developer": "mathibraps",
+    "kind": "port",
+    "description": "Pokemon Platinum ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mathibraps/platinum-3hds",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "platinum3hds-builder-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pmd-sky-recomp",
+    "name": "SkyRecompiled",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "shortName": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "DarthMDev",
+    "kind": "port",
+    "description": "Pokémon Mystery Dungeon: Explorers of Sky ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/DarthMDev/pmd-sky-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SkyRecompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pokemon-fulldex",
+    "name": "Pokemon Fulldex",
+    "game": "Pokemon FireRed",
+    "shortName": "Pokemon FireRed",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "mamesj",
+    "kind": "port",
+    "description": "Pokemon FireRed ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mamesj/pokemon-fulldex",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "pokemon-ds-wide-pc-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pokeplatinum",
+    "name": "Pokémon Platinum PC Port",
+    "game": "Pokemon Platinum",
+    "shortName": "Pokemon Platinum",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "cybervisi0n",
+    "kind": "port",
+    "description": "Pokemon Platinum ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/cybervisi0n/pokeplatinum",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "release_win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sm64ds-coop-port",
+    "name": "SM64DS Co-op Port",
+    "game": "Super Mario 64 DS",
+    "shortName": "Super Mario 64 DS",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "SCOPIC64",
+    "kind": "port",
+    "description": "Super Mario 64 DS ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/SCOPIC64/sm64ds-coop-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SM64DS-COOP-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "starfox-command-native",
+    "name": "Star Fox Command Native",
+    "game": "Star Fox Command",
+    "shortName": "Star Fox Command",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "SerenityG4K",
+    "kind": "port",
+    "description": "Star Fox Command ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/SerenityG4K/starfox-command-native",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "starfox-command-native-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "super-mario-64-ds-enhanced-pc-port",
+    "name": "Super Mario 64 DS Enhanced PC Port",
+    "game": "Super Mario 64 DS",
+    "shortName": "Super Mario 64 DS",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "wigwoo1",
+    "kind": "port",
+    "description": "Super Mario 64 DS ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/wigwoo1/Super-Mario-64-DS-Enhanced-PC-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "sm64ds-native-build-kit-win32-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "supermario64dsrecomp",
+    "name": "Super Mario 64 DS (mstan)",
+    "game": "Super Mario 64 DS",
+    "shortName": "Super Mario 64 DS",
+    "platform": "Nintendo DS",
+    "aliases": [
+      "Super Mario 64 DS (recompilation)"
+    ],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Super Mario 64 DS recompiled from the DS version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/supermario64dsrecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SuperMario64DSRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

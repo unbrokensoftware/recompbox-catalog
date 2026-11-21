@@ -1,0 +1,4325 @@
+[
+  {
+    "id": "1944-the-loop-master-recomp",
+    "name": "1944 The Loop Master Recomp",
+    "game": "1944: The Loop Master",
+    "shortName": "1944: The Loop Master",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "1944: The Loop Master ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/1944-The-Loop-Master-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "1944-The-Loop-Master-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "720-degrees-pc-port",
+    "name": "720 Degrees PC Port",
+    "game": "720 Degrees",
+    "shortName": "720 Degrees",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "PlasticCog",
+    "kind": "port",
+    "description": "720 Degrees ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/PlasticCog/720_Degrees-PC_Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "720degrees-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "afterburner2-recomp",
+    "name": "AfterBurner2 Recomp",
+    "game": "After Burner II",
+    "shortName": "After Burner II",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "duduke",
+    "kind": "port",
+    "description": "After Burner II ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/duduke/AfterBurner2-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "AfterBurner2-*-Windows-x64-*-base-experimental-UNSIGNED.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "alien-vs-predator-arcade-recomp",
+    "name": "Alien vs. Predator Recomp",
+    "game": "Alien vs. Predator",
+    "shortName": "Alien vs. Predator",
+    "platform": "Arcade",
+    "aliases": [
+      "Alien vs. Predator (Alien vs. Predator Recomp)"
+    ],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Alien vs. Predator ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Alien-vs-Predator-arcade-Recomp-",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Alien-vs-Predator-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "almazproud-metal-slug-x-recomp",
+    "name": "Metal Slug X Recomp",
+    "game": "Metal Slug X",
+    "shortName": "Metal Slug X",
+    "platform": "Arcade",
+    "aliases": [
+      "Metal Slug X (metal-slug-x-recomp)"
+    ],
+    "developer": "AlmazProud",
+    "kind": "port",
+    "description": "Metal Slug X ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/AlmazProud/metal-slug-x-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "metal-slug-x-recomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "armored-warriors-recomp",
+    "name": "Armored Warriors Recomp",
+    "game": "Armored Warriors",
+    "shortName": "Armored Warriors",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Armored Warriors ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Armored-Warriors-Recomp-",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Armored-Warriors-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "blazing-star-recomp",
+    "name": "Blazing Star Recomp",
+    "game": "Blazing Star",
+    "shortName": "Blazing Star",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Blazing Star ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Blazing-Star-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BlazingStar-Recomp-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "breakers-recomp",
+    "name": "Breakers Recomp",
+    "game": "Breakers",
+    "shortName": "Breakers",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Breakers ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Breakers-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Breakers-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "cannonball-dx",
+    "name": "CannonBall DX",
+    "game": "OutRun",
+    "shortName": "OutRun",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "Endprodukt",
+    "kind": "port",
+    "description": "OutRun ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Endprodukt/cannonball-dx",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "CannonballDX_*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "carnevil-recomp",
+    "name": "Carnevil Recomp",
+    "game": "CarnEvil",
+    "shortName": "CarnEvil",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "carnevil-recomp",
+    "kind": "port",
+    "description": "CarnEvil ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/carnevil-recomp/carnevil-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "carnevil-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "copernicus",
+    "name": "Copernicus",
+    "game": "The Fairyland Story",
+    "shortName": "The Fairyland Story",
+    "platform": "Arcade",
+    "aliases": [
+      "The Fairyland Story (Copernicus)"
+    ],
+    "developer": "TremiRodomi",
+    "kind": "port",
+    "description": "The Fairyland Story ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/TremiRodomi/Copernicus",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "copernicus-windows-amd64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "cps2recomp",
+    "name": "CPS-2 Recomp",
+    "game": "Super Street Fighter II Turbo; Street Fighter Alpha; Street Fighter Alpha 2; Street Fighter Zero 2 Alpha; Street Fighter",
+    "shortName": "Super Street Fighter II Turbo; Street Fighter Alpha; Street Fighter Alpha 2; Street Fighter Zero 2 Alpha; Street Fighter",
+    "platform": "Arcade",
+    "aliases": [
+      "Super Street Fighter II"
+    ],
+    "developer": "tmcleroy",
+    "kind": "recomp",
+    "description": "Super Street Fighter II Turbo; Street Fighter Alpha; Street Fighter Alpha 2; Street Fighter Zero 2 Alpha; Street Fighter recompiled from the Arcade version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/tmcleroy/cps2recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "CPS2Recomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "cybattler-recomp",
+    "name": "Cybattler Recomp",
+    "game": "Cybattler",
+    "shortName": "Cybattler",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Cybattler ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Cybattler-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Cybattler-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "cyberbots-full-metal-madness-recomp",
+    "name": "Cyberbots Full Metal Madness Recomp",
+    "game": "Cyberbots: Fullmetal Madness",
+    "shortName": "Cyberbots: Fullmetal Madness",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Cyberbots: Fullmetal Madness ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Cyberbots-Full-Metal-Madness-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Cyberbots-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "cyvern-the-dragon-weapons",
+    "name": "Cyvern The Dragon Weapons",
+    "game": "Cyvern: The Dragon Weapons",
+    "shortName": "Cyvern: The Dragon Weapons",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Cyvern: The Dragon Weapons ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/cyvern-the-dragon-weapons",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Cyvern-Windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "darius-gaiden-recomp",
+    "name": "Original, Ver 2.5O",
+    "game": "Darius Gaiden",
+    "shortName": "Darius Gaiden",
+    "platform": "Arcade",
+    "aliases": [
+      "Darius Gaiden (Original, Ver 2.5O)"
+    ],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Darius Gaiden ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Darius-Gaiden-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DariusGaiden-Recomp-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "darkstalkers-recomp",
+    "name": "Darkstalkers Recomp",
+    "game": "Darkstalkers: The Night Warriors",
+    "shortName": "Darkstalkers: The Night Warriors",
+    "platform": "Arcade",
+    "aliases": [
+      "Darkstalkers: The Night Warriors (Darkstalkers Recomp)"
+    ],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Darkstalkers: The Night Warriors ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Darkstalkers-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Darkstalkers-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "decomp-it-up-new-xenesis",
+    "name": "NXReconstructed",
+    "game": "Pump It Up NX",
+    "shortName": "Pump It Up NX",
+    "platform": "Arcade",
+    "aliases": [
+      "Pump It Up NX (NXReconstructed)"
+    ],
+    "developer": "bmbelo87",
+    "kind": "port",
+    "description": "Pump It Up NX ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/bmbelo87/decomp-it-up-New-Xenesis",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Pumpy-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "decomp-it-up-perfect-collection",
+    "name": "Arcade, PIU.EXE 18/12/2000",
+    "game": "Pump It Up",
+    "shortName": "Pump It Up",
+    "platform": "Arcade",
+    "aliases": [
+      "Pump It Up (Arcade, PIU.EXE 18/12/2000)"
+    ],
+    "developer": "bmbelo87",
+    "kind": "port",
+    "description": "Pump It Up ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/bmbelo87/decomp-it-up-Perfect-Collection",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PerfectCollectionArcade-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "decomp-it-up-the-exceed",
+    "name": "ExceedReconstructed",
+    "game": "Pump It Up: Exceed",
+    "shortName": "Pump It Up: Exceed",
+    "platform": "Arcade",
+    "aliases": [
+      "Pump It Up: Exceed (ExceedReconstructed)"
+    ],
+    "developer": "bmbelo87",
+    "kind": "port",
+    "description": "Pump It Up: Exceed ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/bmbelo87/decomp-it-up-the-exceed",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Pumpy-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "decomp-it-up-the-exceed-2",
+    "name": "ExceedReconstructed",
+    "game": "Pump It Up: Exceed",
+    "shortName": "Pump It Up: Exceed",
+    "platform": "Arcade",
+    "aliases": [
+      "Pump It Up: Exceed (ExceedReconstructed)"
+    ],
+    "developer": "bmbelo87",
+    "kind": "port",
+    "description": "Pump It Up: Exceed ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/bmbelo87/decomp-it-up-the-exceed-2",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Exceed2Reconstructed-*-win32.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "decomp-it-up-the-prexurrection-3",
+    "name": "PumpyReconstructed",
+    "game": "Pump It Up: PREX 3",
+    "shortName": "Pump It Up: PREX 3",
+    "platform": "Arcade",
+    "aliases": [
+      "Pump It Up: PREX 3 (PumpyReconstructed)"
+    ],
+    "developer": "bmbelo87",
+    "kind": "port",
+    "description": "Pump It Up: PREX 3 ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/bmbelo87/decomp-it-up-the-prexurrection-3",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PumpyReconstructed-*-win32.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "decomp-it-up-zero",
+    "name": "ZeroReconstructed",
+    "game": "Pump It Up: Zero",
+    "shortName": "Pump It Up: Zero",
+    "platform": "Arcade",
+    "aliases": [
+      "Pump It Up: Zero (ZeroReconstructed)"
+    ],
+    "developer": "bmbelo87",
+    "kind": "port",
+    "description": "Pump It Up: Zero ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/bmbelo87/decomp-it-up-Zero",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "decomp-it-up-Zero-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "digdug-native",
+    "name": "Dig Dug Native Port",
+    "game": "Dig Dug",
+    "shortName": "Dig Dug",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "TekRantGaming",
+    "kind": "port",
+    "description": "Dig Dug ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/TekRantGaming/digdug-native",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DigDug-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dodonpachi-dai-ou-jou-recomp-including-black-label",
+    "name": "DoDonPachi Dai-Ou-Jou Recomp",
+    "game": "DoDonPachi Dai-Ou-Jou",
+    "shortName": "DoDonPachi Dai-Ou-Jou",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "DoDonPachi Dai-Ou-Jou ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/omegakatana92/DoDonPachi-Dai-Ou-Jou-Recomp-including-black-label",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DoDonPachiDaiOuJou-Windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dodonpachi-recomp",
+    "name": "Dodonpachi Recomp",
+    "game": "DoDonPachi",
+    "shortName": "DoDonPachi",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "DoDonPachi ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Dodonpachi-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RetroFrontend-DoDonPachi-win64-experimental.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "donpachi-recomp",
+    "name": "DonPachi Recomp",
+    "game": "DonPachi",
+    "shortName": "DonPachi",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "CapsLock4284",
+    "kind": "recomp",
+    "description": "DonPachi recompiled from the Arcade version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/CapsLock4284/DonPachi-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DonPachi-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dragon-blaze-recomp",
+    "name": "Dragon Blaze Recomp",
+    "game": "Dragon Blaze",
+    "shortName": "Dragon Blaze",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Dragon Blaze ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Dragon-Blaze-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DragonBlaze-Windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dream-raiders-pc",
+    "name": "Dream Raiders Pc",
+    "game": "Dream Raiders",
+    "shortName": "Dream Raiders",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "tijayfly",
+    "kind": "port",
+    "description": "Dream Raiders ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/tijayfly/dream-raiders-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DreamRaiders-PC-Port-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dungeons-and-dragons-shadow-over-mystara-recomp",
+    "name": "Dungeons And Dragons Shadow Over Mystara Recomp",
+    "game": "Dungeons & Dragons: Shadow over Mystara",
+    "shortName": "Dungeons & Dragons: Shadow over Mystara",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Dungeons & Dragons: Shadow over Mystara ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Dungeons-and-Dragons-Shadow-over-Mystara-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Dungeons-and-Dragons-Shadow-over-Mystara-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dungeons-and-dragons-tower-of-doom-recomp",
+    "name": "Dungeons And Dragons Tower Of Doom Recomp",
+    "game": "Dungeons & Dragons: Tower of Doom",
+    "shortName": "Dungeons & Dragons: Tower of Doom",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Dungeons & Dragons: Tower of Doom ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Dungeons-and-Dragons-Tower-of-Doom-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Dungeons-and-Dragons-Tower-of-Doom-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "emergency-call-ambulance-recomp",
+    "name": "Emergency Call Ambulance Recomp",
+    "game": "Emergency Call Ambulance",
+    "shortName": "Emergency Call Ambulance",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "thefixinhixon",
+    "kind": "port",
+    "description": "Emergency Call Ambulance ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/thefixinhixon/emergency-call-ambulance-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "eca-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "esprade-recomp",
+    "name": "Esprade Recomp",
+    "game": "ESP Ra.De.",
+    "shortName": "ESP Ra.De.",
+    "platform": "Arcade",
+    "aliases": [
+      "ESP Ra.De. (Esprade-recomp)"
+    ],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "ESP Ra.De. ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Esprade-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ESPRaDe-RetroFront-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "fatal-fury-3-recomp",
+    "name": "Recomp",
+    "game": "Fatal Fury 3: Road to the Final Victory",
+    "shortName": "Fatal Fury 3: Road to the Final Victory",
+    "platform": "Arcade",
+    "aliases": [
+      "Fatal Fury 3: Road to the Final Victory (Recomp)"
+    ],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Fatal Fury 3: Road to the Final Victory ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Fatal-Fury-3-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Fatal.Fury.3-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "garou-mark-of-the-wolves-recomp",
+    "name": "Garou Mark Of The Wolves Recomp",
+    "game": "Garou: Mark of the Wolves",
+    "shortName": "Garou: Mark of the Wolves",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Garou: Mark of the Wolves ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Garou-Mark-of-the-Wolves-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Garou-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gigawing-recomp",
+    "name": "Gigawing Recomp",
+    "game": "Giga Wing",
+    "shortName": "Giga Wing",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Giga Wing ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Gigawing-Recomp-",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Gigawing-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "golden-axe-the-revenge-of-death-adder-recomp",
+    "name": "Golden Axe The Revenge Of Death Adder Recomp",
+    "game": "Golden Axe: The Revenge of Death Adder",
+    "shortName": "Golden Axe: The Revenge of Death Adder",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Golden Axe: The Revenge of Death Adder ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/golden-axe-the-revenge-of-death-adder-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GoldenAxe2-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "guardians-denjin-makai-ii-recomp",
+    "name": "Denjin Makai II",
+    "game": "Guardians",
+    "shortName": "Guardians",
+    "platform": "Arcade",
+    "aliases": [
+      "Guardians (Denjin Makai II)"
+    ],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Guardians ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Guardians-Denjin-Makai-II-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Guardians-Windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gunblade-ny-mame-pcvr",
+    "name": "Gunblade Ny Mame Pcvr",
+    "game": "Gunblade NY",
+    "shortName": "Gunblade NY",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "headsplosion",
+    "kind": "port",
+    "description": "Gunblade NY ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/headsplosion/gunblade-ny-mame-pcvr",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GunbladeVR-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gunlock-rayforce-recomp",
+    "name": "Gunlock",
+    "game": "RayForce",
+    "shortName": "RayForce",
+    "platform": "Arcade",
+    "aliases": [
+      "RayForce (Gunlock)"
+    ],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "RayForce ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Gunlock-Rayforce-Recomp-",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Gunlock-Recomp-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hiraku",
+    "name": "HIRAKU",
+    "game": "Konami BEMANI Arcade Games",
+    "shortName": "Konami BEMANI Arcade Games",
+    "platform": "Arcade",
+    "aliases": [
+      "Konami BEMANI Arcade Games (HIRAKU)"
+    ],
+    "developer": "Roganis",
+    "kind": "port",
+    "description": "Konami BEMANI Arcade Games ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Roganis/HIRAKU",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "hiraku-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hotd4-recomp",
+    "name": "HOTD4 Recomp",
+    "game": "The House of the Dead 4",
+    "shortName": "The House of the Dead 4",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "davidptrssvea",
+    "kind": "port",
+    "description": "The House of the Dead 4 ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/davidptrssvea/HOTD4-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "HOTD4-Local-Builder-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "house-of-the-dead-vr",
+    "name": "House Of The Dead Vr",
+    "game": "The House of the Dead",
+    "shortName": "The House of the Dead",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "MrSco",
+    "kind": "port",
+    "description": "The House of the Dead ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/MrSco/house-of-the-dead-vr",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "house-of-the-dead-vr-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hydrothunderonline",
+    "name": "Hydro Thunder (LANCommander)",
+    "game": "Hydro Thunder",
+    "shortName": "Hydro Thunder",
+    "platform": "Arcade",
+    "aliases": [
+      "Hydro Thunder (LANCommander)"
+    ],
+    "developer": "LANCommander",
+    "kind": "port",
+    "description": "Hydro Thunder ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/LANCommander/HydroThunderOnline",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "HydroThunder-*-windows-x86.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hyper-street-fighter-ii-recomp",
+    "name": "Hyper Street Fighter II Recomp",
+    "game": "Hyper Street Fighter II: The Anniversary Edition",
+    "shortName": "Hyper Street Fighter II: The Anniversary Edition",
+    "platform": "Arcade",
+    "aliases": [
+      "Hyper Street Fighter II: The Anniversary Edition (Hyper Street Fighter II Recomp)"
+    ],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Hyper Street Fighter II: The Anniversary Edition ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Hyper-Street-Fighter-II-Recomp-",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Hyper-Street-Fighter-II-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "initial-d-arcade-stage-3-native-sh-4-recompilation-wip",
+    "name": "Initial D Arcade Stage 3 Recompiled",
+    "game": "Initial D Arcade Stage 3",
+    "shortName": "Initial D Arcade Stage 3",
+    "platform": "Arcade",
+    "aliases": [
+      "Initial D Arcade Stage Ver. 3"
+    ],
+    "developer": "distilledorion-sketch",
+    "kind": "recomp",
+    "description": "Initial D Arcade Stage 3 recompiled from the Arcade version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/distilledorion-sketch/Initial-D-Arcade-Stage-3-Native-SH-4-Recompilation-WIP-",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Initial.D.Arcade.Stage.3.Recompiled.v2489.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "inthehunt",
+    "name": "In the Hunt",
+    "game": "In the Hunt",
+    "shortName": "In the Hunt",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "meathax",
+    "kind": "port",
+    "description": "In the Hunt ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/meathax/inthehunt",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "InTheHunt-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ironclad-recomp",
+    "name": "Ironclad Recomp",
+    "game": "Iron Clad",
+    "shortName": "Iron Clad",
+    "platform": "Arcade",
+    "aliases": [
+      "Iron Clad (Ironclad-Recomp)"
+    ],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Iron Clad ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Ironclad-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Ironclad-Recomp-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "kaizer-knuckle-recomp",
+    "name": "Kaizer Knuckle Recomp",
+    "game": "Kaiser Knuckle",
+    "shortName": "Kaiser Knuckle",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Kaiser Knuckle ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Kaizer-Knuckle-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "KaiserKnuckle-Windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ketsui-recomp",
+    "name": "Ketsui Recomp",
+    "game": "Ketsui: Kizuna Jigoku Tachi",
+    "shortName": "Ketsui: Kizuna Jigoku Tachi",
+    "platform": "Arcade",
+    "aliases": [
+      "Ketsui: Kizuna Jigoku Tachi (Ketsui Recomp)"
+    ],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Ketsui: Kizuna Jigoku Tachi ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Ketsui-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "KetsuiRecomp-Windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "konami-viper-recomp",
+    "name": "Konami Viper Recomp",
+    "game": "Thrill Drive 2 and GTI Club: Corso Italiano",
+    "shortName": "Thrill Drive 2 and GTI Club: Corso Italiano",
+    "platform": "Arcade",
+    "aliases": [
+      "Thrill Drive 2"
+    ],
+    "developer": "spita90",
+    "kind": "recomp",
+    "description": "Thrill Drive 2 and GTI Club: Corso Italiano recompiled from the Arcade version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/spita90/konami-viper-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "konami-viper-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "likethewind",
+    "name": "LikeTheWind",
+    "game": "Power Drift",
+    "shortName": "Power Drift",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "hojoworks",
+    "kind": "port",
+    "description": "Power Drift ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/hojoworks/likethewind",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "LikeTheWind-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "lily",
+    "name": "Lily",
+    "game": "WACCA Reverse",
+    "shortName": "WACCA Reverse",
+    "platform": "Arcade",
+    "aliases": [
+      "WACCA Reverse (Lily)"
+    ],
+    "developer": "Decycle",
+    "kind": "port",
+    "description": "WACCA Reverse ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Decycle/Lily",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Lily-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "loht-recomp",
+    "name": "LOHT Recomp",
+    "game": "Legend of Hero Tonma",
+    "shortName": "Legend of Hero Tonma",
+    "platform": "Arcade",
+    "aliases": [
+      "Legend of Hero Tonma (LOHT Recomp)"
+    ],
+    "developer": "Syncr0ndi",
+    "kind": "port",
+    "description": "Legend of Hero Tonma ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Syncr0ndi/LOHT-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "LOHT-Recomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "makaimura-recomp",
+    "name": "Makaimura Recomp",
+    "game": "Makaimura (Ghosts'n Goblins) Recomp",
+    "shortName": "Makaimura (Ghosts'n Goblins) Recomp",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "alexgbor",
+    "kind": "port",
+    "description": "Makaimura (Ghosts'n Goblins) Recomp ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/alexgbor/Makaimura-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Makaimura-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "marbleknightsrecompiled",
+    "name": "Marble Knights Recompiled",
+    "game": "Marble Knights",
+    "shortName": "Marble Knights",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "YuutaTsubasa",
+    "kind": "port",
+    "description": "Marble Knights ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/YuutaTsubasa/MarbleKnightsRecompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MarbleKnightsRecompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "marvel-super-heroes-recomp",
+    "name": "Marvel Super Heroes Recomp",
+    "game": "Marvel Super Heroes",
+    "shortName": "Marvel Super Heroes",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Marvel Super Heroes ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Marvel-Super-Heroes-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Marvel-Super-Heroes-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "marvel-super-heroes-vs-street-fighter-recomp",
+    "name": "Marvel Super Heroes Vs Street Fighter Recomp",
+    "game": "Marvel Super Heroes vs. Street Fighter",
+    "shortName": "Marvel Super Heroes vs. Street Fighter",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Marvel Super Heroes vs. Street Fighter ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Marvel-Super-Heroes-vs-Street-Fighter-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Marvel-Super-Heroes-vs-Street-Fighter-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "marvel-vs-capcom-clash-of-super-heroes-recomp",
+    "name": "Marvel Vs Capcom Clash Of Super Heroes Recomp",
+    "game": "Marvel vs. Capcom: Clash of Super Heroes",
+    "shortName": "Marvel vs. Capcom: Clash of Super Heroes",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Marvel vs. Capcom: Clash of Super Heroes ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Marvel-vs-Capcom-Clash-of-Super-Heroes-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Marvel-vs-Capcom-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mega-man-the-power-fighters-recomp",
+    "name": "Recomp",
+    "game": "Mega Man 2: The Power Fighters",
+    "shortName": "Mega Man 2: The Power Fighters",
+    "platform": "Arcade",
+    "aliases": [
+      "Mega Man 2: The Power Fighters (Recomp)"
+    ],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Mega Man 2: The Power Fighters ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Mega-Man-The-Power-Fighters-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Mega-Man-2-The-Power-Fighters-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "metal-slug-3-recomp",
+    "name": "Metal Slug 3 Recomp",
+    "game": "Metal Slug 3",
+    "shortName": "Metal Slug 3",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "AlmazProud",
+    "kind": "port",
+    "description": "Metal Slug 3 ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/AlmazProud/metal-slug-3-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "metal-slug-3-recomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "metal-slug-4-recomp",
+    "name": "Metal Slug 4 Recomp",
+    "game": "Metal Slug 4",
+    "shortName": "Metal Slug 4",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "AlmazProud",
+    "kind": "port",
+    "description": "Metal Slug 4 ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/AlmazProud/metal-slug-4-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "metal-slug-4-recomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "metal-slug-5-recomp",
+    "name": "Metal Slug 5 Recomp",
+    "game": "Metal Slug 5",
+    "shortName": "Metal Slug 5",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "AlmazProud",
+    "kind": "port",
+    "description": "Metal Slug 5 ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/AlmazProud/metal-slug-5-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "metal-slug-5-recomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mortalkombat-recomp",
+    "name": "Mortal Kombat Recomp",
+    "game": "Mortal Kombat, Mortal Kombat II, Mortal Kombat 3 and Ultimate Mortal Kombat 3",
+    "shortName": "Mortal Kombat, Mortal Kombat II, Mortal Kombat 3 and Ultimate Mortal Kombat 3",
+    "platform": "Arcade",
+    "aliases": [
+      "Mortal Kombat, Mortal Kombat II, Mortal Kombat 3 and Ultimate Mortal Kombat 3 (arcade)"
+    ],
+    "developer": "PocketLucho",
+    "kind": "port",
+    "description": "Mortal Kombat, Mortal Kombat II, Mortal Kombat 3 and Ultimate Mortal Kombat 3 ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/PocketLucho/MORTALKOMBAT-RECOMP",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MKRecomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mvc2-naomi-dc",
+    "name": "Mvc2 Naomi Dc",
+    "game": "Marvel vs. Capcom 2",
+    "shortName": "Marvel vs. Capcom 2",
+    "platform": "Arcade",
+    "aliases": [
+      "Marvel vs. Capcom 2 (mvc2-naomi-dc)"
+    ],
+    "developer": "gibletto",
+    "kind": "port",
+    "description": "Marvel vs. Capcom 2 ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/gibletto/mvc2-naomi-dc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "mvc2-windows-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "namco22-decompile",
+    "name": "Namco 22 Decompile",
+    "game": "Namco 2x Systems",
+    "shortName": "Namco 2x Systems",
+    "platform": "Arcade",
+    "aliases": [
+      "Namco System 22"
+    ],
+    "developer": "spacestate1",
+    "kind": "port",
+    "description": "Namco 2x Systems ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/spacestate1/namco22-decompile",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "windows-release-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "nba-jam-recompiled",
+    "name": "NBA JAM Recomp",
+    "game": "NBA Jam Tournament Edition",
+    "shortName": "NBA Jam Tournament Edition",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "PocketLucho",
+    "kind": "port",
+    "description": "NBA Jam Tournament Edition ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/PocketLucho/NBA-JAM---Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NBAJamRecomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "neodriftenhanced",
+    "name": "Neo Drift Out Enhanced",
+    "game": "Neo Drift Out: New Technology",
+    "shortName": "Neo Drift Out: New Technology",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "Pigmassacre",
+    "kind": "port",
+    "description": "Neo Drift Out: New Technology ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Pigmassacre/neodriftenhanced",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NeoDriftOutEnhanced-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "night-slashers-recomp",
+    "name": "Night Slashers Recomp",
+    "game": "Night Slashers",
+    "shortName": "Night Slashers",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Night Slashers ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Night-Slashers-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NightSlashers-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ninja-masters-recomp",
+    "name": "Recomp",
+    "game": "Ninja Master's: Haoh-Ninpo-Cho",
+    "shortName": "Ninja Master's: Haoh-Ninpo-Cho",
+    "platform": "Arcade",
+    "aliases": [
+      "Ninja Master's: Haoh-Ninpo-Cho (Recomp)"
+    ],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Ninja Master's: Haoh-Ninpo-Cho ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Ninja-Masters-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Ninjamasters-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "omegakatana92-metal-slug-5-recomp",
+    "name": "Metal Slug 5 Recomp",
+    "game": "Metal Slug 5",
+    "shortName": "Metal Slug 5",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Metal Slug 5 ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Metal-Slug-5-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Metal.Slug.5-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "omegakatana92-metal-slug-x-recomp",
+    "name": "Metal Slug X Recomp",
+    "game": "Metal Slug X",
+    "shortName": "Metal Slug X",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Metal Slug X ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Metal-Slug-X-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Metal_Slug_X-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "opengp",
+    "name": "OpenGP",
+    "game": "Mario Kart Arcade GP",
+    "shortName": "Mario Kart Arcade GP",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "OpenGP-dev",
+    "kind": "recomp",
+    "description": "Mario Kart Arcade GP recompiled from the Arcade version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/OpenGP-dev/OpenGP",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "OpenGP-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "oratan-recomp",
+    "name": "Oratan Recomp",
+    "game": "Cyber Troopers Virtual-On Oratorio Tangram",
+    "shortName": "Cyber Troopers Virtual-On Oratorio Tangram",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "kitaaaaaa",
+    "kind": "port",
+    "description": "Cyber Troopers Virtual-On Oratorio Tangram ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/kitaaaaaa/Oratan-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Oratan-recomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "outrunners-port",
+    "name": "OutRunners Port",
+    "game": "OutRunners",
+    "shortName": "OutRunners",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "cheviman",
+    "kind": "decomp",
+    "description": "OutRunners running natively on PC, built from the decompiled Arcade game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/cheviman/outrunners-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "outrunners-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "power-instinct-matrimelee-recomp",
+    "name": "Power Instinct Matrimelee Recomp",
+    "game": "Power Instinct Matrimelee",
+    "shortName": "Power Instinct Matrimelee",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Power Instinct Matrimelee ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/-Power-Instinct-Matrimelee-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Matrimelee-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "progear-recomp",
+    "name": "Progear Recomp",
+    "game": "Progear",
+    "shortName": "Progear",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Progear ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Progear-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Progear-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rage-of-the-dragons-recomp",
+    "name": "Rage Of The Dragons Recomp",
+    "game": "Rage of the Dragons",
+    "shortName": "Rage of the Dragons",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Rage of the Dragons ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Rage-of-the-Dragons-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ROTD-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "real-bout-fatal-fury-2-the-newcomers-recomp",
+    "name": "Real Bout Fatal Fury 2 The Newcomers Recomp",
+    "game": "Real Bout Fatal Fury 2: The Newcomers",
+    "shortName": "Real Bout Fatal Fury 2: The Newcomers",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Real Bout Fatal Fury 2: The Newcomers ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Real-Bout-Fatal-Fury-2-The-Newcomers-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RBFF2-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "real-bout-fatal-fury-recomp",
+    "name": "Real Bout Fatal Fury Recomp",
+    "game": "Real Bout Fatal Fury",
+    "shortName": "Real Bout Fatal Fury",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Real Bout Fatal Fury ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Real-Bout-Fatal-Fury-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RBFF1-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "reburiki",
+    "name": "ReBuriki",
+    "game": "Buriki One",
+    "shortName": "Buriki One",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "QuietClubGames",
+    "kind": "port",
+    "description": "Buriki One ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/QuietClubGames/ReBuriki",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ReBuriki-Setup.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "relayer",
+    "name": "ReLayer",
+    "game": "Fighting Layer",
+    "shortName": "Fighting Layer",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "QuietClubGames",
+    "kind": "port",
+    "description": "Fighting Layer ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/QuietClubGames/ReLayer",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ReLayer-Setup.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "samurai-shodown-ii-recomp",
+    "name": "Samurai Shodown II Recomp",
+    "game": "Samurai Shodown II",
+    "shortName": "Samurai Shodown II",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Samurai Shodown II ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Samurai-Shodown-II-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Samsho2-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "samurai-shodown-recomp",
+    "name": "Samurai Shodown Recomp",
+    "game": "Samurai Shodown",
+    "shortName": "Samurai Shodown",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Samurai Shodown ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Samurai-Shodown-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Samsho-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "samurai-shodown-v-perfect-recomp",
+    "name": "Samurai Shodown V Perfect Recomp",
+    "game": "Samurai Shodown V Perfect",
+    "shortName": "Samurai Shodown V Perfect",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Samurai Shodown V Perfect ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Samurai-Shodown-V-Perfect-Recomp-",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Samsh5pf-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "scud-race",
+    "name": "Scud Race",
+    "game": "Scud Race",
+    "shortName": "Scud Race",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "wanszai",
+    "kind": "decomp",
+    "description": "Scud Race running natively on PC, built from the decompiled Arcade game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/wanszai/Scud-Race",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ScudRace-PC.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sega-rally-championship-pc-xbox360-series-x",
+    "name": "Emulation Wrapper",
+    "game": "Sega Rally Championship",
+    "shortName": "Sega Rally Championship",
+    "platform": "Arcade",
+    "aliases": [
+      "Sega Rally Championship (Emulation Wrapper)"
+    ],
+    "developer": "wanszai",
+    "kind": "port",
+    "description": "Sega Rally Championship ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/wanszai/Sega-Rally-Championship-PC-Xbox360-Series-X-",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PC-SegaRally*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sega-rally-recomp",
+    "name": "Sega Rally Recomp",
+    "game": "Sega Rally Championship",
+    "shortName": "Sega Rally Championship",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "LaurentGarcia",
+    "kind": "port",
+    "description": "Sega Rally Championship ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/LaurentGarcia/sega-rally-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Sega-Rally-Native-Windows-x86_64-import.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "segasonic-port",
+    "name": "SegaSonic the Hedgehog: Native Port",
+    "game": "SegaSonic the Hedgehog",
+    "shortName": "SegaSonic the Hedgehog",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "cheviman",
+    "kind": "decomp",
+    "description": "SegaSonic the Hedgehog running natively on PC, built from the decompiled Arcade game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/cheviman/segasonic-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "segasonic-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "senjin-recomped",
+    "name": "Senjin Recomped",
+    "game": "Senjin Aleste",
+    "shortName": "Senjin Aleste",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "kazuyette",
+    "kind": "port",
+    "description": "Senjin Aleste ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/kazuyette/senjin-recomped",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "senjin-aleste-windows-tools-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sf3comp",
+    "name": "sf3comp",
+    "game": "Street Fighter III",
+    "shortName": "Street Fighter III",
+    "platform": "Arcade",
+    "aliases": [
+      "Street Fighter III (SF3comp)",
+      "Street Fighter III: 3rd Strike"
+    ],
+    "developer": "tmcleroy",
+    "kind": "port",
+    "description": "Street Fighter III ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/tmcleroy/sf3comp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SF3comp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sfa2-recomp",
+    "name": "Sfa2 Recomp",
+    "game": "Street Fighter Alpha 2",
+    "shortName": "Street Fighter Alpha 2",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "tmcleroy",
+    "kind": "port",
+    "description": "Street Fighter Alpha 2 ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/tmcleroy/sfa2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "StreetFighterAlpha2-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sfiii-cps3-port",
+    "name": "SfIII Cps3 Port",
+    "game": "Street Fighter III: New Generation",
+    "shortName": "Street Fighter III: New Generation",
+    "platform": "Arcade",
+    "aliases": [
+      "Street Fighter III: New Generation (sfiii-cps3-port)"
+    ],
+    "developer": "gibletto",
+    "kind": "port",
+    "description": "Street Fighter III: New Generation ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/gibletto/sfIII-cps3-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "sfiii-windows-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sfiii2-cps3-port",
+    "name": "SfIII2 Cps3 Port",
+    "game": "Street Fighter III 2nd Impact: Giant Attack",
+    "shortName": "Street Fighter III 2nd Impact: Giant Attack",
+    "platform": "Arcade",
+    "aliases": [
+      "Street Fighter III 2nd Impact: Giant Attack (sfiii2-cps3-port)"
+    ],
+    "developer": "gibletto",
+    "kind": "port",
+    "description": "Street Fighter III 2nd Impact: Giant Attack ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/gibletto/sfIII2-cps3-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "sfiii2-windows-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sfiii3-cps3-port",
+    "name": "Sfiii3 Cps3 Port",
+    "game": "Street Fighter III 3rd Strike: Fight for the Future",
+    "shortName": "Street Fighter III 3rd Strike: Fight for the Future",
+    "platform": "Arcade",
+    "aliases": [
+      "Street Fighter III 3rd Strike: Fight for the Future (sfiii3-cps3-port)"
+    ],
+    "developer": "gibletto",
+    "kind": "port",
+    "description": "Street Fighter III 3rd Strike: Fight for the Future ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/gibletto/sfiii3-cps3-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "sfiii3-windows-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sfz2al-windows",
+    "name": "Sfz2al Windows",
+    "game": "Street Fighter Zero 2 Alpha",
+    "shortName": "Street Fighter Zero 2 Alpha",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "argeujulio-ship-it",
+    "kind": "port",
+    "description": "Street Fighter Zero 2 Alpha ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/argeujulio-ship-it/sfz2al-windows",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SFZ2AL-Windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "simpsons-port",
+    "name": "The Simpsons - Arcade",
+    "game": "The Simpsons",
+    "shortName": "The Simpsons",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "cheviman",
+    "kind": "port",
+    "description": "The Simpsons ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/cheviman/simpsons-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "simpsons-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "slipstream-recomp",
+    "name": "Slipstream Recomp",
+    "game": "Slip Stream",
+    "shortName": "Slip Stream",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Slip Stream ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Slipstream-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SlipStream-Windows-x64-Dev.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "spider-man-the-arcade-game",
+    "name": "Spider Man The Arcade Game",
+    "game": "Spider-Man: The Videogame",
+    "shortName": "Spider-Man: The Videogame",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Spider-Man: The Videogame ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Spider-man-the-Arcade-Game",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SpiderMan-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "spikeout-recomp",
+    "name": "SpikeOut Recomp",
+    "game": "SpikeOut: Final Edition",
+    "shortName": "SpikeOut: Final Edition",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "tastyrepublic",
+    "kind": "port",
+    "description": "SpikeOut: Final Edition ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/tastyrepublic/spikeout-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "spikeout-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "street-fighter-2-recomp",
+    "name": "Native CPS-1 Port",
+    "game": "Street Fighter II",
+    "shortName": "Street Fighter II",
+    "platform": "Arcade",
+    "aliases": [
+      "Street Fighter II (Native CPS-1 Port)"
+    ],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Street Fighter II ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Street-Fighter-2-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "StreetFighterII-Windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "street-fighter-alpha-recomp",
+    "name": "Street Fighter Alpha Recomp",
+    "game": "Street Fighter Alpha: Warriors' Dreams",
+    "shortName": "Street Fighter Alpha: Warriors' Dreams",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Street Fighter Alpha: Warriors' Dreams ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Street-Fighter-Alpha-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "super-street-fighter-ii-the-new-challengers-recomp",
+    "name": "Super Street Fighter II The New Challengers Recomp",
+    "game": "Super Street Fighter II: The New Challengers",
+    "shortName": "Super Street Fighter II: The New Challengers",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Super Street Fighter II: The New Challengers ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Super-Street-Fighter-II-The-New-Challengers-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Super-Street-Fighter-II-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tecmo-world-cup-recomp-98",
+    "name": "World Soccer '98",
+    "game": "Tecmo World Cup '98",
+    "shortName": "Tecmo World Cup '98",
+    "platform": "Arcade",
+    "aliases": [
+      "Tecmo World Cup '98 (World Soccer '98)"
+    ],
+    "developer": "mapacheopi-blip",
+    "kind": "port",
+    "description": "Tecmo World Cup '98 ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mapacheopi-blip/tecmo-world-cup-recomp-98",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TECMO-WORLD-CUP-RECOMP-98-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "the-king-of-fighters-2000-recomp",
+    "name": "The King Of Fighters 2000 Recomp",
+    "game": "The King of Fighters 2000",
+    "shortName": "The King of Fighters 2000",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "The King of Fighters 2000 ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/The-King-of-Fighters-2000-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "KOF2000-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "the-king-of-fighters-2003",
+    "name": "Recomp",
+    "game": "The King of Fighters 2003",
+    "shortName": "The King of Fighters 2003",
+    "platform": "Arcade",
+    "aliases": [
+      "The King of Fighters 2003 (Recomp)"
+    ],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "The King of Fighters 2003 ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/The-King-of-Fighters-2003",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "KOF.2003-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "the-king-of-fighters-96-recomp",
+    "name": "The King Of Fighters 96 Recomp",
+    "game": "The King of Fighters '96",
+    "shortName": "The King of Fighters '96",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "The King of Fighters '96 ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/The-King-of-Fighters-96-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "kof.96-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "the-king-of-fighters-97-recomp",
+    "name": "The King Of Fighters 97 Recomp",
+    "game": "The King of Fighters '97",
+    "shortName": "The King of Fighters '97",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "The King of Fighters '97 ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/The-King-of-Fighters-97-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "The-King-of-Fighters-97-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "the-king-of-fighters-98-recomp",
+    "name": "KOF98 Recomp",
+    "game": "The King of Fighters '98",
+    "shortName": "The King of Fighters '98",
+    "platform": "Arcade",
+    "aliases": [
+      "The King of Fighters '98 (KOF98 Recomp)"
+    ],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "The King of Fighters '98 ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/The-King-of-Fighters-98-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "KOF98-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "the-king-of-fighters-99-recomp",
+    "name": "The King Of Fighters 99 Recomp",
+    "game": "The King of Fighters '99: Millennium Battle",
+    "shortName": "The King of Fighters '99: Millennium Battle",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "The King of Fighters '99: Millennium Battle ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/The-King-of-Fighters-99-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "KOF-99-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "the-last-blade-2-recomp",
+    "name": "The Last Blade 2 Recomp",
+    "game": "The Last Blade 2",
+    "shortName": "The Last Blade 2",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "The Last Blade 2 ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/The-Last-Blade-2-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Last-Blade-2-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "the-last-blade-recomp",
+    "name": "The Last Blade Recomp",
+    "game": "The Last Blade",
+    "shortName": "The Last Blade",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "The Last Blade ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/The-Last-Blade-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TheLastBlade-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "time-crisis-2-vr",
+    "name": "VR",
+    "game": "Time Crisis II",
+    "shortName": "Time Crisis II",
+    "platform": "Arcade",
+    "aliases": [
+      "Time Crisis II (VR)"
+    ],
+    "developer": "DR-89",
+    "kind": "port",
+    "description": "Time Crisis II ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/DR-89/time-crisis-2-vr",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TimeCrisis2VR-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "time-crisis-vr",
+    "name": "Time Crisis Vr",
+    "game": "Time Crisis",
+    "shortName": "Time Crisis",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "DR-89",
+    "kind": "port",
+    "description": "Time Crisis ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/DR-89/time-crisis-vr",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TimeCrisisVR-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tmnt-port",
+    "name": "Tmnt Port",
+    "game": "Teenage Mutant Ninja Turtles",
+    "shortName": "Teenage Mutant Ninja Turtles",
+    "platform": "Arcade",
+    "aliases": [
+      "Teenage Mutant Ninja Turtles 1989"
+    ],
+    "developer": "cheviman",
+    "kind": "port",
+    "description": "Teenage Mutant Ninja Turtles ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/cheviman/tmnt-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "tmnt-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "triunit-recomp",
+    "name": "TriUnit Recomp",
+    "game": "Mortal Kombat, Mortal Kombat II, Mortal Kombat 3",
+    "shortName": "Mortal Kombat, Mortal Kombat II, Mortal Kombat 3",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "macielrecomp",
+    "kind": "port",
+    "description": "Mortal Kombat, Mortal Kombat II, Mortal Kombat 3 ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/macielrecomp/triunit-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TriUnit-Recomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ultracombo",
+    "name": "UltraCombo",
+    "game": "Killer Instinct (arcade, 1994); Killer Instinct 2",
+    "shortName": "Killer Instinct (arcade, 1994); Killer Instinct 2",
+    "platform": "Arcade",
+    "aliases": [
+      "Killer Instinct (arcade, 1994); Killer Instinct 2 (arcade, 1996)",
+      "Killer Instinct"
+    ],
+    "developer": "thefixinhixon",
+    "kind": "recomp",
+    "description": "Killer Instinct (arcade, 1994); Killer Instinct 2 recompiled from the Arcade version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/thefixinhixon/UltraCombo",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "UltraCombo-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "unnamed-sdvx-clone",
+    "name": "Unnamed Sdvx Clone",
+    "game": "Unnamed SDVX Clone",
+    "shortName": "Unnamed SDVX Clone",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "Drewol",
+    "kind": "port",
+    "description": "Unnamed SDVX Clone ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Drewol/unnamed-sdvx-clone",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "usc-game-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "vampire-savior-recomp",
+    "name": "Vampire Savior Recomp",
+    "game": "Vampire Savior: The Lord of Vampire",
+    "shortName": "Vampire Savior: The Lord of Vampire",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "tmcleroy",
+    "kind": "port",
+    "description": "Vampire Savior: The Lord of Vampire ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/tmcleroy/vampire-savior-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "VampireSavior-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "vcthunder",
+    "name": "VCThunder",
+    "game": "Hydro Thunder; Offroad Thunder",
+    "shortName": "Hydro Thunder; Offroad Thunder",
+    "platform": "Arcade",
+    "aliases": [
+      "Hydro Thunder"
+    ],
+    "developer": "mourix",
+    "kind": "port",
+    "description": "Hydro Thunder; Offroad Thunder ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mourix/VCThunder",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "VCThunder-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "vf1-recomp",
+    "name": "VF1 Recomp",
+    "game": "Virtua Fighter",
+    "shortName": "Virtua Fighter",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "mr-finster",
+    "kind": "recomp",
+    "description": "Virtua Fighter recompiled from the Arcade version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mr-finster/vf1-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "VirtuaFighterRecomp-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "vf2-recomp",
+    "name": "Virtua Fighter 2 Recomp",
+    "game": "Virtua Fighter 2",
+    "shortName": "Virtua Fighter 2",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "mr-finster",
+    "kind": "recomp",
+    "description": "Virtua Fighter 2 recompiled from the Arcade version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mr-finster/vf2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "VirtuaFighter2Recomp-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "vf3-recomp",
+    "name": "Virtua Fighter 3 Recomp",
+    "game": "Virtua Fighter 3",
+    "shortName": "Virtua Fighter 3",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "mr-finster",
+    "kind": "recomp",
+    "description": "Virtua Fighter 3 recompiled from the Arcade version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mr-finster/vf3-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "VirtuaFighter3Recomp-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "vf4-final-tuned-rev-b-recomp",
+    "name": "VF4 Final Tuned (Ver. B) Recomp",
+    "game": "Virtua Fighter 4 Final Tuned",
+    "shortName": "Virtua Fighter 4 Final Tuned",
+    "platform": "Arcade",
+    "aliases": [
+      "Virtua Fighter 4 Final Tuned (Ver. B)"
+    ],
+    "developer": "djanice1980",
+    "kind": "port",
+    "description": "Virtua Fighter 4 Final Tuned ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/djanice1980/VF4-Final-Tuned-Rev-B-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "vf4ft-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "violent-storm-recomp",
+    "name": "Violent Storm Recomp",
+    "game": "Violent Storm",
+    "shortName": "Violent Storm",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Violent Storm ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Violent-storm-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ViolentStorm-Windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "virtua-fighter-xboxone-windows",
+    "name": "Virtua Fighter XboxOne Windows",
+    "game": "Virtua Fighter",
+    "shortName": "Virtua Fighter",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "wanszai",
+    "kind": "port",
+    "description": "Virtua Fighter ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/wanszai/Virtua-Fighter---XboxOne-Windows",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PC-VirtuaFighter.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "virtua-nba-recompilation",
+    "name": "Virtua NBA Recomp",
+    "game": "Virtua NBA",
+    "shortName": "Virtua NBA",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "PocketLucho",
+    "kind": "port",
+    "description": "Virtua NBA ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/PocketLucho/Virtua-NBA---Recompilation",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "VirtuaNBA-Recomp-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "virtua-tennis-recompilation",
+    "name": "Virtua Tennis Recomp",
+    "game": "Virtua Tennis",
+    "shortName": "Virtua Tennis",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "PocketLucho",
+    "kind": "port",
+    "description": "Virtua Tennis ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/PocketLucho/Virtua-Tennis---Recompilation",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "VirtuaTennis-Recomp-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "vs-smb-recomp",
+    "name": "VS. SMB Recomp",
+    "game": "VS. Super Mario Bros.",
+    "shortName": "VS. Super Mario Bros.",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "jsp244",
+    "kind": "port",
+    "description": "VS. Super Mario Bros. ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/jsp244/vs-smb-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "vssmb-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "waku-waku-7-recomp",
+    "name": "Waku Waku 7 Recomp",
+    "game": "Waku Waku 7",
+    "shortName": "Waku Waku 7",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Waku Waku 7 ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Waku-Waku-7-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Waku-Waku-7-Fixed-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "worldrally-recompiled",
+    "name": "World Rally Recompiled",
+    "game": "World Rally",
+    "shortName": "World Rally",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "DaBlackDeath",
+    "kind": "port",
+    "description": "World Rally ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/DaBlackDeath/WorldRally_Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WorldRally_Recompiled.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

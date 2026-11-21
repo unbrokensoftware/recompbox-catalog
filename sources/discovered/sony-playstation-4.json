@@ -1,0 +1,3226 @@
+[
+  {
+    "id": "13-sentinels-aegis-rim-pc",
+    "name": "13 Sentinels PC",
+    "game": "13 Sentinels: Aegis Rim",
+    "shortName": "13 Sentinels: Aegis Rim",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "saulob",
+    "kind": "port",
+    "description": "13 Sentinels: Aegis Rim ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/saulob/13-sentinels-aegis-rim-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "13SentinelsAegisRimPC-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "a-port-of-the-order-1886-thats-actually-alive",
+    "name": "The Order: 1886 Actually Alive",
+    "game": "The Order: 1886",
+    "shortName": "The Order: 1886",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "DivinusX",
+    "kind": "port",
+    "description": "The Order: 1886 ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/DivinusX/a-port-of-the-order-1886-thats-actually-alive",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "order1886-win-x86_64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "alienation-pc",
+    "name": "Alienation PC",
+    "game": "Alienation",
+    "shortName": "Alienation",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "saulob",
+    "kind": "port",
+    "description": "Alienation ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/saulob/alienation-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "AlienationPC-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "basara-4-sumeragi-native-pc",
+    "name": "Sengoku Basara 4 Sumeragi Native PC Port",
+    "game": "Sengoku BASARA 4 Sumeragi",
+    "shortName": "Sengoku BASARA 4 Sumeragi",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "krixsan",
+    "kind": "port",
+    "description": "Sengoku BASARA 4 Sumeragi ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/krixsan/Basara-4-Sumeragi-Native-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Basara4_Sumeragi_PC_v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "basara4-native-pc",
+    "name": "Sengoku Basara 4 Sumeragi PC",
+    "game": "Sengoku Basara 4 Sumeragi",
+    "shortName": "Sengoku Basara 4 Sumeragi",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "razzconnect",
+    "kind": "port",
+    "description": "Sengoku Basara 4 Sumeragi ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/razzconnect/basara4-native-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "basara4-windows-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "bbhost",
+    "name": "bbhost",
+    "game": "Bloodborne",
+    "shortName": "Bloodborne",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "droogie",
+    "kind": "port",
+    "description": "Bloodborne ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/droogie/bbhost",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "bbhost-win-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "bloodborne-pc",
+    "name": "bbport",
+    "game": "Bloodborne",
+    "shortName": "Bloodborne",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "deadinside28",
+    "kind": "port",
+    "description": "Bloodborne ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/deadinside28/bloodborne_pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Bloodborne-bbport-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "bloodborne-pc-vulkan",
+    "name": "Bloodborne Pc Vulkan",
+    "game": "Bloodborne",
+    "shortName": "Bloodborne",
+    "platform": "Sony Playstation 4",
+    "aliases": [
+      "Bloodborne (bloodborne-pc-vulkan)"
+    ],
+    "developer": "lapothecary",
+    "kind": "port",
+    "description": "Bloodborne ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/lapothecary/bloodborne-pc-vulkan",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "bloodborne-pc-vulkan-windows-x86_64-prebuilt.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "chocobos-mystery-dungeon-every-buddy-recomp",
+    "name": "Chocobos Mystery Dungeon Every Buddy Recomp",
+    "game": "Chocobo's Mystery Dungeon EVERY BUDDY!",
+    "shortName": "Chocobo's Mystery Dungeon EVERY BUDDY!",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "darkuni",
+    "kind": "port",
+    "description": "Chocobo's Mystery Dungeon EVERY BUDDY! ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/darkuni/Chocobos-Mystery-Dungeon-Every-Buddy-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "chocobo-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ctr-nitrofueled-pc",
+    "name": "CTR NitroFueled PC",
+    "game": "Crash Team Racing: Nitro-Fueled",
+    "shortName": "Crash Team Racing: Nitro-Fueled",
+    "platform": "Sony Playstation 4",
+    "aliases": [
+      "Crash Team Racing Nitro-Fueled"
+    ],
+    "developer": "GetLostIn",
+    "kind": "port",
+    "description": "Crash Team Racing: Nitro-Fueled ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/GetLostIn/CTR-NitroFueled-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "CTR-NitroFueled-PC-portable-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dead-nation-ps4-recomp",
+    "name": "Dead Nation Recompiled",
+    "game": "Dead Nation: Apocalypse Edition",
+    "shortName": "Dead Nation: Apocalypse Edition",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "rcostanza",
+    "kind": "port",
+    "description": "Dead Nation: Apocalypse Edition ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/rcostanza/dead-nation-ps4-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "deadnation-pc-*-2026-11-17-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "deadpool-ps4-port",
+    "name": "Deadpool PS4 PORT",
+    "game": "Deadpool",
+    "shortName": "Deadpool",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "thegh0sts",
+    "kind": "port",
+    "description": "Deadpool ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/thegh0sts/Deadpool-PS4-PORT",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Deadpool-PS4-PORT-portable-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "deception-iv-nightmareprincess-recomp",
+    "name": "Deception IV: The Nightmare Princess recomp",
+    "game": "Deception IV: The Nightmare Princess",
+    "shortName": "Deception IV: The Nightmare Princess",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "rcostanza",
+    "kind": "port",
+    "description": "Deception IV: The Nightmare Princess ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/rcostanza/Deception-IV-NightmarePrincess-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "deception-pc-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dragons-crown-pro-pc",
+    "name": "Dragon's Crown Pro PC",
+    "game": "Dragon's Crown Pro",
+    "shortName": "Dragon's Crown Pro",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "saulob",
+    "kind": "port",
+    "description": "Dragon's Crown Pro ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/saulob/dragons-crown-pro-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DragonsCrownProPC-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dragons-crown-pro-ptbr",
+    "name": "Dragon's Crown Pro (PT-BR)",
+    "game": "Dragon's Crown Pro",
+    "shortName": "Dragon's Crown Pro",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "WenderSky",
+    "kind": "port",
+    "description": "Dragon's Crown Pro ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/WenderSky/dragons-crown-pro-ptbr",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DragonsCrownPro-PTBR-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "driveclub-pc-wrapper",
+    "name": "Driveclub Pc Wrapper",
+    "game": "Driveclub Pc Wrapper",
+    "shortName": "Driveclub Pc Wrapper",
+    "platform": "Sony Playstation 4",
+    "aliases": [
+      "DriveClub"
+    ],
+    "developer": "ondrejeder",
+    "kind": "port",
+    "description": "Driveclub Pc Wrapper ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ondrejeder/Driveclub-pc-wrapper",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Driveclub-PC-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "driveclub-port",
+    "name": "DCport",
+    "game": "DriveClub",
+    "shortName": "DriveClub",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "qnfn",
+    "kind": "port",
+    "description": "DriveClub ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/qnfn/Driveclub-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DCport-*-windows-fsr.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "driveclub-recomp",
+    "name": "Driveclub Recomp",
+    "game": "Driveclub",
+    "shortName": "Driveclub",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "OverkillLabs3",
+    "kind": "port",
+    "description": "Driveclub ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/OverkillLabs3/driveclub-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "driveclub-recomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "eoh-pc-releases",
+    "name": "Eoh Pc Releases",
+    "game": "JoJo's Bizarre Adventure: Eyes of Heaven",
+    "shortName": "JoJo's Bizarre Adventure: Eyes of Heaven",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "screambl00dyg0re",
+    "kind": "port",
+    "description": "JoJo's Bizarre Adventure: Eyes of Heaven ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/screambl00dyg0re/eoh-pc-releases",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "EyesOfHeaven-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gbo-code-fairy-ps4rt-windows",
+    "name": "GBO Code Fairy PS4RT for Windows",
+    "game": "Mobile Suit Gundam Battle Operation: Code Fairy",
+    "shortName": "Mobile Suit Gundam Battle Operation: Code Fairy",
+    "platform": "Sony Playstation 4",
+    "aliases": [
+      "Mobile Suit Gundam Battle Operation Code Fairy"
+    ],
+    "developer": "DiamondDogz",
+    "kind": "port",
+    "description": "Mobile Suit Gundam Battle Operation: Code Fairy ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/DiamondDogz/GBO-Code-Fairy-PS4RT-Windows",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GBO-Code-Fairy-PS4RT-Windows-1.0.2.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "godzilla-pc",
+    "name": "PC port",
+    "game": "Godzilla",
+    "shortName": "Godzilla",
+    "platform": "Sony Playstation 4",
+    "aliases": [
+      "Godzilla (PC port)"
+    ],
+    "developer": "DavyBirth",
+    "kind": "port",
+    "description": "Godzilla ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/DavyBirth/godzilla-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Godzilla-Windows-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gow3rehooked",
+    "name": "GOW3rehooked",
+    "game": "God of War III Remastered",
+    "shortName": "God of War III Remastered",
+    "platform": "Sony Playstation 4",
+    "aliases": [
+      "God of War III Remastered (GOW3rehooked)"
+    ],
+    "developer": "cuesta4",
+    "kind": "port",
+    "description": "God of War III Remastered ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/cuesta4/GOW3rehooked",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GOW3rehooked-Windows-x86_64-AVX1.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gr2-pc",
+    "name": "Gravity Rush 2 PC",
+    "game": "Gravity Rush 2",
+    "shortName": "Gravity Rush 2",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "HayatoG",
+    "kind": "port",
+    "description": "Gravity Rush 2 ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "gyro"
+    ],
+    "repositoryUrl": "https://github.com/HayatoG/gr2_pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "gr2-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gr2port",
+    "name": "GR2port",
+    "game": "Gravity Rush 2",
+    "shortName": "Gravity Rush 2",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "junminlee2004",
+    "kind": "port",
+    "description": "Gravity Rush 2 ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/junminlee2004/GR2port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GR2port.build.*.Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gr2recompile",
+    "name": "Gr2Recompile",
+    "game": "Gravity Rush 2",
+    "shortName": "Gravity Rush 2",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "Deman139",
+    "kind": "port",
+    "description": "Gravity Rush 2 ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Deman139/Gr2Recompile",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GravityRush2-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gravityrush-pc",
+    "name": "Gravity Rush Remastered Native PC Port",
+    "game": "Gravity Rush Remastered",
+    "shortName": "Gravity Rush Remastered",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "LucaPazienza",
+    "kind": "port",
+    "description": "Gravity Rush Remastered ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/LucaPazienza/gravityrush_pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GravityRush-PC-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "grport",
+    "name": "GRport",
+    "game": "Gravity Rush Remastered / Gravity Rush 2",
+    "shortName": "Gravity Rush Remastered / Gravity Rush 2",
+    "platform": "Sony Playstation 4",
+    "aliases": [
+      "Gravity Rush Remastered + 2"
+    ],
+    "developer": "qnfn",
+    "kind": "port",
+    "description": "Gravity Rush Remastered / Gravity Rush 2 ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/qnfn/GRport",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GRport-*-windows-fsr.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "grr-pc",
+    "name": "Gravity Rush Remastered PC",
+    "game": "Gravity Rush Remastered",
+    "shortName": "Gravity Rush Remastered",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "rodrigojacarei",
+    "kind": "port",
+    "description": "Gravity Rush Remastered ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/rodrigojacarei/grr_pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "grr-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hotline-miami-2-pc",
+    "name": "Hotline Miami 2 PC",
+    "game": "Hotline Miami 2: Wrong Number",
+    "shortName": "Hotline Miami 2: Wrong Number",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "TheNIKITO",
+    "kind": "port",
+    "description": "Hotline Miami 2: Wrong Number ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/TheNIKITO/Hotline-Miami-2---PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "hm2-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "infamous-first-light-pc",
+    "name": "inFAMOUS First Light PC",
+    "game": "inFAMOUS First Light",
+    "shortName": "inFAMOUS First Light",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "VantageEX",
+    "kind": "port",
+    "description": "inFAMOUS First Light ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/VantageEX/infamous-first-light-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "inFAMOUS-First-Light-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "infamous-first-light-pc-edition",
+    "name": "InFAMOUS First Light PC Edition",
+    "game": "inFAMOUS: First Light",
+    "shortName": "inFAMOUS: First Light",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "kam0n4ik",
+    "kind": "port",
+    "description": "inFAMOUS: First Light ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/kam0n4ik/inFAMOUS-First-Light-PC-Edition",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FirstLightPC-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "infamous-second-son-pc-edition",
+    "name": "inFAMOUS Second Son — inFAMOUS-Second-Son-PC-Edition (kam0n4ik)",
+    "game": "inFAMOUS Second Son",
+    "shortName": "inFAMOUS Second Son",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "kam0n4ik",
+    "kind": "port",
+    "description": "inFAMOUS Second Son ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/kam0n4ik/inFAMOUS-Second-Son-PC-Edition",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SecondSonPC-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "infamous-second-son-pc-port",
+    "name": "inFAMOUS Second Son (Castlesea)",
+    "game": "inFAMOUS Second Son",
+    "shortName": "inFAMOUS Second Son",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "Castlesea",
+    "kind": "port",
+    "description": "inFAMOUS Second Son ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Castlesea/infamous-second-son-pc-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "inFAMOUS-Second-Son-PC-Port-*-r2.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "iss-pc",
+    "name": "inFAMOUS Second Son PC",
+    "game": "inFAMOUS Second Son",
+    "shortName": "inFAMOUS Second Son",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "HayatoG",
+    "kind": "port",
+    "description": "inFAMOUS Second Son ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "gyro",
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/HayatoG/iss_pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "infamous-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "issn-pc",
+    "name": "Issn Pc",
+    "game": "inFAMOUS Second Son",
+    "shortName": "inFAMOUS Second Son",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "Liondarkz",
+    "kind": "port",
+    "description": "inFAMOUS Second Son ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/Liondarkz/issn_pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "issn-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "j-stars-victory-vs-pc",
+    "name": "J Stars Victory VS PC",
+    "game": "J-Stars Victory VS+",
+    "shortName": "J-Stars Victory VS+",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "krixsan",
+    "kind": "port",
+    "description": "J-Stars Victory VS+ ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/krixsan/J-Stars-Victory-VS-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "J-Stars-Victory-VS-PC-portable-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "jojo-eoh-pc-poc",
+    "name": "Jojo Eoh Pc Poc",
+    "game": "JoJo's Bizarre Adventure: Eyes of Heaven",
+    "shortName": "JoJo's Bizarre Adventure: Eyes of Heaven",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "Mevlock",
+    "kind": "port",
+    "description": "JoJo's Bizarre Adventure: Eyes of Heaven ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Mevlock/jojo-eoh-pc-poc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "jojo-eoh-pc-poc-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "jojo-eoh-pc-port",
+    "name": "JoJo EoH Pc Port",
+    "game": "JoJo's Bizarre Adventure: Eyes of Heaven",
+    "shortName": "JoJo's Bizarre Adventure: Eyes of Heaven",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "Huboui",
+    "kind": "port",
+    "description": "JoJo's Bizarre Adventure: Eyes of Heaven ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Huboui/JoJo-EoH-pc-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "JoJo_EoH_PC_Release_Portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "jstarsreborn",
+    "name": "J-Stars Victory VS+ (JStars Reborn)",
+    "game": "J-Stars Victory VS+",
+    "shortName": "J-Stars Victory VS+",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "Dopam3an",
+    "kind": "port",
+    "description": "J-Stars Victory VS+ ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/Dopam3an/JStarsReborn",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "JStarsReborn-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "kamenrider-recomp-pc",
+    "name": "KamenRider Recomp PC",
+    "game": "KAMEN RIDER memory of heroez",
+    "shortName": "KAMEN RIDER memory of heroez",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "indrasundanese",
+    "kind": "port",
+    "description": "KAMEN RIDER memory of heroez ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/indrasundanese/KamenRider-Recomp-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "KMOH_PC_Vulkan_*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "killzone-shadowfall-pc",
+    "name": "Killzone Shadow Fall PC",
+    "game": "Killzone Shadow Fall",
+    "shortName": "Killzone Shadow Fall",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "lesca-191204",
+    "kind": "port",
+    "description": "Killzone Shadow Fall ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/lesca-191204/killzone-shadowfall-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "KillzoneShadowFall-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "knack-ii-pc-port",
+    "name": "Knack II — Native PC Port",
+    "game": "Knack II",
+    "shortName": "Knack II",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "Hyant4",
+    "kind": "port",
+    "description": "Knack II ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Hyant4/Knack-II-pc-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Knack-II-Windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "knack-pc",
+    "name": "Knack PC",
+    "game": "Knack",
+    "shortName": "Knack",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "AbdelmoumenDeghbouche",
+    "kind": "port",
+    "description": "Knack ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/AbdelmoumenDeghbouche/knack_pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "knack-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "kyoei-toshi-pc",
+    "name": "City Shrouded in Shadow PC",
+    "game": "City Shrouded in Shadow",
+    "shortName": "City Shrouded in Shadow",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "ioritree",
+    "kind": "port",
+    "description": "City Shrouded in Shadow ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/ioritree/kyoei_toshi_pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Kyoei-Toshi-PC-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "lanternengine",
+    "name": "Bloodborne PC",
+    "game": "Bloodborne",
+    "shortName": "Bloodborne",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "Awakenchan",
+    "kind": "port",
+    "description": "Bloodborne ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Awakenchan/LanternEngine",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "LanternEngine-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "lbppc",
+    "name": "LBPPC",
+    "game": "LittleBigPlanet 3",
+    "shortName": "LittleBigPlanet 3",
+    "platform": "Sony Playstation 4",
+    "aliases": [
+      "Little Big Planet 3"
+    ],
+    "developer": "emurphy04",
+    "kind": "port",
+    "description": "LittleBigPlanet 3 ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/emurphy04/LBPPC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "LBPPC-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "lego-dimensions-pc",
+    "name": "LEGO Dimensions PC Port",
+    "game": "LEGO Dimensions",
+    "shortName": "LEGO Dimensions",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "vascon-es",
+    "kind": "port",
+    "description": "LEGO Dimensions ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/vascon-es/lego-dimensions-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "LEGO_Dimensions_PC_portatil.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "lost-paradise",
+    "name": "Lost Paradise Native",
+    "game": "Fist of the North Star: Lost Paradise",
+    "shortName": "Fist of the North Star: Lost Paradise",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "Fwha",
+    "kind": "port",
+    "description": "Fist of the North Star: Lost Paradise ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Fwha/Lost-Paradise",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Lost_Paradise-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "matterfall-pc-port",
+    "name": "Matterfall PC Port",
+    "game": "Matterfall",
+    "shortName": "Matterfall",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "bc160201983",
+    "kind": "port",
+    "description": "Matterfall ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/bc160201983/Matterfall-PC-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Matterfall-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "medievil-2019-pc-port",
+    "name": "MediEvil PC",
+    "game": "MediEvil",
+    "shortName": "MediEvil",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "bc160201983",
+    "kind": "port",
+    "description": "MediEvil ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/bc160201983/medievil_2019_pc_port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "medievil-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "minustwo",
+    "name": "Minus Two",
+    "game": "GODZILLA",
+    "shortName": "GODZILLA",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "gminustwo",
+    "kind": "port",
+    "description": "GODZILLA ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/gminustwo/minustwo",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "minustwo-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "nhl-20-ps4-port",
+    "name": "NHL 20 PS4 PORT",
+    "game": "EA SPORTS NHL 20",
+    "shortName": "EA SPORTS NHL 20",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "thegh0sts",
+    "kind": "port",
+    "description": "EA SPORTS NHL 20 ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/thegh0sts/NHL-20-PS4-PORT",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NHL20Native-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "nhl-21-ps4-port",
+    "name": "NHL 21 PS4 Port for Windows",
+    "game": "NHL 21",
+    "shortName": "NHL 21",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "thegh0sts",
+    "kind": "port",
+    "description": "NHL 21 ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/thegh0sts/NHL-21-PS4-PORT",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NHL21Native-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "nhl24-pc-port",
+    "name": "NHL24 PC Port",
+    "game": "NHL 24",
+    "shortName": "NHL 24",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "schans-arg",
+    "kind": "port",
+    "description": "NHL 24 ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/schans-arg/NHL24-PC-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NHL24Native-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "nhl24pc",
+    "name": "nhl24pc",
+    "game": "NHL 24",
+    "shortName": "NHL 24",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "HajDEO",
+    "kind": "port",
+    "description": "NHL 24 ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/HajDEO/nhl24pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NHL24-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "odin-sphere-leifthrasir-pc",
+    "name": "Odin Sphere Leifthrasir PC Port",
+    "game": "Odin Sphere Leifthrasir",
+    "shortName": "Odin Sphere Leifthrasir",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "saulob",
+    "kind": "port",
+    "description": "Odin Sphere Leifthrasir ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/saulob/odin-sphere-leifthrasir-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "OdinSphereLeifthrasirPC-v*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "opencrown-pc",
+    "name": "Dragons Crown Pro",
+    "game": "Dragon's Crown Pro",
+    "shortName": "Dragon's Crown Pro",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "Nezara",
+    "kind": "port",
+    "description": "Dragon's Crown Pro ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/Nezara/OpenCrown-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "OpenCrownPC-v*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "order1886-pc",
+    "name": "The Order: 1886 — Order1886-PC (lxnis) (lxnis)",
+    "game": "The Order: 1886",
+    "shortName": "The Order: 1886",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "lxnis",
+    "kind": "port",
+    "description": "The Order: 1886 ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/lxnis/Order1886-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Order1886-PC-portable-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "p3d-pc",
+    "name": "Persona 3 Dancing in Moonlight",
+    "game": "p3d",
+    "shortName": "p3d",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "MaouAnimus",
+    "kind": "port",
+    "description": "p3d ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/MaouAnimus/p3d-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Persona3Dancing-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "persona-3-dancing-in-moonlight-pc",
+    "name": "Persona 3 Dancing In Moonlight Pc",
+    "game": "Persona 3: Dancing in Moonlight",
+    "shortName": "Persona 3: Dancing in Moonlight",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "Piscacho",
+    "kind": "port",
+    "description": "Persona 3: Dancing in Moonlight ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Piscacho/Persona-3-Dancing-in-Moonlight-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Persona-3-Dancing-in-Moonlight-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "persona-4-dancing-all-night-pc",
+    "name": "Persona 4 Dancing All Night PC",
+    "game": "Persona 4: Dancing All Night",
+    "shortName": "Persona 4: Dancing All Night",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "Piscacho",
+    "kind": "port",
+    "description": "Persona 4: Dancing All Night ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Piscacho/Persona-4-Dancing-All-Night-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Persona-4-Dancing-All-Night-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "persona-5-dancing-in-starlight-pc",
+    "name": "Persona 5 Dancing In Starlight PC",
+    "game": "Persona 5: Dancing in Starlight",
+    "shortName": "Persona 5: Dancing in Starlight",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "Piscacho",
+    "kind": "port",
+    "description": "Persona 5: Dancing in Starlight ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Piscacho/Persona-5-Dancing-in-Starlight-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Persona-5-Dancing-in-Starlight-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pes17-ps4-recomp",
+    "name": "2017Recomp",
+    "game": "Pro Evolution Soccer 2017",
+    "shortName": "Pro Evolution Soccer 2017",
+    "platform": "Sony Playstation 4",
+    "aliases": [
+      "Pro Evolution Soccer 2017 (2017Recomp)"
+    ],
+    "developer": "makkary-rov",
+    "kind": "port",
+    "description": "Pro Evolution Soccer 2017 ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/makkary-rov/pes17-ps4-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "2017RECOMP-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "port-ga-gotoku",
+    "name": "PortGaGotoku",
+    "game": "Fist of the North Star: Lost Paradise",
+    "shortName": "Fist of the North Star: Lost Paradise",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "ItalianKuze",
+    "kind": "port",
+    "description": "Fist of the North Star: Lost Paradise ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ItalianKuze/port-ga-gotoku",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PortGaGotoku-*-third-party-sources.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pro17port",
+    "name": "PRO17PORT",
+    "game": "Pro Evolution Soccer 2017",
+    "shortName": "Pro Evolution Soccer 2017",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "MADPRM",
+    "kind": "port",
+    "description": "Pro Evolution Soccer 2017 ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/MADPRM/PRO17PORT",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PRO17PORT-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "project-blue-moon",
+    "name": "Project Blue Moon",
+    "game": "TSUKIHIME -A piece of blue glass moon-",
+    "shortName": "TSUKIHIME -A piece of blue glass moon-",
+    "platform": "Sony Playstation 4",
+    "aliases": [
+      "TSUKIHIME -A piece of blue glass moon- (Project Blue Moon)"
+    ],
+    "developer": "Waffle631",
+    "kind": "port",
+    "description": "TSUKIHIME -A piece of blue glass moon- ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Waffle631/Project-Blue-Moon",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "project-blue-moon-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "prototype-pc-slop",
+    "name": "PROTOTYPE PC Port",
+    "game": "Prototype",
+    "shortName": "Prototype",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "petrishevgeorgii-debug",
+    "kind": "port",
+    "description": "Prototype ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/petrishevgeorgii-debug/prototype-pc-slop",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PROTOTYPE-PC-Port-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rcostanza-resogun-recomp",
+    "name": "Resogun Recomp",
+    "game": "Resogun",
+    "shortName": "Resogun",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "rcostanza",
+    "kind": "port",
+    "description": "Resogun ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/rcostanza/resogun-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "resogun-pc-*-2026-11-17.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "resogun-recomp",
+    "name": "Resogun Recomp",
+    "game": "Resogun",
+    "shortName": "Resogun",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "darkuni",
+    "kind": "port",
+    "description": "Resogun ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/darkuni/resogun-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "resogun-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rygt7",
+    "name": "RyGT7",
+    "game": "Gran Turismo 7",
+    "shortName": "Gran Turismo 7",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "RyGT-Team",
+    "kind": "port",
+    "description": "Gran Turismo 7 ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/RyGT-Team/rygt7",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RyGT7-2026-11-16.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sakura-wars-ps4rt-windows",
+    "name": "PS4RT Windows port",
+    "game": "Sakura Wars",
+    "shortName": "Sakura Wars",
+    "platform": "Sony Playstation 4",
+    "aliases": [
+      "Sakura Wars (PS4RT Windows port)"
+    ],
+    "developer": "DiamondDogz",
+    "kind": "port",
+    "description": "Sakura Wars ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/DiamondDogz/Sakura-Wars-PS4RT-Windows",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Kagekidan-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sanctuaryport",
+    "name": "SanctuaryPort",
+    "game": "Diablo III",
+    "shortName": "Diablo III",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "CaduGimenes",
+    "kind": "port",
+    "description": "Diablo III ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/CaduGimenes/SanctuaryPort",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SanctuaryPort-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "shadowofthecolossus-pc",
+    "name": "Shadow of the Colossus PC",
+    "game": "Shadow of the Colossus",
+    "shortName": "Shadow of the Colossus",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "AjncSystem",
+    "kind": "port",
+    "description": "Shadow of the Colossus ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SotC-PC.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "shadowofthecolossus-pc-framegen",
+    "name": "ShadowOfTheColossus PC FrameGen",
+    "game": "Shadow of the Colossus",
+    "shortName": "Shadow of the Colossus",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "nakaionyt",
+    "kind": "port",
+    "description": "Shadow of the Colossus ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/nakaionyt/ShadowOfTheColossus-PC-FrameGen",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SotC-PC_*_bring-your-own-game-files.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sixfret",
+    "name": "SixFret",
+    "game": "Guitar Hero Live",
+    "shortName": "Guitar Hero Live",
+    "platform": "Sony Playstation 4",
+    "aliases": [
+      "Guitar Hero Live (Six Fret)"
+    ],
+    "developer": "LilBigJP",
+    "kind": "port",
+    "description": "Guitar Hero Live ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/LilBigJP/SixFret",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "sixfret-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "star-ocean-integrity-and-faithlessness-ps4rt",
+    "name": "Star Ocean Integrity and Faithlessness PS4RT",
+    "game": "Star Ocean: Integrity and Faithlessness",
+    "shortName": "Star Ocean: Integrity and Faithlessness",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "Hoverbike51",
+    "kind": "port",
+    "description": "Star Ocean: Integrity and Faithlessness ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ps4rt-star-ocean-5-windows-x64-*-latest.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "super-stardust-ultra-recomp",
+    "name": "Super Stardust Ultra Recomp",
+    "game": "Super Stardust Ultra VR",
+    "shortName": "Super Stardust Ultra VR",
+    "platform": "Sony Playstation 4",
+    "aliases": [
+      "Super Stardust Ultra VR (super-stardust-ultra-recomp)"
+    ],
+    "developer": "darkuni",
+    "kind": "port",
+    "description": "Super Stardust Ultra VR ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/darkuni/super-stardust-ultra-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "stardust-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "super-stardust-ultra-vr-pc",
+    "name": "Super Stardust Ultra VR (PS4) - Recompiled to PC",
+    "game": "Super Stardust Ultra VR",
+    "shortName": "Super Stardust Ultra VR",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "rcostanza",
+    "kind": "port",
+    "description": "Super Stardust Ultra VR ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/rcostanza/Super-Stardust-Ultra-VR-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "stardust-pc-*-2026-11-17-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "the-order-1886-pc-port",
+    "name": "The Order: 1886 PC Port",
+    "game": "The Order: 1886",
+    "shortName": "The Order: 1886",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "IgorAugustoHH",
+    "kind": "port",
+    "description": "The Order: 1886 ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/IgorAugustoHH/The-Order-1886-PC-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TOport-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "theatrhythm-fbl-pc",
+    "name": "Theatrhythm Final Bar Line on PC",
+    "game": "Theatrhythm Final Bar Line",
+    "shortName": "Theatrhythm Final Bar Line",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "YAPhoa",
+    "kind": "port",
+    "description": "Theatrhythm Final Bar Line ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/YAPhoa/theatrhythm-fbl-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "theatrhythm-fbl-pc-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "theorder1886-port",
+    "name": "The Order: 1886 (theorder1886-port)",
+    "game": "The Order: 1886",
+    "shortName": "The Order: 1886",
+    "platform": "Sony Playstation 4",
+    "aliases": [
+      "The Order: 1886 (PC Native Port)"
+    ],
+    "developer": "saxons-kicks",
+    "kind": "port",
+    "description": "The Order: 1886 ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/saxons-kicks/theorder1886-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "theorder1886-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tlg-pc",
+    "name": "The Last Guardian PC",
+    "game": "The Last Guardian",
+    "shortName": "The Last Guardian",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "HayatoG",
+    "kind": "port",
+    "description": "The Last Guardian ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "gyro",
+      "high-fps",
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/HayatoG/tlg_pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "tlg-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tlg-port",
+    "name": "The Last Guardian PC Port",
+    "game": "The Last Guardian",
+    "shortName": "The Last Guardian",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "SulphurS16",
+    "kind": "port",
+    "description": "The Last Guardian ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/SulphurS16/TLG-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TLG-Port-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tlou-pc",
+    "name": "Tlou Pc",
+    "game": "The Last of Us Remastered",
+    "shortName": "The Last of Us Remastered",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "HayatoG",
+    "kind": "port",
+    "description": "The Last of Us Remastered ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/HayatoG/tlou_pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "tlou-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tlou-remastered-pc",
+    "name": "Tlou Remastered Pc",
+    "game": "The Last of Us Remastered",
+    "shortName": "The Last of Us Remastered",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "ravencaio",
+    "kind": "port",
+    "description": "The Last of Us Remastered ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ravencaio/tlou-remastered-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TLOU-Remastered-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "toarumajutsuvirtualon-recomp",
+    "name": "ToaruMajutsuVirtualOn Recomp",
+    "game": "A Certain Magical Virtual-On M.S.B.S. Ver. 55.55",
+    "shortName": "A Certain Magical Virtual-On M.S.B.S. Ver. 55.55",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "kitaaaaaa",
+    "kind": "port",
+    "description": "A Certain Magical Virtual-On M.S.B.S. Ver. 55.55 ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/kitaaaaaa/ToaruMajutsuVirtualOn-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "vox-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tombraider-pc",
+    "name": "Tomb Raider DE PC",
+    "game": "Tomb Raider",
+    "shortName": "Tomb Raider",
+    "platform": "Sony Playstation 4",
+    "aliases": [
+      "Tomb Raider: Definitive Edition"
+    ],
+    "developer": "drakenabarion",
+    "kind": "port",
+    "description": "Tomb Raider ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/drakenabarion/tombraider_pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "tombraider-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tsukihime-native-pc-port",
+    "name": "Tsukihime Native PC Port",
+    "game": "Tsukihime -A piece of blue glass moon-",
+    "shortName": "Tsukihime -A piece of blue glass moon-",
+    "platform": "Sony Playstation 4",
+    "aliases": [
+      "Tsukihime: A piece of blue glass moon"
+    ],
+    "developer": "Take00C",
+    "kind": "port",
+    "description": "Tsukihime -A piece of blue glass moon- ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Take00C/Tsukihime-Native-PC-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Tsukihime-*-win-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ufc-3-ps4-port-linux-windows",
+    "name": "UFC 3 PC",
+    "game": "EA Sports UFC 3",
+    "shortName": "EA Sports UFC 3",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "GNSB",
+    "kind": "port",
+    "description": "EA Sports UFC 3 ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/GNSB/UFC-3-PS4-PORT-LINUX-WINDOWS",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "UFC3Native-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ufc4-pc-port",
+    "name": "EA Sports UFC 4 (schans-arg)",
+    "game": "EA Sports UFC 4",
+    "shortName": "EA Sports UFC 4",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "schans-arg",
+    "kind": "port",
+    "description": "EA Sports UFC 4 ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/schans-arg/UFC4-PC-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "UFC4Native-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "uncharted-multiplayer-on-pc",
+    "name": "Uncharted Multiplayer",
+    "game": "Uncharted 3: Drake's Deception",
+    "shortName": "Uncharted 3: Drake's Deception",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "Sasiraj123",
+    "kind": "port",
+    "description": "Uncharted 3: Drake's Deception ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/Sasiraj123/Uncharted-Multiplayer-on-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Uncharted-Multiplayer-PC.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "uncharted-pc",
+    "name": "Uncharted Pc",
+    "game": "Uncharted: The Nathan Drake Collection",
+    "shortName": "Uncharted: The Nathan Drake Collection",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "Supermedo",
+    "kind": "port",
+    "description": "Uncharted: The Nathan Drake Collection ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Supermedo/uncharted_pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "uncharted-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "unicorn-overlord-pc",
+    "name": "Unicorn Overlord PC",
+    "game": "Unicorn Overlord",
+    "shortName": "Unicorn Overlord",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "hachi23",
+    "kind": "port",
+    "description": "Unicorn Overlord ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/hachi23/unicorn_overlord_pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Unicorn-Overlord-PC-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "untildawn-pc",
+    "name": "Until Dawn PC",
+    "game": "Until Dawn",
+    "shortName": "Until Dawn",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "SuperCatElvis",
+    "kind": "port",
+    "description": "Until Dawn ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/SuperCatElvis/UntilDawn_PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "UntilDawn_*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "valkyria-revolution-ps4rt-windows",
+    "name": "Valkyria Revolution PS4RT",
+    "game": "Valkyria Revolution",
+    "shortName": "Valkyria Revolution",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "DiamondDogz",
+    "kind": "port",
+    "description": "Valkyria Revolution ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/DiamondDogz/Valkyria-Revolution-PS4RT-Windows",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Ravn-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "virtualon-pc",
+    "name": "Cyber Troopers Virtual-On — virtualon_pc (drakenabarion)",
+    "game": "Cyber Troopers Virtual-On",
+    "shortName": "Cyber Troopers Virtual-On",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "drakenabarion",
+    "kind": "port",
+    "description": "Cyber Troopers Virtual-On ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/drakenabarion/virtualon_pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "virtualon-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "wipeout-pc",
+    "name": "WipEout Omega PC",
+    "game": "WipEout Omega Collection",
+    "shortName": "WipEout Omega Collection",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "AbdelmoumenDeghbouche",
+    "kind": "port",
+    "description": "WipEout Omega Collection ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/AbdelmoumenDeghbouche/wipeout_pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "wipeout-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

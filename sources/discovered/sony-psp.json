@@ -1,0 +1,1153 @@
+[
+  {
+    "id": "a3mx",
+    "name": "a3mx",
+    "game": "Street Fighter Alpha 3 MAX",
+    "shortName": "Street Fighter Alpha 3 MAX",
+    "platform": "Sony PSP",
+    "aliases": [
+      "Street Fighter Alpha 3 MAX (a3mx)"
+    ],
+    "developer": "theweathervane",
+    "kind": "port",
+    "description": "Street Fighter Alpha 3 MAX ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/theweathervane/a3mx",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "a3mx-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ac-x-windows-native-recompilation",
+    "name": "Ace Combat X Recompilation (uzir1127)",
+    "game": "Ace Combat X: Skies of Deception",
+    "shortName": "Ace Combat X: Skies of Deception",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "uzir1127",
+    "kind": "port",
+    "description": "Ace Combat X: Skies of Deception ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/uzir1127/AC-X-Windows-Native-Recompilation",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Ace.Combat.X.-.Recompilation.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "badman-recompiled",
+    "name": "Badman Recompiled",
+    "game": "Holy Invasion of Privacy, Badman! What Did I Do to Deserve This?",
+    "shortName": "Holy Invasion of Privacy, Badman! What Did I Do to Deserve This?",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "K11MCH1",
+    "kind": "port",
+    "description": "Holy Invasion of Privacy, Badman! What Did I Do to Deserve This? ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/K11MCH1/badman_recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Badman_Recompiled_Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "bigmission-recomp",
+    "name": "Ape Escape Mind Over Monkey",
+    "game": "Saru Get You: Saru Saru Daisakusen",
+    "shortName": "Saru Get You: Saru Saru Daisakusen",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "jackgllghr",
+    "kind": "recomp",
+    "description": "Saru Get You: Saru Saru Daisakusen recompiled from the Sony PSP version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/jackgllghr/bigmission-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SaruSaruRecomp-v*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dissidia012-pc",
+    "name": "Dissidia012 PC",
+    "game": "Dissidia 012 Duodecim Final Fantasy",
+    "shortName": "Dissidia 012 Duodecim Final Fantasy",
+    "platform": "Sony PSP",
+    "aliases": [
+      "Dissidia 012: Final Fantasy"
+    ],
+    "developer": "VCKing101",
+    "kind": "port",
+    "description": "Dissidia 012 Duodecim Final Fantasy ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/VCKing101/Dissidia012-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Dissidia012-PC-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "divarecompsp",
+    "name": "DIVA Recomp SP",
+    "game": "Hatsune Miku: Project DIVA",
+    "shortName": "Hatsune Miku: Project DIVA",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "gorigamia",
+    "kind": "port",
+    "description": "Hatsune Miku: Project DIVA ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/gorigamia/DIVARECOMPSP",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DIVARECOMPSP-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "freedomunbound",
+    "name": "Freedom Unbound",
+    "game": "Monster Hunter Freedom Unite",
+    "shortName": "Monster Hunter Freedom Unite",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "Dudux42",
+    "kind": "recomp",
+    "description": "Monster Hunter Freedom Unite recompiled from the Sony PSP version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Dudux42/FreedomUnbound",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FreedomUnbound-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "freedomuniterecomp",
+    "name": "Freedom Unite Recomp",
+    "game": "Monster Hunter Freedom Unite",
+    "shortName": "Monster Hunter Freedom Unite",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "PateeerQ",
+    "kind": "port",
+    "description": "Monster Hunter Freedom Unite ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/PateeerQ/FreedomUniteRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FreedomUniteRecomp-*-windows-x64-universal.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gallian-chronicles",
+    "name": "Gallian Chronicles",
+    "game": "Valkyria Chronicles II",
+    "shortName": "Valkyria Chronicles II",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "amritadyne",
+    "kind": "port",
+    "description": "Valkyria Chronicles II ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/amritadyne/gallian-chronicles",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GallianChronicles-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gow-ghost-of-sparta-pc",
+    "name": "God of War: Ghost of Sparta (Sparta)",
+    "game": "God of War: Ghost of Sparta",
+    "shortName": "God of War: Ghost of Sparta",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "arnaldolima1",
+    "kind": "recomp",
+    "description": "God of War: Ghost of Sparta recompiled from the Sony PSP version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/arnaldolima1/gow-ghost-of-sparta-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "sparta-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gow-psp-recomp",
+    "name": "God of War PSP",
+    "game": "God of War: Chains of Olympus; God of War: Ghost of Sparta",
+    "shortName": "God of War: Chains of Olympus; God of War: Ghost of Sparta",
+    "platform": "Sony PSP",
+    "aliases": [
+      "God of War: Chains of Olympus"
+    ],
+    "developer": "DrummingBird1",
+    "kind": "recomp",
+    "description": "God of War: Chains of Olympus; God of War: Ghost of Sparta recompiled from the Sony PSP version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/DrummingBird1/gow-psp-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GoW_PSP_Launcher-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "initialdpsponpc",
+    "name": "Initial D Street Stage PSP PC",
+    "game": "Initial D Street Stage",
+    "shortName": "Initial D Street Stage",
+    "platform": "Sony PSP",
+    "aliases": [
+      "Initial D: Street Stage"
+    ],
+    "developer": "cassnadra",
+    "kind": "recomp",
+    "description": "Initial D Street Stage recompiled from the Sony PSP version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/cassnadra/initialdpsponpc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "InitialD_port_v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "kon-houkago-live-recompiled",
+    "name": "K-On! Houkago Live Recompiled",
+    "game": "K-On! Houkago Live!!",
+    "shortName": "K-On! Houkago Live!!",
+    "platform": "Sony PSP",
+    "aliases": [
+      "K-On! Houkago Live!"
+    ],
+    "developer": "EDGX73",
+    "kind": "port",
+    "description": "K-On! Houkago Live!! ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/EDGX73/KOn-Houkago-Live-Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "K-On.Houkago.Live.Recompiled-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "lcs-recomp",
+    "name": "LCS Recomp",
+    "game": "Grand Theft Auto: Liberty City Stories",
+    "shortName": "Grand Theft Auto: Liberty City Stories",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "elmasas",
+    "kind": "recomp",
+    "description": "Grand Theft Auto: Liberty City Stories recompiled from the Sony PSP version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/elmasas/lcs-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "LCSNative-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mhforever",
+    "name": "MHForever",
+    "game": "Monster Hunter Freedom Unite",
+    "shortName": "Monster Hunter Freedom Unite",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "Mango77x",
+    "kind": "recomp",
+    "description": "Monster Hunter Freedom Unite recompiled from the Sony PSP version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Mango77x/MHForever",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MHForever-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "neutron-decomp",
+    "name": "Neutron Decomp",
+    "game": "Neutron",
+    "shortName": "Neutron",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "Dtpk",
+    "kind": "port",
+    "description": "Neutron ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Dtpk/Neutron-Decomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Neutron-Port-Multiplayer-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "openantigrav",
+    "name": "OpenAntiGrav",
+    "game": "Wipeout Pulse",
+    "shortName": "Wipeout Pulse",
+    "platform": "Sony PSP",
+    "aliases": [
+      "Wipeout Pulse (OpenAntiGrav)"
+    ],
+    "developer": "topaxi",
+    "kind": "port",
+    "description": "Wipeout Pulse ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/topaxi/OpenAntiGrav",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "OpenAntiGrav-*-*d4-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "persona2isrecompile",
+    "name": "Persona2ISRecompile",
+    "game": "Persona 2: Innocent Sin",
+    "shortName": "Persona 2: Innocent Sin",
+    "platform": "Sony PSP",
+    "aliases": [
+      "Persona 2: Innocent Sin (Recompiled)"
+    ],
+    "developer": "flmoraes01",
+    "kind": "port",
+    "description": "Persona 2: Innocent Sin ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/flmoraes01/Persona2ISRecompile",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "P2R-*-beta-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "portable-ops-native",
+    "name": "Portable Ops Native",
+    "game": "Metal Gear Solid: Portable Ops",
+    "shortName": "Metal Gear Solid: Portable Ops",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "zexk",
+    "kind": "port",
+    "description": "Metal Gear Solid: Portable Ops ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/zexk/portable-ops-native",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PortableOpsNative-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "project-cuga",
+    "name": "Project Cuga",
+    "game": "Monster Hunter Portable 2nd G",
+    "shortName": "Monster Hunter Portable 2nd G",
+    "platform": "Sony PSP",
+    "aliases": [
+      "Monster Hunter Portable 2nd G (Project Cuga)"
+    ],
+    "developer": "SirNubs",
+    "kind": "port",
+    "description": "Monster Hunter Portable 2nd G ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/SirNubs/Project-Cuga",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Project-Cuga-*-Windows-x64-portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "psprecomp-msae",
+    "name": "PSPRecomp MSAE",
+    "game": "MotorStorm: Arctic Edge",
+    "shortName": "MotorStorm: Arctic Edge",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "coole42-pixel",
+    "kind": "port",
+    "description": "MotorStorm: Arctic Edge ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/coole42-pixel/PSPRecomp-MSAE",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MotorStorm-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pure-recomp",
+    "name": "Wipeout Pure: Recompiled",
+    "game": "Wipeout Pure",
+    "shortName": "Wipeout Pure",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "erreib",
+    "kind": "recomp",
+    "description": "Wipeout Pure recompiled from the Sony PSP version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/erreib/pure-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "pure-recomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sims2-psp-recomp",
+    "name": "The Sims 2 PSP Recomp",
+    "game": "The Sims 2",
+    "shortName": "The Sims 2",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "tokenbroker",
+    "kind": "port",
+    "description": "The Sims 2 ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/tokenbroker/sims2-psp-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Sims2PSP-win64-setup-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "starwars-renegadesquadron-pc",
+    "name": "Renegade Squadron PC",
+    "game": "Star Wars Battlefront: Renegade Squadron",
+    "shortName": "Star Wars Battlefront: Renegade Squadron",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "GTTeancum",
+    "kind": "port",
+    "description": "Star Wars Battlefront: Renegade Squadron ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/GTTeancum/StarWars-RenegadeSquadron-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RenegadeSquadronPC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "swbes-recomp",
+    "name": "SWBES Recomp",
+    "game": "Star Wars Battlefront: Elite Squadron",
+    "shortName": "Star Wars Battlefront: Elite Squadron",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "Revgith",
+    "kind": "port",
+    "description": "Star Wars Battlefront: Elite Squadron ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/Revgith/swbes-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "swbes-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "swes-recompiled",
+    "name": "SWES Recompiled",
+    "game": "Star Wars Battlefront: Elite Squadron",
+    "shortName": "Star Wars Battlefront: Elite Squadron",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "Warden2048",
+    "kind": "port",
+    "description": "Star Wars Battlefront: Elite Squadron ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Warden2048/swes-recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "swes-pc*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tagforcerecomp-preview",
+    "name": "Tag Force Recomp",
+    "game": "Yu-Gi-Oh! GX Tag Force",
+    "shortName": "Yu-Gi-Oh! GX Tag Force",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "Artknighty",
+    "kind": "port",
+    "description": "Yu-Gi-Oh! GX Tag Force ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Artknighty/tagforcerecomp-preview",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TagForceRecomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "the-3rd-birthday-recomp",
+    "name": "The 3rd Birthday Recomp",
+    "game": "The 3rd Birthday",
+    "shortName": "The 3rd Birthday",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "BasedYuki",
+    "kind": "port",
+    "description": "The 3rd Birthday ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/BasedYuki/the-3rd-birthday-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "The3rdBirthday-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tttrecomp",
+    "name": "TTTRecomp",
+    "game": "Dragon Ball Z: Tenkaichi Tag Team",
+    "shortName": "Dragon Ball Z: Tenkaichi Tag Team",
+    "platform": "Sony PSP",
+    "aliases": [
+      "Dragon Ball Z: Tenkaichi Tag Team (TTTRecomp)"
+    ],
+    "developer": "MarquitoK",
+    "kind": "port",
+    "description": "Dragon Ball Z: Tenkaichi Tag Team ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/MarquitoK/TTTRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TTTRecomp-Setup-v*-windows.x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tutikumo",
+    "name": "Monster Hunter Portable 2nd G — Tutikumo (Aoyagi01)",
+    "game": "Monster Hunter Freedom Unite",
+    "shortName": "Monster Hunter Freedom Unite",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "Aoyagi01",
+    "kind": "port",
+    "description": "Monster Hunter Freedom Unite ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Aoyagi01/Tutikumo",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "tutikumo-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "valkyria-chronicles-3-recomp",
+    "name": "Valkyria Chronicles III Recompiled",
+    "game": "Valkyria Chronicles III",
+    "shortName": "Valkyria Chronicles III",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "VirtuaQuest",
+    "kind": "port",
+    "description": "Valkyria Chronicles III ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/VirtuaQuest/Valkyria-Chronicles-3-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "VC3Recompiled-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "vcspc",
+    "name": "VCSPC",
+    "game": "Grand Theft Auto: Vice City Stories",
+    "shortName": "Grand Theft Auto: Vice City Stories",
+    "platform": "Sony PSP",
+    "aliases": [
+      "Grand Theft Auto: Vice City Stories (VCSPC)"
+    ],
+    "developer": "vancevcs",
+    "kind": "port",
+    "description": "Grand Theft Auto: Vice City Stories ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/vancevcs/VCSPC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GTA.Vice.City.Stories.PC.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "vice-city-stories-recomp",
+    "name": "Vice City Stories Recomp",
+    "game": "Grand Theft Auto: Vice City Stories",
+    "shortName": "Grand Theft Auto: Vice City Stories",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "OverkillLabs3",
+    "kind": "recomp",
+    "description": "Grand Theft Auto: Vice City Stories recompiled from the Sony PSP version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/OverkillLabs3/vice-city-stories-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "VCSNative-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "yakumo",
+    "name": "Yakumo",
+    "game": "Monster Hunter Portable 3rd",
+    "shortName": "Monster Hunter Portable 3rd",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "TeamGDB",
+    "kind": "recomp",
+    "description": "Monster Hunter Portable 3rd recompiled from the Sony PSP version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "mods",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/TeamGDB/Yakumo",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "yakumo-*-windows-x86_64-portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

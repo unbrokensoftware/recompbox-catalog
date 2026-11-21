@@ -1,0 +1,34 @@
+[
+  {
+    "id": "sonicthehedgehogsmsrecomp",
+    "name": "Sonic the Hedgehog (Master System)",
+    "game": "Sonic the Hedgehog",
+    "shortName": "Sonic the Hedgehog",
+    "platform": "Sega Master System",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Sonic the Hedgehog recompiled from the Master System version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/SonicTheHedgehogSMSRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SonicTheHedgehogSMSRecomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

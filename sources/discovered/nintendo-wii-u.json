@@ -1,0 +1,337 @@
+[
+  {
+    "id": "botw-native",
+    "name": "BotW Native",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "shortName": "The Legend of Zelda: Breath of the Wild",
+    "platform": "Nintendo Wii U",
+    "aliases": [],
+    "developer": "ryderclanky",
+    "kind": "recomp",
+    "description": "The Legend of Zelda: Breath of the Wild recompiled from the Wii U version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "gyro",
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/ryderclanky/BotW-Native",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BotW-Native-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "cha-cha",
+    "name": "Monster Hunter 3 Ultimate",
+    "game": "Monster Hunter 3 Ultimate",
+    "shortName": "Monster Hunter 3 Ultimate",
+    "platform": "Nintendo Wii U",
+    "aliases": [
+      "Monster Hunter 3 Ultimate (Cha-Cha)"
+    ],
+    "developer": "BoyClinton",
+    "kind": "recomp",
+    "description": "Monster Hunter 3 Ultimate recompiled from the Wii U version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/BoyClinton/Cha-Cha",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Cha-Cha-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gambit",
+    "name": "Gambit",
+    "game": "Splatoon",
+    "shortName": "Splatoon",
+    "platform": "Nintendo Wii U",
+    "aliases": [
+      "Splatoon (Gambit)"
+    ],
+    "developer": "ApfelTeeSaft",
+    "kind": "port",
+    "description": "Splatoon ported to run natively on PC from the Wii U version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ApfelTeeSaft/Gambit",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SplatoonPort-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mh3u-nativepc",
+    "name": "MH3U Native PC",
+    "game": "Monster Hunter 3 Ultimate",
+    "shortName": "Monster Hunter 3 Ultimate",
+    "platform": "Nintendo Wii U",
+    "aliases": [],
+    "developer": "G30vamv",
+    "kind": "port",
+    "description": "Monster Hunter 3 Ultimate ported to run natively on PC from the Wii U version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/G30vamv/MH3U-NativePC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MH3U_Port_Launcher_*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "nsmbu-recomp",
+    "name": "Nsmbu Recomp",
+    "game": "New Super Mario Bros. U",
+    "shortName": "New Super Mario Bros. U",
+    "platform": "Nintendo Wii U",
+    "aliases": [],
+    "developer": "nsmbu-recomp",
+    "kind": "port",
+    "description": "New Super Mario Bros. U ported to run natively on PC from the Wii U version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/nsmbu-recomp/nsmbu-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NSMBU-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "smash4pc",
+    "name": "Smash 4 PC",
+    "game": "Super Smash Bros. for Wii U",
+    "shortName": "Super Smash Bros. for Wii U",
+    "platform": "Nintendo Wii U",
+    "aliases": [],
+    "developer": "josiahg2502-glitch",
+    "kind": "recomp",
+    "description": "Super Smash Bros. for Wii U recompiled from the Wii U version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/josiahg2502-glitch/Smash4PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Smash4PC-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "smashrecomp",
+    "name": "SmashRecomp",
+    "game": "Super Smash Bros. for Wii U",
+    "shortName": "Super Smash Bros. for Wii U",
+    "platform": "Nintendo Wii U",
+    "aliases": [
+      "Super Smash Bros. for Wii U (SmashRecomp)"
+    ],
+    "developer": "ShadowHedgehog76",
+    "kind": "port",
+    "description": "Super Smash Bros. for Wii U ported to run natively on PC from the Wii U version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ShadowHedgehog76/SmashRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SmashRecomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "splatpc-splatoon-native-pc-port",
+    "name": "Splatoon",
+    "game": "Splatoon",
+    "shortName": "Splatoon",
+    "platform": "Nintendo Wii U",
+    "aliases": [],
+    "developer": "PC-PORTERS",
+    "kind": "recomp",
+    "description": "Splatoon recompiled from the Wii U version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/PC-PORTERS/SplatPC-Splatoon-Native-PC-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SplatPC-Builder-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "twilight-princess-hd-recomp",
+    "name": "Twilight Princess HD Recompiled",
+    "game": "The Legend of Zelda: Twilight Princess HD",
+    "shortName": "The Legend of Zelda: Twilight Princess HD",
+    "platform": "Nintendo Wii U",
+    "aliases": [
+      "The Legend of Zelda: Twilight Princess HD (Twilight Princess HD Recompiled)"
+    ],
+    "developer": "0r1as",
+    "kind": "port",
+    "description": "The Legend of Zelda: Twilight Princess HD ported to run natively on PC from the Wii U version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/0r1as/Twilight-Princess-HD-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TwilightPrincessHD-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "vr-wakerhd",
+    "name": "VR WakerHD",
+    "game": "The Legend of Zelda: The Wind Waker HD",
+    "shortName": "The Legend of Zelda: The Wind Waker HD",
+    "platform": "Nintendo Wii U",
+    "aliases": [],
+    "developer": "VR-WakerHD",
+    "kind": "port",
+    "description": "The Legend of Zelda: The Wind Waker HD ported to run natively on PC from the Wii U version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/VR-WakerHD/VR-WakerHD",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "VR-WakerHD-Windows-*-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

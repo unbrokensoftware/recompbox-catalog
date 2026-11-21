@@ -1,0 +1,66 @@
+[
+  {
+    "id": "sonicblastggrecomp",
+    "name": "Sonic Blast",
+    "game": "Sonic Blast",
+    "shortName": "Sonic Blast",
+    "platform": "Sega Game Gear",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Sonic Blast recompiled from the Game Gear version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/SonicBlastGGRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SonicBlastGGRecomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tails-adventure",
+    "name": "Tails Adventure Remake",
+    "game": "Tails Adventure",
+    "shortName": "Tails Adventure",
+    "platform": "Sega Game Gear",
+    "aliases": [],
+    "developer": "mechakotik",
+    "kind": "port",
+    "description": "Tails Adventure ported to run natively on PC from the Game Gear version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mechakotik/tails-adventure",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "tails-adventure-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

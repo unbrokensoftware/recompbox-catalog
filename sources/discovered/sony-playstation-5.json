@@ -1,0 +1,139 @@
+[
+  {
+    "id": "dc-ps5",
+    "name": "Dead Cells PS5 Native",
+    "game": "Dead Cells: Return to Castlevania Edition",
+    "shortName": "Dead Cells: Return to Castlevania Edition",
+    "platform": "Sony Playstation 5",
+    "aliases": [
+      "Dead Cells"
+    ],
+    "developer": "OverkillLabs3",
+    "kind": "port",
+    "description": "Dead Cells: Return to Castlevania Edition ported to run natively on PC from the PlayStation 5 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/OverkillLabs3/DC-PS5",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DeadCells-PS5-Native-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "demonssoulspc",
+    "name": "Demon's Souls PC",
+    "game": "Demon's Souls",
+    "shortName": "Demon's Souls",
+    "platform": "Sony Playstation 5",
+    "aliases": [],
+    "developer": "Razoc",
+    "kind": "port",
+    "description": "Demon's Souls ported to run natively on PC from the PlayStation 5 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Razoc/DemonsSoulsPC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DemonsSoulsPC-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pcportastrobot",
+    "name": "AstroHybrid",
+    "game": "Astro Bot",
+    "shortName": "Astro Bot",
+    "platform": "Sony Playstation 5",
+    "aliases": [],
+    "developer": "imnotsharingmyname",
+    "kind": "port",
+    "description": "Astro Bot ported to run natively on PC from the PlayStation 5 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/imnotsharingmyname/pcportastrobot",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "AstroBotPC-AstroHybrid-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sos-ps5",
+    "name": "SonsOfSparta-PS5 Native",
+    "game": "God of War: Sons of Sparta",
+    "shortName": "God of War: Sons of Sparta",
+    "platform": "Sony Playstation 5",
+    "aliases": [
+      "God of War: Sons of Sparta (PS5)"
+    ],
+    "developer": "OverkillLabs3",
+    "kind": "port",
+    "description": "God of War: Sons of Sparta ported to run natively on PC from the PlayStation 5 version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/OverkillLabs3/SoS-PS5",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SonsOfSparta-PS5-Native-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

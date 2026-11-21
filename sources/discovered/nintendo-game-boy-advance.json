@@ -1,0 +1,2035 @@
+[
+  {
+    "id": "advanceliberty-enhanced",
+    "name": "AdvanceLiberty: Enhanced",
+    "game": "Grand Theft Auto Advance",
+    "shortName": "Grand Theft Auto Advance",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [
+      "Grand Theft Auto Advance (AdvanceLiberty: Enhanced)"
+    ],
+    "developer": "AnriTool",
+    "kind": "port",
+    "description": "Grand Theft Auto Advance ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/AnriTool/AdvanceLiberty-Enhanced",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "AdvanceLiberty-Enhanced-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "astroboy-omegafactor-recomp",
+    "name": "Astro Boy: Omega Factor Recomp",
+    "game": "Astro Boy: Omega Factor",
+    "shortName": "Astro Boy: Omega Factor",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "goodshepherd23",
+    "kind": "port",
+    "description": "Astro Boy: Omega Factor ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/goodshepherd23/AstroBoy-OmegaFactor-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "AstroBoy-OmegaFactor-Recomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "aw-recompiled",
+    "name": "AW Recompiled",
+    "game": "Advance Wars",
+    "shortName": "Advance Wars",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [
+      "Advance Wars (AW-Recompiled)"
+    ],
+    "developer": "sergiomanzur",
+    "kind": "port",
+    "description": "Advance Wars ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/sergiomanzur/AW-Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "advance-wars-v*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "bravely-emerald",
+    "name": "Bravely Emerald",
+    "game": "Pokémon Emerald",
+    "shortName": "Pokémon Emerald",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "marcoscodas",
+    "kind": "port",
+    "description": "Pokémon Emerald ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/marcoscodas/bravely-emerald",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BravelyEmeraldBuilder-win.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "castlevaniaariaofsorrowrecomp",
+    "name": "CastlevaniaAriaOfSorrowRecomp",
+    "game": "Castlevania: Aria of Sorrow",
+    "shortName": "Castlevania: Aria of Sorrow",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "Zaxaerith",
+    "kind": "port",
+    "description": "Castlevania: Aria of Sorrow ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Zaxaerith/CastlevaniaAriaOfSorrowRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "CastlevaniaAriaOfSorrowRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "castlevaniaharmonyofdissonancerecomp",
+    "name": "CastlevaniaHarmonyOfDissonanceRecomp",
+    "game": "Castlevania: Harmony of Dissonance",
+    "shortName": "Castlevania: Harmony of Dissonance",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "Zaxaerith",
+    "kind": "port",
+    "description": "Castlevania: Harmony of Dissonance ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Zaxaerith/CastlevaniaHarmonyOfDissonanceRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "CastlevaniaHarmonyOfDissonanceRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "crazy-taxi-catch-a-ride-pc-port",
+    "name": "Crazy Taxi Catch A Ride PC Port",
+    "game": "Crazy Taxi: Catch a Ride",
+    "shortName": "Crazy Taxi: Catch a Ride",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "wigwoo1",
+    "kind": "port",
+    "description": "Crazy Taxi: Catch a Ride ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/wigwoo1/Crazy-Taxi-Catch-A-Ride-PC-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Crazy-Taxi-Native-Windows-x64-*-Asset-Free.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dragon-quest-mori-mori-recompilation",
+    "name": "Slime MoriMori Recomp",
+    "game": "Slime MoriMori Dragon Quest",
+    "shortName": "Slime MoriMori Dragon Quest",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "vxz-dev",
+    "kind": "port",
+    "description": "Slime MoriMori Dragon Quest ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/vxz-dev/Dragon-Quest-Mori-Mori-Recompilation-",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SlimeMoriMoriRecomp_Release-1.0.0-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dragonballzbuusfuryrecomp",
+    "name": "Dragon Ball Z: Buu's Fury Recomp",
+    "game": "Dragon Ball Z: Buu's Fury",
+    "shortName": "Dragon Ball Z: Buu's Fury",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Dragon Ball Z: Buu's Fury recompiled from the Game Boy Advance version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mstan/DragonBallZBuusFuryRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DragonBallZBuusFuryRecomp-windows-x64-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dragonballzlegacyofgokuiirecomp",
+    "name": "Dragon Ball Z: The Legacy of Goku II Recomp",
+    "game": "Dragon Ball Z: The Legacy of Goku II",
+    "shortName": "Dragon Ball Z: The Legacy of Goku II",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Dragon Ball Z: The Legacy of Goku II recompiled from the Game Boy Advance version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mstan/DragonBallZLegacyofGokuIIRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DragonBallZLegacyofGokuIIRecomp-windows-x64-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dragonballzlegacyofgokurecomp",
+    "name": "Dragon Ball Z: The Legacy of Goku Recomp",
+    "game": "Dragon Ball Z: The Legacy of Goku",
+    "shortName": "Dragon Ball Z: The Legacy of Goku",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Dragon Ball Z: The Legacy of Goku recompiled from the Game Boy Advance version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/DragonBallZLegacyOfGokuRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DragonBallZLegacyOfGokuRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "emerald-3ds",
+    "name": "Emerald 3DS",
+    "game": "Pokemon Emerald",
+    "shortName": "Pokemon Emerald",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [
+      "Pokemon Emerald (Emerald 3DS)"
+    ],
+    "developer": "ZallaxDev",
+    "kind": "port",
+    "description": "Pokemon Emerald ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ZallaxDev/emerald-3ds",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Emerald3DS-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "emeraldrecomp",
+    "name": "EmeraldRecomp",
+    "game": "Pokemon Emerald",
+    "shortName": "Pokemon Emerald",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [
+      "Pokémon Emerald Version"
+    ],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Pokemon Emerald recompiled from the Game Boy Advance version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/mstan/EmeraldRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "EmeraldRecomp-windows-x64-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "fe8-pc-port",
+    "name": "FE8 PC Port",
+    "game": "Fire Emblem: The Sacred Stones",
+    "shortName": "Fire Emblem: The Sacred Stones",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "FT775",
+    "kind": "port",
+    "description": "Fire Emblem: The Sacred Stones ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/FT775/fe8-pc-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "fe8-pc-port-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ffta-recomp",
+    "name": "FFTA Recomp",
+    "game": "Final Fantasy Tactics Advance",
+    "shortName": "Final Fantasy Tactics Advance",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "james2doyle",
+    "kind": "recomp",
+    "description": "Final Fantasy Tactics Advance recompiled from the Game Boy Advance version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/james2doyle/ffta-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FFTARecomp-v*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "fftarecomp",
+    "name": "FFTARecomp",
+    "game": "Final Fantasy Tactics Advance",
+    "shortName": "Final Fantasy Tactics Advance",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "Jorge262007",
+    "kind": "recomp",
+    "description": "Final Fantasy Tactics Advance recompiled from the Game Boy Advance version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Jorge262007/FFTARecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FFTARecomp-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "fireredleafgreenrecomp",
+    "name": "FireRedLeafGreenRecomp",
+    "game": "Pokemon FireRed",
+    "shortName": "Pokemon FireRed",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [
+      "Pokémon FireRed Version"
+    ],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Pokemon FireRed recompiled from the Game Boy Advance version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mstan/FireRedLeafGreenRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FireRedRecomp-windows-x64-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "fzerogplegendrecomp",
+    "name": "FZeroGPLegendRecomp",
+    "game": "F-Zero: GP Legend",
+    "shortName": "F-Zero: GP Legend",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "Zaxaerith",
+    "kind": "port",
+    "description": "F-Zero: GP Legend ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Zaxaerith/FZeroGPLegendRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FZeroGPLegendRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "fzeromaximumvelocityrecomp",
+    "name": "FZeroMaximumVelocityRecomp",
+    "game": "F-Zero: Maximum Velocity",
+    "shortName": "F-Zero: Maximum Velocity",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "Zaxaerith",
+    "kind": "port",
+    "description": "F-Zero: Maximum Velocity ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Zaxaerith/FZeroMaximumVelocityRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FZeroMaximumVelocityRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "goldensunthebrokensealrecomp",
+    "name": "GoldenSunTheBrokenSealRecomp",
+    "game": "Golden Sun: The Broken Seal",
+    "shortName": "Golden Sun: The Broken Seal",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [
+      "Golden Sun: The Broken Seal (GoldenSunTheBrokenSealRecomp)"
+    ],
+    "developer": "Zaxaerith",
+    "kind": "port",
+    "description": "Golden Sun: The Broken Seal ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Zaxaerith/GoldenSunTheBrokenSealRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GoldenSunTheBrokenSealRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "goldensunthelostagerecomp",
+    "name": "GoldenSunTheLostAgeRecomp",
+    "game": "Golden Sun: The Lost Age",
+    "shortName": "Golden Sun: The Lost Age",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [
+      "Golden Sun: The Lost Age (GoldenSunTheLostAgeRecomp)"
+    ],
+    "developer": "Zaxaerith",
+    "kind": "port",
+    "description": "Golden Sun: The Lost Age ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Zaxaerith/GoldenSunTheLostAgeRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GoldenSunTheLostAgeRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "grand-theft-auto-advance-pc-portq",
+    "name": "GTA Advance Native",
+    "game": "Grand Theft Auto Advance",
+    "shortName": "Grand Theft Auto Advance",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [
+      "Grand Theft Auto Advance (GTA Advance Native)"
+    ],
+    "developer": "wigwoo1",
+    "kind": "port",
+    "description": "Grand Theft Auto Advance ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/wigwoo1/Grand-Theft-Auto-Advance-PC-Portq",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GTA-Advance-Native-Windows-*-preview.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gsrecomp",
+    "name": "GSRecomp",
+    "game": "Golden Sun",
+    "shortName": "Golden Sun",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "Shmargus",
+    "kind": "recomp",
+    "description": "Golden Sun recompiled from the Game Boy Advance version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Shmargus/GSRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GoldenSunRecompiled-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gundam-seed-destiny-battle-assault-pc-port",
+    "name": "Gundam Seed Destiny Battle Assault PC Port",
+    "game": "Gundam SEED: Battle Assault",
+    "shortName": "Gundam SEED: Battle Assault",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "KuroRaiden",
+    "kind": "port",
+    "description": "Gundam SEED: Battle Assault ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/KuroRaiden/Gundam-Seed-Destiny-Battle-Assault-PC-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GundamSeedDestinyBattleAssaultPC-Portable-Windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "jvppbport",
+    "name": "JVPPBPort",
+    "game": "Pokémon Pinball: Ruby & Sapphire",
+    "shortName": "Pokémon Pinball: Ruby & Sapphire",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "jonnisvibes",
+    "kind": "port",
+    "description": "Pokémon Pinball: Ruby & Sapphire ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/jonnisvibes/jvppbport",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "JVPPBPort-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "knightoflodisrecomp",
+    "name": "KnightOfLodisRecomp",
+    "game": "Tactics Ogre: The Knight of Lodis",
+    "shortName": "Tactics Ogre: The Knight of Lodis",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "lucdubois",
+    "kind": "port",
+    "description": "Tactics Ogre: The Knight of Lodis ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/lucdubois/KnightOfLodisRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "KnightOfLodisRecomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "kururin",
+    "name": "kururin",
+    "game": "Kuru Kuru Kururin",
+    "shortName": "Kuru Kuru Kururin",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "an1n-dya",
+    "kind": "port",
+    "description": "Kuru Kuru Kururin ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/an1n-dya/kururin",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "kururin_pc_win32.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mario-tennis-power-tour-recomp",
+    "name": "Mario Tennis Power Tour Recomp",
+    "game": "Mario Tennis: Power Tour",
+    "shortName": "Mario Tennis: Power Tour",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "MaErGa",
+    "kind": "port",
+    "description": "Mario Tennis: Power Tour ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/MaErGa/mario-tennis-power-tour-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "V0.4.4.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mariokartsupercircuitrecomp",
+    "name": "Mario Kart: Super Circuit Recompiled",
+    "game": "Mario Kart: Super Circuit",
+    "shortName": "Mario Kart: Super Circuit",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Mario Kart: Super Circuit recompiled from the Game Boy Advance version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mstan/MarioKartSuperCircuitRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MarioKartSuperCircuitRecomp-windows-x64-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "marioluigisuperstarsagarecomp",
+    "name": "MarioLuigiSuperstarSagaRecomp",
+    "game": "Mario & Luigi: Superstar Saga",
+    "shortName": "Mario & Luigi: Superstar Saga",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "Zaxaerith",
+    "kind": "port",
+    "description": "Mario & Luigi: Superstar Saga ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Zaxaerith/MarioLuigiSuperstarSagaRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MarioLuigiSuperstarSagaRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "megamanzerorecomp",
+    "name": "MegaManZeroRecomp",
+    "game": "Mega Man Zero",
+    "shortName": "Mega Man Zero",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Mega Man Zero recompiled from the Game Boy Advance version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mstan/MegaManZeroRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MegaManZeroRecomp-windows-x64-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "metroidfusionrecomp",
+    "name": "Metroid Fusion",
+    "game": "Metroid Fusion",
+    "shortName": "Metroid Fusion",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [
+      "Metroid Fusion (MetroidFusionRecomp)"
+    ],
+    "developer": "Zaxaerith",
+    "kind": "recomp",
+    "description": "Metroid Fusion recompiled from the Game Boy Advance version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Zaxaerith/MetroidFusionRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MetroidFusionRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "metroidzeromissionrecomp",
+    "name": "MetroidZeroMissionRecomp",
+    "game": "Metroid: Zero Mission",
+    "shortName": "Metroid: Zero Mission",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "Zaxaerith",
+    "kind": "port",
+    "description": "Metroid: Zero Mission ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Zaxaerith/MetroidZeroMissionRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MetroidZeroMissionRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "minishcaprecomp",
+    "name": "Minish Cap Recomp",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "shortName": "The Legend of Zelda: The Minish Cap",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "The Legend of Zelda: The Minish Cap recompiled from the Game Boy Advance version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mstan/MinishCapRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MinishCapRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mksc-neo",
+    "name": "MKSC Neo",
+    "game": "Mario Kart: Super Circuit",
+    "shortName": "Mario Kart: Super Circuit",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "arcanite24",
+    "kind": "port",
+    "description": "Mario Kart: Super Circuit ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/arcanite24/mksc-neo",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "mksc-neo-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mother3pc",
+    "name": "Mother3PC",
+    "game": "Mother 3",
+    "shortName": "Mother 3",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "xXGhostPantsXx",
+    "kind": "port",
+    "description": "Mother 3 ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/xXGhostPantsXx/Mother3PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Mother3Recomp-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mother3recomp",
+    "name": "Mother 3 Recomp",
+    "game": "Mother 3",
+    "shortName": "Mother 3",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "josiahg2502-glitch",
+    "kind": "recomp",
+    "description": "Mother 3 recompiled from the Game Boy Advance version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/josiahg2502-glitch/Mother3Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Mother3Recomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mzm-recomp",
+    "name": "Metroid: Zero Mission",
+    "game": "Metroid: Zero Mission",
+    "shortName": "Metroid: Zero Mission",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [
+      "Metroid: Zero Mission (MZM-Recomp)"
+    ],
+    "developer": "HikariLucy",
+    "kind": "recomp",
+    "description": "Metroid: Zero Mission recompiled from the Game Boy Advance version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/HikariLucy/MZM-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MZMRecompiled-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "oracle-recompiled",
+    "name": "Oracle Portable",
+    "game": "Oracle of Ages / Oracle of Seasons",
+    "shortName": "Oracle of Ages / Oracle of Seasons",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "johnnieb333",
+    "kind": "port",
+    "description": "Oracle of Ages / Oracle of Seasons ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/johnnieb333/Oracle-Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Oracle-Portable-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pmd-green",
+    "name": "Pokémon Mystery Dungeon: Red Rescue Team",
+    "game": "Pokémon Mystery Dungeon: Red Rescue Team",
+    "shortName": "Pokémon Mystery Dungeon: Red Rescue Team",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "Asphaltian",
+    "kind": "recomp",
+    "description": "Pokémon Mystery Dungeon: Red Rescue Team recompiled from the Game Boy Advance version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Asphaltian/pmd-green",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GreenRescueTeam-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pmdredrescueteamrecomp",
+    "name": "PMDRedRescueTeamRecomp",
+    "game": "Pokemon Mystery Dungeon: Red Rescue Team",
+    "shortName": "Pokemon Mystery Dungeon: Red Rescue Team",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [
+      "Pokemon Mystery Dungeon: Red Rescue Team (PMDRedRescueTeamRecomp)"
+    ],
+    "developer": "Spacekillerz",
+    "kind": "port",
+    "description": "Pokemon Mystery Dungeon: Red Rescue Team ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Spacekillerz/PMDRedRescueTeamRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PMDRedRescueTeamRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pokeemerald-multiplatform",
+    "name": "Pokeemerald Multiplatform",
+    "game": "Pokémon Emerald",
+    "shortName": "Pokémon Emerald",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "gradenGnostic",
+    "kind": "port",
+    "description": "Pokémon Emerald ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/gradenGnostic/pokeemerald-multiplatform",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "pokeemerald-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pokemonmysterydungeonredrescueteamrecomp",
+    "name": "PokemonMysteryDungeonRedRescueTeamRecomp",
+    "game": "Pokemon Mystery Dungeon: Red Rescue Team",
+    "shortName": "Pokemon Mystery Dungeon: Red Rescue Team",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "josiahg2502-glitch",
+    "kind": "port",
+    "description": "Pokemon Mystery Dungeon: Red Rescue Team ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/josiahg2502-glitch/PokemonMysteryDungeonRedRescueTeamRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PokemonMysteryDungeonRedRescueTeamRecomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "re-zoids-saga",
+    "name": "Re Zoids Saga",
+    "game": "Zoids Saga",
+    "shortName": "Zoids Saga",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [
+      "Zoids Saga (re-zoids-saga)"
+    ],
+    "developer": "serivt",
+    "kind": "port",
+    "description": "Zoids Saga ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/serivt/re-zoids-saga",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "re-zoids-saga-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rekhcom",
+    "name": "ReKHCoM",
+    "game": "Kingdom Hearts: Chain of Memories",
+    "shortName": "Kingdom Hearts: Chain of Memories",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "MatyMeatBoy",
+    "kind": "decomp",
+    "description": "Kingdom Hearts: Chain of Memories running natively on PC, built from the decompiled Game Boy Advance game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/MatyMeatBoy/ReKHCoM",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ReKHCoM-v*-windows-x86-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rotk-recompiled",
+    "name": "ROTK Recompiled",
+    "game": "The Lord of the Rings: The Return of the King",
+    "shortName": "The Lord of the Rings: The Return of the King",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "Lillypad-14",
+    "kind": "port",
+    "description": "The Lord of the Rings: The Return of the King ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Lillypad-14/rotk-recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ROTK-Recompiled-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rubysapphirerecomp",
+    "name": "RubySapphireRecomp",
+    "game": "Pokemon Ruby",
+    "shortName": "Pokemon Ruby",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [
+      "Pokémon Ruby Version"
+    ],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Pokemon Ruby recompiled from the Game Boy Advance version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mstan/RubySapphireRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RubyRecomp-windows-x64-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sacredstonesrecomp",
+    "name": "Fire Emblem: The Sacred Stones Recomp",
+    "game": "Fire Emblem: The Sacred Stones",
+    "shortName": "Fire Emblem: The Sacred Stones",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "Lordingard",
+    "kind": "recomp",
+    "description": "Fire Emblem: The Sacred Stones recompiled from the Game Boy Advance version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Lordingard/SacredStonesRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SacredStonesRecomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "shiningsource",
+    "name": "Shining Source",
+    "game": "Shining Soul II",
+    "shortName": "Shining Soul II",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "MatyMeatBoy",
+    "kind": "port",
+    "description": "Shining Soul II ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/MatyMeatBoy/ShiningSource",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ShiningSource-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ss-advance-decomp",
+    "name": "Ss Advance Decomp",
+    "game": "Serious Sam Advance",
+    "shortName": "Serious Sam Advance",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "ZynChroMaTiK",
+    "kind": "port",
+    "description": "Serious Sam Advance ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ZynChroMaTiK/ss-advance-decomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ss-advance-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ss2recomp",
+    "name": "SS2Recomp",
+    "game": "Shining Soul II",
+    "shortName": "Shining Soul II",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [
+      "Shining Soul II (SS2Recomp)"
+    ],
+    "developer": "MatyMeatBoy",
+    "kind": "port",
+    "description": "Shining Soul II ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/MatyMeatBoy/SS2Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ShiningSoul2Recomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "supermarioadvance2recomp",
+    "name": "SuperMarioAdvance2Recomp",
+    "game": "Super Mario World: Super Mario Advance 2",
+    "shortName": "Super Mario World: Super Mario Advance 2",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [
+      "Super Mario Advance 2: Super Mario World"
+    ],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Super Mario World: Super Mario Advance 2 recompiled from the Game Boy Advance version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mstan/SuperMarioAdvance2Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SuperMarioAdvance2Recomp-windows-x64-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "supermarioadvance4recomp",
+    "name": "Super Mario Advance 4 Recomp",
+    "game": "Super Mario Advance 4: Super Mario Bros. 3",
+    "shortName": "Super Mario Advance 4: Super Mario Bros. 3",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Super Mario Advance 4: Super Mario Bros. 3 recompiled from the Game Boy Advance version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/SuperMarioAdvance4Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SuperMarioAdvance4Recomp-windows-x64-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "templefrog",
+    "name": "TempleFrog",
+    "game": "Frogger's Adventures: Temple of the Frog",
+    "shortName": "Frogger's Adventures: Temple of the Frog",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "devall96",
+    "kind": "port",
+    "description": "Frogger's Adventures: Temple of the Frog ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/devall96/TempleFrog",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TempleFrog-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "third-age-pc-recomp",
+    "name": "Third Age Pc Recomp",
+    "game": "The Lord of the Rings: The Third Age",
+    "shortName": "The Lord of the Rings: The Third Age",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "brandongillespie17-jpg",
+    "kind": "port",
+    "description": "The Lord of the Rings: The Third Age ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/brandongillespie17-jpg/third-age-pc-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "third-age-pc-windows-x64-preview-*-ringbearer.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tmc",
+    "name": "tmc",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "shortName": "The Legend of Zelda: The Minish Cap",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "MatheoVignaud",
+    "kind": "port",
+    "description": "The Legend of Zelda: The Minish Cap ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/MatheoVignaud/tmc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "tmc-usa-windows-*ac.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "txra-decomp",
+    "name": "Txra Decomp",
+    "game": "Tokyo Xtreme Racer Advance",
+    "shortName": "Tokyo Xtreme Racer Advance",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [
+      "Tokyo Xtreme Racer Advance (txra-decomp)"
+    ],
+    "developer": "dexedrne",
+    "kind": "port",
+    "description": "Tokyo Xtreme Racer Advance ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/dexedrne/txra-decomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "txra-pc-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "warioland4",
+    "name": "Wario Land 4 PC Port",
+    "game": "Wario Land 4",
+    "shortName": "Wario Land 4",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "BioRhythmicStudios",
+    "kind": "port",
+    "description": "Wario Land 4 ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/BioRhythmicStudios/warioland4",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WarioLand4-Native-PC-Port-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "warioland4recomp",
+    "name": "WarioLand4Recomp",
+    "game": "Wario Land 4",
+    "shortName": "Wario Land 4",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "Zaxaerith",
+    "kind": "port",
+    "description": "Wario Land 4 ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Zaxaerith/WarioLand4Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WarioLand4Recomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "wariowaretwistedrecomp",
+    "name": "WarioWare: Twisted! Recomp",
+    "game": "WarioWare: Twisted!",
+    "shortName": "WarioWare: Twisted!",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "WarioWare: Twisted! recompiled from the Game Boy Advance version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "gyro"
+    ],
+    "repositoryUrl": "https://github.com/mstan/WarioWareTwistedRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WarioWareTwistedRecomp-windows-x64-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "zoidslegacyrecomp",
+    "name": "ZoidsLegacyRecomp",
+    "game": "Zoids Legacy",
+    "shortName": "Zoids Legacy",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [
+      "Zoids Legacy (ZoidsLegacyRecomp)"
+    ],
+    "developer": "thearturord",
+    "kind": "port",
+    "description": "Zoids Legacy ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/thearturord/ZoidsLegacyRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ZoidsLegacyRecomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

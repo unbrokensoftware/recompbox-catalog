@@ -1,0 +1,34 @@
+[
+  {
+    "id": "imsa-wcr-m2-recomp",
+    "name": "IMSA World Championship Racing",
+    "game": "IMSA World Championship Racing",
+    "shortName": "IMSA World Championship Racing",
+    "platform": "3DO Interactive Multiplayer",
+    "aliases": [],
+    "developer": "rsantos722",
+    "kind": "recomp",
+    "description": "IMSA World Championship Racing recompiled from the 3DO Interactive Multiplayer version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/rsantos722/imsa-wcr-m2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "imsa-wcr-m2-recomp-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

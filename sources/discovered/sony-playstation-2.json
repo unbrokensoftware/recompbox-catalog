@@ -1,0 +1,3955 @@
+[
+  {
+    "id": "3sx",
+    "name": "3SX",
+    "game": "Street Fighter III: 3rd Strike",
+    "shortName": "Street Fighter III: 3rd Strike",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "crowded-street",
+    "kind": "decomp",
+    "description": "Street Fighter III: 3rd Strike running natively on PC, built from the decompiled PlayStation 2 game.",
+    "requirement": "",
+    "features": [
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/crowded-street/3sx",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "3SX-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "3sxw",
+    "name": "3SXW",
+    "game": "Street Fighter III: 3rd Strike",
+    "shortName": "Street Fighter III: 3rd Strike",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "Street Fighter III: 3rd Strike - Fight for the Future"
+    ],
+    "developer": "guimaraf",
+    "kind": "decomp",
+    "description": "Street Fighter III: 3rd Strike running natively on PC, built from the decompiled PlayStation 2 game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/guimaraf/3sxw",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "3SX-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "acnb-decomp",
+    "name": "ACNB - Decomp",
+    "game": "Armored Core: Nine Breaker",
+    "shortName": "Armored Core: Nine Breaker",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "Armored Core: Nine Breaker (ACNB - Decomp)"
+    ],
+    "developer": "Nezara",
+    "kind": "port",
+    "description": "Armored Core: Nine Breaker ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Nezara/ACNB-Decomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ACNB-Stage0-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "baroque-decomp",
+    "name": "Baroque Decomp",
+    "game": "Baroque",
+    "shortName": "Baroque",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "Arch61s",
+    "kind": "port",
+    "description": "Baroque ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Arch61s/Baroque-Decomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Baroque-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "battlestadium-don",
+    "name": "Battle Stadium D.O.N Recomp",
+    "game": "Battle Stadium D.O.N",
+    "shortName": "Battle Stadium D.O.N",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "dvilelaf",
+    "kind": "port",
+    "description": "Battle Stadium D.O.N ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/dvilelaf/battlestadium-don",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "don-windows-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ben10-recomp",
+    "name": "Ben10 Recomp",
+    "game": "Ben 10: Protector of Earth",
+    "shortName": "Ben 10: Protector of Earth",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "aitorcachero",
+    "kind": "port",
+    "description": "Ben 10: Protector of Earth ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/aitorcachero/Ben10-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Ben10_Protector_of_Earth_PC_*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "bloody-roar4-recomp",
+    "name": "Bloody Roar4 Recomp",
+    "game": "Bloody Roar 4 [Analog Stick Mod]",
+    "shortName": "Bloody Roar 4 [Analog Stick Mod]",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "recomp-code",
+    "kind": "port",
+    "description": "Bloody Roar 4 [Analog Stick Mod] ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/recomp-code/bloody-roar4-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BR4_Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "bt2-recomp",
+    "name": "BT2 Recomp",
+    "game": "Dragon Ball Z: Budokai Tenkaichi 2",
+    "shortName": "Dragon Ball Z: Budokai Tenkaichi 2",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "oric212",
+    "kind": "recomp",
+    "description": "Dragon Ball Z: Budokai Tenkaichi 2 recompiled from the PlayStation 2 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/oric212/BT2-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BT2-Recomp-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "burnout3-native",
+    "name": "Burnout3 Native",
+    "game": "Burnout 3: Takedown",
+    "shortName": "Burnout 3: Takedown",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "u0rhs",
+    "kind": "port",
+    "description": "Burnout 3: Takedown ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/u0rhs/burnout3-native",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "burnout3-native-*-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "burnout3-pc",
+    "name": "Burnout 3 PC",
+    "game": "Burnout 3: Takedown",
+    "shortName": "Burnout 3: Takedown",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "danielgomesvieira2000",
+    "kind": "recomp",
+    "description": "Burnout 3: Takedown recompiled from the PlayStation 2 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/danielgomesvieira2000/burnout3-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Burnout3-PC-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "cartoon-network-racing-recompiled",
+    "name": "Cartoon Network Racing Recompiled",
+    "game": "Cartoon Network Racing",
+    "shortName": "Cartoon Network Racing",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "TekRantGaming",
+    "kind": "port",
+    "description": "Cartoon Network Racing ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/TekRantGaming/cartoon-network-racing-recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "CartoonNetworkRacing-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "castlevania-cod-qol",
+    "name": "Castlevania: Curse of Darkness PC Port (PS2)",
+    "game": "Castlevania: Curse of Darkness",
+    "shortName": "Castlevania: Curse of Darkness",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "fasipe",
+    "kind": "port",
+    "description": "Castlevania: Curse of Darkness ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/fasipe/Castlevania-COD-QOL",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Castlevania-COD-QOL-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "castlevanialoi-pc",
+    "name": "Castlevania LoI PC",
+    "game": "Castlevania: Lament of Innocence",
+    "shortName": "Castlevania: Lament of Innocence",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "ggMartinez",
+    "kind": "port",
+    "description": "Castlevania: Lament of Innocence ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ggMartinez/CastlevaniaLOI-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "CastlevaniaLoI-dev-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "climax-game-engine-toolkit",
+    "name": "Climax Engine Toolkit",
+    "game": "Silent Hill Origins",
+    "shortName": "Silent Hill Origins",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "Silent Hill Origins (Climax Engine Toolkit)"
+    ],
+    "developer": "BlackLineInteractive",
+    "kind": "port",
+    "description": "Silent Hill Origins ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/BlackLineInteractive/Climax_Game_Engine_Toolkit",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Climax_Game_Engine_Toolkit-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "clocktower3recompiled",
+    "name": "Clock Tower 3 Recompiled",
+    "game": "Clock Tower 3",
+    "shortName": "Clock Tower 3",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "LegendarySavageGamer",
+    "kind": "port",
+    "description": "Clock Tower 3 ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/LegendarySavageGamer/ClockTower3Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ClockTower3Recompiled-*-win-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "crash-tag-team-racing-pc",
+    "name": "Crash Tag Team Racing PC",
+    "game": "Crash Tag Team Racing",
+    "shortName": "Crash Tag Team Racing",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "Miguel0827",
+    "kind": "port",
+    "description": "Crash Tag Team Racing ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Miguel0827/Crash-Tag-Team-Racing-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "CTTR-PC-Port-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "crash-twinsanity-windows",
+    "name": "Crash Twinsanity PC",
+    "game": "Crash Twinsanity",
+    "shortName": "Crash Twinsanity",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "GioPixelGH",
+    "kind": "decomp",
+    "description": "Crash Twinsanity running natively on PC, built from the decompiled PlayStation 2 game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Crash-Twinsanity-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "crash-wrath-of-cortex-pc",
+    "name": "Crash Bandicoot: The Wrath of Cortex PC",
+    "game": "Crash Bandicoot: The Wrath of Cortex",
+    "shortName": "Crash Bandicoot: The Wrath of Cortex",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "Miguel0827",
+    "kind": "port",
+    "description": "Crash Bandicoot: The Wrath of Cortex ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Miguel0827/Crash-Wrath-of-Cortex-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TWoC-PC-Port-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "crashwoc-nuworld",
+    "name": "CrashWOC: NuWorld",
+    "game": "Crash Bandicoot: The Wrath of Cortex",
+    "shortName": "Crash Bandicoot: The Wrath of Cortex",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "denzi-gh",
+    "kind": "port",
+    "description": "Crash Bandicoot: The Wrath of Cortex ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/denzi-gh/crashwoc-nuworld",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "CrashWOC-NuWorld-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dbz-bt4-recomp",
+    "name": "DBZ Budokai Tenkaichi 4 Recomp",
+    "game": "Dragon Ball Z: Budokai Tenkaichi 3",
+    "shortName": "Dragon Ball Z: Budokai Tenkaichi 3",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "recomp-code",
+    "kind": "recomp",
+    "description": "Dragon Ball Z: Budokai Tenkaichi 3 recompiled from the PlayStation 2 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/recomp-code/dbz-bt4-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DBZ_BT4_Windows_Recomp.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dbz-bt4-tag-team-decomp",
+    "name": "Dragon Ball Z Budokai Tenkaichi 4 Tag Team Decomp",
+    "game": "Dragon Ball Z: Budokai Tenkaichi 3",
+    "shortName": "Dragon Ball Z: Budokai Tenkaichi 3",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "NauTaro",
+    "kind": "decomp",
+    "description": "Dragon Ball Z: Budokai Tenkaichi 3 running natively on PC, built from the decompiled PlayStation 2 game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/NauTaro/DBZ-BT4-Tag-Team-Decomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BT4decomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dbziw-recomp",
+    "name": "DBZ: Infinite World Recomp",
+    "game": "Dragon Ball Z: Infinite World",
+    "shortName": "Dragon Ball Z: Infinite World",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "TheSlackbringer",
+    "kind": "port",
+    "description": "Dragon Ball Z: Infinite World ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/TheSlackbringer/dbziw-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DBZIW-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "decomp-wots2",
+    "name": "Decomp Wots2",
+    "game": "Way of the Samurai 2",
+    "shortName": "Way of the Samurai 2",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "acklavidian",
+    "kind": "port",
+    "description": "Way of the Samurai 2 ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/acklavidian/decomp_wots2",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "wots2-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "def-jam-vendetta-recomp",
+    "name": "Def Jam Vendetta Recomp",
+    "game": "Def Jam Vendetta",
+    "shortName": "Def Jam Vendetta",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "jcsix694",
+    "kind": "recomp",
+    "description": "Def Jam Vendetta recompiled from the PlayStation 2 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/jcsix694/def-jam-vendetta-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Def-Jam-Vendetta-Recompiled-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "destroy-all-humans-2005-static-recompilation",
+    "name": "Destroy All Humans! Recomp",
+    "game": "Destroy All Humans!",
+    "shortName": "Destroy All Humans!",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "Zippingrocks",
+    "kind": "port",
+    "description": "Destroy All Humans! ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Zippingrocks/Destroy-All-Humans-2005-Static-Recompilation",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Destroy-All-Humans-Recomp-Normal.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dokuro-chan-ps2",
+    "name": "Dokuro Chan Ps2",
+    "game": "Game ni Natta yo! Dokuro-chan: Kenkou Shindan Daisakusen",
+    "shortName": "Game ni Natta yo! Dokuro-chan: Kenkou Shindan Daisakusen",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "Nyaldee",
+    "kind": "port",
+    "description": "Game ni Natta yo! Dokuro-chan: Kenkou Shindan Daisakusen ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Nyaldee/dokuro-chan-ps2",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Dokuro-chan.PS2.Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "downhill-revived",
+    "name": "Downhill Revived",
+    "game": "Downhill Domination",
+    "shortName": "Downhill Domination",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "skuza-oss",
+    "kind": "decomp",
+    "description": "Downhill Domination running natively on PC, built from the decompiled PlayStation 2 game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/skuza-oss/downhill-revived",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DownhillRevived-*-win.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dq8-recompiled",
+    "name": "DQ8 Recompiled",
+    "game": "Dragon Quest VIII: Journey of the Cursed King",
+    "shortName": "Dragon Quest VIII: Journey of the Cursed King",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "Sinan-Karakaya",
+    "kind": "recomp",
+    "description": "Dragon Quest VIII: Journey of the Cursed King recompiled from the PlayStation 2 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Sinan-Karakaya/DQ8-Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DQ8Recomp-*-Windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "drakan2pc",
+    "name": "Drakan 2 PC",
+    "game": "Drakan: The Ancients' Gates",
+    "shortName": "Drakan: The Ancients' Gates",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "ChristopherVR",
+    "kind": "port",
+    "description": "Drakan: The Ancients' Gates ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ChristopherVR/Drakan2PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DrakanPC-Builder.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "drakengard-pc",
+    "name": "Drakengard PC",
+    "game": "Drakengard",
+    "shortName": "Drakengard",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "Berry-Wilson",
+    "kind": "port",
+    "description": "Drakengard ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Berry-Wilson/Drakengard-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DrakengardPC-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dw5xl-recomp",
+    "name": "DW5XL Recomp",
+    "game": "Dynasty Warriors 5: Xtreme Legends",
+    "shortName": "Dynasty Warriors 5: Xtreme Legends",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "TheSlackbringer",
+    "kind": "recomp",
+    "description": "Dynasty Warriors 5: Xtreme Legends recompiled from the PlayStation 2 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/TheSlackbringer/dw5xl-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DW5XL-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "eod-recomp",
+    "name": "Eve of Destruction Remaster",
+    "game": "Test Drive: Eve of Destruction",
+    "shortName": "Test Drive: Eve of Destruction",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "catsandsoup",
+    "kind": "port",
+    "description": "Test Drive: Eve of Destruction ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/catsandsoup/eod-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Eve-of-Destruction-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "eqoa-rust-client-vanilla",
+    "name": "Eqoa Rust Client Vanilla",
+    "game": "EverQuest Online Adventures: Frontiers",
+    "shortName": "EverQuest Online Adventures: Frontiers",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "EverQuest Online Adventures: Frontiers (eqoa-rust-client)"
+    ],
+    "developer": "DabDavis",
+    "kind": "port",
+    "description": "EverQuest Online Adventures: Frontiers ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/DabDavis/eqoa-rust-client-vanilla",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "eqoa-vanilla-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "f1-06-pc",
+    "name": "F1 06 PC",
+    "game": "Formula One 06",
+    "shortName": "Formula One 06",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "KevinL50-sysadmin",
+    "kind": "port",
+    "description": "Formula One 06 ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/KevinL50-sysadmin/F1-06-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "F1-06-PC-*-portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "fukami",
+    "name": "Fukami",
+    "game": "Ridge Racer V",
+    "shortName": "Ridge Racer V",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "danisandoval",
+    "kind": "recomp",
+    "description": "Ridge Racer V recompiled from the PlayStation 2 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/danisandoval/fukami",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Fukami-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "galaxy-angel-ii-pc",
+    "name": "Galaxy Angel 2 PC",
+    "game": "Galaxy Angel II",
+    "shortName": "Galaxy Angel II",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "ObeseCatLord",
+    "kind": "port",
+    "description": "Galaxy Angel II ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ObeseCatLord/Galaxy-Angel-II-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "galaxy-angel-2-pc-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gauntletdlredone",
+    "name": "GauntletDLRedone",
+    "game": "Gauntlet: Dark Legacy",
+    "shortName": "Gauntlet: Dark Legacy",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "jeddhor",
+    "kind": "port",
+    "description": "Gauntlet: Dark Legacy ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/jeddhor/GauntletDLRedone",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GauntletDarkLegacy-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "george-decomp",
+    "name": "George Decomp",
+    "game": "George of the Jungle and the Search for the Secret",
+    "shortName": "George of the Jungle and the Search for the Secret",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "2gifts",
+    "kind": "port",
+    "description": "George of the Jungle and the Search for the Secret ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/2gifts/george-decomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "gcc29-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gh1recomp-ghds",
+    "name": "GH1 Recomp",
+    "game": "Guitar Hero",
+    "shortName": "Guitar Hero",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "Guitar Hero (GH1 Recomp)"
+    ],
+    "developer": "Diegots123",
+    "kind": "port",
+    "description": "Guitar Hero ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Diegots123/GH1Recomp-GHDS",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GH1Recomp-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gh2recomp-ghds",
+    "name": "GH2 Recomp",
+    "game": "Guitar Hero II",
+    "shortName": "Guitar Hero II",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "Guitar Hero II (GH2 Recomp)"
+    ],
+    "developer": "Diegots123",
+    "kind": "port",
+    "description": "Guitar Hero II ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Diegots123/GH2Recomp-GHDS",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GH2Recomp-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gh80srecomp-ghds",
+    "name": "GH80s Recomp",
+    "game": "Guitar Hero Encore: Rocks the 80s",
+    "shortName": "Guitar Hero Encore: Rocks the 80s",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "Guitar Hero Encore: Rocks the 80s (GH80s Recomp)"
+    ],
+    "developer": "Diegots123",
+    "kind": "port",
+    "description": "Guitar Hero Encore: Rocks the 80s ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Diegots123/GH80sRecomp-GHDS",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GH80sRecomp-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ghclassic",
+    "name": "GHClassic",
+    "game": "Guitar Hero II",
+    "shortName": "Guitar Hero II",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "noahbaxter",
+    "kind": "recomp",
+    "description": "Guitar Hero II recompiled from the PlayStation 2 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/noahbaxter/GHClassic",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GHClassic-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gow-native-pc",
+    "name": "God of War Native PC",
+    "game": "God of War",
+    "shortName": "God of War",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "Vnnc1",
+    "kind": "recomp",
+    "description": "God of War recompiled from the PlayStation 2 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Vnnc1/gow-native-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "gow-native-pc-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gow-pc-port",
+    "name": "God of War (2005)",
+    "game": "God of War",
+    "shortName": "God of War",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "danielalves96",
+    "kind": "recomp",
+    "description": "God of War recompiled from the PlayStation 2 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/danielalves96/gow-pc-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "God-Of-War-PC-Launcher_*_x64-portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "grandia3-openskies",
+    "name": "Grandia3 PC",
+    "game": "Grandia III",
+    "shortName": "Grandia III",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "GranasSabre",
+    "kind": "port",
+    "description": "Grandia III ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/GranasSabre/Grandia3-OpenSkies",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Grandia3-PC-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gt3-pc-enhanced",
+    "name": "GT3 PC Enhanced",
+    "game": "Gran Turismo 3 A-Spec",
+    "shortName": "Gran Turismo 3 A-Spec",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "Gran Turismo 3 A-Spec (GT3 PC Enhanced)",
+      "Gran Turismo 3: A-Spec"
+    ],
+    "developer": "Silentwarior112",
+    "kind": "port",
+    "description": "Gran Turismo 3 A-Spec ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Silentwarior112/GT3-PC-ENHANCED",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GT3-PC-ENHANCED_*b.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gt4-recomp",
+    "name": "GT4 Recomp",
+    "game": "Gran Turismo 4",
+    "shortName": "Gran Turismo 4",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "F1NATIK",
+    "kind": "port",
+    "description": "Gran Turismo 4 ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/F1NATIK/GT4-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GT4-Recomp-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gta-stories-recompiled",
+    "name": "Gta Stories Recompiled",
+    "game": "Grand Theft Auto: Liberty City Stories",
+    "shortName": "Grand Theft Auto: Liberty City Stories",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "Grand Theft Auto : Liberty City + Vice City Stories"
+    ],
+    "developer": "batinium",
+    "kind": "port",
+    "description": "Grand Theft Auto: Liberty City Stories ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/batinium/gta-stories-recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GTA-Stories-Recompiled-windows-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gta-vcs-recomp",
+    "name": "Grand Theft Auto Vice City Stories",
+    "game": "Grand Theft Auto: Vice City Stories",
+    "shortName": "Grand Theft Auto: Vice City Stories",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "gothamor",
+    "kind": "recomp",
+    "description": "Grand Theft Auto: Vice City Stories recompiled from the PlayStation 2 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/gothamor/gta-vcs-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "VCS-Recomp-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gundam-zeonic-front-recompiled",
+    "name": "Gundam Zeonic Front Recompiled",
+    "game": "Mobile Suit Gundam: Zeonic Front",
+    "shortName": "Mobile Suit Gundam: Zeonic Front",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "Jaynes00",
+    "kind": "port",
+    "description": "Mobile Suit Gundam: Zeonic Front ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Jaynes00/Gundam-Zeonic-Front-Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Gundam-Zeonic-Front-Recompiled-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hauntingground-recomp-project",
+    "name": "Haunting Ground Recomp",
+    "game": "Haunting Ground",
+    "shortName": "Haunting Ground",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "N900x4",
+    "kind": "port",
+    "description": "Haunting Ground ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/N900x4/HauntingGround-Recomp-Project",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "HauntingGround-Recomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hctp-recomp",
+    "name": "HCTP Recompiled",
+    "game": "WWE SmackDown! Here Comes the Pain",
+    "shortName": "WWE SmackDown! Here Comes the Pain",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "BigDaddyJRich",
+    "kind": "port",
+    "description": "WWE SmackDown! Here Comes the Pain ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/BigDaddyJRich/hctp-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "HCTP-Recompiled-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ico-pc",
+    "name": "ICO PC",
+    "game": "ICO",
+    "shortName": "ICO",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "nathanialf",
+    "kind": "decomp",
+    "description": "ICO running natively on PC, built from the decompiled PlayStation 2 game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/nathanialf/ico-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ico-pc-*-win-portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "izanagi",
+    "name": "Izanagi",
+    "game": "Persona 4",
+    "shortName": "Persona 4",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "Raikaru",
+    "kind": "port",
+    "description": "Persona 4 ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Raikaru/Izanagi",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "p4pc-win64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "jak-project",
+    "name": "OpenGOAL",
+    "game": "Jak and Daxter: The Precursor Legacy, Jak II and Jak 3",
+    "shortName": "Jak and Daxter: The Precursor Legacy, Jak II and Jak 3",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "Jak and Daxter: The Precursor Legacy"
+    ],
+    "developer": "open-goal",
+    "kind": "decomp",
+    "description": "Jak and Daxter: The Precursor Legacy, Jak II and Jak 3 running natively on PC, built from the decompiled PlayStation 2 game.",
+    "requirement": "",
+    "features": [
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/open-goal/jak-project",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "opengoal-windows-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "jak-project-nx",
+    "name": "Jak Project Nx",
+    "game": "Jak and Daxter: The Precursor Legacy",
+    "shortName": "Jak and Daxter: The Precursor Legacy",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "fildicio",
+    "kind": "port",
+    "description": "Jak and Daxter: The Precursor Legacy ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/fildicio/jak-project-nx",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "extractor-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "jakanddaxter-quest-vr",
+    "name": "JakAndDaxter Quest VR",
+    "game": "Jak and Daxter: The Precursor Legacy",
+    "shortName": "Jak and Daxter: The Precursor Legacy",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "moistman42069",
+    "kind": "port",
+    "description": "Jak and Daxter: The Precursor Legacy ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/moistman42069/JakAndDaxter-Quest-VR",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "JakQuestVR-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "killzonerecomp",
+    "name": "KillzoneRecomp",
+    "game": "Killzone",
+    "shortName": "Killzone",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "drakolordx7",
+    "kind": "recomp",
+    "description": "Killzone recompiled from the PlayStation 2 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/drakolordx7/KillzoneRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Killzone-PC-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "launcher",
+    "name": "OpenGOAL Launcher",
+    "game": "OpenGOAL Launcher",
+    "shortName": "OpenGOAL Launcher",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "open-goal",
+    "kind": "port",
+    "description": "OpenGOAL Launcher ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/open-goal/launcher",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "OpenGOAL-Launcher_*_x64_en-US_windows.msi.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "make-baseball-team-game-project",
+    "name": "Yakyuu Tsuku 3 PC",
+    "game": "Pro Yakyuu Team wo Tsukurou! 3",
+    "shortName": "Pro Yakyuu Team wo Tsukurou! 3",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "PrimeTimerer",
+    "kind": "port",
+    "description": "Pro Yakyuu Team wo Tsukurou! 3 ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/PrimeTimerer/Make-Baseball-Team-Game-Project",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "YKTK3-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "maximo-gtg",
+    "name": "Maximo GTG",
+    "game": "Maximo: Ghosts to Glory",
+    "shortName": "Maximo: Ghosts to Glory",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "Maximo"
+    ],
+    "developer": "BioRhythmicStudios",
+    "kind": "port",
+    "description": "Maximo: Ghosts to Glory ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/BioRhythmicStudios/Maximo-GTG",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MaximoLauncher.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mc2recomp",
+    "name": "MC2 Recomp",
+    "game": "Midnight Club 2",
+    "shortName": "Midnight Club 2",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "jcoker85",
+    "kind": "port",
+    "description": "Midnight Club 2 ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/jcoker85/MC2Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MC2Recomp-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mh1-xbox",
+    "name": "Mh1 Xbox",
+    "game": "Monster Hunter",
+    "shortName": "Monster Hunter",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "Monster Hunter (mh1-xbox)"
+    ],
+    "developer": "itsbigcforme67",
+    "kind": "port",
+    "description": "Monster Hunter ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/itsbigcforme67/mh1-xbox",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "mh1pc-win32-*aa516b.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mikazuki-x3",
+    "name": "Mikazuki X3",
+    "game": "Kamaitachi no Yoru x3",
+    "shortName": "Kamaitachi no Yoru x3",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "Kamaitachi no Yoru x3 (Mikazuki X3)"
+    ],
+    "developer": "wwesun2000",
+    "kind": "port",
+    "description": "Kamaitachi no Yoru x3 ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/wwesun2000/mikazuki-x3",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MikazukiX3-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mikupan",
+    "name": "MikuPan",
+    "game": "Fatal Frame",
+    "shortName": "Fatal Frame",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "Mikompilation",
+    "kind": "decomp",
+    "description": "Fatal Frame running natively on PC, built from the decompiled PlayStation 2 game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Mikompilation/MikuPan",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MikuPan_EU_windows_*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "miopan",
+    "name": "MioPan",
+    "game": "Fatal Frame II: Crimson Butterfly",
+    "shortName": "Fatal Frame II: Crimson Butterfly",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "Fatal Frame II: Crimson Butterfly (MioPan)"
+    ],
+    "developer": "Mikompilation",
+    "kind": "port",
+    "description": "Fatal Frame II: Crimson Butterfly ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Mikompilation/MioPan",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MioPan_windows_*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mksm",
+    "name": "MKSM",
+    "game": "Mortal Kombat: Shaolin Monks",
+    "shortName": "Mortal Kombat: Shaolin Monks",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "lagando",
+    "kind": "port",
+    "description": "Mortal Kombat: Shaolin Monks ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/lagando/MKSM",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ShaolinMonksRPG-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mojo-ps2-recomp",
+    "name": "MOJO! PS2 Recomp",
+    "game": "MOJO!",
+    "shortName": "MOJO!",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "JaBoyAlex",
+    "kind": "port",
+    "description": "MOJO! ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/JaBoyAlex/mojo-ps2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MOJO-Recomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "nanaca-crash",
+    "name": "Flash 1.10",
+    "game": "NANACA CRASH!!",
+    "shortName": "NANACA CRASH!!",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "NANACA CRASH!! (Flash 1.10)"
+    ],
+    "developer": "Nyaldee",
+    "kind": "port",
+    "description": "NANACA CRASH!! ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Nyaldee/nanaca-crash",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Nanaca.Crash.All.Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "nightfire-port",
+    "name": "Nightfire Port",
+    "game": "007: Nightfire",
+    "shortName": "007: Nightfire",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "Jeffsteelflex",
+    "kind": "port",
+    "description": "007: Nightfire ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Jeffsteelflex/nightfire-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Nightfire-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "nun5-recomp",
+    "name": "NUN5 Recomp",
+    "game": "Naruto: Ultimate Ninja 5",
+    "shortName": "Naruto: Ultimate Ninja 5",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "Naruto: Ultimate Ninja 5 (NUN5-Recomp)"
+    ],
+    "developer": "gmmelo127",
+    "kind": "port",
+    "description": "Naruto: Ultimate Ninja 5 ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/gmmelo127/NUN5-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "naruto5-recomp-toolchain-*-win64.7z",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "openhuey",
+    "name": "Open Huey",
+    "game": "Haunting Ground",
+    "shortName": "Haunting Ground",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "ArnautDaniel",
+    "kind": "port",
+    "description": "Haunting Ground ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ArnautDaniel/OpenHuey",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "openhuey-*dcd-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "openkai2",
+    "name": "OpenKai2",
+    "game": "Dragon Ball Z: Budokai 2",
+    "shortName": "Dragon Ball Z: Budokai 2",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "7v0biscuit",
+    "kind": "port",
+    "description": "Dragon Ball Z: Budokai 2 ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/7v0biscuit/OpenKai2",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "OpenKai2-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "openmx",
+    "name": "openMX",
+    "game": "MX Unleashed",
+    "shortName": "MX Unleashed",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "FIZL0",
+    "kind": "port",
+    "description": "MX Unleashed ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/FIZL0/openmx",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "openmx-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "openrac",
+    "name": "OpenRAC",
+    "game": "Ratchet & Clank",
+    "shortName": "Ratchet & Clank",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "OpenRAC",
+    "kind": "decomp",
+    "description": "Ratchet & Clank running natively on PC, built from the decompiled PlayStation 2 game.",
+    "requirement": "",
+    "features": [
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/OpenRAC/OpenRAC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "openrac-mod-sdk-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "overetheria",
+    "name": "The Sword of Etheria — Sword-Of-Etheria-PC-Recomp (AncletoCEO)",
+    "game": "The Sword of Etheria",
+    "shortName": "The Sword of Etheria",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "AncletoCEO",
+    "kind": "port",
+    "description": "The Sword of Etheria ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/AncletoCEO/OverEtheria",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "OverEtheria-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pareidolico-eod-recomp",
+    "name": "Eod Recomp",
+    "game": "Test Drive: Eve of Destruction",
+    "shortName": "Test Drive: Eve of Destruction",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "pareidolico",
+    "kind": "port",
+    "description": "Test Drive: Eve of Destruction ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/pareidolico/eod-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "eod-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "piko-runtime",
+    "name": "Piko Runtime",
+    "game": "Gitaroo Man",
+    "shortName": "Gitaroo Man",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "Gitaroo Man (Piko Runtime)"
+    ],
+    "developer": "HikikoMarmy",
+    "kind": "port",
+    "description": "Gitaroo Man ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/HikikoMarmy/Piko-Runtime",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Piko-Runtime-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "project-solana",
+    "name": "Project Solana",
+    "game": "Ratchet & Clank",
+    "shortName": "Ratchet & Clank",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "Ratchet & Clank (Project Solana)"
+    ],
+    "developer": "vetusmagnus",
+    "kind": "port",
+    "description": "Ratchet & Clank ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/vetusmagnus/project-solana",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "toolchain-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "projectstonehenge",
+    "name": "Project Stonehenge",
+    "game": "Ace Combat 04: Shattered Skies",
+    "shortName": "Ace Combat 04: Shattered Skies",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "Onaga00",
+    "kind": "decomp",
+    "description": "Ace Combat 04: Shattered Skies running natively on PC, built from the decompiled PlayStation 2 game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Onaga00/ProjectStonehenge",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ProjectStonehenge-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rac-rs",
+    "name": "Rac Rs",
+    "game": "Ratchet & Clank",
+    "shortName": "Ratchet & Clank",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "AsobiCodes",
+    "kind": "recomp",
+    "description": "Ratchet & Clank recompiled from the PlayStation 2 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/AsobiCodes/rac-rs",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "rac-rs-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rac-rs-multiplayer",
+    "name": "rac-rs Multiplayer",
+    "game": "Ratchet & Clank",
+    "shortName": "Ratchet & Clank",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "adamlbunch",
+    "kind": "port",
+    "description": "Ratchet & Clank ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/adamlbunch/rac-rs-multiplayer",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "rac-rs-multiplayer-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rac-rs2",
+    "name": "RAC-RS 2",
+    "game": "Ratchet & Clank 2: Going Commando",
+    "shortName": "Ratchet & Clank 2: Going Commando",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "AsobiCodes",
+    "kind": "port",
+    "description": "Ratchet & Clank 2: Going Commando ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/AsobiCodes/rac-rs2",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "rac-rs2-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ratatouille-pc",
+    "name": "Ratatouille PC",
+    "game": "Disney·Pixar Ratatouille",
+    "shortName": "Disney·Pixar Ratatouille",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "Miguel0827",
+    "kind": "port",
+    "description": "Disney·Pixar Ratatouille ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Miguel0827/Ratatouille-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Ratatouille-PC-Port-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ratchetandclank-quest-vr",
+    "name": "Quest VR",
+    "game": "Ratchet & Clank",
+    "shortName": "Ratchet & Clank",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "Ratchet & Clank (Quest VR)"
+    ],
+    "developer": "moistman42069",
+    "kind": "port",
+    "description": "Ratchet & Clank ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/moistman42069/RatchetAndClank-Quest-VR",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RatchetQuestVR-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "recvx-enhanced-port",
+    "name": "RECVX Enhanced Port",
+    "game": "Resident Evil Code: Veronica X",
+    "shortName": "Resident Evil Code: Veronica X",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "aikatore",
+    "kind": "decomp",
+    "description": "Resident Evil Code: Veronica X running natively on PC, built from the decompiled PlayStation 2 game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/aikatore/recvx-enhanced-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "recvx-enhanced-port-*-windows-x86.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "recvx-native",
+    "name": "RECVX Native",
+    "game": "Resident Evil Code: Veronica X",
+    "shortName": "Resident Evil Code: Veronica X",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "Patt92",
+    "kind": "port",
+    "description": "Resident Evil Code: Veronica X ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Patt92/recvx-native",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "recvx-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "recvx-pc",
+    "name": "Recvx Pc",
+    "game": "Resident Evil Code: Veronica X",
+    "shortName": "Resident Evil Code: Veronica X",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "ViolentlyVia",
+    "kind": "decomp",
+    "description": "Resident Evil Code: Veronica X running natively on PC, built from the decompiled PlayStation 2 game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ViolentlyVia/recvx-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "recvx-cvx-pc-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "reelhunt",
+    "name": "reelhunt",
+    "game": "Manhunt",
+    "shortName": "Manhunt",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "Manhunt (Reelhunt)"
+    ],
+    "developer": "IhorRomanovych",
+    "kind": "port",
+    "description": "Manhunt ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/IhorRomanovych/reelhunt",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Reelhunt-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "reo",
+    "name": "RE: Outbreak",
+    "game": "Resident Evil Outbreak",
+    "shortName": "Resident Evil Outbreak",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "Ninjacornix",
+    "kind": "recomp",
+    "description": "Resident Evil Outbreak recompiled from the PlayStation 2 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Ninjacornix/reo",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RE-Outbreak-v*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "roadtripadventure-recomp",
+    "name": "Road Trip",
+    "game": "Road Trip / Choro Q HG 2",
+    "shortName": "Road Trip / Choro Q HG 2",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "Road Trip"
+    ],
+    "developer": "silentsudin",
+    "kind": "recomp",
+    "description": "Road Trip / Choro Q HG 2 recompiled from the PlayStation 2 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/silentsudin/RoadTripAdventure-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RoadTripRecomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rogue-galaxy-hd",
+    "name": "Rogue Galaxy HD",
+    "game": "Rogue Galaxy",
+    "shortName": "Rogue Galaxy",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "Rogue Galaxy (Rogue Galaxy HD)"
+    ],
+    "developer": "mathisto",
+    "kind": "port",
+    "description": "Rogue Galaxy ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mathisto/rogue-galaxy-hd",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RogueGalaxy-Setup-*-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rogue-galaxy-recomp",
+    "name": "Rogue Galaxy Recompiled",
+    "game": "Rogue Galaxy",
+    "shortName": "Rogue Galaxy",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "victor-takai",
+    "kind": "recomp",
+    "description": "Rogue Galaxy recompiled from the PlayStation 2 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/victor-takai/rogue-galaxy-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RogueGalaxy-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "safehouse",
+    "name": "SafeHouse",
+    "game": "Sly 2: Band of Thieves",
+    "shortName": "Sly 2: Band of Thieves",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "Sly Cooper and the Thievius Raccoonus"
+    ],
+    "developer": "FridiNaTor1",
+    "kind": "decomp",
+    "description": "Sly 2: Band of Thieves running natively on PC, built from the decompiled PlayStation 2 game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/FridiNaTor1/SafeHouse",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SafeHouse-Launcher-Windows-x86_64-Portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "saintseiyarecomp",
+    "name": "Saint Seiya Recomp",
+    "game": "Saint Seiya: The Hades",
+    "shortName": "Saint Seiya: The Hades",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "matpdev",
+    "kind": "port",
+    "description": "Saint Seiya: The Hades ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/matpdev/SaintSeiyaRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SaintSeiyaDecomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "scooby-doo-mystery-mayhem-pc",
+    "name": "PC port",
+    "game": "Scooby-Doo! Mystery Mayhem",
+    "shortName": "Scooby-Doo! Mystery Mayhem",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "Scooby-Doo! Mystery Mayhem (PC port)"
+    ],
+    "developer": "Campfirecrucifix",
+    "kind": "port",
+    "description": "Scooby-Doo! Mystery Mayhem ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Campfirecrucifix/scooby-doo-mystery-mayhem-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ScoobyMM-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "second-coat-london",
+    "name": "Second Coat: London",
+    "game": "The Getaway",
+    "shortName": "The Getaway",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "SecondCoat",
+    "kind": "port",
+    "description": "The Getaway ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/SecondCoat/second-coat-london",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "getaway-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "shadow-of-rome-recompiled",
+    "name": "Shadow of Rome Recompiled",
+    "game": "Shadow of Rome",
+    "shortName": "Shadow of Rome",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "Korvonordico",
+    "kind": "port",
+    "description": "Shadow of Rome ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Korvonordico/shadow-of-rome-recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ShadowOfRome-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "shadowofthecolossuspc",
+    "name": "Shadow of the Colossus PC",
+    "game": "Shadow of the Colossus",
+    "shortName": "Shadow of the Colossus",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "GenissonEmilio",
+    "kind": "port",
+    "description": "Shadow of the Colossus ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/GenissonEmilio/ShadowOfTheColossusPC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ShadowOfTheColossusPC-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "shinobi-ps2-recomp",
+    "name": "Shinobi (PS2) Recomp",
+    "game": "Shinobi",
+    "shortName": "Shinobi",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "TheRealAfsan",
+    "kind": "port",
+    "description": "Shinobi ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/TheRealAfsan/Shinobi-PS2-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Shinobi-PS2-Recomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sotc-vibe-pc",
+    "name": "Shadow of the Colossus (LightVelox)",
+    "game": "Shadow of the Colossus",
+    "shortName": "Shadow of the Colossus",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "LightVelox",
+    "kind": "recomp",
+    "description": "Shadow of the Colossus recompiled from the PlayStation 2 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/LightVelox/sotc-vibe-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "sotc-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "street-recomp-v3",
+    "name": "NBA Street V3",
+    "game": "NBA Street V3",
+    "shortName": "NBA Street V3",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "recomp-code",
+    "kind": "recomp",
+    "description": "NBA Street V3 recompiled from the PlayStation 2 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/recomp-code/street-recomp-v3",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NBAStreetV3_Windows_Recomp.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "stuntman-pc",
+    "name": "Stuntman",
+    "game": "Stuntman",
+    "shortName": "Stuntman",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "LAB0ULANGE",
+    "kind": "recomp",
+    "description": "Stuntman recompiled from the PlayStation 2 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/LAB0ULANGE/stuntman-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Stuntman-PC-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "syphon-filter-omega-strain-playtest",
+    "name": "Syphon Filter Omega Strain Playtest",
+    "game": "Syphon Filter: The Omega Strain",
+    "shortName": "Syphon Filter: The Omega Strain",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "zm2283145",
+    "kind": "port",
+    "description": "Syphon Filter: The Omega Strain ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/zm2283145/syphon-filter-omega-strain-playtest",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "OmegaStrain-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tekkentagdecomp",
+    "name": "Tekken Tag Decomp",
+    "game": "Tekken Tag Tournament",
+    "shortName": "Tekken Tag Tournament",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "adanft",
+    "kind": "port",
+    "description": "Tekken Tag Tournament ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/adanft/TekkenTagDecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ttt-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tenkaichi3decomp",
+    "name": "Tenkaichi 3 Decomp",
+    "game": "Dragon Ball Z: Budokai Tenkaichi 3",
+    "shortName": "Dragon Ball Z: Budokai Tenkaichi 3",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "z3xox",
+    "kind": "decomp",
+    "description": "Dragon Ball Z: Budokai Tenkaichi 3 running natively on PC, built from the decompiled PlayStation 2 game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/z3xox/Tenkaichi3Decomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Tenkaichi3Decomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "the-warriors",
+    "name": "The Warriors",
+    "game": "The Warriors",
+    "shortName": "The Warriors",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "ilse31",
+    "kind": "port",
+    "description": "The Warriors ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ilse31/the-warriors",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "The-Warriors-*-Windows-x64-experimental.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "theurbanninja1993-sketch-lcs-recomp",
+    "name": "Liberty City Stories Recompiled",
+    "game": "Grand Theft Auto: Liberty City Stories",
+    "shortName": "Grand Theft Auto: Liberty City Stories",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "theurbanninja1993-sketch",
+    "kind": "port",
+    "description": "Grand Theft Auto: Liberty City Stories ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/theurbanninja1993-sketch/lcs-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "LCS-Recomp-v*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "timesplitters-2-native-recomp-windows-linux-steamdeck",
+    "name": "TimeSplitters 2 Native PC Port",
+    "game": "TimeSplitters 2",
+    "shortName": "TimeSplitters 2",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "Destinity13",
+    "kind": "port",
+    "description": "TimeSplitters 2 ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Destinity13/TimeSplitters-2-Native-Recomp-Windows-Linux-SteamDeck",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TS2-Recomp-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tmb-recomp",
+    "name": "TMB Recomp",
+    "game": "Twisted Metal: Black",
+    "shortName": "Twisted Metal: Black",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "TheBozos",
+    "kind": "recomp",
+    "description": "Twisted Metal: Black recompiled from the PlayStation 2 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/TheBozos/TMB_Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TMB_Recomp-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "transformers-armada-recomp",
+    "name": "Transformers Armada Recomp",
+    "game": "Transformers",
+    "shortName": "Transformers",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "kayliox",
+    "kind": "port",
+    "description": "Transformers ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/kayliox/transformers-armada-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TransformersArmada-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "twinsanityevolved",
+    "name": "Twinsanity Evolved",
+    "game": "Crash Twinsanity",
+    "shortName": "Crash Twinsanity",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "menaman123",
+    "kind": "decomp",
+    "description": "Crash Twinsanity running natively on PC, built from the decompiled PlayStation 2 game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/menaman123/TwinsanityEvolved",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "twinsanityevolved-launcher-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "urban-reign-recomp",
+    "name": "Urban Reign PC",
+    "game": "Urban Reign",
+    "shortName": "Urban Reign",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "thiagordsfx",
+    "kind": "recomp",
+    "description": "Urban Reign recompiled from the PlayStation 2 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/thiagordsfx/urban-reign-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "UrbanReignPC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "vcs-recomp",
+    "name": "Vice City Stories Recompiled",
+    "game": "Grand Theft Auto: Vice City Stories",
+    "shortName": "Grand Theft Auto: Vice City Stories",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "theurbanninja1993-sketch",
+    "kind": "port",
+    "description": "Grand Theft Auto: Vice City Stories ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/theurbanninja1993-sketch/vcs-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "VCS-Recomp-v*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "war-of-the-monsters-recomp",
+    "name": "War of the Monsters Recomp",
+    "game": "War of the Monsters",
+    "shortName": "War of the Monsters",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "yanm1103",
+    "kind": "port",
+    "description": "War of the Monsters ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/yanm1103/War_of_the_Monsters_recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WotM-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "wwe-crush-hour-pc",
+    "name": "WWE Crush Hour PC",
+    "game": "WWE Crush Hour",
+    "shortName": "WWE Crush Hour",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "KaikoClanworth1",
+    "kind": "port",
+    "description": "WWE Crush Hour ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/KaikoClanworth1/wwe-crush-hour-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WWE-Crush-Hour-PC-alpha-0.0.1.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "yakuza-pc-port",
+    "name": "PC Port",
+    "game": "Yakuza",
+    "shortName": "Yakuza",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "Yakuza (PC Port)"
+    ],
+    "developer": "IvanBarbosaFilho",
+    "kind": "port",
+    "description": "Yakuza ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/IvanBarbosaFilho/Yakuza-Pc-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Yakuza-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "zoe-recompiled",
+    "name": "ZOE Recompiled",
+    "game": "Zone of the Enders",
+    "shortName": "Zone of the Enders",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "Yaz-Myst",
+    "kind": "recomp",
+    "description": "Zone of the Enders recompiled from the PlayStation 2 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Yaz-Myst/ZOE-Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ZOE-Recompiled-v*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

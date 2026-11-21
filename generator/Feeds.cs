@@ -16,6 +16,19 @@ internal sealed record FeedFile
     /// <summary>A port whose project stops working stays listed (as last seen) this many days, then drops out until it works again.</summary>
     public int RemoveAfterDays { get; init; } = 7;
     public List<FeedConfig> Feeds { get; init; } = [];
+
+    /// <summary>Outside lists the weekly harvest reads to find new projects. Only used to find GitHub repositories;
+    /// every one is checked and written as our own entry.</summary>
+    public List<DiscoverConfig> Discover { get; init; } = [];
+}
+
+internal sealed record DiscoverConfig
+{
+    public string Id { get; init; } = "";
+    public string Type { get; init; } = "";
+    public string Url { get; init; } = "";
+    public bool Enabled { get; init; } = true;
+    public string Note { get; init; } = "";
 }
 
 /// <summary>health.json: ports that are currently failing, by id. Ports that work aren't listed.</summary>

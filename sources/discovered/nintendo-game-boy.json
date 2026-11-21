@@ -1,0 +1,537 @@
+[
+  {
+    "id": "am2rlauncher",
+    "name": "AM2RLauncher",
+    "game": "Metroid II: Return of Samus",
+    "shortName": "Metroid II: Return of Samus",
+    "platform": "Nintendo Game Boy",
+    "aliases": [
+      "Metroid 2"
+    ],
+    "developer": "AM2R-Community-Developers",
+    "kind": "port",
+    "description": "Metroid II: Return of Samus ported to run natively on PC from the Game Boy version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/AM2R-Community-Developers/AM2RLauncher",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "AM2RLauncher_*_win.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "battle-arena-toshinden-gb-recomp",
+    "name": "Battle Arena Toshinden GB Recomp",
+    "game": "Battle Arena Toshinden",
+    "shortName": "Battle Arena Toshinden",
+    "platform": "Nintendo Game Boy",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Battle Arena Toshinden ported to run natively on PC from the Game Boy version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Battle-Arena-Toshinden-GB-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Battle.Arena.Toshinden.1.2.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "bigodao",
+    "name": "Bigodao",
+    "game": "Wario Land: Super Mario Land 3",
+    "shortName": "Wario Land: Super Mario Land 3",
+    "platform": "Nintendo Game Boy",
+    "aliases": [],
+    "developer": "GABRIELNNK",
+    "kind": "recomp",
+    "description": "Wario Land: Super Mario Land 3 recompiled from the Game Boy version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "gyro",
+      "hd-textures",
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/GABRIELNNK/Bigodao",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "bigodao_*_win.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "bluesalphabetbookrecomp",
+    "name": "Blue's Alphabet Book Recomp",
+    "game": "Blue's Clues: Blue's Alphabet Book",
+    "shortName": "Blue's Clues: Blue's Alphabet Book",
+    "platform": "Nintendo Game Boy",
+    "aliases": [],
+    "developer": "lububgames",
+    "kind": "port",
+    "description": "Blue's Clues: Blue's Alphabet Book ported to run natively on PC from the Game Boy version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/lububgames/BluesAlphabetBookRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BluesAlphabetBookRecomp_Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dk94-sgb",
+    "name": "DK94 Recomp",
+    "game": "Donkey Kong",
+    "shortName": "Donkey Kong",
+    "platform": "Nintendo Game Boy",
+    "aliases": [],
+    "developer": "gnome41",
+    "kind": "recomp",
+    "description": "Donkey Kong recompiled from the Game Boy version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/gnome41/DK94-SGB",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DK94-Recomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gen1recomp",
+    "name": "Pokemon Gen1 Recomp Project",
+    "game": "Pokemon Gen1 Recomp Project",
+    "shortName": "Pokemon Gen1 Recomp Project",
+    "platform": "Nintendo Game Boy",
+    "aliases": [
+      "Pokémon Gen 1"
+    ],
+    "developer": "bryanthaboi",
+    "kind": "port",
+    "description": "Pokemon Gen1 Recomp Project ported to run natively on PC from the Game Boy version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/bryanthaboi/gen1recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "gen1recomp-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "kirby-dream-land-recomp",
+    "name": "Kirby's Dream Land Recomp",
+    "game": "Kirby's Dream Land",
+    "shortName": "Kirby's Dream Land",
+    "platform": "Nintendo Game Boy",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Kirby's Dream Land ported to run natively on PC from the Game Boy version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Kirby-Dream-Land-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Kirby.Dream.Land.1.2.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "kirby-pinball-land-recomp",
+    "name": "Kirby's Pinball Land: Recomp",
+    "game": "Kirby's Pinball Land",
+    "shortName": "Kirby's Pinball Land",
+    "platform": "Nintendo Game Boy",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Kirby's Pinball Land ported to run natively on PC from the Game Boy version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Kirby-Pinball-Land-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Kirby.s.Pinball.Land.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "kirby-s-dream-land-2-recomp",
+    "name": "Kirby's Dream Land 2 Recomp",
+    "game": "Kirby's Dream Land 2",
+    "shortName": "Kirby's Dream Land 2",
+    "platform": "Nintendo Game Boy",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Kirby's Dream Land 2 ported to run natively on PC from the Game Boy version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Kirby-s-Dream-Land-2-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Kirby.s.Dream.Land.2.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "kirpich",
+    "name": "Kirpich",
+    "game": "Tetris",
+    "shortName": "Tetris",
+    "platform": "Nintendo Game Boy",
+    "aliases": [],
+    "developer": "etroimcasso",
+    "kind": "port",
+    "description": "Tetris ported to run natively on PC from the Game Boy version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/etroimcasso/Kirpich",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Kirpich-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "oldamber",
+    "name": "oldamber",
+    "game": "Pokemon Red/Blue",
+    "shortName": "Pokemon Red/Blue",
+    "platform": "Nintendo Game Boy",
+    "aliases": [
+      "Pokemon Red/Blue (OldAmber)"
+    ],
+    "developer": "spiritsnails",
+    "kind": "port",
+    "description": "Pokemon Red/Blue ported to run natively on PC from the Game Boy version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/spiritsnails/oldamber",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "OldAmber-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pokemonredandbluerecomp",
+    "name": "Pokémon Red / Blue (mstan)",
+    "game": "Pokémon Red and Blue",
+    "shortName": "Pokémon Red and Blue",
+    "platform": "Nintendo Game Boy",
+    "aliases": [
+      "Pokémon Red Version"
+    ],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Pokémon Red and Blue recompiled from the Game Boy version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/PokemonRedAndBlueRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PokemonRedAndBlue-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "super-mario-land-3-wario-land-recomp",
+    "name": "Super Mario Land 3: Wario Land — Recomp",
+    "game": "Super Mario Land 3: Wario Land Recomp",
+    "shortName": "Super Mario Land 3: Wario Land Recomp",
+    "platform": "Nintendo Game Boy",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Super Mario Land 3: Wario Land Recomp ported to run natively on PC from the Game Boy version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Super-Mario-Land-3-Wario-Land-Recomp-",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Super.Mario.Land.3.-.Wario.Land.USA.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "supermarioland2recomp",
+    "name": "Super Mario Land 2 Recomp",
+    "game": "Super Mario Land 2: 6 Golden Coins",
+    "shortName": "Super Mario Land 2: 6 Golden Coins",
+    "platform": "Nintendo Game Boy",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Super Mario Land 2: 6 Golden Coins recompiled from the Game Boy version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mstan/SuperMarioLand2Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SuperMarioLand2Recomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tetrisgbrecomp",
+    "name": "TetrisGBRecomp",
+    "game": "Tetris",
+    "shortName": "Tetris",
+    "platform": "Nintendo Game Boy",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Tetris recompiled from the Game Boy version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/TetrisGBRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TetrisGBRecomp-v*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "warioblast-sgb",
+    "name": "WarioBlast Recomp",
+    "game": "Wario Blast Featuring Bomberman!",
+    "shortName": "Wario Blast Featuring Bomberman!",
+    "platform": "Nintendo Game Boy",
+    "aliases": [],
+    "developer": "gnome41",
+    "kind": "recomp",
+    "description": "Wario Blast Featuring Bomberman! recompiled from the Game Boy version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/gnome41/WarioBlast-SGB",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WarioBlast-Recomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

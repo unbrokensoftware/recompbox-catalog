@@ -1,0 +1,1735 @@
+[
+  {
+    "id": "alien-crush-returns-recomp",
+    "name": "Alien Crush Returns",
+    "game": "Alien Crush Returns",
+    "shortName": "Alien Crush Returns",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "darkuni",
+    "kind": "port",
+    "description": "Alien Crush Returns ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/darkuni/alien-crush-returns-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "AlienCrushReturns-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "blackknightrecomp",
+    "name": "BlackKnightRecomp",
+    "game": "Sonic and the Black Knight",
+    "shortName": "Sonic and the Black Knight",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "yunophilia",
+    "kind": "recomp",
+    "description": "Sonic and the Black Knight recompiled from the Wii version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/yunophilia/BlackKnightRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BlackKnightRecomp-v*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "brawlrecompiled",
+    "name": "Brawl Recompiled",
+    "game": "Super Smash Bros. Brawl",
+    "shortName": "Super Smash Bros. Brawl",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "josiahg2502-glitch",
+    "kind": "port",
+    "description": "Super Smash Bros. Brawl ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/josiahg2502-glitch/BrawlRecompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BrawlRecompiled-v*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "castlevania-rebirth-recomp",
+    "name": "Castlevania: The Adventure ReBirth",
+    "game": "Castlevania: The Adventure ReBirth",
+    "shortName": "Castlevania: The Adventure ReBirth",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "darkuni",
+    "kind": "port",
+    "description": "Castlevania: The Adventure ReBirth ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/darkuni/castlevania-rebirth-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "CastlevaniaReBirth-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "chocobo-dungeon-recomp",
+    "name": "Final Fantasy Fables: Chocobo's Dungeon (darkuni Recomp)",
+    "game": "Final Fantasy Fables: Chocobo's Dungeon",
+    "shortName": "Final Fantasy Fables: Chocobo's Dungeon",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "darkuni",
+    "kind": "port",
+    "description": "Final Fantasy Fables: Chocobo's Dungeon ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/darkuni/chocobo-dungeon-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ChocoboDungeon-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "city-folk-recompiled",
+    "name": "Animal Crossing: City Folk Recompiled",
+    "game": "Animal Crossing: City Folk",
+    "shortName": "Animal Crossing: City Folk",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "rob646464",
+    "kind": "port",
+    "description": "Animal Crossing: City Folk ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/rob646464/city-folk-recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "CityFolkRecompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "contra-rebirth-recomp",
+    "name": "Contra ReBirth - native recompilation",
+    "game": "Contra ReBirth",
+    "shortName": "Contra ReBirth",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "darkuni",
+    "kind": "port",
+    "description": "Contra ReBirth ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/darkuni/contra-rebirth-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ContraReBirth-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "corruption-3-pc",
+    "name": "Metroid Prime 3: Corruption PC",
+    "game": "Metroid Prime 3: Corruption",
+    "shortName": "Metroid Prime 3: Corruption",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "bonllavier",
+    "kind": "port",
+    "description": "Metroid Prime 3: Corruption ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/bonllavier/Corruption_3-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Corruption_3-PC-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dead-space-extraction-pc",
+    "name": "Dead Space Extraction PC",
+    "game": "Dead Space: Extraction",
+    "shortName": "Dead Space: Extraction",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "Piscacho",
+    "kind": "port",
+    "description": "Dead Space: Extraction ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Piscacho/Dead-Space-Extraction-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Dead-Space-Extraction-PC-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dragons-lair-trilogy-recomp",
+    "name": "Dragons Lair Trilogy Recomp",
+    "game": "Dragon's Lair Trilogy",
+    "shortName": "Dragon's Lair Trilogy",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "darkuni",
+    "kind": "port",
+    "description": "Dragon's Lair Trilogy ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/darkuni/dragons-lair-trilogy-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DLTrilogy-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "driftdroid",
+    "name": "DriftDroid",
+    "game": "Mario Kart Wii",
+    "shortName": "Mario Kart Wii",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "dorPXP",
+    "kind": "port",
+    "description": "Mario Kart Wii ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/dorPXP/driftdroid",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DriftDroid-Builder-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "geometry-wars-wii-recomp",
+    "name": "Geometry Wars Wii Recomp",
+    "game": "Geometry Wars: Galaxies",
+    "shortName": "Geometry Wars: Galaxies",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "darkuni",
+    "kind": "port",
+    "description": "Geometry Wars: Galaxies ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/darkuni/geometry-wars-wii-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GeometryWarsGalaxies-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ghost-squad-recomp",
+    "name": "Ghost Squad Recomp",
+    "game": "Ghost Squad",
+    "shortName": "Ghost Squad",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "darkuni",
+    "kind": "port",
+    "description": "Ghost Squad ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/darkuni/ghost-squad-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GhostSquad-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gradius-rebirth-recomp",
+    "name": "Gradius Rebirth Recomp",
+    "game": "Gradius ReBirth",
+    "shortName": "Gradius ReBirth",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "darkuni",
+    "kind": "port",
+    "description": "Gradius ReBirth ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/darkuni/gradius-rebirth-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GradiusReBirth-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gunblade-recomp",
+    "name": "Gunblade Recomp",
+    "game": "Gunblade NY & L.A. Machineguns: Arcade Hits Pack",
+    "shortName": "Gunblade NY & L.A. Machineguns: Arcade Hits Pack",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "darkuni",
+    "kind": "port",
+    "description": "Gunblade NY & L.A. Machineguns: Arcade Hits Pack ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/darkuni/gunblade-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Gunblade-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gunslingers-recomp",
+    "name": "Gunslingers Recomp",
+    "game": "Gunslingers",
+    "shortName": "Gunslingers",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "darkuni",
+    "kind": "port",
+    "description": "Gunslingers ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/darkuni/gunslingers-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Gunslingers-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "harvestmoonanimalparaderecomp",
+    "name": "Harvest Moon Animal Parade Recomp",
+    "game": "Harvest Moon: Animal Parade",
+    "shortName": "Harvest Moon: Animal Parade",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "RodoLy",
+    "kind": "port",
+    "description": "Harvest Moon: Animal Parade ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/RodoLy/HarvestMoonAnimalParadeRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "HarvestMoonAnimalParade-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "house-of-the-dead-overkill-recomp",
+    "name": "House Of The Dead Overkill Recomp",
+    "game": "The House of the Dead: Overkill",
+    "shortName": "The House of the Dead: Overkill",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "darkuni",
+    "kind": "port",
+    "description": "The House of the Dead: Overkill ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/darkuni/house-of-the-dead-overkill-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "HOTDOverkill-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "janus-project",
+    "name": "Janus Project",
+    "game": "GoldenEye 007",
+    "shortName": "GoldenEye 007",
+    "platform": "Nintendo Wii",
+    "aliases": [
+      "GoldenEye 007 (Janus Project)"
+    ],
+    "developer": "Coockie1173",
+    "kind": "port",
+    "description": "GoldenEye 007 ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Coockie1173/Janus-Project",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Janus-Project-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "kirby-epic-yarn-recomp",
+    "name": "Kirby's Epic Yarn Recompiled",
+    "game": "Kirby's Epic Yarn",
+    "shortName": "Kirby's Epic Yarn",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "RivierGrullon",
+    "kind": "port",
+    "description": "Kirby's Epic Yarn ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/RivierGrullon/kirby-epic-yarn-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Kirby-Setup-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "lost-in-shadow-recomp",
+    "name": "Lost In Shadow Recomp",
+    "game": "Lost in Shadow",
+    "shortName": "Lost in Shadow",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "darkuni",
+    "kind": "port",
+    "description": "Lost in Shadow ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/darkuni/lost-in-shadow-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "LostInShadow-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "martian-panic-recomp",
+    "name": "Martian Panic Recomp",
+    "game": "Martian Panic",
+    "shortName": "Martian Panic",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "darkuni",
+    "kind": "port",
+    "description": "Martian Panic ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/darkuni/martian-panic-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MartianPanic-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mindovermutant-wiicompiled",
+    "name": "Crash: Mind over Mutant - Wiicompiled",
+    "game": "Crash: Mind over Mutant",
+    "shortName": "Crash: Mind over Mutant",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "jaylikesbunda",
+    "kind": "port",
+    "description": "Crash: Mind over Mutant ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/jaylikesbunda/MindOverMutant-Wiicompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MoMLauncher-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mkw-3ds",
+    "name": "MKW 3DS",
+    "game": "Mario Kart Wii",
+    "shortName": "Mario Kart Wii",
+    "platform": "Nintendo Wii",
+    "aliases": [
+      "Mario Kart Wii (MKW 3DS)"
+    ],
+    "developer": "MiniBandit",
+    "kind": "port",
+    "description": "Mario Kart Wii ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/MiniBandit/MKW-3DS",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MKW-3DS-Builder-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mlbpowerpros2008recomp",
+    "name": "MLB Power Pros 2008 Recomp",
+    "game": "MLB Power Pros 2008",
+    "shortName": "MLB Power Pros 2008",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "HopeAero",
+    "kind": "recomp",
+    "description": "MLB Power Pros 2008 recompiled from the Wii version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/HopeAero/MLBPowerPros2008Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MLB-Power-Pros-2008-Setup-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "moderngekko",
+    "name": "Kirby Wii Recomp",
+    "game": "Kirby's Return to Dream Land",
+    "shortName": "Kirby's Return to Dream Land",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "ExpansionPak",
+    "kind": "recomp",
+    "description": "Kirby's Return to Dream Land recompiled from the Wii version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/ExpansionPak/ModernGekko",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "KirbyWiiRecomp-Windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "muscle-march-recomp",
+    "name": "Muscle March Recomp",
+    "game": "Muscle March",
+    "shortName": "Muscle March",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "tmcleroy",
+    "kind": "port",
+    "description": "Muscle March ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/tmcleroy/muscle-march-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MuscleMarch-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mylifedarklord-recomp",
+    "name": "Final Fantasy Crystal Chronicles: My Life as a Darklord (darkuni Recomp)",
+    "game": "Final Fantasy Crystal Chronicles: My Life as a Darklord",
+    "shortName": "Final Fantasy Crystal Chronicles: My Life as a Darklord",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "darkuni",
+    "kind": "port",
+    "description": "Final Fantasy Crystal Chronicles: My Life as a Darklord ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/darkuni/mylifedarklord-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MyLifeAsADarklord-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mylifeking-recomp",
+    "name": "Final Fantasy Crystal Chronicles: My Life as a King (darkuni Recomp)",
+    "game": "Final Fantasy Crystal Chronicles: My Life as a King",
+    "shortName": "Final Fantasy Crystal Chronicles: My Life as a King",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "darkuni",
+    "kind": "port",
+    "description": "Final Fantasy Crystal Chronicles: My Life as a King ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/darkuni/mylifeking-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MyLifeAsAKing-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "newsuperpaperbros",
+    "name": "New Super Paper Bros",
+    "game": "Super Paper Mario",
+    "shortName": "Super Paper Mario",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "josiahg2502-glitch",
+    "kind": "recomp",
+    "description": "Super Paper Mario recompiled from the Wii version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/josiahg2502-glitch/NewSuperPaperBros",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NewSuperPaperBros.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "nsmb-wii-recompilation",
+    "name": "NSMB Wii Recompiled",
+    "game": "New Super Mario Bros. Wii",
+    "shortName": "New Super Mario Bros. Wii",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "WitherBlitz",
+    "kind": "port",
+    "description": "New Super Mario Bros. Wii ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/WitherBlitz/NSMB-Wii-Recompilation",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NSMBW-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "nsmbwiicompiled",
+    "name": "NSMBWiicompiled",
+    "game": "New Super Mario Bros. Wii",
+    "shortName": "New Super Mario Bros. Wii",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "ral1009",
+    "kind": "port",
+    "description": "New Super Mario Bros. Wii ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ral1009/NSMBWiicompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NSMBWCompiled-*-60c9d2e.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "oceantrirecomp",
+    "name": "OceanTriRecomp",
+    "game": "Monster Hunter Tri",
+    "shortName": "Monster Hunter Tri",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "krisztsa",
+    "kind": "port",
+    "description": "Monster Hunter Tri ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/krisztsa/OceanTriRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Windows-OceanTriRecomp.*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pokepark-2-wiicompiled",
+    "name": "PokéPark 2 Wiicompiled",
+    "game": "PokéPark 2: Wonders Beyond",
+    "shortName": "PokéPark 2: Wonders Beyond",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "MildRain479",
+    "kind": "port",
+    "description": "PokéPark 2: Wonders Beyond ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/MildRain479/PokePark-2-Wiicompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PokePark2-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pokepark-wiicompiled",
+    "name": "PokePark Wiicompiled",
+    "game": "PokéPark Wii: Pikachu's Adventure",
+    "shortName": "PokéPark Wii: Pikachu's Adventure",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "MildRain479",
+    "kind": "port",
+    "description": "PokéPark Wii: Pikachu's Adventure ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/MildRain479/PokePark-Wiicompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PokePark-Wiicompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "recharged",
+    "name": "Recharged",
+    "game": "Mario Strikers Charged",
+    "shortName": "Mario Strikers Charged",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "previouslevelgames",
+    "kind": "decomp",
+    "description": "Mario Strikers Charged running natively on PC, built from the decompiled Wii game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/previouslevelgames/recharged",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "recharged-*+*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "resident-evil-darkside-chronicles-recomp",
+    "name": "Resident Evil Darkside Chronicles Recomp",
+    "game": "Resident Evil: The Darkside Chronicles",
+    "shortName": "Resident Evil: The Darkside Chronicles",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "darkuni",
+    "kind": "port",
+    "description": "Resident Evil: The Darkside Chronicles ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/darkuni/resident-evil-darkside-chronicles-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DarksideChronicles-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "resident-evil-umbrella-chronicles-recomp",
+    "name": "Resident Evil Umbrella Chronicles Recomp",
+    "game": "Resident Evil: The Umbrella Chronicles",
+    "shortName": "Resident Evil: The Umbrella Chronicles",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "darkuni",
+    "kind": "port",
+    "description": "Resident Evil: The Umbrella Chronicles ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/darkuni/resident-evil-umbrella-chronicles-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "UmbrellaChronicles-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "resortcompiled",
+    "name": "ResortCompiled",
+    "game": "Wii Sports Resort",
+    "shortName": "Wii Sports Resort",
+    "platform": "Nintendo Wii",
+    "aliases": [
+      "Wii Sports Resort (ResortCompiled)"
+    ],
+    "developer": "redluigi323",
+    "kind": "port",
+    "description": "Wii Sports Resort ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/redluigi323/ResortCompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ResortCompiled-*-eos-preview-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "reuc-recomp",
+    "name": "Resident Evil: The Umbrella Chronicles",
+    "game": "Resident Evil: The Umbrella Chronicles",
+    "shortName": "Resident Evil: The Umbrella Chronicles",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "solleo95",
+    "kind": "recomp",
+    "description": "Resident Evil: The Umbrella Chronicles recompiled from the Wii version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/solleo95/reuc-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "UC-Windows-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "robox-recompiled",
+    "name": "Robox — robox-recompiled (Eggscantfly)",
+    "game": "Robox",
+    "shortName": "Robox",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "Eggscantfly",
+    "kind": "port",
+    "description": "Robox ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Eggscantfly/robox-recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ROBOX-Recompiled-win64-avx2.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rumblerecomp",
+    "name": "RumbleRecomp",
+    "game": "Pokémon Rumble",
+    "shortName": "Pokémon Rumble",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "ToShredsYouSay",
+    "kind": "recomp",
+    "description": "Pokémon Rumble recompiled from the Wii version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/ToShredsYouSay/RumbleRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RumbleRecomp-Beta*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "soniccolorsrecomp",
+    "name": "Sonic Colors Recomp",
+    "game": "Sonic Colors",
+    "shortName": "Sonic Colors",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "VoltTMC",
+    "kind": "port",
+    "description": "Sonic Colors ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/VoltTMC/SonicColorsRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SonicColorsRecomp-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sr-source",
+    "name": "SR ZGS",
+    "game": "Sonic Riders: Zero Gravity",
+    "shortName": "Sonic Riders: Zero Gravity",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "KnivesDevilish",
+    "kind": "port",
+    "description": "Sonic Riders: Zero Gravity ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/KnivesDevilish/SR-Source",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SR-ZGS-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "suitcase",
+    "name": "suitcase",
+    "game": "Animal Crossing: City Folk",
+    "shortName": "Animal Crossing: City Folk",
+    "platform": "Nintendo Wii",
+    "aliases": [
+      "Animal Crossing: City Folk (Suitcase)"
+    ],
+    "developer": "Cuyler36",
+    "kind": "port",
+    "description": "Animal Crossing: City Folk ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Cuyler36/suitcase",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Suitcase-*-RUUE01_00-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tanksrebirth",
+    "name": "Tanks Rebirth",
+    "game": "Tanks Rebirth",
+    "shortName": "Tanks Rebirth",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "RighteousRyan1",
+    "kind": "port",
+    "description": "Tanks Rebirth ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/RighteousRyan1/TanksRebirth",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "tanks_rebirth_*_win-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "target-terror-wii-recomp",
+    "name": "TARGET: Terror (darkuni Recomp)",
+    "game": "TARGET: Terror",
+    "shortName": "TARGET: Terror",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "darkuni",
+    "kind": "port",
+    "description": "TARGET: Terror ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/darkuni/target-terror-wii-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TargetTerror-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "wii-menu-recomp",
+    "name": "Wii Menu Recomp",
+    "game": "Wii System Menu",
+    "shortName": "Wii System Menu",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "port",
+    "description": "Wii System Menu ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mstan/wii-menu-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WiiMenuRecomp-windows-x86_64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "wiindowsplay",
+    "name": "WiindowsPlay",
+    "game": "Wii Play",
+    "shortName": "Wii Play",
+    "platform": "Nintendo Wii",
+    "aliases": [
+      "Wii Play (WiindowsPlay)"
+    ],
+    "developer": "SNO2207",
+    "kind": "port",
+    "description": "Wii Play ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/SNO2207/WiindowsPlay",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WiindowsPlay-Windows-x64-runtime.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "wiiparty-recomp",
+    "name": "Wii Party",
+    "game": "Wii Party",
+    "shortName": "Wii Party",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "arelkair",
+    "kind": "recomp",
+    "description": "Wii Party recompiled from the Wii version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/arelkair/wiiparty-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "wiipartyrecomp-offline-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "wondersbeyondrecomp",
+    "name": "Wonders Beyond Recomp",
+    "game": "PokéPark 2: Wonders Beyond",
+    "shortName": "PokéPark 2: Wonders Beyond",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "eliasm4r",
+    "kind": "port",
+    "description": "PokéPark 2: Wonders Beyond ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/eliasm4r/WondersBeyondRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WondersBeyondRecomp-Setup-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "zak-wiki-recomp",
+    "name": "Zak Wiki Recomp",
+    "game": "Zack & Wiki: Quest for Barbaros' Treasure",
+    "shortName": "Zack & Wiki: Quest for Barbaros' Treasure",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "darkuni",
+    "kind": "port",
+    "description": "Zack & Wiki: Quest for Barbaros' Treasure ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/darkuni/zak-wiki-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ZackWiki-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

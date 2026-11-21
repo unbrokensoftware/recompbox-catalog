@@ -1,0 +1,36 @@
+[
+  {
+    "id": "virtua-racing-xboxone-windows",
+    "name": "Virtua Racing XBOXONE Windows",
+    "game": "Virtua Racing XBOXONE Windows",
+    "shortName": "Virtua Racing XBOXONE Windows",
+    "platform": "Microsoft Xbox One",
+    "aliases": [
+      "Virtua Racing"
+    ],
+    "developer": "wanszai",
+    "kind": "port",
+    "description": "Virtua Racing XBOXONE Windows ported to run natively on PC from the Xbox One version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/wanszai/Virtua-Racing---XBOXONE-Windows",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PC-VirtuaRacing103.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

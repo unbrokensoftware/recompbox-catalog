@@ -1,0 +1,306 @@
+[
+  {
+    "id": "epoch-equinox",
+    "name": "Epoch Equinox",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "shortName": "The Legend of Zelda: Oracle of Ages",
+    "platform": "Nintendo Game Boy Color",
+    "aliases": [],
+    "developer": "ZakyPew",
+    "kind": "port",
+    "description": "The Legend of Zelda: Oracle of Ages ported to run natively on PC from the Game Boy Color version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ZakyPew/epoch-equinox",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "epoch-equinox-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "metal-gear-ghost-babel-recomp",
+    "name": "Recomp",
+    "game": "Metal Gear Solid: Ghost Babel",
+    "shortName": "Metal Gear Solid: Ghost Babel",
+    "platform": "Nintendo Game Boy Color",
+    "aliases": [
+      "Metal Gear Solid: Ghost Babel (Recomp)"
+    ],
+    "developer": "msantana-01",
+    "kind": "port",
+    "description": "Metal Gear Solid: Ghost Babel ported to run natively on PC from the Game Boy Color version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/msantana-01/Metal-Gear-Ghost-Babel-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ghost-babel-tools-windows-x86_64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ooa-godot",
+    "name": "Ooa Godot",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "shortName": "The Legend of Zelda: Oracle of Ages",
+    "platform": "Nintendo Game Boy Color",
+    "aliases": [],
+    "developer": "SHOEGAZEssb",
+    "kind": "port",
+    "description": "The Legend of Zelda: Oracle of Ages ported to run natively on PC from the Game Boy Color version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/SHOEGAZEssb/ooa-godot",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "oracle-of-ages-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "oracles-decomp",
+    "name": "Oracles Decomp",
+    "game": "The Legend of Zelda: Oracle of Ages; The Legend of Zelda: Oracle of Seasons",
+    "shortName": "The Legend of Zelda: Oracle of Ages; The Legend of Zelda: Oracle of Seasons",
+    "platform": "Nintendo Game Boy Color",
+    "aliases": [
+      "The Legend of Zelda: Oracle of Ages"
+    ],
+    "developer": "kirby-letsgo",
+    "kind": "decomp",
+    "description": "The Legend of Zelda: Oracle of Ages; The Legend of Zelda: Oracle of Seasons running natively on PC, built from the decompiled Game Boy Color game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/kirby-letsgo/oracles-decomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Oracles-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pinball-ns",
+    "name": "Pinball NS",
+    "game": "Pokémon Pinball",
+    "shortName": "Pokémon Pinball",
+    "platform": "Nintendo Game Boy Color",
+    "aliases": [
+      "Pokémon Pinball (Pinball NS)"
+    ],
+    "developer": "ReiniShari",
+    "kind": "port",
+    "description": "Pokémon Pinball ported to run natively on PC from the Game Boy Color version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ReiniShari/Pinball-NS",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PinballNS-Windows-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pokemon-card-game-2-native-port",
+    "name": "Pokémon TCG 2 Native Port",
+    "game": "Pokémon Trading Card Game 2: The Invasion of Team GR!",
+    "shortName": "Pokémon Trading Card Game 2: The Invasion of Team GR!",
+    "platform": "Nintendo Game Boy Color",
+    "aliases": [],
+    "developer": "brianblakely",
+    "kind": "port",
+    "description": "Pokémon Trading Card Game 2: The Invasion of Team GR! ported to run natively on PC from the Game Boy Color version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/brianblakely/pokemon-card-game-2-native-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "pokemon-tcg2-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "regaiden-recomp",
+    "name": "Resident Evil Gaiden: Recompiled",
+    "game": "Resident Evil Gaiden",
+    "shortName": "Resident Evil Gaiden",
+    "platform": "Nintendo Game Boy Color",
+    "aliases": [],
+    "developer": "sergiomanzur",
+    "kind": "recomp",
+    "description": "Resident Evil Gaiden recompiled from the Game Boy Color version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/sergiomanzur/regaiden-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Resident_Evil_Gaiden_Recomp_v*_Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "shantaerecomp",
+    "name": "Shantae Recomp",
+    "game": "Shantae",
+    "shortName": "Shantae",
+    "platform": "Nintendo Game Boy Color",
+    "aliases": [],
+    "developer": "vibecodekun",
+    "kind": "recomp",
+    "description": "Shantae recompiled from the Game Boy Color version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/vibecodekun/shantaerecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "shantae-recomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "top",
+    "name": "The Oracles Project",
+    "game": "The Legend of Zelda: Oracle of Seasons / Oracle of Ages",
+    "shortName": "The Legend of Zelda: Oracle of Seasons / Oracle of Ages",
+    "platform": "Nintendo Game Boy Color",
+    "aliases": [
+      "The Legend of Zelda: Oracle"
+    ],
+    "developer": "thibautbus",
+    "kind": "port",
+    "description": "The Legend of Zelda: Oracle of Seasons / Oracle of Ages ported to run natively on PC from the Game Boy Color version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/thibautbus/top",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "the-oracles-project-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

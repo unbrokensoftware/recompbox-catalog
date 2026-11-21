@@ -1,0 +1,5496 @@
+[
+  {
+    "id": "1080-snowboarding-decomp",
+    "name": "1080° Snowboarding: Recompiled",
+    "game": "1080° Snowboarding",
+    "shortName": "1080° Snowboarding",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "thebradshaw",
+    "kind": "recomp",
+    "description": "1080° Snowboarding recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/thebradshaw/1080-Snowboarding-decomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "1080SnowboardingRecompiled-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "40winksrecomp",
+    "name": "40 Winks: Dreamcompiled",
+    "game": "40 Winks",
+    "shortName": "40 Winks",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "DreaXer",
+    "kind": "recomp",
+    "description": "40 Winks recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/DreaXer/40WinksRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "40WinksRecompiled-v*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "adam",
+    "name": "Adam 01",
+    "game": "Neon Genesis Evangelion",
+    "shortName": "Neon Genesis Evangelion",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Neon Genesis Evangelion (1999)"
+    ],
+    "developer": "evaa-01",
+    "kind": "port",
+    "description": "Neon Genesis Evangelion ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/evaa-01/adam",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "adam-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "adams-ant-farm-recomp",
+    "name": "Adam's Ant Farm",
+    "game": "Body Harvest",
+    "shortName": "Body Harvest",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "LunarLaurus",
+    "kind": "recomp",
+    "description": "Body Harvest recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/LunarLaurus/adams-ant-farm-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "adams-ant-farm-windows-x86_64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "aerogauge-recomp",
+    "name": "AeroGauge Recomp",
+    "game": "AeroGauge",
+    "shortName": "AeroGauge",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "alondero",
+    "kind": "recomp",
+    "description": "AeroGauge recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/alondero/aerogauge-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "aerogauge-recomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "aidynrechronicled",
+    "name": "Aidyn ReChronicled",
+    "game": "Aidyn Chronicles: The First Mage",
+    "shortName": "Aidyn Chronicles: The First Mage",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "spitzdano",
+    "kind": "port",
+    "description": "Aidyn Chronicles: The First Mage ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/spitzdano/AidynReChronicled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "AidynReChronicled-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "army-men-sarges-heroes-64-recompiled",
+    "name": "Army Men: Sarge's Heroes 64 Recompiled",
+    "game": "Army Men: Sarge's Heroes",
+    "shortName": "Army Men: Sarge's Heroes",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "RangerXT",
+    "kind": "recomp",
+    "description": "Army Men: Sarge's Heroes recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/RangerXT/Army-Men-Sarges-Heroes-64-Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ArmyMenSargesHeroes64Recompiled-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "automobililamborghini-recomp",
+    "name": "Automobili Lamborghini: Recompiled",
+    "game": "Automobili Lamborghini",
+    "shortName": "Automobili Lamborghini",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "alondero",
+    "kind": "recomp",
+    "description": "Automobili Lamborghini recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/alondero/automobililamborghini-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "lamborghini-recomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "banjo-tooie-scurvy-dog-port",
+    "name": "Banjo-Tooie Port",
+    "game": "Banjo Tooie",
+    "shortName": "Banjo Tooie",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Banjo-Tooie"
+    ],
+    "developer": "some-scurvy-dog",
+    "kind": "recomp",
+    "description": "Banjo Tooie recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/some-scurvy-dog/banjo-tooie-scurvy-dog-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BanjoTooieScurvyDogPort-Alpha*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "banjotooierecompiled",
+    "name": "Banjo-Tooie: Recompiled",
+    "game": "Banjo Tooie",
+    "shortName": "Banjo Tooie",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Banjo-Tooie"
+    ],
+    "developer": "Vidanox",
+    "kind": "recomp",
+    "description": "Banjo Tooie recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Vidanox/BanjoTooieRecompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BanjoTooieRecompiled-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "battleship",
+    "name": "BattleShip",
+    "game": "Super Smash Bros.",
+    "shortName": "Super Smash Bros.",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "JRickey",
+    "kind": "decomp",
+    "description": "Super Smash Bros. running natively on PC, built from the decompiled 64 game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "mods",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/JRickey/BattleShip",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BattleShip-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "battletanx-global-assault-pc-port",
+    "name": "BattleTanx PC Port",
+    "game": "BattleTanx: Global Assault",
+    "shortName": "BattleTanx: Global Assault",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "TheGh0stShip",
+    "kind": "recomp",
+    "description": "BattleTanx: Global Assault recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/TheGh0stShip/BattleTanx-Global-Assault-PC-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BattleTanxGA-*-windows-x64-portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "beetle-adventure-racing-recomp",
+    "name": "Beetle Adventure Racing! Recomp",
+    "game": "Beetle Adventure Racing!",
+    "shortName": "Beetle Adventure Racing!",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "danielgomesvieira2000",
+    "kind": "recomp",
+    "description": "Beetle Adventure Racing! recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/danielgomesvieira2000/beetle-adventure-racing-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "beetle-adventure-racing-recomp-v*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "beetlerecomp",
+    "name": "Beetle Recomp",
+    "game": "Beetle Adventure Racing!",
+    "shortName": "Beetle Adventure Racing!",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "bryankruman",
+    "kind": "recomp",
+    "description": "Beetle Adventure Racing! recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/bryankruman/BeetleRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BeetleRecomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "birdman64",
+    "name": "Birdman64",
+    "game": "Pilotwings 64",
+    "shortName": "Pilotwings 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "NoahVl",
+    "kind": "decomp",
+    "description": "Pilotwings 64 running natively on PC, built from the decompiled 64 game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/NoahVl/Birdman64",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Birdman64-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "blastcorps-recomp",
+    "name": "Blast Corps: Recompiled",
+    "game": "Blast Corps",
+    "shortName": "Blast Corps",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "SlaveOfIDO",
+    "kind": "recomp",
+    "description": "Blast Corps recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/SlaveOfIDO/blastcorps-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BlastCorpsRecompiled-*-Windows-RelWithDebInfo.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "blocksphere",
+    "name": "Blocksphere",
+    "game": "Tetrisphere",
+    "shortName": "Tetrisphere",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "djultra64",
+    "kind": "recomp",
+    "description": "Tetrisphere recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/djultra64/Blocksphere",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "blocksphere-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "bm64recomp",
+    "name": "Bomberman 64: Recompiled",
+    "game": "Bomberman 64",
+    "shortName": "Bomberman 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "RevoSucks",
+    "kind": "recomp",
+    "description": "Bomberman 64 recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/RevoSucks/BM64Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BM64Recompiled-Windows-RelWithDebInfo.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "bmherorecomp",
+    "name": "Bomberman Hero: Recompiled",
+    "game": "Bomberman Hero",
+    "shortName": "Bomberman Hero",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "RevoSucks",
+    "kind": "recomp",
+    "description": "Bomberman Hero recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/RevoSucks/BMHeroRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BMHeroRecompiled-Windows-RelWithDebInfo.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "body-harvest-recomp",
+    "name": "Body Harvest: Recompiled",
+    "game": "Body Harvest",
+    "shortName": "Body Harvest",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "danielgomesvieira2000",
+    "kind": "recomp",
+    "description": "Body Harvest recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/danielgomesvieira2000/body-harvest-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "body-harvest-recomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "bodyharvestrecomp",
+    "name": "Body Harvest (mcsoderh)",
+    "game": "Body Harvest",
+    "shortName": "Body Harvest",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "mcsoderh",
+    "kind": "recomp",
+    "description": "Body Harvest recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mcsoderh/BodyHarvestRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BodyHarvestRecompiled-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "brally",
+    "name": "Top Gear Rally / Boss Rally",
+    "game": "Boss Rally",
+    "shortName": "Boss Rally",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Top Gear Rally"
+    ],
+    "developer": "jeff-strutb",
+    "kind": "decomp",
+    "description": "Boss Rally running natively on PC, built from the decompiled 64 game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/jeff-strutb/brally",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RallyBuilder-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "btgarecomp",
+    "name": "BTGARecomp",
+    "game": "BattleTanx: Global Assault",
+    "shortName": "BattleTanx: Global Assault",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "wootbeer",
+    "kind": "recomp",
+    "description": "BattleTanx: Global Assault recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/wootbeer/btgarecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BattleTanxGARecompiled-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "btrecomp",
+    "name": "BattleTanx Recompiled",
+    "game": "BattleTanx",
+    "shortName": "BattleTanx",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "wootbeer",
+    "kind": "recomp",
+    "description": "BattleTanx recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/wootbeer/btrecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BattleTanxRecompiled-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "bzrecomp",
+    "name": "Battlezone: Rise of the Black Dogs Recompiled",
+    "game": "Battlezone: Rise of the Black Dogs",
+    "shortName": "Battlezone: Rise of the Black Dogs",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "wootbeer",
+    "kind": "recomp",
+    "description": "Battlezone: Rise of the Black Dogs recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/wootbeer/bzrecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BattlezoneRecompiled-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "cbfd-recompiled",
+    "name": "Conker's Bad Fur Day: Recompiled",
+    "game": "Conker's Bad Fur Day",
+    "shortName": "Conker's Bad Fur Day",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "sciaschi",
+    "kind": "recomp",
+    "description": "Conker's Bad Fur Day recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/sciaschi/CBFD-Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ConkerRecompiled-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "chameleontwist1-jp-recomp",
+    "name": "Chameleon Twist: Recompiled",
+    "game": "Chameleon Twist",
+    "shortName": "Chameleon Twist",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "Rainchus",
+    "kind": "recomp",
+    "description": "Chameleon Twist recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Rainchus/ChameleonTwist1-JP-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ChameleonTwistJPRecompiled.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "clayfighter64",
+    "name": "ClayFighter 64",
+    "game": "ClayFighter 63⅓ and ClayFighter: Sculptor's Cut",
+    "shortName": "ClayFighter 63⅓ and ClayFighter: Sculptor's Cut",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "ClayFighter 63⅓"
+    ],
+    "developer": "djultra64",
+    "kind": "recomp",
+    "description": "ClayFighter 63⅓ and ClayFighter: Sculptor's Cut recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/djultra64/ClayFighter64",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "clayfighter64-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "coastline",
+    "name": "coastline",
+    "game": "Top Gear Rally",
+    "shortName": "Top Gear Rally",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "Tatsh",
+    "kind": "port",
+    "description": "Top Gear Rally ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Tatsh/coastline",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "boss-rally-*-windows-x86-msvc-Release.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "comboship",
+    "name": "ComboShip",
+    "game": "The Legend of Zelda: Ocarina of Time / Majora's Mask",
+    "shortName": "The Legend of Zelda: Ocarina of Time / Majora's Mask",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "Varuuna",
+    "kind": "port",
+    "description": "The Legend of Zelda: Ocarina of Time / Majora's Mask ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Varuuna/ComboShip",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ComboShip-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "conker-3d-stereo",
+    "name": "3D Stereo",
+    "game": "Conker's Bad Fur Day",
+    "shortName": "Conker's Bad Fur Day",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Conker's Bad Fur Day (3D Stereo)"
+    ],
+    "developer": "agrofubris",
+    "kind": "port",
+    "description": "Conker's Bad Fur Day ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/agrofubris/conker-3d-stereo",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "conker-3d-stereo-*-win.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "conker64-recompiled",
+    "name": "Conker's Bad Fur Day Recompiled",
+    "game": "Conker's Bad Fur Day",
+    "shortName": "Conker's Bad Fur Day",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "Conker64Recomp",
+    "kind": "recomp",
+    "description": "Conker's Bad Fur Day recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Conker64Recomp/conker64-recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Conker64-Recompiled-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "conkerbfdreloaded",
+    "name": "Conker BFD Reloaded",
+    "game": "Conker's Bad Fur Day",
+    "shortName": "Conker's Bad Fur Day",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "DahSidiAbdallah",
+    "kind": "recomp",
+    "description": "Conker's Bad Fur Day recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "gyro",
+      "hd-textures",
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/DahSidiAbdallah/ConkerBFDReloaded",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ConkerBFDReloaded-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "conkers-bfd-recomp",
+    "name": "Conker's Bad Fur Day: Recompiled",
+    "game": "Conker's Bad Fur Day",
+    "shortName": "Conker's Bad Fur Day",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "DevOldSchool",
+    "kind": "port",
+    "description": "Conker's Bad Fur Day ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/DevOldSchool/conkers-bfd-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Conkers-Bad-Fur-Day-Recompiled-*-windows-arm64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "cv64recomp",
+    "name": "Castlevania 64 (RevoSucks)",
+    "game": "Castlevania 64",
+    "shortName": "Castlevania 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "RevoSucks",
+    "kind": "recomp",
+    "description": "Castlevania 64 recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/RevoSucks/CV64Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "CV64Recompiled-Windows-RelWithDebInfo.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "cvlod-recomp",
+    "name": "CVLoD Recomp",
+    "game": "Castlevania: Legacy of Darkness",
+    "shortName": "Castlevania: Legacy of Darkness",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "fliperama86",
+    "kind": "recomp",
+    "description": "Castlevania: Legacy of Darkness recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/fliperama86/cvlod_recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "LodRecomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "destruction-decomp-64",
+    "name": "Destruction Decomp 64",
+    "game": "Destruction Derby 64",
+    "shortName": "Destruction Derby 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "murkantor",
+    "kind": "port",
+    "description": "Destruction Derby 64 ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/murkantor/Destruction-Decomp-64",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DestructionDecomp64_Windows.7z",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dino-recomp",
+    "name": "Dinosaur Planet Recomp",
+    "game": "Dinosaur Planet",
+    "shortName": "Dinosaur Planet",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "DinosaurPlanetRecomp",
+    "kind": "recomp",
+    "description": "Dinosaur Planet recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/DinosaurPlanetRecomp/dino-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DinosaurPlanetRecompiled-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dinosaur-planet-recomp",
+    "name": "Dinosaur Planet AI Recomp",
+    "game": "Dinosaur Planet prototype",
+    "shortName": "Dinosaur Planet prototype",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Dinosaur Planet prototype (Dinosaur Planet AI Recomp)",
+      "Dinosaur Planet"
+    ],
+    "developer": "n64hub",
+    "kind": "port",
+    "description": "Dinosaur Planet prototype ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/n64hub/dinosaur-planet-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DinosaurPlanet-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dinotale",
+    "name": "DinoTale: Yoshi's Story Recompiled",
+    "game": "Yoshi's Story",
+    "shortName": "Yoshi's Story",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "wootbeer",
+    "kind": "recomp",
+    "description": "Yoshi's Story recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/wootbeer/dinotale",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DinoTale-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dkr-r",
+    "name": "DKR R",
+    "game": "Diddy Kong Racing",
+    "shortName": "Diddy Kong Racing",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "ThatGuyMcd",
+    "kind": "recomp",
+    "description": "Diddy Kong Racing recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "mods",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/ThatGuyMcd/DKR-R",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DKR-R-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dnzhrecomp",
+    "name": "Duke Nukem Zero Hour: Recompiled",
+    "game": "Duke Nukem: Zero Hour",
+    "shortName": "Duke Nukem: Zero Hour",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "sonicdcer",
+    "kind": "recomp",
+    "description": "Duke Nukem: Zero Hour recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/sonicdcer/DNZHRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DNZHRecompiled-*-Windows-RelWithDebInfo.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "donald-duck-goin-quackers-recomp",
+    "name": "Donald Duck: Goin' Quackers Recompiled",
+    "game": "Donald Duck: Goin' Quackers",
+    "shortName": "Donald Duck: Goin' Quackers",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "n64hub",
+    "kind": "port",
+    "description": "Donald Duck: Goin' Quackers ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/n64hub/donald-duck-goin-quackers-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GoinQuackersRecompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "doom64-ex-plus-enhanced",
+    "name": "Doom 64 EX+ Enhanced",
+    "game": "Doom 64",
+    "shortName": "Doom 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "Styd051",
+    "kind": "port",
+    "description": "Doom 64 ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/Styd051/DOOM64-EX-Plus-Enhanced",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "doom64ex-plus-enhanced-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "doom64ex",
+    "name": "Doom64EX",
+    "game": "Doom 64",
+    "shortName": "Doom 64",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Doom 64 (Doom64EX)"
+    ],
+    "developer": "svkaiser",
+    "kind": "port",
+    "description": "Doom 64 ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/svkaiser/Doom64EX",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Doom64EX-deps-win32-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "doom64ex-plus",
+    "name": "Doom 64 (Doom 64 EX+)",
+    "game": "Doom 64",
+    "shortName": "Doom 64",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Doom 64 (Doom64EX+)"
+    ],
+    "developer": "atsb",
+    "kind": "port",
+    "description": "Doom 64 ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/atsb/Doom64EX-Plus",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "doom64ex-plus-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dora64",
+    "name": "Dora64",
+    "game": "Doraemon: Nobita to Mittsu no Seireiseki",
+    "shortName": "Doraemon: Nobita to Mittsu no Seireiseki",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "citrongames",
+    "kind": "recomp",
+    "description": "Doraemon: Nobita to Mittsu no Seireiseki recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/citrongames/Dora64",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Dora64-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dora64-3",
+    "name": "Dora64 3",
+    "game": "Doraemon 3: Nobita no Machi SOS!",
+    "shortName": "Doraemon 3: Nobita no Machi SOS!",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "citrongames",
+    "kind": "recomp",
+    "description": "Doraemon 3: Nobita no Machi SOS! recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/citrongames/Dora64-3",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Dora64-3-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "drmario64-recomp-plus",
+    "name": "Dr. Mario 64: Recompiled Plus",
+    "game": "Dr. Mario 64",
+    "shortName": "Dr. Mario 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "theboy181",
+    "kind": "recomp",
+    "description": "Dr. Mario 64 recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/theboy181/drmario64_recomp_plus",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Dr.Mario.64.Recompiled-v*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "excitebike-64-recomp",
+    "name": "Excitebike 64 Recomp",
+    "game": "Excitebike 64",
+    "shortName": "Excitebike 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "n64hub",
+    "kind": "port",
+    "description": "Excitebike 64 ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/n64hub/excitebike-64-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Excitebike64Recompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "f-zero-x-recomp",
+    "name": "F-Zero X: Recompiled",
+    "game": "F-Zero X",
+    "shortName": "F-Zero X",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "n64hub",
+    "kind": "port",
+    "description": "F-Zero X ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/n64hub/f-zero-x-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FZeroXRecompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "g-diffuser",
+    "name": "G Diffuser",
+    "game": "F-Zero X",
+    "shortName": "F-Zero X",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "Zorkats",
+    "kind": "decomp",
+    "description": "F-Zero X running natively on PC, built from the decompiled 64 game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Zorkats/G-Diffuser",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "G-Diffuser-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gdx-3ds",
+    "name": "G-Diffuser 3DS",
+    "game": "F-Zero X",
+    "shortName": "F-Zero X",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "F-Zero X (G-Diffuser 3DS)"
+    ],
+    "developer": "cruxxxxxx",
+    "kind": "port",
+    "description": "F-Zero X ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/cruxxxxxx/gdx-3ds",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "gdx-extract-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ggarecomp",
+    "name": "GGA Recompiled",
+    "game": "Goemon's Great Adventure",
+    "shortName": "Goemon's Great Adventure",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "DreaXer",
+    "kind": "port",
+    "description": "Goemon's Great Adventure ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/DreaXer/GGARecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GGARecompiled-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ghostship",
+    "name": "Ghostship",
+    "game": "Super Mario 64",
+    "shortName": "Super Mario 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "HarbourMasters",
+    "kind": "decomp",
+    "description": "Super Mario 64 running natively on PC, built from the decompiled 64 game.",
+    "requirement": "",
+    "features": [
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/HarbourMasters/Ghostship",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Nautilus-Alfa-Win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "glover-r",
+    "name": "Glover R",
+    "game": "Glover",
+    "shortName": "Glover",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "ThatGuyMcd",
+    "kind": "recomp",
+    "description": "Glover recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/ThatGuyMcd/Glover-R",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Glover-R-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "goemon64recomp",
+    "name": "Goemon64 Recomp",
+    "game": "Mystical Ninja Starring Goemon",
+    "shortName": "Mystical Ninja Starring Goemon",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Mystical Ninja Starring Goemon (Nintendo 64)"
+    ],
+    "developer": "klorfmorf",
+    "kind": "recomp",
+    "description": "Mystical Ninja Starring Goemon recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "gyro",
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/klorfmorf/Goemon64Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Goemon64Recompiled-Windows-RelWithDebInfo.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "goldenballoon",
+    "name": "Golden Balloon",
+    "game": "Diddy Kong Racing",
+    "shortName": "Diddy Kong Racing",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "akratch",
+    "kind": "decomp",
+    "description": "Diddy Kong Racing running natively on PC, built from the decompiled 64 game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/akratch/goldenballoon",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Golden-Balloon-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "goldeneye-pc-port",
+    "name": "GoldenEye 007 PC Port",
+    "game": "GoldenEye 007",
+    "shortName": "GoldenEye 007",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "jkdansereau",
+    "kind": "decomp",
+    "description": "GoldenEye 007 running natively on PC, built from the decompiled 64 game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/jkdansereau/goldeneye-pc-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "goldeneye-pc-port-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "goldeneye-vr",
+    "name": "GoldenEye VR",
+    "game": "GoldenEye 007",
+    "shortName": "GoldenEye 007",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "GoldenEye 007 (GoldenEye VR)"
+    ],
+    "developer": "MrSco",
+    "kind": "port",
+    "description": "GoldenEye 007 ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/MrSco/goldeneye-vr",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GoldenEyeVR-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "goldeneye64recomp",
+    "name": "GoldenEye 007: Recompiled",
+    "game": "GoldenEye 007",
+    "shortName": "GoldenEye 007",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "podulator",
+    "kind": "port",
+    "description": "GoldenEye 007 ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/podulator/GoldenEye64Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GoldenEye64Recomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gt64-recomp",
+    "name": "GT 64 Recompiled",
+    "game": "GT 64: Championship Edition",
+    "shortName": "GT 64: Championship Edition",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "tijayfly",
+    "kind": "port",
+    "description": "GT 64: Championship Edition ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/tijayfly/gt64_recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GT64Recompiled-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hangtimerecomp",
+    "name": "HangtimeRecomp",
+    "game": "NBA Hangtime",
+    "shortName": "NBA Hangtime",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "8bitninja64",
+    "kind": "recomp",
+    "description": "NBA Hangtime recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/8bitninja64/HangtimeRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "HangtimeRecomp-win64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "harvestmoon64recomp",
+    "name": "Harvest Moon 64 Recomp",
+    "game": "Harvest Moon 64",
+    "shortName": "Harvest Moon 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "HarvestMoon64Recomp",
+    "kind": "recomp",
+    "description": "Harvest Moon 64 recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/HarvestMoon64Recomp/HarvestMoon64Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "HarvestMoon64Recompiled-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hbht",
+    "name": "hbht",
+    "game": "Aidyn Chronicles: The First Mage",
+    "shortName": "Aidyn Chronicles: The First Mage",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Aidyn Chronicles: The First Mage (Hoo Boy, Here's Trouble)"
+    ],
+    "developer": "Aquatakat",
+    "kind": "port",
+    "description": "Aidyn Chronicles: The First Mage ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Aquatakat/hbht",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "HBHT-beta-3-windows-portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hikarilucy-snowboardkids-recomp",
+    "name": "Snowboard Kids Recomp",
+    "game": "Snowboard Kids",
+    "shortName": "Snowboard Kids",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "HikariLucy",
+    "kind": "recomp",
+    "description": "Snowboard Kids recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/HikariLucy/SnowboardKids-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SnowboardKidsRecompiled-*-Windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hm64-decomp",
+    "name": "Hm64 Decomp",
+    "game": "Harvest Moon 64",
+    "shortName": "Harvest Moon 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "harvestwhisperer",
+    "kind": "port",
+    "description": "Harvest Moon 64 ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/harvestwhisperer/hm64-decomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "sprite-editor-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hunkstalker-hybrid-heaven-recomp",
+    "name": "Hybrid Heaven Recomp",
+    "game": "Hybrid Heaven",
+    "shortName": "Hybrid Heaven",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "hunkstalker",
+    "kind": "recomp",
+    "description": "Hybrid Heaven recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/hunkstalker/hybrid-heaven-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "HybridHeavenRecomp-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hybrid-heaven-recomp",
+    "name": "Hybrid Heaven Recomp",
+    "game": "Hybrid Heaven",
+    "shortName": "Hybrid Heaven",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "danielgomesvieira2000",
+    "kind": "recomp",
+    "description": "Hybrid Heaven recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/danielgomesvieira2000/hybrid-heaven-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "hybrid-heaven-recomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hybridheaven-recomp",
+    "name": "Hybrid Heaven: Recompiled",
+    "game": "Hybrid Heaven",
+    "shortName": "Hybrid Heaven",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "ogdanimal",
+    "kind": "recomp",
+    "description": "Hybrid Heaven recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/ogdanimal/HybridHeaven-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "HybridHeaven-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "infinite-mario-64-ever",
+    "name": "Infinite Mario 64 Ever",
+    "game": "Super Mario 64 [Infinite Mario 64 Ever]",
+    "shortName": "Super Mario 64 [Infinite Mario 64 Ever]",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "★ Infinite Mario 64 Ever"
+    ],
+    "developer": "Brawmario",
+    "kind": "port",
+    "description": "Super Mario 64 [Infinite Mario 64 Ever] ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Brawmario/infinite-mario-64-ever",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "infinite-mario-64-ever.*.windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "iss2000",
+    "name": "ISS2000",
+    "game": "International Superstar Soccer 2000",
+    "shortName": "International Superstar Soccer 2000",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "djultra64",
+    "kind": "recomp",
+    "description": "International Superstar Soccer 2000 recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/djultra64/ISS2000",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ISS2000-Windows-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "iss2000-recomp",
+    "name": "ISS 2000 Widescreen",
+    "game": "International Superstar Soccer 2000",
+    "shortName": "International Superstar Soccer 2000",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "Mabec-games",
+    "kind": "recomp",
+    "description": "International Superstar Soccer 2000 recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Mabec-games/ISS2000-RECOMP",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Mabecs_ISS2000_Widescreen-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "jet-force-gemini-xr",
+    "name": "XR",
+    "game": "Jet Force Gemini",
+    "shortName": "Jet Force Gemini",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Jet Force Gemini (XR)"
+    ],
+    "developer": "jebot-git",
+    "kind": "port",
+    "description": "Jet Force Gemini ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/jebot-git/Jet-Force-Gemini-XR",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "JetForceGeminiXR-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "jetforcegemini-recomp",
+    "name": "Jet Force Gemini Recomp",
+    "game": "Jet Force Gemini",
+    "shortName": "Jet Force Gemini",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "TK22-26",
+    "kind": "recomp",
+    "description": "Jet Force Gemini recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/TK22-26/JetForceGemini-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "JFG-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "jetforcegemini-recompiled",
+    "name": "Jet Force Gemini Recompiled",
+    "game": "Jet Force Gemini",
+    "shortName": "Jet Force Gemini",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "VibinToast",
+    "kind": "recomp",
+    "description": "Jet Force Gemini recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/VibinToast/JetForceGemini-Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "JFG-*-windows-x64-portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "kigold-recomp",
+    "name": "Killer Instinct Gold: Recompiled",
+    "game": "Killer Instinct Gold",
+    "shortName": "Killer Instinct Gold",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "geno55",
+    "kind": "recomp",
+    "description": "Killer Instinct Gold recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/geno55/kigold-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "kigold-recomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "knife-edge-recomp",
+    "name": "Knife Edge: Nose Gunner",
+    "game": "Knife Edge: Nose Gunner",
+    "shortName": "Knife Edge: Nose Gunner",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Knife Edge: Nose Gunner (Knife Edge Recompiled)"
+    ],
+    "developer": "haydenmc",
+    "kind": "recomp",
+    "description": "Knife Edge: Nose Gunner recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/haydenmc/knife-edge-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "KnifeEdgeRecompiled-windows-x86_64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "kyujo",
+    "name": "Kyujo",
+    "game": "Pokemon Stadium",
+    "shortName": "Pokemon Stadium",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Pokemon Stadium (Kyujo)"
+    ],
+    "developer": "clearmoon247",
+    "kind": "port",
+    "description": "Pokemon Stadium ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/clearmoon247/Kyujo",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Kyujo-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "lighthouse",
+    "name": "Lighthouse",
+    "game": "Banjo Kazooie",
+    "shortName": "Banjo Kazooie",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Banjo-Kazooie"
+    ],
+    "developer": "HarbourMasters",
+    "kind": "decomp",
+    "description": "Banjo Kazooie running natively on PC, built from the decompiled 64 game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/HarbourMasters/Lighthouse",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Lighthouse-Montauk-Charlie-Win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "magicalblocks",
+    "name": "Magical Blocks",
+    "game": "Magical Tetris Challenge",
+    "shortName": "Magical Tetris Challenge",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "rac08241988",
+    "kind": "recomp",
+    "description": "Magical Tetris Challenge recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/rac08241988/MagicalBlocks",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MagicalBlocks-*-win64-portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mario-golf-recomp",
+    "name": "Mario Golf (N64) / n64hub",
+    "game": "Mario Golf",
+    "shortName": "Mario Golf",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "n64hub",
+    "kind": "port",
+    "description": "Mario Golf ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/n64hub/mario-golf-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MarioGolfRecompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mario-kart-64-3ds",
+    "name": "Mario Kart 64 3ds",
+    "game": "Mario Kart 64",
+    "shortName": "Mario Kart 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "EstebanPdN",
+    "kind": "port",
+    "description": "Mario Kart 64 ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/EstebanPdN/mario-kart-64-3ds",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MK64-Extractor-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mario-party-2-recomp",
+    "name": "Mario Party 2: Recompiled",
+    "game": "Mario Party 2",
+    "shortName": "Mario Party 2",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "n64hub",
+    "kind": "recomp",
+    "description": "Mario Party 2 recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/n64hub/mario-party-2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MarioParty2Recompiled-v*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mario-party-3-recomp",
+    "name": "Mario Party 3: Recompiled",
+    "game": "Mario Party 3",
+    "shortName": "Mario Party 3",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "n64hub",
+    "kind": "recomp",
+    "description": "Mario Party 3 recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/n64hub/mario-party-3-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MarioParty3Recompiled-v*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mario-party-recomp",
+    "name": "Mario Party: Recompiled",
+    "game": "Mario Party",
+    "shortName": "Mario Party",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "n64hub",
+    "kind": "recomp",
+    "description": "Mario Party recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/n64hub/mario-party-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MarioPartyRecompiled-v*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mariokart64recomp",
+    "name": "Mario Kart 64: Recompiled",
+    "game": "Mario Kart 64",
+    "shortName": "Mario Kart 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "sonicdcer",
+    "kind": "recomp",
+    "description": "Mario Kart 64 recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/sonicdcer/MarioKart64Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MarioKart64Recompiled-*-Windows-RelWithDebInfo.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "marioparty123recomp",
+    "name": "Mario Party 123 Recomp",
+    "game": "Mario Party, Mario Party 2 and Mario Party 3",
+    "shortName": "Mario Party, Mario Party 2 and Mario Party 3",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "jcoker85",
+    "kind": "port",
+    "description": "Mario Party, Mario Party 2 and Mario Party 3 ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/jcoker85/MarioParty123Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MarioParty123Recomp-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mariotennisrecomp",
+    "name": "Mario Tennis: Recompiled",
+    "game": "Mario Tennis",
+    "shortName": "Mario Tennis",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "Ieatzcrayonz",
+    "kind": "port",
+    "description": "Mario Tennis ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Ieatzcrayonz/MarioTennisRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MarioTennisRecompiled-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "megaman64recompiled",
+    "name": "Mega Man 64 Recompiled",
+    "game": "Mega Man 64",
+    "shortName": "Mega Man 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "MegaMan64Recomp",
+    "kind": "recomp",
+    "description": "Mega Man 64 recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/MegaMan64Recomp/MegaMan64Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MegaMan64Recompiled-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mergeship",
+    "name": "mergeship",
+    "game": "The Legend of Zelda: Ocarina of Time and Majora's Mask",
+    "shortName": "The Legend of Zelda: Ocarina of Time and Majora's Mask",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "The Legend of Zelda: Ocarina of Time and Majora's Mask (MergeShip)"
+    ],
+    "developer": "sonsegajp",
+    "kind": "port",
+    "description": "The Legend of Zelda: Ocarina of Time and Majora's Mask ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/sonsegajp/mergeship",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MergeShip-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mgb64",
+    "name": "mgb64",
+    "game": "GoldenEye 007",
+    "shortName": "GoldenEye 007",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "GoldenEye 007 (MGB64)"
+    ],
+    "developer": "akratch",
+    "kind": "port",
+    "description": "GoldenEye 007 ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/akratch/mgb64",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "mgb64-windows-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mk64recomp",
+    "name": "MK64Recomp",
+    "game": "Mario Kart 64",
+    "shortName": "Mario Kart 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "arefdsg",
+    "kind": "port",
+    "description": "Mario Kart 64 ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/arefdsg/MK64Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MK64Recompiled-v*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mp2recomp",
+    "name": "mp2Recomp",
+    "game": "Mario Party 2",
+    "shortName": "Mario Party 2",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Mario Party 2 (mp2Recomp)"
+    ],
+    "developer": "ajcohn716",
+    "kind": "port",
+    "description": "Mario Party 2 ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ajcohn716/mp2Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "mp2recomp-game-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "newblitz",
+    "name": "New Blitz 2027",
+    "game": "NFL Blitz 2000",
+    "shortName": "NFL Blitz 2000",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "blitzrecomp",
+    "kind": "port",
+    "description": "NFL Blitz 2000 ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/blitzrecomp/newblitz",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NewBlitz-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "nx2navi-zelda-oot-port",
+    "name": "NX2Navi: Ocarina of Time",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "shortName": "The Legend of Zelda: Ocarina of Time",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "ZuanCrisp",
+    "kind": "port",
+    "description": "The Legend of Zelda: Ocarina of Time ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ZuanCrisp/NX2Navi-Zelda-OOT-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NX2navi-app-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ocadim",
+    "name": "OcaDim",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "shortName": "The Legend of Zelda: Ocarina of Time",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "The Legend of Zelda: Ocarina of Time (OcaDim)"
+    ],
+    "developer": "Dimi42FR",
+    "kind": "port",
+    "description": "The Legend of Zelda: Ocarina of Time ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Dimi42FR/OcaDim",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "OcaDimSetup-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ogre-battle-64-recomp",
+    "name": "Ogre Battle 64: Recomp",
+    "game": "Ogre Battle 64: Person of Lordly Caliber",
+    "shortName": "Ogre Battle 64: Person of Lordly Caliber",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "lfarroco",
+    "kind": "recomp",
+    "description": "Ogre Battle 64: Person of Lordly Caliber recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/lfarroco/ogre-battle-64-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ogre-battle-64-recomp-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "paper-mario-recomp",
+    "name": "Paper Mario: Recompiled",
+    "game": "Paper Mario",
+    "shortName": "Paper Mario",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "n64hub",
+    "kind": "port",
+    "description": "Paper Mario ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/n64hub/paper-mario-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PaperMarioRecompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "paperboat",
+    "name": "PaperBoat",
+    "game": "Paper Mario",
+    "shortName": "Paper Mario",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "HarbourMasters",
+    "kind": "decomp",
+    "description": "Paper Mario running natively on PC, built from the decompiled 64 game.",
+    "requirement": "",
+    "features": [
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/HarbourMasters/PaperBoat",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Paperboat-Mulberry-Delta-Win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "paxdino",
+    "name": "PaxDino: Rage Wars Modernized",
+    "game": "Turok: Rage Wars",
+    "shortName": "Turok: Rage Wars",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "wootbeer",
+    "kind": "recomp",
+    "description": "Turok: Rage Wars recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/wootbeer/PaxDino",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PaxDino-*-beta-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pd-friends-of-joanna",
+    "name": "Friends of Joanna",
+    "game": "Perfect Dark",
+    "shortName": "Perfect Dark",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Perfect Dark (Friends of Joanna)"
+    ],
+    "developer": "cylonicboom",
+    "kind": "port",
+    "description": "Perfect Dark ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/cylonicboom/pd-friends-of-joanna",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "pd-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "perfect-dark-2",
+    "name": "Perfect Dark 2",
+    "game": "Perfect Dark",
+    "shortName": "Perfect Dark",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Perfect Dark (perfect-dark-2)"
+    ],
+    "developer": "MikeHazeJr",
+    "kind": "port",
+    "description": "Perfect Dark ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/MikeHazeJr/perfect-dark-2",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PerfectDark-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "perfect-dark-dabs-mod",
+    "name": "Dab's Mod",
+    "game": "Perfect Dark",
+    "shortName": "Perfect Dark",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "DabDavis",
+    "kind": "port",
+    "description": "Perfect Dark ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/DabDavis/perfect-dark-dabs-mod",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "pd-dabs-mod-x86_64-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "perfect-dark-recomp",
+    "name": "Perfect Dark: Recompiled",
+    "game": "Perfect Dark",
+    "shortName": "Perfect Dark",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "n64hub",
+    "kind": "recomp",
+    "description": "Perfect Dark recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/n64hub/perfect-dark-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PerfectDarkRecompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pilotwings-64-recomp",
+    "name": "Pilotwings 64 Recomp",
+    "game": "Pilotwings 64",
+    "shortName": "Pilotwings 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "danielgomesvieira2000",
+    "kind": "recomp",
+    "description": "Pilotwings 64 recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/danielgomesvieira2000/pilotwings-64-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Pilotwings64Recomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "plethron",
+    "name": "plethron",
+    "game": "Pokémon Stadium",
+    "shortName": "Pokémon Stadium",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Pokémon Stadium (Plethron)"
+    ],
+    "developer": "team-hippodrome",
+    "kind": "port",
+    "description": "Pokémon Stadium ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/team-hippodrome/plethron",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "plethron-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pokemonstadiumrecomp",
+    "name": "SS Anne",
+    "game": "Pokémon Stadium",
+    "shortName": "Pokémon Stadium",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Pokémon Stadium recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/PokemonStadiumRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PokemonStadiumRecomp-v*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pommy-recomp",
+    "name": "Bomberman 64: The Second Attack! Recompiled",
+    "game": "Bomberman 64: The Second Attack!",
+    "shortName": "Bomberman 64: The Second Attack!",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "bdragoncore",
+    "kind": "port",
+    "description": "Bomberman 64: The Second Attack! ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/bdragoncore/pommy-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BM64U2Recompiled-*-Windows-X64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "power-dozer",
+    "name": "Power Dozer",
+    "game": "Blast Corps",
+    "shortName": "Blast Corps",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "djultra64",
+    "kind": "recomp",
+    "description": "Blast Corps recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/djultra64/Power-Dozer",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "power-dozer-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "project-midas",
+    "name": "Project Midas",
+    "game": "GoldenEye 007",
+    "shortName": "GoldenEye 007",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "murkantor",
+    "kind": "decomp",
+    "description": "GoldenEye 007 running natively on PC, built from the decompiled 64 game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/murkantor/Project-Midas",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ProjectMidas-v*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "quest64-recomp",
+    "name": "Quest 64 Recomp",
+    "game": "Quest 64",
+    "shortName": "Quest 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "Rainchus",
+    "kind": "recomp",
+    "description": "Quest 64 recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Rainchus/Quest64-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Quest64Recompiled*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "quest64tale-recompiled",
+    "name": "Quest 64 Tale Recompiled",
+    "game": "Quest 64",
+    "shortName": "Quest 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "boricuapab",
+    "kind": "recomp",
+    "description": "Quest 64 recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/boricuapab/quest64tale-recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "quest64tale-recompiled-win_*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "racewave46",
+    "name": "RaceWave46",
+    "game": "Wave Race 64",
+    "shortName": "Wave Race 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "DomazinUS",
+    "kind": "recomp",
+    "description": "Wave Race 64 recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/DomazinUS/RaceWave46",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RaceWave46-Windows-x64-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rage-wars-recompiled",
+    "name": "Rage Wars Recompiled",
+    "game": "Turok: Rage Wars",
+    "shortName": "Turok: Rage Wars",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "ArtfulRascal8",
+    "kind": "port",
+    "description": "Turok: Rage Wars ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ArtfulRascal8/rage-wars-recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RageWarsRecompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rayman-2-recomp",
+    "name": "Rayman 2: Recompiled",
+    "game": "Rayman 2: The Great Escape",
+    "shortName": "Rayman 2: The Great Escape",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "n64hub",
+    "kind": "port",
+    "description": "Rayman 2: The Great Escape ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/n64hub/rayman-2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Rayman2Recompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rgo-recomp",
+    "name": "Jet Force Gemini (ravenx444)",
+    "game": "Jet Force Gemini",
+    "shortName": "Jet Force Gemini",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Jet Force Gemini (Rocket Group Orion)"
+    ],
+    "developer": "ravenx444",
+    "kind": "recomp",
+    "description": "Jet Force Gemini recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ravenx444/RGO-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RGO-Launcher-*-preview.3-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "roadrash64recompiled",
+    "name": "Road Rash 64 Recompiled",
+    "game": "Road Rash 64",
+    "shortName": "Road Rash 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "linkssy2",
+    "kind": "recomp",
+    "description": "Road Rash 64 recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/linkssy2/RoadRash64Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RoadRash64Recompiled-v*-Win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "robotron64recompiled",
+    "name": "Robotron 64: Recompiled",
+    "game": "Robotron 64",
+    "shortName": "Robotron 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "MGZeroes",
+    "kind": "port",
+    "description": "Robotron 64 ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/MGZeroes/Robotron64Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Robotron64Recompiled-1.0.0-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rocket-r",
+    "name": "Rocket R",
+    "game": "Rocket: Robot on Wheels",
+    "shortName": "Rocket: Robot on Wheels",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "ThatGuyMcd",
+    "kind": "recomp",
+    "description": "Rocket: Robot on Wheels recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/ThatGuyMcd/Rocket-R",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Rocket-R-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "roguesquadronrecomp",
+    "name": "RogueSquadronRecomp",
+    "game": "Star Wars: Rogue Squadron",
+    "shortName": "Star Wars: Rogue Squadron",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Star Wars: Rogue Squadron (Rogue Squadron Recompiled)"
+    ],
+    "developer": "AndrewDiess",
+    "kind": "port",
+    "description": "Star Wars: Rogue Squadron ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/AndrewDiess/RogueSquadronRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RogueSquadronRecompiled-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rush-2049-recomp",
+    "name": "Recompiled",
+    "game": "San Francisco Rush 2049",
+    "shortName": "San Francisco Rush 2049",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "San Francisco Rush 2049 (Recompiled)"
+    ],
+    "developer": "n64hub",
+    "kind": "port",
+    "description": "San Francisco Rush 2049 ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/n64hub/rush-2049-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Rush2049Recompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rush2recompiled",
+    "name": "Rush 2 Recompiled",
+    "game": "Rush 2: Extreme Racing USA",
+    "shortName": "Rush 2: Extreme Racing USA",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "bryantmh",
+    "kind": "recomp",
+    "description": "Rush 2: Extreme Racing USA recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/bryantmh/rush2recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Rush2Recompiled-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "scottjco-sssv-recomp",
+    "name": "SSSV Recomp",
+    "game": "Space Station Silicon Valley",
+    "shortName": "Space Station Silicon Valley",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "scottjco",
+    "kind": "port",
+    "description": "Space Station Silicon Valley ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/scottjco/SSSV_Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SSSVRecompiled-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sightline",
+    "name": "Sightline",
+    "game": "GoldenEye 007",
+    "shortName": "GoldenEye 007",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "GoldenEye 007 (Sightline)"
+    ],
+    "developer": "mscrnt",
+    "kind": "port",
+    "description": "GoldenEye 007 ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mscrnt/Sightline",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Sightline-*-win32.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "snap64recomp",
+    "name": "Snap 64 Recomp",
+    "game": "Pokémon Snap",
+    "shortName": "Pokémon Snap",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "JackandBeans",
+    "kind": "recomp",
+    "description": "Pokémon Snap recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "gyro",
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/JackandBeans/Snap64Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Snap64Recomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "snowboardkids-recomp",
+    "name": "Snowboard Kids: Recompiled",
+    "game": "Snowboard Kids",
+    "shortName": "Snowboard Kids",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "cdlewis",
+    "kind": "recomp",
+    "description": "Snowboard Kids recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/cdlewis/snowboardkids-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SnowboardKidsRecompiled-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "snowboardkids-recompiled",
+    "name": "Snowboard Kids (boricuapab)",
+    "game": "Snowboard Kids",
+    "shortName": "Snowboard Kids",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Snowboard Kids (Snowboard Kids: Recompiled)"
+    ],
+    "developer": "boricuapab",
+    "kind": "recomp",
+    "description": "Snowboard Kids recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/boricuapab/snowboardkids-recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SnowboardKidsRecompiled-Windows-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "snowboardkids2-recomp",
+    "name": "Snowboard Kids 2 Recomp",
+    "game": "Snowboard Kids 2",
+    "shortName": "Snowboard Kids 2",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "cdlewis",
+    "kind": "recomp",
+    "description": "Snowboard Kids 2 recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/cdlewis/snowboardkids2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SnowboardKids2Recompiled-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "snprecomp",
+    "name": "Sin and Punishment Recomp",
+    "game": "Sin and Punishment",
+    "shortName": "Sin and Punishment",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Sin & Punishment"
+    ],
+    "developer": "wootbeer",
+    "kind": "recomp",
+    "description": "Sin and Punishment recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/wootbeer/snprecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SnPRecompiled-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sote-recomp",
+    "name": "SotE Recomp",
+    "game": "Star Wars: Shadows of the Empire",
+    "shortName": "Star Wars: Shadows of the Empire",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "GTTeancum",
+    "kind": "recomp",
+    "description": "Star Wars: Shadows of the Empire recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/GTTeancum/SotE-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SotE-Recomp-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sotrecomp",
+    "name": "The Legend of Zelda: Ocarina of Time - Sands of Time",
+    "game": "The Legend of Zelda: Ocarina of Time - Sands of Time",
+    "shortName": "The Legend of Zelda: Ocarina of Time - Sands of Time",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "developer": "NekoNeko6330",
+    "kind": "recomp",
+    "description": "The Legend of Zelda: Ocarina of Time - Sands of Time recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/NekoNeko6330/SoTRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SoTRecompiled-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "spaceranger",
+    "name": "Toy Story 2: Buzz Lightyear to the Rescue",
+    "game": "Toy Story 2: Buzz Lightyear to the Rescue",
+    "shortName": "Toy Story 2: Buzz Lightyear to the Rescue",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Toy Story 2: Buzz Lightyear to the Rescue (SpaceRanger)"
+    ],
+    "developer": "woodys-workshop",
+    "kind": "recomp",
+    "description": "Toy Story 2: Buzz Lightyear to the Rescue recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/woodys-workshop/SpaceRanger",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SpaceRanger-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "srw64-recomp",
+    "name": "Marchwind64",
+    "game": "Super Robot Wars 64",
+    "shortName": "Super Robot Wars 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "dyzz",
+    "kind": "recomp",
+    "description": "Super Robot Wars 64 recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/dyzz/srw64-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Marchwind64-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sssv-recomp",
+    "name": "SSSV Recomp",
+    "game": "Space Station Silicon Valley",
+    "shortName": "Space Station Silicon Valley",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "Cellenseres",
+    "kind": "recomp",
+    "description": "Space Station Silicon Valley recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Cellenseres/SSSV_Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SSSVRecompiled_*_Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "starcraft64-recomp",
+    "name": "StarCraft 64",
+    "game": "StarCraft 64",
+    "shortName": "StarCraft 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "n0madic",
+    "kind": "recomp",
+    "description": "StarCraft 64 recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/n0madic/StarCraft64-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "StarCraft64-*-launcher-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "super-mario-64-recomp",
+    "name": "Super Mario 64: Recompiled",
+    "game": "Super Mario 64",
+    "shortName": "Super Mario 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "n64hub",
+    "kind": "recomp",
+    "description": "Super Mario 64 recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/n64hub/super-mario-64-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SuperMario64Recompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "super-smash-bros-recomp",
+    "name": "Super Smash Bros.: Recompiled",
+    "game": "Super Smash Bros.",
+    "shortName": "Super Smash Bros.",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "n64hub",
+    "kind": "port",
+    "description": "Super Smash Bros. ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/n64hub/super-smash-bros-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SmashBrosRecompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "thps1-64recomp",
+    "name": "THPS1 64 Recomp",
+    "game": "Tony Hawk's Pro Skater",
+    "shortName": "Tony Hawk's Pro Skater",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "THPS64Recomp",
+    "kind": "recomp",
+    "description": "Tony Hawk's Pro Skater recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/THPS64Recomp/THPS1-64Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "THPS1-64Recomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "thps2-64recomp",
+    "name": "THPS2 64 Recomp",
+    "game": "Tony Hawk's Pro Skater 2",
+    "shortName": "Tony Hawk's Pro Skater 2",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "THPS64Recomp",
+    "kind": "recomp",
+    "description": "Tony Hawk's Pro Skater 2 recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/THPS64Recomp/THPS2-64Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "THPS2-64Recomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "thps3-64recomp",
+    "name": "THPS3 64 Recomp",
+    "game": "Tony Hawk's Pro Skater 3",
+    "shortName": "Tony Hawk's Pro Skater 3",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "THPS64Recomp",
+    "kind": "recomp",
+    "description": "Tony Hawk's Pro Skater 3 recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/THPS64Recomp/THPS3-64Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "THPS3-64Recomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tooierecomp",
+    "name": "TooieRecomp",
+    "game": "Banjo Tooie",
+    "shortName": "Banjo Tooie",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Banjo-Tooie (Recompiled)"
+    ],
+    "developer": "wesleytakatsu",
+    "kind": "port",
+    "description": "Banjo Tooie ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/wesleytakatsu/TooieRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BanjoTooieRecompiled-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "top-gear-overdrive-n64-native-pc-port",
+    "name": "Top Gear Overdrive N64 Native PC Port",
+    "game": "Top Gear Overdrive",
+    "shortName": "Top Gear Overdrive",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "germanalexis999",
+    "kind": "port",
+    "description": "Top Gear Overdrive ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/germanalexis999/top-gear-overdrive-n64-native-pc-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "top-gear-overdrive-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "trouble-makers-pc-recomp",
+    "name": "Trouble Makers",
+    "game": "Mischief Makers",
+    "shortName": "Mischief Makers",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "ThiagoLira",
+    "kind": "recomp",
+    "description": "Mischief Makers recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/ThiagoLira/trouble-makers-pc-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TroubleMakers-Windows-X64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "turok-2-recomp",
+    "name": "Turok 2: Recompiled",
+    "game": "Turok 2: Seeds of Evil",
+    "shortName": "Turok 2: Seeds of Evil",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "n64hub",
+    "kind": "port",
+    "description": "Turok 2: Seeds of Evil ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/n64hub/turok-2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Turok2Recompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "turok-3-recomp",
+    "name": "Turok 3: Recompiled",
+    "game": "Turok 3: Shadow of Oblivion",
+    "shortName": "Turok 3: Shadow of Oblivion",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "n64hub",
+    "kind": "port",
+    "description": "Turok 3: Shadow of Oblivion ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/n64hub/turok-3-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Turok3Recompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "turok-recomp",
+    "name": "Turok: Recompiled",
+    "game": "Turok: Dinosaur Hunter",
+    "shortName": "Turok: Dinosaur Hunter",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "n64hub",
+    "kind": "port",
+    "description": "Turok: Dinosaur Hunter ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/n64hub/turok-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TurokRecompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "turok2-recomp",
+    "name": "Turok 2: Seeds of Evil",
+    "game": "Turok 2: Seeds of Evil",
+    "shortName": "Turok 2: Seeds of Evil",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Turok 2: Seeds of Evil (Turok 2 Recompiled)"
+    ],
+    "developer": "SirBraga",
+    "kind": "recomp",
+    "description": "Turok 2: Seeds of Evil recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/SirBraga/turok2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Turok2Recompiled-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "vpw2recomp",
+    "name": "Virtual Pro Wrestling 2: Recompiled",
+    "game": "Virtual Pro Wrestling 2: Ōdō Keishō",
+    "shortName": "Virtual Pro Wrestling 2: Ōdō Keishō",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Virtual Pro Wrestling 2"
+    ],
+    "developer": "jessetbh",
+    "kind": "recomp",
+    "description": "Virtual Pro Wrestling 2: Ōdō Keishō recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/jessetbh/VPW2Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Vpw2Recompiled-v*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "vpw64recomp",
+    "name": "VPW64 Recomp",
+    "game": "Virtual Pro Wrestling 64",
+    "shortName": "Virtual Pro Wrestling 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "jessetbh",
+    "kind": "recomp",
+    "description": "Virtual Pro Wrestling 64 recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/jessetbh/VPW64Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Vpw64Recompiled-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "wave-race-64-recomp",
+    "name": "Wave Race 64 Recomp",
+    "game": "Wave Race 64",
+    "shortName": "Wave Race 64",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "danielgomesvieira2000",
+    "kind": "recomp",
+    "description": "Wave Race 64 recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/danielgomesvieira2000/wave-race-64-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WaveRace64Recomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "wcwnworevengerecomp",
+    "name": "Revenge Recomp",
+    "game": "WCW/nWo Revenge",
+    "shortName": "WCW/nWo Revenge",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "jessetbh",
+    "kind": "recomp",
+    "description": "WCW/nWo Revenge recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/jessetbh/WCWnWoRevengeRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RevengeRecompiled-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "wcwvsnwoworldtourrecomp",
+    "name": "World Tour Recomp",
+    "game": "WCW vs. nWo: World Tour",
+    "shortName": "WCW vs. nWo: World Tour",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "WCW vs. nWo World Tour"
+    ],
+    "developer": "jessetbh",
+    "kind": "recomp",
+    "description": "WCW vs. nWo: World Tour recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/jessetbh/WCWvsNWOWorldTourRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WCWRecompiled-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "wdc-leo-build",
+    "name": "Leo Build",
+    "game": "World Driver Championship",
+    "shortName": "World Driver Championship",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "World Driver Championship (Leo Build)"
+    ],
+    "developer": "MonalisaOverdrive97",
+    "kind": "port",
+    "description": "World Driver Championship ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/MonalisaOverdrive97/wdc-leo-build",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WorldDriverChampionship-LeoBuild-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "wetrix-recomp",
+    "name": "Wetrix Recompiled",
+    "game": "Wetrix",
+    "shortName": "Wetrix",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "scottjco",
+    "kind": "port",
+    "description": "Wetrix ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/scottjco/Wetrix_Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WetrixRecompiled-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "wg3d-recomp",
+    "name": "W.G. 3D Hockey: Recompiled",
+    "game": "Wayne Gretzky's 3D Hockey",
+    "shortName": "Wayne Gretzky's 3D Hockey",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "geno55",
+    "kind": "recomp",
+    "description": "Wayne Gretzky's 3D Hockey recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/geno55/wg3d-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "wg3d-recomp-v*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "winbackrecomp",
+    "name": "WinBack Recompiled",
+    "game": "WinBack: Covert Operations",
+    "shortName": "WinBack: Covert Operations",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "RetroPulse03",
+    "kind": "port",
+    "description": "WinBack: Covert Operations ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/RetroPulse03/WinBackRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WinBackRecompiled-v*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "worlddriverchampionship-recomp",
+    "name": "World Driver Championship Recomp",
+    "game": "World Driver Championship",
+    "shortName": "World Driver Championship",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "alondero",
+    "kind": "recomp",
+    "description": "World Driver Championship recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/alondero/worlddriverchampionship-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "worlddriverchampionship-recomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "wpj2-recomp",
+    "name": "recomp",
+    "game": "Wonder Project J2",
+    "shortName": "Wonder Project J2",
+    "platform": "Nintendo 64",
+    "aliases": [
+      "Wonder Project J2 (recomp)",
+      "Wonder Project J2: Koruro no Mori no Josette"
+    ],
+    "developer": "Vmarcelo49",
+    "kind": "port",
+    "description": "Wonder Project J2 ported to run natively on PC from the 64 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Vmarcelo49/wpj2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "wpj2-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "wwfnomercyrecomp",
+    "name": "No Mercy Recomp",
+    "game": "WWF No Mercy",
+    "shortName": "WWF No Mercy",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "jessetbh",
+    "kind": "recomp",
+    "description": "WWF No Mercy recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/jessetbh/WWFNoMercyRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NoMercyRecompiled-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "wwfwrestlemania2000recomp",
+    "name": "WrestleMania 2000 Recomp",
+    "game": "WWF WrestleMania 2000",
+    "shortName": "WWF WrestleMania 2000",
+    "platform": "Nintendo 64",
+    "aliases": [],
+    "developer": "jessetbh",
+    "kind": "recomp",
+    "description": "WWF WrestleMania 2000 recompiled from the 64 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/jessetbh/WWFWrestleMania2000Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Wm2kRecompiled-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

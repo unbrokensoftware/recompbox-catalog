@@ -1,0 +1,172 @@
+[
+  {
+    "id": "littleplanet",
+    "name": "Sonic CD (Little Planet)",
+    "game": "Sonic CD",
+    "shortName": "Sonic CD",
+    "platform": "Sega CD",
+    "aliases": [
+      "Sonic CD (Little Planet)"
+    ],
+    "developer": "carl0srmz",
+    "kind": "recomp",
+    "description": "Sonic CD recompiled from the CD version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/carl0srmz/littleplanet",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "littleplanet-windows-portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rsdkv3-decompilation",
+    "name": "RSDKv3 Decompilation",
+    "game": "Sonic CD",
+    "shortName": "Sonic CD",
+    "platform": "Sega CD",
+    "aliases": [
+      "Sonic CD (2011)"
+    ],
+    "developer": "RSDKModding",
+    "kind": "decomp",
+    "description": "Sonic CD running natively on PC, built from the decompiled CD game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/RSDKModding/RSDKv3-Decompilation",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "v3-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "snatcher-port",
+    "name": "Snatcher",
+    "game": "Snatcher",
+    "shortName": "Snatcher",
+    "platform": "Sega CD",
+    "aliases": [
+      "Snatcher (snatcher-port)"
+    ],
+    "developer": "bgyss",
+    "kind": "recomp",
+    "description": "Snatcher recompiled from the CD version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/bgyss/snatcher-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Snatcher-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "snatcher-sega-cd-recomp",
+    "name": "Sega CD",
+    "game": "Snatcher",
+    "shortName": "Snatcher",
+    "platform": "Sega CD",
+    "aliases": [
+      "Snatcher (Sega CD)"
+    ],
+    "developer": "darkuni",
+    "kind": "port",
+    "description": "Snatcher ported to run natively on PC from the CD version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/darkuni/Snatcher-sega-cd-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "snatcher-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "soniccdrecomp",
+    "name": "SonicCDRecomp",
+    "game": "Sonic CD",
+    "shortName": "Sonic CD",
+    "platform": "Sega CD",
+    "aliases": [
+      "Sonic CD (Sonic CD Recompiled)"
+    ],
+    "developer": "mstan",
+    "kind": "port",
+    "description": "Sonic CD ported to run natively on PC from the CD version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/SonicCDRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SonicCD-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

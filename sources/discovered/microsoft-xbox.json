@@ -1,0 +1,5605 @@
+[
+  {
+    "id": "007-agentunderfire-recomp",
+    "name": "007: Agent Under Fire - XBE Recomp",
+    "game": "007: Agent Under Fire",
+    "shortName": "007: Agent Under Fire",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "hk21x",
+    "kind": "recomp",
+    "description": "007: Agent Under Fire recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/hk21x/007-agentunderfire-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "AgentUnderFire-PAL-package.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "007frwl-xberecomp",
+    "name": "007: From Russia with Love - XBE Recomp",
+    "game": "007: From Russia with Love",
+    "shortName": "007: From Russia with Love",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "TGP482",
+    "kind": "recomp",
+    "description": "007: From Russia with Love recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/TGP482/007FRWL-XBERecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "007FRWL-XBERecomp.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "007nightfire-xberecomp",
+    "name": "007: Nightfire XBE Recomp",
+    "game": "007: Nightfire",
+    "shortName": "007: Nightfire",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "TGP482",
+    "kind": "recomp",
+    "description": "007: Nightfire recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/TGP482/007Nightfire-XBERecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "007Nightfire-XBERecomp.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "aaroas-xberecomp",
+    "name": "America's Army: Rise of a Soldier Recomp",
+    "game": "America's Army: Rise of a Soldier",
+    "shortName": "America's Army: Rise of a Soldier",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "possessed1911",
+    "kind": "port",
+    "description": "America's Army: Rise of a Soldier ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/possessed1911/AAROAS-XBERecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "aa_roas.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "agent-under-fire-recomp",
+    "name": "007 Agent Under Fire",
+    "game": "007: Agent Under Fire",
+    "shortName": "007: Agent Under Fire",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "SlyGuy23",
+    "kind": "port",
+    "description": "007: Agent Under Fire ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/SlyGuy23/Agent-Under-fire-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "AgentUnderFire-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "aggro-royale",
+    "name": "Aggro Royale",
+    "game": "Aggressive Inline",
+    "shortName": "Aggressive Inline",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Aggressive Inline (Aggro Royale)"
+    ],
+    "developer": "AsukaNeo",
+    "kind": "port",
+    "description": "Aggressive Inline ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/AsukaNeo/aggro-royale",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "AggroRoyale-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "amped2-recomp",
+    "name": "Amped2 Recomp",
+    "game": "Amped 2",
+    "shortName": "Amped 2",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "bertibertig",
+    "kind": "recomp",
+    "description": "Amped 2 recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/bertibertig/Amped2-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Amped2-Recomp-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ampedup",
+    "name": "AMPEDUP!",
+    "game": "Amped: Freestyle Snowboarding",
+    "shortName": "Amped: Freestyle Snowboarding",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "AMPEDUP-2001",
+    "kind": "port",
+    "description": "Amped: Freestyle Snowboarding ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/AMPEDUP-2001/AMPEDUP",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "AMPEDUP-*-RecompLauncher-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "arizona-vamp-recomp",
+    "name": "Arizona Vamp Recomp",
+    "game": "Darkwatch",
+    "shortName": "Darkwatch",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "Clergyman0013",
+    "kind": "recomp",
+    "description": "Darkwatch recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Clergyman0013/arizona-vamp-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ArizonaVampRecomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "athelas",
+    "name": "Athelas",
+    "game": "The Lord of the Rings: The Fellowship of the Ring / The Two Towers / The Return of the King",
+    "shortName": "The Lord of the Rings: The Fellowship of the Ring / The Two Towers / The Return of the King",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "developer": "Shagg88",
+    "kind": "recomp",
+    "description": "The Lord of the Rings: The Fellowship of the Ring / The Two Towers / The Return of the King recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Shagg88/Athelas",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Athelas-*.7z",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "avp-extinction-port",
+    "name": "AVP Extinction Port",
+    "game": "Aliens versus Predator: Extinction",
+    "shortName": "Aliens versus Predator: Extinction",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "Adolini1715",
+    "kind": "port",
+    "description": "Aliens versus Predator: Extinction ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Adolini1715/AVP-Extinction-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "avpe-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "azurikrecomp",
+    "name": "AzurikRecomp",
+    "game": "Azurik: Rise of Perathia",
+    "shortName": "Azurik: Rise of Perathia",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "isifire",
+    "kind": "port",
+    "description": "Azurik: Rise of Perathia ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/isifire/AzurikRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "AzurikRecomp-windows-x64-experimental.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "barthes-launcher",
+    "name": "Barthes Launcher",
+    "game": "Harry Potter Collection",
+    "shortName": "Harry Potter Collection",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "Barthes-Recompiled",
+    "kind": "port",
+    "description": "Harry Potter Collection ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Barthes-Recompiled/Barthes-Launcher",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BarthesLauncher-windows-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "batmanbeginsrecomp",
+    "name": "Batman Begins Recomp",
+    "game": "Batman Begins",
+    "shortName": "Batman Begins",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "christiansmmc",
+    "kind": "port",
+    "description": "Batman Begins ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/christiansmmc/BatmanBeginsRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BatmanBegins.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "black-2006-recomp",
+    "name": "BLACK (2006) Recomp",
+    "game": "Black",
+    "shortName": "Black",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "portingpete",
+    "kind": "recomp",
+    "description": "Black recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/portingpete/Black-2006-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BLACK-*-starter.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "black-pc",
+    "name": "Black Pc",
+    "game": "BLACK",
+    "shortName": "BLACK",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "Spark198rus",
+    "kind": "port",
+    "description": "BLACK ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Spark198rus/black-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "black-pc-*-win32.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "black-xberecomp",
+    "name": "BLACK XBE Recomp",
+    "game": "Black",
+    "shortName": "Black",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "TGP482",
+    "kind": "recomp",
+    "description": "Black recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "gyro",
+      "hd-textures",
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/TGP482/BLACK-XBERecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BLACK-XBERecomp.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "blinx1-recomp",
+    "name": "Blinx1 Recomp",
+    "game": "BLiNX: The Time Sweeper",
+    "shortName": "BLiNX: The Time Sweeper",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "apexJCL",
+    "kind": "port",
+    "description": "BLiNX: The Time Sweeper ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/apexJCL/blinx1-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "blinx1-wizard-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "blinx2-recomp",
+    "name": "BLiNX 2 Recomp",
+    "game": "BLiNX 2: Masters of Time & Space",
+    "shortName": "BLiNX 2: Masters of Time & Space",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Blinx 2: Masters of Time and Space"
+    ],
+    "developer": "apexJCL",
+    "kind": "recomp",
+    "description": "BLiNX 2: Masters of Time & Space recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/apexJCL/blinx2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "blinx2-wizard-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "blinxrecomp",
+    "name": "Blinx Recomp",
+    "game": "Blinx: The Time Sweeper",
+    "shortName": "Blinx: The Time Sweeper",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "port",
+    "description": "Blinx: The Time Sweeper ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mstan/BlinxRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BlinxRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "breakdown-recompilation",
+    "name": "Breakdown Recompilation",
+    "game": "Breakdown",
+    "shortName": "Breakdown",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "Heromachine",
+    "kind": "recomp",
+    "description": "Breakdown recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Heromachine/Breakdown-Recompilation",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Breakdown-Recompilation-v*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "buffy-chaos-bleeds-pc",
+    "name": "Buffy: Chaos Bleeds PC",
+    "game": "Buffy the Vampire Slayer: Chaos Bleeds",
+    "shortName": "Buffy the Vampire Slayer: Chaos Bleeds",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "KaikoClanworth1",
+    "kind": "recomp",
+    "description": "Buffy the Vampire Slayer: Chaos Bleeds recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/KaikoClanworth1/buffy-chaos-bleeds-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Buffy-Chaos-Bleeds-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "burnout-recompilation",
+    "name": "Burnout Recompilation",
+    "game": "Burnout",
+    "shortName": "Burnout",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "Heromachine",
+    "kind": "recomp",
+    "description": "Burnout recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Heromachine/Burnout-Recompilation",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Burnout-Recompilation-v*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "burnout2-recompilation",
+    "name": "Burnout 2: Point of Impact — Static Recompilation",
+    "game": "Burnout 2: Point of Impact",
+    "shortName": "Burnout 2: Point of Impact",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "timftw21",
+    "kind": "recomp",
+    "description": "Burnout 2: Point of Impact recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/timftw21/burnout2-recompilation",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Installation.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "bustinout-recomp",
+    "name": "The Sims: Bustin' Out Recomp",
+    "game": "The Sims: Bustin' Out",
+    "shortName": "The Sims: Bustin' Out",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "abilliontokens",
+    "kind": "recomp",
+    "description": "The Sims: Bustin' Out recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/abilliontokens/bustinout-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SimsBustinOut-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "castlevania-cod-recomp",
+    "name": "Curse of Darkness Recomp",
+    "game": "Castlevania: Curse of Darkness",
+    "shortName": "Castlevania: Curse of Darkness",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "Neguchads",
+    "kind": "port",
+    "description": "Castlevania: Curse of Darkness ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Neguchads/Castlevania-COD-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Castlevania-COD-Recomp-v*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "castlevaniacod-pc",
+    "name": "Castlevania: Curse of Darkness - XBE Recomp",
+    "game": "Castlevania: Curse of Darkness",
+    "shortName": "Castlevania: Curse of Darkness",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "jmafort",
+    "kind": "recomp",
+    "description": "Castlevania: Curse of Darkness recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/jmafort/CastlevaniaCOD-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "CastlevaniaCOD-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "chupathingyce",
+    "name": "ChupathingyCE",
+    "game": "Halo: Combat Evolved",
+    "shortName": "Halo: Combat Evolved",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "ChupathingyCE",
+    "kind": "decomp",
+    "description": "Halo: Combat Evolved running natively on PC, built from the decompiled Xbox game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/ChupathingyCE/chupathingyce",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "chupathingyce-windows-release.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "cod2-bro-native-loader",
+    "name": "CoD2 BRO Native Loader",
+    "game": "Call of Duty 2: Big Red One",
+    "shortName": "Call of Duty 2: Big Red One",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "SmokeDoggy044",
+    "kind": "port",
+    "description": "Call of Duty 2: Big Red One ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/SmokeDoggy044/CoD2-BRO-Native-Loader",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "cod_bro-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "concrete-jungle-pc",
+    "name": "Concrete Jungle PC",
+    "game": "Predator: Concrete Jungle",
+    "shortName": "Predator: Concrete Jungle",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "Adolini1715",
+    "kind": "port",
+    "description": "Predator: Concrete Jungle ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Adolini1715/Concrete-Jungle-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Concrete-Jungle-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "conker-live-recompiled",
+    "name": "Conker: Live Recompiled",
+    "game": "Conker: Live & Reloaded",
+    "shortName": "Conker: Live & Reloaded",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "cdetv",
+    "kind": "recomp",
+    "description": "Conker: Live & Reloaded recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/cdetv/conker-live-recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "conker-live-recompiled-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "conker-recomped-and-reloaded",
+    "name": "Conker: Recomped & Reloaded",
+    "game": "Conker: Live & Reloaded",
+    "shortName": "Conker: Live & Reloaded",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "Mabec-games",
+    "kind": "recomp",
+    "description": "Conker: Live & Reloaded recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Mabec-games/Conker-Recomped-and-Reloaded",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ConkerRecompedReloaded-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "counterstrikexb",
+    "name": "Counter-Strike XB",
+    "game": "Counter Strike",
+    "shortName": "Counter Strike",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Counter-Strike"
+    ],
+    "developer": "dalves408",
+    "kind": "port",
+    "description": "Counter Strike ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/dalves408/CounterStrikeXB",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "CounterStrike-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "crimsonskiesrecomp",
+    "name": "Crimson Skies Recomp",
+    "game": "Crimson Skies: High Road to Revenge",
+    "shortName": "Crimson Skies: High Road to Revenge",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "saironbusatto",
+    "kind": "port",
+    "description": "Crimson Skies: High Road to Revenge ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/saironbusatto/CrimsonSkiesRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "crimsonskies-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "darkwatchdarkeredition",
+    "name": "Darkwatch: Darker Edition",
+    "game": "Darkwatch",
+    "shortName": "Darkwatch",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "linkssy2",
+    "kind": "recomp",
+    "description": "Darkwatch recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/linkssy2/DarkwatchDarkerEdition",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Darkwatch-Darker-Edition-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "defjam-xbox-re",
+    "name": "Def Jam: Fight for NY (vh-ssantos)",
+    "game": "Def Jam: Fight for NY",
+    "shortName": "Def Jam: Fight for NY",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "vh-ssantos",
+    "kind": "recomp",
+    "description": "Def Jam: Fight for NY recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/vh-ssantos/DefJam-xbox-RE",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DefJam-FFNY-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "desert-breeze-dust",
+    "name": "Phantom Dust PC",
+    "game": "Phantom Dust",
+    "shortName": "Phantom Dust",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Phantom Dust (Phantom Dust PC)"
+    ],
+    "developer": "ZacheerKour",
+    "kind": "port",
+    "description": "Phantom Dust ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ZacheerKour/desert-breeze-dust",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PhantomDust-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "doa1u",
+    "name": "doa1u",
+    "game": "Dead or Alive 1: Ultimate",
+    "shortName": "Dead or Alive 1: Ultimate",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "DeadlySync",
+    "kind": "port",
+    "description": "Dead or Alive 1: Ultimate ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/DeadlySync/doa1u",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "doa1u_recomp-x86_64-*-windows-final.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "doa1u-xberecomp",
+    "name": "DOA1U XBERecomp",
+    "game": "Dead or Alive Ultimate",
+    "shortName": "Dead or Alive Ultimate",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Dead or Alive 1 Ultimate"
+    ],
+    "developer": "vini1264",
+    "kind": "port",
+    "description": "Dead or Alive Ultimate ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/vini1264/DOA1U-XBERecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DOA1U-XBERecomp.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "doa2u-re",
+    "name": "DOA2U Native PC Port",
+    "game": "Dead or Alive 2 Ultimate",
+    "shortName": "Dead or Alive 2 Ultimate",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Dead or Alive 2 Ultimate (from Dead or Alive Ultimate, Disc 2)",
+      "Dead or Alive Ultimate"
+    ],
+    "developer": "NoRain211",
+    "kind": "recomp",
+    "description": "Dead or Alive 2 Ultimate recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/NoRain211/doa2u-re",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DOA2U-*-Alpha.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "doa2u-recomp",
+    "name": "DOA2U Recomp",
+    "game": "Dead or Alive 2 Ultimate",
+    "shortName": "Dead or Alive 2 Ultimate",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Dead or Alive Ultimate"
+    ],
+    "developer": "parkerallan",
+    "kind": "recomp",
+    "description": "Dead or Alive 2 Ultimate recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/parkerallan/doa2u-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DOA2U-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "doa3-re",
+    "name": "DOA3 Recomp",
+    "game": "Dead or Alive 3",
+    "shortName": "Dead or Alive 3",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "NoRain211",
+    "kind": "port",
+    "description": "Dead or Alive 3 ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/NoRain211/doa3-re",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DOA3-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "doa3-recomp",
+    "name": "DOA3 Recomp",
+    "game": "Dead or Alive 3",
+    "shortName": "Dead or Alive 3",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "parkerallan",
+    "kind": "recomp",
+    "description": "Dead or Alive 3 recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/parkerallan/doa3-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DOA3-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "doaxvb-re",
+    "name": "DOAXVB RE",
+    "game": "Dead or Alive Xtreme Beach Volleyball",
+    "shortName": "Dead or Alive Xtreme Beach Volleyball",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "NoRain211",
+    "kind": "recomp",
+    "description": "Dead or Alive Xtreme Beach Volleyball recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/NoRain211/doaxvb-re",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DOAXBV-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "exonerated",
+    "name": "Exonerated",
+    "game": "Deathrow",
+    "shortName": "Deathrow",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Deathrow (Exonerated)"
+    ],
+    "developer": "AsukaNeo",
+    "kind": "port",
+    "description": "Deathrow ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/AsukaNeo/Exonerated",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Exonerated-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "extinction",
+    "name": "AvP: Extinction PC",
+    "game": "Aliens versus Predator: Extinction",
+    "shortName": "Aliens versus Predator: Extinction",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "StarlingK",
+    "kind": "port",
+    "description": "Aliens versus Predator: Extinction ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/StarlingK/extinction",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "extinction-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "far-cry-instincts-evolution-recomp",
+    "name": "Far Cry Instincts Evolution Recomp",
+    "game": "Far Cry Instincts Evolution",
+    "shortName": "Far Cry Instincts Evolution",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "bassobr",
+    "kind": "port",
+    "description": "Far Cry Instincts Evolution ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/bassobr/Far-Cry-Instincts-Evolution-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FarCryInstinctsEvolution-Recomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "far-cry-instincts-recomp",
+    "name": "Far Cry Instincts Recomp",
+    "game": "Far Cry Instincts",
+    "shortName": "Far Cry Instincts",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "bassobr",
+    "kind": "port",
+    "description": "Far Cry Instincts ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/bassobr/Far-Cry-Instincts-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FarCryInstincts-Recomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "fci-recomp",
+    "name": "Fci Recomp",
+    "game": "Far Cry Instincts",
+    "shortName": "Far Cry Instincts",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "VinceIP",
+    "kind": "recomp",
+    "description": "Far Cry Instincts recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/VinceIP/fci-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "fci-recomp-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "futurama-the-game-the-recomp",
+    "name": "Futurama: The Game",
+    "game": "Futurama",
+    "shortName": "Futurama",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "hiburn8",
+    "kind": "decomp",
+    "description": "Futurama running natively on PC, built from the decompiled Xbox game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/hiburn8/Futurama-The-Game-The-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FuturamaRecomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "fuzionfrenzy-recomp",
+    "name": "Fuzion Frenzy Recomp",
+    "game": "Fuzion Frenzy",
+    "shortName": "Fuzion Frenzy",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "abilliontokens",
+    "kind": "port",
+    "description": "Fuzion Frenzy ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/abilliontokens/fuzionfrenzy-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FuzionFrenzy-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "genma-recomp",
+    "name": "Genma Onimusha (rafaelkenedy)",
+    "game": "Genma Onimusha",
+    "shortName": "Genma Onimusha",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "rafaelkenedy",
+    "kind": "recomp",
+    "description": "Genma Onimusha recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/rafaelkenedy/genma-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GenmaOnimusha-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ghostrecon2-recomp",
+    "name": "Ghost Recon 2 Recomp",
+    "game": "Ghost Recon 2",
+    "shortName": "Ghost Recon 2",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Tom Clancy's Ghost Recon 2"
+    ],
+    "developer": "ElKev118",
+    "kind": "recomp",
+    "description": "Ghost Recon 2 recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ElKev118/ghostrecon2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GhostRecon2-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gladius-recomp",
+    "name": "Gladius Recomp",
+    "game": "Gladius",
+    "shortName": "Gladius",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Gladius (Gladius Recomp)"
+    ],
+    "developer": "phobos665",
+    "kind": "port",
+    "description": "Gladius ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/phobos665/gladius-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "gladius-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "godzilla-save-the-earth-xbox-static-recompilation",
+    "name": "Godzilla: STE Recomp",
+    "game": "Godzilla: Save the Earth",
+    "shortName": "Godzilla: Save the Earth",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "JLAgamer",
+    "kind": "port",
+    "description": "Godzilla: Save the Earth ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/JLAgamer/Godzilla-Save-the-Earth-Xbox-static-recompilation",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GodzillaSTE-Recomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "halo-ce-anbernic-rg35xx",
+    "name": "Halo Ce Anbernic Rg35xx",
+    "game": "Halo: Combat Evolved",
+    "shortName": "Halo: Combat Evolved",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Halo: Combat Evolved (halo-ce-anbernic-rg35xx)"
+    ],
+    "developer": "kirklandsig",
+    "kind": "port",
+    "description": "Halo: Combat Evolved ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/kirklandsig/halo-ce-anbernic-rg35xx",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "halo-ce-batocera-pc-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "halo-ce-arena-evolved",
+    "name": "Halo CE Arena Evolved",
+    "game": "Halo: Combat Evolved",
+    "shortName": "Halo: Combat Evolved",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "PeterRichardsonGolf",
+    "kind": "port",
+    "description": "Halo: Combat Evolved ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/PeterRichardsonGolf/Halo-CE-Arena-Evolved",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "arena-evolved-*-windows64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "halo-ce-vita",
+    "name": "Halo Ce Vita",
+    "game": "Halo: Combat Evolved",
+    "shortName": "Halo: Combat Evolved",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Halo: Combat Evolved (halo-ce-vita)"
+    ],
+    "developer": "ChupathingyCE",
+    "kind": "port",
+    "description": "Halo: Combat Evolved ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ChupathingyCE/halo-ce-vita",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "halo-ce-vita-*-pc-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "haloce-decompremix-vr-pc-android",
+    "name": "Halo CE VR",
+    "game": "Halo: Combat Evolved",
+    "shortName": "Halo: Combat Evolved",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Halo: Combat Evolved (Halo CE VR)"
+    ],
+    "developer": "moistman42069",
+    "kind": "port",
+    "description": "Halo: Combat Evolved ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/moistman42069/HaloCE-DecompRemix-VR-PC-Android",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "HaloCE-Windows-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hellmouth-buffy-recomp",
+    "name": "Hellmouth",
+    "game": "Buffy the Vampire Slayer",
+    "shortName": "Buffy the Vampire Slayer",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "djrobson5",
+    "kind": "port",
+    "description": "Buffy the Vampire Slayer ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/djrobson5/Hellmouth-buffy-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Hellmouth-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hp-cos-xbox-recomp",
+    "name": "Harry Potter and the Chamber of Secrets (Xbox Recomp)",
+    "game": "Harry Potter and the Chamber of Secrets",
+    "shortName": "Harry Potter and the Chamber of Secrets",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "MiddleDucky",
+    "kind": "recomp",
+    "description": "Harry Potter and the Chamber of Secrets recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/MiddleDucky/HP-COS-Xbox-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "hpcos_v*_windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hp-poa-xbox-recomp",
+    "name": "HP POA Xbox Recomp",
+    "game": "Harry Potter and the Prisoner of Azkaban",
+    "shortName": "Harry Potter and the Prisoner of Azkaban",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "MiddleDucky",
+    "kind": "port",
+    "description": "Harry Potter and the Prisoner of Azkaban ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/MiddleDucky/HP-POA-Xbox-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "hppoa_*_windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hp-ps-xbox-recomp",
+    "name": "Harry Potter and the Philosopher's Stone (Xbox Recomp)",
+    "game": "Harry Potter and the Philosopher's Stone",
+    "shortName": "Harry Potter and the Philosopher's Stone",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "MiddleDucky",
+    "kind": "recomp",
+    "description": "Harry Potter and the Philosopher's Stone recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/MiddleDucky/HP-PS-Xbox-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "hpps_v*_windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hp1-recompiled",
+    "name": "HP1 Recompiled",
+    "game": "Harry Potter and the Philosopher's Stone",
+    "shortName": "Harry Potter and the Philosopher's Stone",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "Barthes-Recompiled",
+    "kind": "port",
+    "description": "Harry Potter and the Philosopher's Stone ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Barthes-Recompiled/HP1-Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "hpps-*-windows-PAL.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hp2-recompiled",
+    "name": "HP2 Recompiled",
+    "game": "Harry Potter and the Chamber of Secrets",
+    "shortName": "Harry Potter and the Chamber of Secrets",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "Barthes-Recompiled",
+    "kind": "port",
+    "description": "Harry Potter and the Chamber of Secrets ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Barthes-Recompiled/HP2-Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "hpcos-*-windows-PAL.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hp3-recompiled",
+    "name": "HP3 Recompiled",
+    "game": "Harry Potter and the Prisoner of Azkaban",
+    "shortName": "Harry Potter and the Prisoner of Azkaban",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "Barthes-Recompiled",
+    "kind": "port",
+    "description": "Harry Potter and the Prisoner of Azkaban ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Barthes-Recompiled/HP3-Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "hppoa-0.5.2-windows-PAL.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hulk-ultimate-destruction-recomp-xbox-ver",
+    "name": "Hulk Recompiled",
+    "game": "The Incredible Hulk: Ultimate Destruction",
+    "shortName": "The Incredible Hulk: Ultimate Destruction",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "lookingcoding",
+    "kind": "port",
+    "description": "The Incredible Hulk: Ultimate Destruction ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/lookingcoding/hulk-ultimate-destruction-recomp-xbox-ver-",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "HulkRecompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "incredible-hulk-recompiled",
+    "name": "The Incredible Hulk Recompiled",
+    "game": "The Incredible Hulk",
+    "shortName": "The Incredible Hulk",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "TekRantGaming",
+    "kind": "port",
+    "description": "The Incredible Hulk ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/TekRantGaming/incredible-hulk-recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "IncredibleHulk-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "indyport",
+    "name": "IndyPort",
+    "game": "Indiana Jones and the Emperor's Tomb",
+    "shortName": "Indiana Jones and the Emperor's Tomb",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "MertCNOZ",
+    "kind": "port",
+    "description": "Indiana Jones and the Emperor's Tomb ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/MertCNOZ/IndyPort",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "IndyPort.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "jetsetradiofuture-unleashed",
+    "name": "JSRF Unleashed",
+    "game": "Jet Set Radio Future",
+    "shortName": "Jet Set Radio Future",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "JuMatt",
+    "kind": "recomp",
+    "description": "Jet Set Radio Future recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/JuMatt/JetSetRadioFuture-Unleashed",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "JSRF-Unleashed-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "jsrf-pc",
+    "name": "JSRF PC",
+    "game": "Jet Set Radio Future",
+    "shortName": "Jet Set Radio Future",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "spriteice",
+    "kind": "recomp",
+    "description": "Jet Set Radio Future recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/spriteice/JSRF-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "JSRF-PC-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "jsrf-recomp",
+    "name": "JSRF Recomp",
+    "game": "Jet Set Radio Future",
+    "shortName": "Jet Set Radio Future",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "Miggas",
+    "kind": "port",
+    "description": "Jet Set Radio Future ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Miggas/JSRF-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "jsrf_launcher-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "jsrfrecomp",
+    "name": "JSRFRecomp",
+    "game": "Jet Set Radio Future",
+    "shortName": "Jet Set Radio Future",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Jet Set Radio Future (JSRFRecomp)"
+    ],
+    "developer": "mstan",
+    "kind": "port",
+    "description": "Jet Set Radio Future ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/JSRFRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "JSRFRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "justiceleagueheroes-xboxrecomp",
+    "name": "JusticeLeagueHeroes XboxRecomp",
+    "game": "Justice League Heroes",
+    "shortName": "Justice League Heroes",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "xDevilRob",
+    "kind": "port",
+    "description": "Justice League Heroes ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/xDevilRob/JusticeLeagueHeroes-XboxRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "JusticeLeagueHeroes-Windows-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "koenhendriks-ssx3-recomp",
+    "name": "SSX3 Recomp",
+    "game": "SSX 3",
+    "shortName": "SSX 3",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "koenhendriks",
+    "kind": "recomp",
+    "description": "SSX 3 recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/koenhendriks/SSX3-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SSX3-recomp.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "kuf-recomp",
+    "name": "Kuf Recomp",
+    "game": "Kingdom Under Fire: Heroes",
+    "shortName": "Kingdom Under Fire: Heroes",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Kingdom Under Fire: Heroes (kuf-recomp)"
+    ],
+    "developer": "apexJCL",
+    "kind": "port",
+    "description": "Kingdom Under Fire: Heroes ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/apexJCL/kuf-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "kuf-wizard-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "legends-classic",
+    "name": "Legends Classic",
+    "game": "X-Men Legends",
+    "shortName": "X-Men Legends",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "X-Men Legends (Legends Classic)"
+    ],
+    "developer": "ChronoRixun",
+    "kind": "port",
+    "description": "X-Men Legends ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ChronoRixun/legends-classic",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "xml1-builder-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "links2004-xberecomp",
+    "name": "Links 2004 XBE Recomp",
+    "game": "Links 2004",
+    "shortName": "Links 2004",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "cgpartlow",
+    "kind": "port",
+    "description": "Links 2004 ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/cgpartlow/Links2004-XBERecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Links2004-XBERecomp.*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "live-and-recompiled",
+    "name": "Live & Recompiled",
+    "game": "Conker: Live & Reloaded",
+    "shortName": "Conker: Live & Reloaded",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "giacomozama",
+    "kind": "recomp",
+    "description": "Conker: Live & Reloaded recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/giacomozama/live-and-recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "LiveAndRecompiled-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "marvel-nemesis-recomp",
+    "name": "Marvel Nemesis Recomp",
+    "game": "Marvel Nemesis: Rise of the Imperfects",
+    "shortName": "Marvel Nemesis: Rise of the Imperfects",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "15Cyber",
+    "kind": "recomp",
+    "description": "Marvel Nemesis: Rise of the Imperfects recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/15Cyber/marvel-nemesis-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MarvelNemesis-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "max-spin",
+    "name": "Max Spin",
+    "game": "Top Spin",
+    "shortName": "Top Spin",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "djultra64",
+    "kind": "recomp",
+    "description": "Top Spin recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/djultra64/Max-Spin",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Max-Spin-v*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mc3port",
+    "name": "Midnight Club 3: DUB Edition Remix - PC Port",
+    "game": "Midnight Club 3: DUB Edition Remix",
+    "shortName": "Midnight Club 3: DUB Edition Remix",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Midnight Club 3: DUB Edition"
+    ],
+    "developer": "SickSartori",
+    "kind": "port",
+    "description": "Midnight Club 3: DUB Edition Remix ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/SickSartori/mc3port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "mc3port-*-windows-x86.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mcrae05-xbe-recomp",
+    "name": "McRae05 XBE Recomp",
+    "game": "Colin McRae Rally 2005",
+    "shortName": "Colin McRae Rally 2005",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "projectedan",
+    "kind": "recomp",
+    "description": "Colin McRae Rally 2005 recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/projectedan/McRae05-XBE-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "CMR2005.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mechassault2-recomp",
+    "name": "MechAssault 2 PC",
+    "game": "MechAssault 2: Lone Wolf",
+    "shortName": "MechAssault 2: Lone Wolf",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "LegendaryXP",
+    "kind": "port",
+    "description": "MechAssault 2: Lone Wolf ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/LegendaryXP/Mechassault2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MechAssault2-PC-*-win-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mercenaries-recompiled",
+    "name": "Mercenaries Recompiled",
+    "game": "Mercenaries: Playground of Destruction",
+    "shortName": "Mercenaries: Playground of Destruction",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "KraftMacAndChee",
+    "kind": "recomp",
+    "description": "Mercenaries: Playground of Destruction recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/KraftMacAndChee/Mercenaries-Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Mercenaries.Recompiled.Public.*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "metal-arms-pc-port",
+    "name": "Metal Arms Pc Port",
+    "game": "Metal Arms: Glitch In The System",
+    "shortName": "Metal Arms: Glitch In The System",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "tvall43",
+    "kind": "port",
+    "description": "Metal Arms: Glitch In The System ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/tvall43/metal-arms-pc-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ma_win_release_r159_o2.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "midnight-club-3-redub",
+    "name": "Midnight Club 3: ReDUB",
+    "game": "Midnight Club 3: DUB Edition Remix",
+    "shortName": "Midnight Club 3: DUB Edition Remix",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "dea7hsmiless",
+    "kind": "port",
+    "description": "Midnight Club 3: DUB Edition Remix ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/dea7hsmiless/Midnight-Club-3-ReDUB",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ReDUB-0.2.4-Windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mindover-recomp",
+    "name": "Mind Over-Recomp",
+    "game": "Crash: Mind over Mutant",
+    "shortName": "Crash: Mind over Mutant",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "Maxilure",
+    "kind": "recomp",
+    "description": "Crash: Mind over Mutant recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Maxilure/MindOver-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MindOverRecomp-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mk-3d-rollback",
+    "name": "MK3D Online",
+    "game": "Mortal Kombat: Deadly Alliance, Deception and Armageddon",
+    "shortName": "Mortal Kombat: Deadly Alliance, Deception and Armageddon",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Mortal Kombat: Deadly Alliance"
+    ],
+    "developer": "Jstackzz",
+    "kind": "recomp",
+    "description": "Mortal Kombat: Deadly Alliance, Deception and Armageddon recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/Jstackzz/MK-3D-rollback",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MK3D-Online-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "moh-europeanassault-pc-port",
+    "name": "MOH-European Assault-PC-Port",
+    "game": "Medal of Honor: European Assault",
+    "shortName": "Medal of Honor: European Assault",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "boodyandmustafa-create",
+    "kind": "port",
+    "description": "Medal of Honor: European Assault ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/boodyandmustafa-create/MOH-EuropeanAssault-PC-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MOH-EuropeanAssault-PC-Port-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mohrs-xberecomp",
+    "name": "MOH Rising Sun XBE Recomp",
+    "game": "Medal of Honor: Rising Sun",
+    "shortName": "Medal of Honor: Rising Sun",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "neonoxd",
+    "kind": "port",
+    "description": "Medal of Honor: Rising Sun ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/neonoxd/MOHRS-XBERecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MOHRS-XBERecomp.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mvp-06-ncaa-baseball-xberecomp",
+    "name": "MVP 06 NCAA Baseball XBE Recomp",
+    "game": "MVP 06: NCAA Baseball",
+    "shortName": "MVP 06: NCAA Baseball",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "maddog847",
+    "kind": "port",
+    "description": "MVP 06: NCAA Baseball ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/maddog847/MVP-06-NCAA-Baseball-XBERecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MVP06_Public-Beta-1.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mvp-baseball-2005-xberecomp",
+    "name": "MVP Baseball 2005 XBE Recomp",
+    "game": "MVP Baseball 2005",
+    "shortName": "MVP Baseball 2005",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "maddog847",
+    "kind": "port",
+    "description": "MVP Baseball 2005 ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/maddog847/MVP-Baseball-2005-XBERecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MVP05-Public-Beta-3.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mvp05-plus",
+    "name": "MVP05 Plus",
+    "game": "MVP Baseball 2005",
+    "shortName": "MVP Baseball 2005",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "spy-jam",
+    "kind": "port",
+    "description": "MVP Baseball 2005 ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/spy-jam/MVP05-Plus",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MVP05-Plus-Beta-1.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mvsc2-recomp",
+    "name": "Marvel vs. Capcom 2",
+    "game": "Marvel vs. Capcom 2: New Age of Heroes",
+    "shortName": "Marvel vs. Capcom 2: New Age of Heroes",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Marvel vs. Capcom 2"
+    ],
+    "developer": "dalves408",
+    "kind": "recomp",
+    "description": "Marvel vs. Capcom 2: New Age of Heroes recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/dalves408/mvsc2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MvC2-v*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "nascarthunder2004recomp",
+    "name": "NascarThunder2004Recomp",
+    "game": "NASCAR Thunder 2004",
+    "shortName": "NASCAR Thunder 2004",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "NASCAR Thunder 2004 (NT04 Recomp)"
+    ],
+    "developer": "boomhower34",
+    "kind": "port",
+    "description": "NASCAR Thunder 2004 ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/boomhower34/NascarThunder2004Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NT04-Recomp-*-win-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ncaa-football-06-xberecomp",
+    "name": "NCAA Football 06 XBE Recomp",
+    "game": "NCAA Football 06",
+    "shortName": "NCAA Football 06",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "maddog847",
+    "kind": "port",
+    "description": "NCAA Football 06 ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/maddog847/NCAA-Football-06-XBERecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NCAA06-Public-Beta-2.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "new-legends-recomp",
+    "name": "New Legends Recomp",
+    "game": "New Legends",
+    "shortName": "New Legends",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "mkalkhoven-po",
+    "kind": "port",
+    "description": "New Legends ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mkalkhoven-po/New-Legends-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NewLegendsRecomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ngb-pc-native-port-release",
+    "name": "Ngb Pc Native Port Release",
+    "game": "Ninja Gaiden Black Hurricane",
+    "shortName": "Ninja Gaiden Black Hurricane",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "akirahayabusa",
+    "kind": "port",
+    "description": "Ninja Gaiden Black Hurricane ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/akirahayabusa/ngb-pc-native-port-release",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ngb-hurricane-pc-*-win32.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ngbrecomp",
+    "name": "Ninja Gaiden Black Recomp",
+    "game": "Ninja Gaiden Black",
+    "shortName": "Ninja Gaiden Black",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "gamboozino",
+    "kind": "recomp",
+    "description": "Ninja Gaiden Black recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/gamboozino/ngbrecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NinjaGaidenBlack-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "nhlhitz2003recomp",
+    "name": "NHL Hitz 20-03 Recomp",
+    "game": "NHL Hitz 20-03",
+    "shortName": "NHL Hitz 20-03",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "dalves408",
+    "kind": "port",
+    "description": "NHL Hitz 20-03 ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "hd-textures"
+    ],
+    "repositoryUrl": "https://github.com/dalves408/nhlhitz2003recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NHLHitz2003-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "nhlhitzpro-recomp",
+    "name": "NHL Hitz Pro Recomp",
+    "game": "NHL Hitz Pro",
+    "shortName": "NHL Hitz Pro",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "dalves408",
+    "kind": "port",
+    "description": "NHL Hitz Pro ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/dalves408/nhlhitzpro-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NHLHitzPro-v*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ninja-gaiden-black-port",
+    "name": "Ninja Gaiden Black Port",
+    "game": "Ninja Gaiden Black",
+    "shortName": "Ninja Gaiden Black",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "angeldev07",
+    "kind": "port",
+    "description": "Ninja Gaiden Black ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/angeldev07/ninja-gaiden-black-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ngb-port-*-win32.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "noble-archimedes",
+    "name": "Noble Archimedes",
+    "game": "Castlevania: Curse of Darkness",
+    "shortName": "Castlevania: Curse of Darkness",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "sergiomanzur",
+    "kind": "recomp",
+    "description": "Castlevania: Curse of Darkness recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/sergiomanzur/noble-archimedes",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Noble-Archimedes-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "og-xbox-pc-ports",
+    "name": "OG Xbox Pc Ports",
+    "game": "Jet Set Radio Future",
+    "shortName": "Jet Set Radio Future",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "jcarr710",
+    "kind": "port",
+    "description": "Jet Set Radio Future ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/jcarr710/OG-Xbox-pc-ports-",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "mc3-pc-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "opence",
+    "name": "Halo Ce Universal",
+    "game": "Halo: Combat Evolved",
+    "shortName": "Halo: Combat Evolved",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "OpenCommunityEdition",
+    "kind": "port",
+    "description": "Halo: Combat Evolved ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/OpenCommunityEdition/OpenCE",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "halo-windows-release.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "openhalo2",
+    "name": "Halo 2 — Open Halo 2 (andrewnakas)",
+    "game": "Halo 2",
+    "shortName": "Halo 2",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "andrewnakas",
+    "kind": "port",
+    "description": "Halo 2 ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/andrewnakas/openhalo2",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "OpenHalo2-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "openshao",
+    "name": "OpenShao",
+    "game": "Mortal Kombat: Shaolin Monks",
+    "shortName": "Mortal Kombat: Shaolin Monks",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "OAleex",
+    "kind": "recomp",
+    "description": "Mortal Kombat: Shaolin Monks recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/OAleex/OpenShao",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "OpenShao-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "opentricky",
+    "name": "OpenTricky",
+    "game": "SSX Tricky",
+    "shortName": "SSX Tricky",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "GiZcesi",
+    "kind": "recomp",
+    "description": "SSX Tricky recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/GiZcesi/OpenTricky",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "OpenTricky-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "orta-recompiled",
+    "name": "Panzer Dragoon Orta",
+    "game": "Panzer Dragoon Orta",
+    "shortName": "Panzer Dragoon Orta",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "almost-drowned-rat",
+    "kind": "port",
+    "description": "Panzer Dragoon Orta ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/almost-drowned-rat/Orta-Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Orta-Recompiled-v*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ortarecomp",
+    "name": "Orta Recomp",
+    "game": "Panzer Dragoon Orta",
+    "shortName": "Panzer Dragoon Orta",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "wootbeer",
+    "kind": "recomp",
+    "description": "Panzer Dragoon Orta recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/wootbeer/ortarecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "OrtaRecomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "outlawgolf2-xbe-recomp",
+    "name": "Outlaw Golf 2 XBE Recomp",
+    "game": "Outlaw Golf 2",
+    "shortName": "Outlaw Golf 2",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "projectedan",
+    "kind": "port",
+    "description": "Outlaw Golf 2 ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/projectedan/OutlawGolf2-XBE-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "OutlawGolf2.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "outrun2-xbe-revival",
+    "name": "Outrun2 Xbe Revival",
+    "game": "OutRun 2",
+    "shortName": "OutRun 2",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "jcchikikomori",
+    "kind": "port",
+    "description": "OutRun 2 ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/jcchikikomori/outrun2-xbe-revival",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "OutRun2-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "payne-recompiled",
+    "name": "Max Payne",
+    "game": "Max Payne",
+    "shortName": "Max Payne",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Max Payne (Payne Recompiled)"
+    ],
+    "developer": "endmgs",
+    "kind": "recomp",
+    "description": "Max Payne recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/endmgs/payne-recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PayneRecompiled-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pgr2recomp",
+    "name": "pgr2recomp",
+    "game": "Project Gotham Racing 2",
+    "shortName": "Project Gotham Racing 2",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "xbox-games-recomp",
+    "kind": "port",
+    "description": "Project Gotham Racing 2 ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/xbox-games-recomp/pgr2recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "pgr2recomp-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "phantomcrash-xbox-nativeport",
+    "name": "PhantomCrash Xbox NativePort",
+    "game": "Phantom Crash",
+    "shortName": "Phantom Crash",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "GeneralAtrox",
+    "kind": "port",
+    "description": "Phantom Crash ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/GeneralAtrox/PhantomCrash_Xbox_NativePort",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PhantomCrash-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "piraterecomp",
+    "name": "PirateRecomp",
+    "game": "Sid Meier's Pirates!",
+    "shortName": "Sid Meier's Pirates!",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Sid Meier's Pirates! (PirateRecomp)"
+    ],
+    "developer": "sorin-c",
+    "kind": "port",
+    "description": "Sid Meier's Pirates! ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/sorin-c/PirateRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PirateRecomp-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "projectoogie",
+    "name": "Project Oogie",
+    "game": "The Nightmare Before Christmas: Oogie's Revenge",
+    "shortName": "The Nightmare Before Christmas: Oogie's Revenge",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Tim Burton's The Nightmare Before Christmas: Oogie's Revenge"
+    ],
+    "developer": "Pallypots",
+    "kind": "recomp",
+    "description": "The Nightmare Before Christmas: Oogie's Revenge recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Pallypots/ProjectOogie",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ProjectOogie-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rainbow-six-three-recomp",
+    "name": "Tom Clancy's Rainbow Six 3 (Xbox) — Tom Clancy's Rainbow Six 3 (Xbox) — static recompilation (phobos665)",
+    "game": "Tom Clancy's Rainbow Six 3",
+    "shortName": "Tom Clancy's Rainbow Six 3",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Tom Clancy's Rainbow Six 3 (Xbox)"
+    ],
+    "developer": "phobos665",
+    "kind": "port",
+    "description": "Tom Clancy's Rainbow Six 3 ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/phobos665/Rainbow-six-three-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "rs3-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rallisportchallenge2-decomp",
+    "name": "RalliSport Challenge 2 Recompiled",
+    "game": "RalliSport Challenge 2",
+    "shortName": "RalliSport Challenge 2",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "Mortify7612",
+    "kind": "recomp",
+    "description": "RalliSport Challenge 2 recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Mortify7612/RallisportChallenge2-decomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "rsc2-*-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rdr-xberecomp",
+    "name": "RDR XBERecomp",
+    "game": "Red Dead Revolver",
+    "shortName": "Red Dead Revolver",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "TGP482",
+    "kind": "recomp",
+    "description": "Red Dead Revolver recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/TGP482/RDR-XBERecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RDR-XBERecomp.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "re-amped2",
+    "name": "RE Amped2",
+    "game": "Amped 2",
+    "shortName": "Amped 2",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "Nico-D-eu",
+    "kind": "recomp",
+    "description": "Amped 2 recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Nico-D-eu/RE-Amped2",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RE-Amped2-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "red-dead-recompilation",
+    "name": "Red Dead Recompilation",
+    "game": "Red Dead Revolver",
+    "shortName": "Red Dead Revolver",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "DallasXC",
+    "kind": "port",
+    "description": "Red Dead Revolver ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/DallasXC/red-dead-recompilation",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Red-Dead-Recompilation-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "red-dead-revolver-pc",
+    "name": "Red Dead Revolver PC",
+    "game": "Red Dead Revolver",
+    "shortName": "Red Dead Revolver",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "dennisabalo18-bot",
+    "kind": "port",
+    "description": "Red Dead Revolver ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/dennisabalo18-bot/red-dead-revolver-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RedDeadRevolverPC.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "redcard2003recomp",
+    "name": "RedCard 20-03",
+    "game": "RedCard 20-03",
+    "shortName": "RedCard 20-03",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "dalves408",
+    "kind": "port",
+    "description": "RedCard 20-03 ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/dalves408/redcard2003recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RedCard2003-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "redline-recompiled",
+    "name": "Redline Recompiled",
+    "game": "Forza Motorsport",
+    "shortName": "Forza Motorsport",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "DivxPlays",
+    "kind": "recomp",
+    "description": "Forza Motorsport recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/DivxPlays/redline-recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RedlineRecompiled-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rocky-recompiled",
+    "name": "Rocky Recompiled",
+    "game": "Rocky",
+    "shortName": "Rocky",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "poststructural",
+    "kind": "port",
+    "description": "Rocky ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/poststructural/rocky-recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RockyRecompiled-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "roller",
+    "name": "ROLLER",
+    "game": "Fatal Racing",
+    "shortName": "Fatal Racing",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "FatalDecomp",
+    "kind": "decomp",
+    "description": "Fatal Racing running natively on PC, built from the decompiled Xbox game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/FatalDecomp/ROLLER",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "roller-windows-x86_64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rsc2recomp",
+    "name": "rsc2recomp",
+    "game": "RalliSport Challenge 2",
+    "shortName": "RalliSport Challenge 2",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "xbox-games-recomp",
+    "kind": "port",
+    "description": "RalliSport Challenge 2 ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/xbox-games-recomp/rsc2recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "rsc2recomp-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "scarface-recomp",
+    "name": "Scarface Recomp",
+    "game": "Scarface: The World Is Yours",
+    "shortName": "Scarface: The World Is Yours",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "efm-games",
+    "kind": "port",
+    "description": "Scarface: The World Is Yours ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/efm-games/scarface-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Scarface-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "scarport",
+    "name": "ScarPort",
+    "game": "SCAR - Squadra Corse Alfa Romeo",
+    "shortName": "SCAR - Squadra Corse Alfa Romeo",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "MertCNOZ",
+    "kind": "port",
+    "description": "SCAR - Squadra Corse Alfa Romeo ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/MertCNOZ/ScarPort",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ScarPort.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "scda-xberecomp",
+    "name": "SCDA XBE Recomp",
+    "game": "Tom Clancy's Splinter Cell: Double Agent",
+    "shortName": "Tom Clancy's Splinter Cell: Double Agent",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "TGP482",
+    "kind": "recomp",
+    "description": "Tom Clancy's Splinter Cell: Double Agent recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/TGP482/SCDA-XBERecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SCDA-XBERecomp.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "seriousrecomp",
+    "name": "Serious Recomp",
+    "game": "Serious Sam Classic The First Encounter",
+    "shortName": "Serious Sam Classic The First Encounter",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "MarkPremier",
+    "kind": "port",
+    "description": "Serious Sam Classic The First Encounter ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/MarkPremier/SeriousRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SeriousRecomp-Beta-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sf33rdsxbrecompo",
+    "name": "SF33RDSXBRecompo",
+    "game": "Street Fighter III: 3rd Strike",
+    "shortName": "Street Fighter III: 3rd Strike",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Street Fighter III: 3rd Strike (SF33RDSXBRecompo)"
+    ],
+    "developer": "Manya3084",
+    "kind": "port",
+    "description": "Street Fighter III: 3rd Strike ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Manya3084/SF33RDSXBRecompo",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "sf33rdsxb-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "shadowrecomp",
+    "name": "Shadow Recomp",
+    "game": "Shadow the Hedgehog",
+    "shortName": "Shadow the Hedgehog",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "FoxWorkshop",
+    "kind": "recomp",
+    "description": "Shadow the Hedgehog recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/FoxWorkshop/ShadowRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ShadowRecomp-Windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sims1-recomp",
+    "name": "The Sims - Static Recompilation",
+    "game": "The Sims",
+    "shortName": "The Sims",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "abilliontokens",
+    "kind": "recomp",
+    "description": "The Sims recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/abilliontokens/sims1-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Sims1-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sims2-recomp",
+    "name": "The Sims 2 - Static Recompilation",
+    "game": "The Sims 2",
+    "shortName": "The Sims 2",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "abilliontokens",
+    "kind": "recomp",
+    "description": "The Sims 2 recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/abilliontokens/sims2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Sims2-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sm2port",
+    "name": "Spider-Man 2 - PC Port",
+    "game": "Spider-Man 2",
+    "shortName": "Spider-Man 2",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "SickSartori",
+    "kind": "port",
+    "description": "Spider-Man 2 ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/SickSartori/sm2port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "sm2port-*-windows-x86.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "smt-nine-recomp",
+    "name": "SMT NINE Recomp",
+    "game": "Shin Megami Tensei NINE",
+    "shortName": "Shin Megami Tensei NINE",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Shin Megami Tensei: Nine"
+    ],
+    "developer": "gymzatan",
+    "kind": "port",
+    "description": "Shin Megami Tensei NINE ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/gymzatan/smt-nine-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SMT-NINE-recomp-*-update-japanese-chinese.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sneaky-whopper-recomp",
+    "name": "Sneaky Whopper Recomp",
+    "game": "Burger King: Sneak King",
+    "shortName": "Burger King: Sneak King",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "Guuzzeji",
+    "kind": "port",
+    "description": "Burger King: Sneak King ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Guuzzeji/sneaky-whopper-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "*-win-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "soulcalibur2-recomp",
+    "name": "Soulcalibur II Recomp",
+    "game": "Soulcalibur II",
+    "shortName": "Soulcalibur II",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "tmcleroy",
+    "kind": "recomp",
+    "description": "Soulcalibur II recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/tmcleroy/soulcalibur2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Soulcalibur2Recomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "split2-recomp",
+    "name": "Split2 Recomp",
+    "game": "TimeSplitters 2",
+    "shortName": "TimeSplitters 2",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "phobos665",
+    "kind": "recomp",
+    "description": "TimeSplitters 2 recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/phobos665/split2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "split2-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ssx3-recomp",
+    "name": "SSX3 Recomp",
+    "game": "SSX 3",
+    "shortName": "SSX 3",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "bertibertig",
+    "kind": "recomp",
+    "description": "SSX 3 recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/bertibertig/SSX3-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SSX3-Recomp-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "starwars-clonewars-pc",
+    "name": "Star Wars: The Clone Wars (Xbox) — Star Wars: The Clone Wars — PC (GTTeancum)",
+    "game": "Star Wars: The Clone Wars",
+    "shortName": "Star Wars: The Clone Wars",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Star Wars: The Clone Wars (Xbox)"
+    ],
+    "developer": "GTTeancum",
+    "kind": "port",
+    "description": "Star Wars: The Clone Wars ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/GTTeancum/StarWars-CloneWars-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "CloneWars-PC.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ste-recomp",
+    "name": "Replay Revival recomp",
+    "game": "Godzilla: Save the Earth",
+    "shortName": "Godzilla: Save the Earth",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Godzilla: Save the Earth (Replay Revival recomp)"
+    ],
+    "developer": "replayrevival",
+    "kind": "port",
+    "description": "Godzilla: Save the Earth ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/replayrevival/ste-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ReplayRevival-STE-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "streets-of-la-recomp",
+    "name": "Streets Of LA Recomp",
+    "game": "True Crime: Streets of LA",
+    "shortName": "True Crime: Streets of LA",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "technicrain0",
+    "kind": "port",
+    "description": "True Crime: Streets of LA ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/technicrain0/Streets-of-LA-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TCSOLA-PC-RELEASE-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "summitstrike-recomp",
+    "name": "Summit Strike Recomp",
+    "game": "Tom Clancy's Ghost Recon 2: Summit Strike",
+    "shortName": "Tom Clancy's Ghost Recon 2: Summit Strike",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "ElKev118",
+    "kind": "recomp",
+    "description": "Tom Clancy's Ghost Recon 2: Summit Strike recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ElKev118/summitstrike-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SummitStrike-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "swrots-pc",
+    "name": "SWROTS PC",
+    "game": "Star Wars: Episode III - Revenge of the Sith",
+    "shortName": "Star Wars: Episode III - Revenge of the Sith",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "jedijosh920",
+    "kind": "port",
+    "description": "Star Wars: Episode III - Revenge of the Sith ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/jedijosh920/SWROTS-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SWROTS-PC-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "takedawn-eu",
+    "name": "Takedawn EU",
+    "game": "Burnout 3: Takedown",
+    "shortName": "Burnout 3: Takedown",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Burnout 3: Takedown (Takedawn EU)"
+    ],
+    "developer": "stevencol",
+    "kind": "port",
+    "description": "Burnout 3: Takedown ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/stevencol/takedawn-eu",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Takedawn-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tenchurfdrecomp",
+    "name": "TenchuRFDRecomp",
+    "game": "Tenchu: Return from Darkness",
+    "shortName": "Tenchu: Return from Darkness",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Tenchu: Return from Darkness (HoloCatt Recomp Project)"
+    ],
+    "developer": "Llamapixels",
+    "kind": "port",
+    "description": "Tenchu: Return from Darkness ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Llamapixels/TenchuRFDRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TenchuRFD-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "thewarriorsrecomp",
+    "name": "The Warriors",
+    "game": "The Warriors",
+    "shortName": "The Warriors",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "Matt-code-d",
+    "kind": "port",
+    "description": "The Warriors ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/Matt-code-d/TheWarriorsRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TheWarriorsRecomp-v*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "thps2x-recompiled",
+    "name": "THPS2X Recompiled",
+    "game": "Tony Hawk's Pro Skater 2x",
+    "shortName": "Tony Hawk's Pro Skater 2x",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "almost-drowned-rat",
+    "kind": "port",
+    "description": "Tony Hawk's Pro Skater 2x ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/almost-drowned-rat/THPS2X-Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "THPS2X-Recompiled-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tigerwoods2004-xbe-recomp",
+    "name": "Tiger Woods PGA Tour 2004 - XBE Recomp",
+    "game": "Tiger Woods PGA Tour 2004",
+    "shortName": "Tiger Woods PGA Tour 2004",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "projectedan",
+    "kind": "port",
+    "description": "Tiger Woods PGA Tour 2004 ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/projectedan/TigerWoods2004-XBE-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TW2004.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "timesplitters-2-xberecomp",
+    "name": "TimeSplitters 2 XBE Recomp",
+    "game": "TimeSplitters 2",
+    "shortName": "TimeSplitters 2",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "navasemanuel-lab",
+    "kind": "port",
+    "description": "TimeSplitters 2 ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/navasemanuel-lab/TimeSplitters-2-XBERecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TS2.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "timesplitters-future-perfect-pc",
+    "name": "TimeSplitters: Future Perfect PC",
+    "game": "TimeSplitters: Future Perfect",
+    "shortName": "TimeSplitters: Future Perfect",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "TheDoffman",
+    "kind": "recomp",
+    "description": "TimeSplitters: Future Perfect recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/TheDoffman/timesplitters-future-perfect-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TimeSplitters-Future-Perfect-PC-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "titanium-legion",
+    "name": "Titanium Legion",
+    "game": "Steel Battalion",
+    "shortName": "Steel Battalion",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Steel Battalion (Titanium Legion)"
+    ],
+    "developer": "AsukaNeo",
+    "kind": "port",
+    "description": "Steel Battalion ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/AsukaNeo/titanium-legion",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TitaniumLegion-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tje3-recomp",
+    "name": "TJE3 Recomp",
+    "game": "ToeJam & Earl III: Mission to Earth",
+    "shortName": "ToeJam & Earl III: Mission to Earth",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "orkosoftware",
+    "kind": "port",
+    "description": "ToeJam & Earl III: Mission to Earth ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/orkosoftware/tje3-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TJE3-Recomp-Windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tootawersrecomp",
+    "name": "Two Towers Recomp",
+    "game": "The Lord of the Rings: The Two Towers",
+    "shortName": "The Lord of the Rings: The Two Towers",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "Gumpolas",
+    "kind": "recomp",
+    "description": "The Lord of the Rings: The Two Towers recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Gumpolas/TooTawersRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TwoTowers-Recompiled-v*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "true-crime-new-york-city-recomp",
+    "name": "True Crime: New York City Recomp",
+    "game": "True Crime: New York City",
+    "shortName": "True Crime: New York City",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "roz1077",
+    "kind": "port",
+    "description": "True Crime: New York City ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/roz1077/true-crime-new-york-city-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TrueCrimeNYC.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "turok-evolution-recomp",
+    "name": "Turok Evolution Recomp",
+    "game": "Turok: Evolution",
+    "shortName": "Turok: Evolution",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "phobos665",
+    "kind": "port",
+    "description": "Turok: Evolution ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/phobos665/turok-evolution-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "turok-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "unchained",
+    "name": "Unchained",
+    "game": "Whiplash",
+    "shortName": "Whiplash",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "devall96",
+    "kind": "port",
+    "description": "Whiplash ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/devall96/Unchained",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Unchained-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "urbanchaosriotresponseburneredition",
+    "name": "Urban Chaos: Burner Edition",
+    "game": "Urban Chaos: Riot Response",
+    "shortName": "Urban Chaos: Riot Response",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "linkssy2",
+    "kind": "port",
+    "description": "Urban Chaos: Riot Response ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "hd-textures"
+    ],
+    "repositoryUrl": "https://github.com/linkssy2/UrbanChaosRiotResponseBurnerEdition",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "UrbanChaos-BurnerEdition-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "urbz-recomp",
+    "name": "Urbz recomp",
+    "game": "The Urbz: Sims in the City",
+    "shortName": "The Urbz: Sims in the City",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "abilliontokens",
+    "kind": "recomp",
+    "description": "The Urbz: Sims in the City recompiled from the Xbox version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/abilliontokens/urbz-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Urbz.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "warriorsreborn",
+    "name": "WarriorsReborn",
+    "game": "The Warriors",
+    "shortName": "The Warriors",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "mattiasribera",
+    "kind": "port",
+    "description": "The Warriors ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mattiasribera/WarriorsReborn",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WarriorsReborn-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "wwe2k15-pc",
+    "name": "WWE 2K15 PC",
+    "game": "WWE 2K15",
+    "shortName": "WWE 2K15",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "iMrBurn",
+    "kind": "port",
+    "description": "WWE 2K15 ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/iMrBurn/wwe2k15-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WWE2K15-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "xboxrecomp-conker",
+    "name": "Conker Recomp",
+    "game": "Conker: Live & Reloaded",
+    "shortName": "Conker: Live & Reloaded",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Conker: Live and Reloaded"
+    ],
+    "developer": "Txukie",
+    "kind": "port",
+    "description": "Conker: Live & Reloaded ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Txukie/xboxrecomp-conker",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Conker-Recomp-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "xml1-recomp",
+    "name": "OpenXML1xbox",
+    "game": "X-Men Legends",
+    "shortName": "X-Men Legends",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "GTTeancum",
+    "kind": "port",
+    "description": "X-Men Legends ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/GTTeancum/XML1-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "XML1-recomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

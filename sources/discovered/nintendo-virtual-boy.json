@@ -1,0 +1,102 @@
+[
+  {
+    "id": "mariotennisvirtualboyrecomp",
+    "name": "MarioTennisVirtualBoyRecomp",
+    "game": "Mario's Tennis",
+    "shortName": "Mario's Tennis",
+    "platform": "Nintendo Virtual Boy",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Mario's Tennis recompiled from the Virtual Boy version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/mstan/MarioTennisVirtualBoyRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MarioTennisVirtualBoyRecomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sdgundamdimensionwarvirtualboyrecomp",
+    "name": "SDGundamDimensionWarVirtualBoyRecomp",
+    "game": "SD Gundam Dimension War",
+    "shortName": "SD Gundam Dimension War",
+    "platform": "Nintendo Virtual Boy",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "port",
+    "description": "SD Gundam Dimension War ported to run natively on PC from the Virtual Boy version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/SDGundamDimensionWarVirtualBoyRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SDGundamDimensionWarVirtualBoyRecomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "zeroracersvirtualboyrecomp",
+    "name": "Zero Racers Recompiled",
+    "game": "Zero Racers",
+    "shortName": "Zero Racers",
+    "platform": "Nintendo Virtual Boy",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Zero Racers recompiled from the Virtual Boy version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/mstan/ZeroRacersVirtualBoyRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ZeroRacersVirtualBoyRecomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

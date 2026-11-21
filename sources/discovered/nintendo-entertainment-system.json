@@ -1,0 +1,1642 @@
+[
+  {
+    "id": "addams-family-recompiler",
+    "name": "Addams Family Recompiler",
+    "game": "The Addams Family",
+    "shortName": "The Addams Family",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [
+      "The Addams Family (Addams Family Recompiler)"
+    ],
+    "developer": "inthe92",
+    "kind": "port",
+    "description": "The Addams Family ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/inthe92/addams-family-recompiler",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NES-Native-Lab-Windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "adventure-island-ii-nes-static-recomp",
+    "name": "Adventure Island II (NES) Static Recomp",
+    "game": "Adventure Island II",
+    "shortName": "Adventure Island II",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Junior-Jones",
+    "kind": "recomp",
+    "description": "Adventure Island II recompiled from the NES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Junior-Jones/Adventure-Island-II-NES-Static-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Adventure-Island-II-NES-Static-Recomp-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "arcadebros1983-recomp",
+    "name": "Arcade Bros 1983 Recomp",
+    "game": "Mario Bros.",
+    "shortName": "Mario Bros.",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "JojitaGamerHD",
+    "kind": "port",
+    "description": "Mario Bros. ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/JojitaGamerHD/ArcadeBros1983-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ArcadeBros1983-Recomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "balloon-fight",
+    "name": "Groovy Gecko remake",
+    "game": "Balloon Fight",
+    "shortName": "Balloon Fight",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [
+      "Balloon Fight (Groovy Gecko remake)"
+    ],
+    "developer": "MikeDX",
+    "kind": "port",
+    "description": "Balloon Fight ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/MikeDX/balloon-fight",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "balloonfight-win32.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "bubble-bobble-nes-static-recomp",
+    "name": "Bubble Bobble Recomp",
+    "game": "Bubble Bobble",
+    "shortName": "Bubble Bobble",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Junior-Jones",
+    "kind": "recomp",
+    "description": "Bubble Bobble recompiled from the NES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Junior-Jones/Bubble-Bobble-NES-Static-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Bubble-Bobble-NES-Static-Recomp-Windows-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "contrarecomp",
+    "name": "Contra Recomp",
+    "game": "Contra",
+    "shortName": "Contra",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "gabbycat4",
+    "kind": "port",
+    "description": "Contra ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/gabbycat4/ContraRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ContraRecomp-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "cv3-pc-port",
+    "name": "CV3 PC port",
+    "game": "Castlevania III: Dracula's Curse",
+    "shortName": "Castlevania III: Dracula's Curse",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [
+      "Castlevania III: Dracula's Curse (CV3 PC port)"
+    ],
+    "developer": "rboeger",
+    "kind": "port",
+    "description": "Castlevania III: Dracula's Curse ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/rboeger/cv3-pc-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "cv3-pc-port-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "darkwing-duck-recomp",
+    "name": "Darkwing Duck Recomp",
+    "game": "Darkwing Duck",
+    "shortName": "Darkwing Duck",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "fabiotc",
+    "kind": "port",
+    "description": "Darkwing Duck ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/fabiotc/darkwing-duck-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DarkwingDuckRecomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dd2recomp",
+    "name": "Double Dragon II Recompiled",
+    "game": "Double Dragon II: The Revenge",
+    "shortName": "Double Dragon II: The Revenge",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "gabbycat4",
+    "kind": "port",
+    "description": "Double Dragon II: The Revenge ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/gabbycat4/DD2Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DD2Recomp-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "double-dragon-iii-nes-static-recomp",
+    "name": "Double Dragon III Recomp",
+    "game": "Double Dragon III: The Sacred Stones",
+    "shortName": "Double Dragon III: The Sacred Stones",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Junior-Jones",
+    "kind": "port",
+    "description": "Double Dragon III: The Sacred Stones ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Junior-Jones/Double-Dragon-III-NES-Static-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Double-Dragon-III-NES-Static-Recomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dragonwarrior4nesrecomp",
+    "name": "Dragon Warrior4NESRecomp",
+    "game": "Dragon Warrior IV",
+    "shortName": "Dragon Warrior IV",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "arichmondphoto",
+    "kind": "port",
+    "description": "Dragon Warrior IV ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/arichmondphoto/DragonWarrior4NESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DragonWarriorIV-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "drmarionesrecomp",
+    "name": "Dr. Mario NES Recomp",
+    "game": "Dr. Mario",
+    "shortName": "Dr. Mario",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Dr. Mario recompiled from the NES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/DrMarioNesRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DrMarioRecomp-usa-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "duckhuntnesrecomp",
+    "name": "Duck Hunt",
+    "game": "Duck Hunt",
+    "shortName": "Duck Hunt",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Duck Hunt recompiled from the NES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/DuckHuntNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DuckHuntRecomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dw4-recomp",
+    "name": "Dw4 Recomp",
+    "game": "Dragon Warrior IV",
+    "shortName": "Dragon Warrior IV",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [
+      "Dragon Warrior IV (dw4-recomp)"
+    ],
+    "developer": "jsp244",
+    "kind": "port",
+    "description": "Dragon Warrior IV ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/jsp244/dw4-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "dw4-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "faxanadurecomp",
+    "name": "Faxanadu Recomp",
+    "game": "Faxanadu",
+    "shortName": "Faxanadu",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "port",
+    "description": "Faxanadu ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/FaxanaduRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FaxanaduRecomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ff1-recomp",
+    "name": "FF1 Recomp",
+    "game": "Final Fantasy",
+    "shortName": "Final Fantasy",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "dr-pepper-408",
+    "kind": "port",
+    "description": "Final Fantasy ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/dr-pepper-408/ff1-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FF1-recomp-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "final-fantasy-nse-recomp",
+    "name": "Final Fantasy NES Recomp",
+    "game": "Final Fantasy",
+    "shortName": "Final Fantasy",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "bigevilmods",
+    "kind": "port",
+    "description": "Final Fantasy ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/bigevilmods/FInal-Fantasy-NSE-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FF-NES-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gumshoenesrecomp",
+    "name": "GumshoeNESRecomp",
+    "game": "Gumshoe",
+    "shortName": "Gumshoe",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "port",
+    "description": "Gumshoe ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/GumshoeNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GumshoeRecomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "jiangshi-2-recomp",
+    "name": "Jiangshi 2",
+    "game": "Kyonshiizu 2",
+    "shortName": "Kyonshiizu 2",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [
+      "Kyonshiizu 2 (Jiangshi 2)"
+    ],
+    "developer": "brande77",
+    "kind": "port",
+    "description": "Kyonshiizu 2 ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/brande77/jiangshi-2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Jiangshi2-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "legendary-wings-nes-to-pc",
+    "name": "Legendary Wings NES to PC",
+    "game": "Legendary Wings",
+    "shortName": "Legendary Wings",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "retroreplay82",
+    "kind": "recomp",
+    "description": "Legendary Wings recompiled from the NES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/retroreplay82/Legendary-Wings-NES-to-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "LegendaryWings-windows-x64-beta.*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "legendofzeldanesrecomp",
+    "name": "Legend of Zelda NES Recomp",
+    "game": "The Legend of Zelda",
+    "shortName": "The Legend of Zelda",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "The Legend of Zelda recompiled from the NES version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mstan/LegendOfZeldaNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "LegendOfZeldaNESRecomp-USA-NTSC-cycle-mods-preview-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mappy-rust",
+    "name": "Mappy Rust",
+    "game": "Mappy",
+    "shortName": "Mappy",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "gmaxpwnage",
+    "kind": "port",
+    "description": "Mappy ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/gmaxpwnage/mappy-rust",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "mappy-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mega-man-2-nes-recomp",
+    "name": "Mega Man 2 NES Recomp",
+    "game": "Mega Man 2",
+    "shortName": "Mega Man 2",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Diehardgamer1983",
+    "kind": "port",
+    "description": "Mega Man 2 ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Diehardgamer1983/Mega-Man-2-NES-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MegaMan2NESRecomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mega-man-2-nes-static-recomp",
+    "name": "Mega Man 2 Recomp",
+    "game": "Mega Man 2",
+    "shortName": "Mega Man 2",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Junior-Jones",
+    "kind": "recomp",
+    "description": "Mega Man 2 recompiled from the NES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Junior-Jones/Mega-Man-2-NES-Static-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Mega-Man-2-NES-Static-Recomp-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mega-man-6-nes-static-recomp",
+    "name": "Mega Man 6 Recomp",
+    "game": "Mega Man 6",
+    "shortName": "Mega Man 6",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Junior-Jones",
+    "kind": "recomp",
+    "description": "Mega Man 6 recompiled from the NES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Junior-Jones/Mega-Man-6-NES-Static-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Mega-Man-6-NES-Static-Recomp-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "megaman1nesrecomp",
+    "name": "MegaMan1NESRecomp",
+    "game": "Mega Man",
+    "shortName": "Mega Man",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "port",
+    "description": "Mega Man ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/MegaMan1NESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MegaManRecomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "megaman2recomp",
+    "name": "MegaMan2Recomp",
+    "game": "Mega Man 2",
+    "shortName": "Mega Man 2",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "gabbycat4",
+    "kind": "port",
+    "description": "Mega Man 2 ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/gabbycat4/MegaMan2Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MegaMan2Recomp-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "megaman3nesrecomp",
+    "name": "Mega Man 3",
+    "game": "Mega Man 3",
+    "shortName": "Mega Man 3",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Mega Man 3 recompiled from the NES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/Megaman3NESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MegaMan3Recomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "megaman5nesrecomp",
+    "name": "MegaMan5NESRecomp",
+    "game": "Mega Man 5",
+    "shortName": "Mega Man 5",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "port",
+    "description": "Mega Man 5 ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/MegaMan5NESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MegaMan5Recomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "megaman6nesrecomp",
+    "name": "MegaMan6NESRecomp",
+    "game": "Mega Man 6",
+    "shortName": "Mega Man 6",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "port",
+    "description": "Mega Man 6 ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/MegaMan6NESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MegaMan6Recomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "metroidnesrecomp",
+    "name": "Metroid",
+    "game": "Metroid",
+    "shortName": "Metroid",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Metroid recompiled from the NES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/MetroidNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MetroidNESRecomp-*-USA-NTSC-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "monsterparty-pc",
+    "name": "Monsterparty Pc",
+    "game": "Monster Party: Let's Go Again",
+    "shortName": "Monster Party: Let's Go Again",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "scriff-marimbo",
+    "kind": "port",
+    "description": "Monster Party: Let's Go Again ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/scriff-marimbo/monsterparty-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "mparty_lga-windows-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "monsterpartynesrecomp",
+    "name": "Monster Party",
+    "game": "Monster Party",
+    "shortName": "Monster Party",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [
+      "Monster Party (Monster Party Recompiled)"
+    ],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Monster Party recompiled from the NES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/MonsterPartyNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MonsterParty-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "nestris",
+    "name": "NESTRIS",
+    "game": "Tetris",
+    "shortName": "Tetris",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [
+      "Tetris (NESTRIS)"
+    ],
+    "developer": "Elanif",
+    "kind": "port",
+    "description": "Tetris ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Elanif/NESTRIS",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NESTRIS.*.Windows64.7z",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ninja-gaiden-ii-the-dark-sword-of-chaos-recomp",
+    "name": "Ninja Gaiden II The Dark Sword Of Chaos Recomp",
+    "game": "Ninja Gaiden II: The Dark Sword of Chaos",
+    "shortName": "Ninja Gaiden II: The Dark Sword of Chaos",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Ninja Gaiden II: The Dark Sword of Chaos ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Ninja-Gaiden-II-The-Dark-Sword-of-Chaos-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NinjaGaidenIIRecomp-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ninja-gaiden-iii-the-ancient-ship-of-doom",
+    "name": "Ninja Gaiden III The Ancient Ship Of Doom",
+    "game": "Ninja Gaiden III: The Ancient Ship of Doom",
+    "shortName": "Ninja Gaiden III: The Ancient Ship of Doom",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Ninja Gaiden III: The Ancient Ship of Doom ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Ninja-Gaiden-III-The-Ancient-Ship-of-Doom",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NinjaGaidenIIIRecomp-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ninjagaiden1recomp",
+    "name": "NinjaGaiden1Recomp",
+    "game": "Ninja Gaiden",
+    "shortName": "Ninja Gaiden",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [
+      "Ninja Gaiden (NinjaGaiden1Recomp)"
+    ],
+    "developer": "gabbycat4",
+    "kind": "port",
+    "description": "Ninja Gaiden ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/gabbycat4/NinjaGaiden1Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NinjaGaiden1Recomp-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pacmanrecomp",
+    "name": "Pac Man Recomp",
+    "game": "Pac Man",
+    "shortName": "Pac Man",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [
+      "Pac-Man"
+    ],
+    "developer": "Mr-Shizzy",
+    "kind": "recomp",
+    "description": "Pac Man recompiled from the NES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Mr-Shizzy/PacManRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PacManRecomp-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "shadowgreat",
+    "name": "Shadowgreat",
+    "game": "Shadowgate: MacVenture Series",
+    "shortName": "Shadowgate: MacVenture Series",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "CorrieDivitt",
+    "kind": "port",
+    "description": "Shadowgate: MacVenture Series ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/CorrieDivitt/ShadowGreat",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Shadowgreat-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "skx",
+    "name": "SKX",
+    "game": "Solomon's Key",
+    "shortName": "Solomon's Key",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [
+      "Solomon's Key (SKX)"
+    ],
+    "developer": "nillkitty",
+    "kind": "port",
+    "description": "Solomon's Key ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/nillkitty/SKX",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "win-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "smb-vanilla",
+    "name": "Super Mario Bros. / The Lost Levels (SMB Vanilla)",
+    "game": "Super Mario Bros.",
+    "shortName": "Super Mario Bros.",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "nukep",
+    "kind": "decomp",
+    "description": "Super Mario Bros. running natively on PC, built from the decompiled NES game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/nukep/SMB-Vanilla",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "smb-vanilla-win32-x64_*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "startropics-recomp",
+    "name": "Startropics Recomp",
+    "game": "StarTropics",
+    "shortName": "StarTropics",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "jsp244",
+    "kind": "port",
+    "description": "StarTropics ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/jsp244/startropics-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "startropics-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "supermariobros2japanfdsrecomp",
+    "name": "Super Mario Bros.: The Lost Levels",
+    "game": "Super Mario Bros. 2",
+    "shortName": "Super Mario Bros. 2",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [
+      "Super Mario Bros. 2 (Japan)",
+      "Super Mario Bros.: The Lost Levels"
+    ],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Super Mario Bros. 2 recompiled from the NES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/SuperMarioBros2JapanFDSRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SuperMarioBros2JapanFDSRecomp-Japan-FDS-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "supermariobrosnesrecomp",
+    "name": "Super Mario Bros. NES Recomp",
+    "game": "Super Mario Bros.",
+    "shortName": "Super Mario Bros.",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Super Mario Bros. recompiled from the NES version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mstan/SuperMarioBrosNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SuperMarioBrosRecomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tmnt-recomp",
+    "name": "TMNT Recomp",
+    "game": "Teenage Mutant Ninja Turtles",
+    "shortName": "Teenage Mutant Ninja Turtles",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "naparuba-retro",
+    "kind": "port",
+    "description": "Teenage Mutant Ninja Turtles ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/naparuba-retro/tmnt-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "tmnt-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "topgun2recomp",
+    "name": "Top Gun: The Second Mission",
+    "game": "Top Gun: The Second Mission",
+    "shortName": "Top Gun: The Second Mission",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "TanookiStudios",
+    "kind": "recomp",
+    "description": "Top Gun: The Second Mission recompiled from the NES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/TanookiStudios/TopGun2Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TopGun2-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "vkrt-nes-remaster",
+    "name": "VKRT NES Remaster",
+    "game": "VKRT NES Remaster",
+    "shortName": "VKRT NES Remaster",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "FranTriems",
+    "kind": "port",
+    "description": "VKRT NES Remaster ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/FranTriems/VKRT-NES-Remaster",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "VKRT-NES-*-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "yoshinesrecomp",
+    "name": "Yoshi NES Recomp",
+    "game": "Yoshi",
+    "shortName": "Yoshi",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Yoshi recompiled from the NES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/YoshiNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "YoshiRecomp-USA-v*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "yoshiscookierecomp",
+    "name": "YoshisCookieRecomp",
+    "game": "Yoshi's Cookie",
+    "shortName": "Yoshi's Cookie",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Yoshi's Cookie recompiled from the NES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/YoshisCookieRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "YoshisCookieRecomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "zquestclassic",
+    "name": "ZQuest Classic",
+    "game": "The Legend of Zelda",
+    "shortName": "The Legend of Zelda",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "ZQuestClassic",
+    "kind": "port",
+    "description": "The Legend of Zelda ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ZQuestClassic/ZQuestClassic",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

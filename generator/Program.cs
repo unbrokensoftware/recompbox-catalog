@@ -31,7 +31,7 @@ internal static partial class Program
     {
         string? root = null;
         string? output = null;
-        bool strict = false, candidates = true;
+        bool strict = false, candidates = true, harvest = false;
         for (int i = 0; i < args.Length; i++)
         {
             switch (args[i])
@@ -40,13 +40,14 @@ internal static partial class Program
                 case "--out": output = Path.GetFullPath(args[++i]); break;
                 case "--strict": strict = true; break;
                 case "--no-candidates": candidates = false; break;
+                case "--harvest": harvest = true; break;
                 default: Console.Error.WriteLine($"Unknown argument: {args[i]}"); return 2;
             }
         }
         root = Path.TrimEndingDirectorySeparator(root ?? FindRoot()) + Path.DirectorySeparatorChar;
         output ??= Path.Combine(root, "catalog.json");
 
-        try { return await RunAsync(root, output, strict, candidates); }
+        try { return harvest ? await Harvest.RunAsync(root) : await RunAsync(root, output, strict, candidates); }
         catch (Exception ex) when (ex is HttpRequestException or JsonException or InvalidOperationException or TaskCanceledException or IOException)
         {
             Console.Error.WriteLine($"Failed: {ex.Message} Nothing written.");
@@ -59,18 +60,9 @@ internal static partial class Program
         FeedFile feeds = JsonSerializer.Deserialize<FeedFile>(File.ReadAllText(Path.Combine(root, "feeds.json")), ReadOptions) ?? new();
         var picks = new HashSet<string>(JsonSerializer.Deserialize<List<string>>(File.ReadAllText(Path.Combine(root, "picks.json")), ReadOptions) ?? [], StringComparer.Ordinal);
 
-        string? token = Environment.GetEnvironmentVariable("GITHUB_TOKEN") ?? Environment.GetEnvironmentVariable("GH_TOKEN");
-        if (string.IsNullOrEmpty(token)) Warn("No GITHUB_TOKEN set; GitHub allows only 60 unauthenticated requests an hour.");
-
-        // The token only ever goes to api.github.com. Feeds read files through a separate client without it.
-        using var api = new HttpClient { Timeout = TimeSpan.FromSeconds(60) };
-        api.DefaultRequestHeaders.UserAgent.ParseAdd("RecompBox-CatalogGenerator/1.0");
-        api.DefaultRequestHeaders.Accept.ParseAdd("application/vnd.github+json");
-        api.DefaultRequestHeaders.Add("X-GitHub-Api-Version", "2022-11-28");
-        if (!string.IsNullOrEmpty(token)) api.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
-        using var web = new HttpClient { Timeout = TimeSpan.FromSeconds(60) };
-        web.DefaultRequestHeaders.UserAgent.ParseAdd("RecompBox-CatalogGenerator/1.0");
-        var github = new GitHub(api);
+        (HttpClient api, HttpClient web, GitHub github) = CreateClients(root);
+        using var apiScope = api;
+        using var webScope = web;
 
         // Feeds are read in file order; the first entry for an id or repository wins, so our own entries go first.
         var entries = new List<SourceEntry>();
@@ -94,6 +86,7 @@ internal static partial class Program
         var ports = new List<CatalogPort>();
         var ids = new HashSet<string>(StringComparer.Ordinal);
         var repos = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
+        var seen = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
         foreach (SourceEntry source in entries)
         {
             CatalogPort entry = source.Entry;
@@ -142,7 +135,16 @@ internal static partial class Program
                     continue;
                 }
             }
-            ids.Add(port!.Id);
+            // Same repository (after following moves) with the same download is the same port listed twice.
+            string dupKey = (repo ?? port!.Id) + "|" + string.Join(",", port!.Assets.Select(a => a.Pattern.ToLowerInvariant()).Order());
+            if (seen.TryGetValue(dupKey, out string? firstId))
+            {
+                Reject($"{label} ({source.Origin})", source.Feed, $"duplicate of {firstId}", source.Strict);
+                report.Rejected.Add($"`{label}` ({source.Origin}): duplicate of `{firstId}`");
+                continue;
+            }
+            seen[dupKey] = port.Id;
+            ids.Add(port.Id);
             if (repo is not null) repos.Add(repo);
             ports.Add(port);
         }
@@ -417,23 +419,103 @@ internal static partial class Program
     [GeneratedRegex("^[A-Za-z0-9._-]+$")]
     private static partial Regex RepoPartRegex();
 
-    internal sealed class GitHub(HttpClient http)
+    internal static (HttpClient Api, HttpClient Web, GitHub GitHub) CreateClients(string root)
     {
+        string? token = Environment.GetEnvironmentVariable("GITHUB_TOKEN") ?? Environment.GetEnvironmentVariable("GH_TOKEN");
+        if (string.IsNullOrEmpty(token)) Warn("No GITHUB_TOKEN set; GitHub allows only 60 unauthenticated requests an hour.");
+
+        // The token only ever goes to api.github.com. Feeds read files through a separate client without it.
+        // Redirects (moved repositories) are followed by GitHub.FetchAsync: HttpClient would drop the token on them, and
+        // those requests would then count against the 60-an-hour unauthenticated limit.
+        var api = new HttpClient(new HttpClientHandler { AllowAutoRedirect = false }) { Timeout = TimeSpan.FromSeconds(60) };
+        api.DefaultRequestHeaders.UserAgent.ParseAdd("RecompBox-CatalogGenerator/1.0");
+        api.DefaultRequestHeaders.Accept.ParseAdd("application/vnd.github+json");
+        api.DefaultRequestHeaders.Add("X-GitHub-Api-Version", "2022-11-28");
+        if (!string.IsNullOrEmpty(token)) api.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
+        var web = new HttpClient { Timeout = TimeSpan.FromSeconds(120) };
+        web.DefaultRequestHeaders.UserAgent.ParseAdd("RecompBox-CatalogGenerator/1.0");
+        return (api, web, new GitHub(api, Path.Combine(root, ".cache", "github")));
+    }
+
+    /// <summary>
+    /// GitHub REST reads with a disk cache of ETags: unchanged answers come back as 304, which don't count against the
+    /// rate limit, so checking every port daily stays cheap. When the limit is used up it waits for the reset.
+    /// </summary>
+    internal sealed class GitHub(HttpClient http, string cacheDir)
+    {
+        // One request per cache file at a time: two lookups of the same path (a moved repo found under both names)
+        // would otherwise read and write the same file together.
+        private readonly System.Collections.Concurrent.ConcurrentDictionary<string, SemaphoreSlim> busy = new();
+
         public async Task<JsonElement?> GetAsync(string path)
         {
-            for (int attempt = 1; ; attempt++)
+            string key = Path.Combine(cacheDir, Convert.ToHexStringLower(System.Security.Cryptography.SHA1.HashData(Encoding.UTF8.GetBytes(path))));
+            SemaphoreSlim gate = busy.GetOrAdd(key, _ => new SemaphoreSlim(1));
+            await gate.WaitAsync();
+            try { return await FetchAsync(path, key); }
+            finally { gate.Release(); }
+        }
+
+        private async Task<JsonElement?> FetchAsync(string path, string key)
+        {
+            var url = new Uri("https://api.github.com/" + path);
+            for (int attempt = 1, hops = 0; ; attempt++)
             {
-                using var response = await http.GetAsync("https://api.github.com/" + path);
+                using var request = new HttpRequestMessage(HttpMethod.Get, url);
+                string? etag = File.Exists(key + ".etag") && File.Exists(key + ".json") ? File.ReadAllText(key + ".etag") : null;
+                if (etag is not null && EntityTagHeaderValue.TryParse(etag, out var tag)) request.Headers.IfNoneMatch.Add(tag);
+                using var response = await http.SendAsync(request);
+                if ((int)response.StatusCode is 301 or 302 or 307 or 308 && response.Headers.Location is { } moved)
+                {
+                    var next = moved.IsAbsoluteUri ? moved : new Uri(url, moved);
+                    if (next.Scheme != "https" || next.Host != "api.github.com" || ++hops > 5)
+                        throw new HttpRequestException($"GitHub {path} redirected to {next.Host}.");
+                    url = next;
+                    attempt = 0;
+                    continue;
+                }
+                if (response.StatusCode == HttpStatusCode.NotModified && etag is not null)
+                {
+                    using var cached = JsonDocument.Parse(File.ReadAllText(key + ".json"));
+                    return cached.RootElement.Clone();
+                }
                 if (response.StatusCode == HttpStatusCode.NotFound) return null;
                 if (response.IsSuccessStatusCode)
                 {
-                    using var doc = JsonDocument.Parse(await response.Content.ReadAsStreamAsync());
+                    string body = await response.Content.ReadAsStringAsync();
+                    using var doc = JsonDocument.Parse(body);
+                    if (response.Headers.ETag is { } fresh)
+                    {
+                        Directory.CreateDirectory(cacheDir);
+                        File.WriteAllText(key + ".json", body);
+                        File.WriteAllText(key + ".etag", fresh.ToString());
+                    }
                     return doc.RootElement.Clone();
+                }
+                if (RateLimitWait(response) is { } wait)
+                {
+                    Warn($"GitHub rate limit reached; waiting {wait.TotalMinutes:0} minutes.");
+                    await Task.Delay(wait);
+                    attempt = 0;
+                    continue;
                 }
                 if (attempt >= 3 || (int)response.StatusCode < 500)
                     throw new HttpRequestException($"GitHub {path} returned {(int)response.StatusCode} {response.ReasonPhrase}.");
                 await Task.Delay(TimeSpan.FromSeconds(5 * attempt));
             }
+        }
+
+        private static TimeSpan? RateLimitWait(HttpResponseMessage response)
+        {
+            if (response.StatusCode is not (HttpStatusCode.Forbidden or HttpStatusCode.TooManyRequests)) return null;
+            if (response.Headers.RetryAfter?.Delta is { } delta) return delta + TimeSpan.FromSeconds(1);
+            if (response.Headers.TryGetValues("x-ratelimit-remaining", out var remaining) && remaining.FirstOrDefault() == "0" &&
+                response.Headers.TryGetValues("x-ratelimit-reset", out var reset) && long.TryParse(reset.FirstOrDefault(), out long epoch))
+            {
+                TimeSpan wait = DateTimeOffset.FromUnixTimeSeconds(epoch) - DateTimeOffset.UtcNow + TimeSpan.FromSeconds(5);
+                return wait < TimeSpan.Zero ? TimeSpan.FromSeconds(5) : wait > TimeSpan.FromMinutes(65) ? TimeSpan.FromMinutes(65) : wait;
+            }
+            return response.StatusCode == HttpStatusCode.TooManyRequests ? TimeSpan.FromMinutes(1) : null;
         }
     }
 }

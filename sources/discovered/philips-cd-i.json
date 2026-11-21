@@ -1,0 +1,294 @@
+[
+  {
+    "id": "flintstones-jetsons-timewarp-static-recomp",
+    "name": "Flintstones/Jetsons: Timewarp",
+    "game": "The Flintstones/The Jetsons: TimeWarp",
+    "shortName": "The Flintstones/The Jetsons: TimeWarp",
+    "platform": "Philips CD-i",
+    "aliases": [],
+    "developer": "tools81",
+    "kind": "port",
+    "description": "The Flintstones/The Jetsons: TimeWarp ported to run natively on PC from the Philips CD-i version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/tools81/flintstones-jetsons-timewarp-static-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Timewarp-*-portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hotel-mario-static-recomp",
+    "name": "Hotel Mario Static Recomp",
+    "game": "Hotel Mario",
+    "shortName": "Hotel Mario",
+    "platform": "Philips CD-i",
+    "aliases": [],
+    "developer": "tools81",
+    "kind": "recomp",
+    "description": "Hotel Mario recompiled from the Philips CD-i version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/tools81/hotel-mario-static-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "HotelMarioRecomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hotelmario-decomp",
+    "name": "Hotel Mario Decomp",
+    "game": "Hotel Mario",
+    "shortName": "Hotel Mario",
+    "platform": "Philips CD-i",
+    "aliases": [],
+    "developer": "antonretro",
+    "kind": "port",
+    "description": "Hotel Mario ported to run natively on PC from the Philips CD-i version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/antonretro/HotelMario-Decomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "HotelMario-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "kether-static-recomp",
+    "name": "Kether",
+    "game": "Kether",
+    "shortName": "Kether",
+    "platform": "Philips CD-i",
+    "aliases": [],
+    "developer": "tools81",
+    "kind": "port",
+    "description": "Kether ported to run natively on PC from the Philips CD-i version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/tools81/kether-static-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Kether-*-portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "laser-lords-static-recomp",
+    "name": "Laser Lords static recomp",
+    "game": "Laser Lords",
+    "shortName": "Laser Lords",
+    "platform": "Philips CD-i",
+    "aliases": [],
+    "developer": "tools81",
+    "kind": "port",
+    "description": "Laser Lords ported to run natively on PC from the Philips CD-i version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/tools81/laser-lords-static-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "LaserLords-*-portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mutant-rampage-bodyslam-static-recomp",
+    "name": "Mutant Rampage: Bodyslam Static Recomp",
+    "game": "Mutant Rampage: Bodyslam",
+    "shortName": "Mutant Rampage: Bodyslam",
+    "platform": "Philips CD-i",
+    "aliases": [],
+    "developer": "tools81",
+    "kind": "recomp",
+    "description": "Mutant Rampage: Bodyslam recompiled from the Philips CD-i version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/tools81/mutant-rampage-bodyslam-static-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MutantRampageBodyslam-*-win64-portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "the-apprentice-static-recomp",
+    "name": "The Apprentice Recomp",
+    "game": "The Apprentice",
+    "shortName": "The Apprentice",
+    "platform": "Philips CD-i",
+    "aliases": [],
+    "developer": "tools81",
+    "kind": "port",
+    "description": "The Apprentice ported to run natively on PC from the Philips CD-i version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/tools81/the-apprentice-static-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Apprentice-*-portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "zelda-adventures-static-recomp",
+    "name": "Zelda's Adventure",
+    "game": "Zelda's Adventure",
+    "shortName": "Zelda's Adventure",
+    "platform": "Philips CD-i",
+    "aliases": [],
+    "developer": "tools81",
+    "kind": "recomp",
+    "description": "Zelda's Adventure recompiled from the Philips CD-i version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/tools81/zelda-adventures-static-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "zelda-*-portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "zelda-wand-of-gamelon-static-recomp",
+    "name": "Zelda: Wand of Gamelon Static Recomp",
+    "game": "Zelda: The Wand of Gamelon",
+    "shortName": "Zelda: The Wand of Gamelon",
+    "platform": "Philips CD-i",
+    "aliases": [],
+    "developer": "tools81",
+    "kind": "recomp",
+    "description": "Zelda: The Wand of Gamelon recompiled from the Philips CD-i version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/tools81/zelda-wand-of-gamelon-static-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "wand-of-gamelon-*-portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

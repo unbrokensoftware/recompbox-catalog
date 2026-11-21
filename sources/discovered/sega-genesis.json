@@ -1,0 +1,1301 @@
+[
+  {
+    "id": "advanced-daisenryaku",
+    "name": "Advanced Daisenryaku native port",
+    "game": "Advanced Daisenryaku",
+    "shortName": "Advanced Daisenryaku",
+    "platform": "Sega Genesis",
+    "aliases": [
+      "Advanced Daisenryaku (Advanced Daisenryaku native port)"
+    ],
+    "developer": "hexporter",
+    "kind": "port",
+    "description": "Advanced Daisenryaku ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/hexporter/advanced-daisenryaku",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "AdvancedDaisenryaku-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "alisiadragoonrecomp",
+    "name": "Alisia Dragoon — AlisiaDragoonRecomp (ohackercego)",
+    "game": "Alisia Dragoon",
+    "shortName": "Alisia Dragoon",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "ohackercego",
+    "kind": "port",
+    "description": "Alisia Dragoon ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ohackercego/AlisiaDragoonRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "AlisiaDragoonRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "beyond-oasis-recomp",
+    "name": "Beyond Oasis Recomp",
+    "game": "Beyond Oasis",
+    "shortName": "Beyond Oasis",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "OriginalSwayze",
+    "kind": "port",
+    "description": "Beyond Oasis ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/OriginalSwayze/beyond-oasis-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Beyond-Oasis-Recomp-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "busters-hidden-treasure-pc",
+    "name": "Busters Hidden Treasure Pc",
+    "game": "Tiny Toon Adventures: Buster's Hidden Treasure",
+    "shortName": "Tiny Toon Adventures: Buster's Hidden Treasure",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "Darhkfox",
+    "kind": "port",
+    "description": "Tiny Toon Adventures: Buster's Hidden Treasure ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Darhkfox/busters-hidden-treasure-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Busters-Hidden-Treasure-PC.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "castle-of-illusion-port",
+    "name": "Castle of Illusion Port",
+    "game": "Castle of Illusion Starring Mickey Mouse",
+    "shortName": "Castle of Illusion Starring Mickey Mouse",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "saphiron86",
+    "kind": "port",
+    "description": "Castle of Illusion Starring Mickey Mouse ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/saphiron86/castle-of-illusion-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "coi-port-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "doom-troopers-pc-recomp",
+    "name": "PC Recomp",
+    "game": "Mutant Chronicles: Doom Troopers",
+    "shortName": "Mutant Chronicles: Doom Troopers",
+    "platform": "Sega Genesis",
+    "aliases": [
+      "Mutant Chronicles: Doom Troopers (PC Recomp)"
+    ],
+    "developer": "emanuelcnjunior",
+    "kind": "port",
+    "description": "Mutant Chronicles: Doom Troopers ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/emanuelcnjunior/Doom-Troopers-PC-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Doom-Troopers-PC-Recomp-*-Windows-x64-Integrated.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dynabrocollection",
+    "name": "DynaBro Collection",
+    "game": "Dyna Brothers and Dyna Brothers 2 Special",
+    "shortName": "Dyna Brothers and Dyna Brothers 2 Special",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "MatyMeatBoy",
+    "kind": "port",
+    "description": "Dyna Brothers and Dyna Brothers 2 Special ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/MatyMeatBoy/DynaBroCollection",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DynaBrothers-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "felix-the-cat-bootleg-recomp",
+    "name": "Felix the Cat (Unl) — felix-the-cat-bootleg-recomp (minusthreenottree)",
+    "game": "Felix the Cat",
+    "shortName": "Felix the Cat",
+    "platform": "Sega Genesis",
+    "aliases": [
+      "Felix the Cat (Unl)"
+    ],
+    "developer": "minusthreenottree",
+    "kind": "port",
+    "description": "Felix the Cat ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/minusthreenottree/felix-the-cat-bootleg-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FelixTheCat-PC_*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gunstars",
+    "name": "gunstars",
+    "game": "Gunstar Heroes",
+    "shortName": "Gunstar Heroes",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "1nputs",
+    "kind": "decomp",
+    "description": "Gunstar Heroes running natively on PC, built from the decompiled Genesis game.",
+    "requirement": "",
+    "features": [
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/1nputs/gunstars",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "gunstars-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hellfire-saga-pc",
+    "name": "Hellfire Saga Pc",
+    "game": "Sonic the HellFire Saga",
+    "shortName": "Sonic the HellFire Saga",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "thebradshaw",
+    "kind": "port",
+    "description": "Sonic the HellFire Saga ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/thebradshaw/hellfire-saga-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "hellfire-saga-pc-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "james-pond-3-recomp",
+    "name": "James Pond 3 Recomp",
+    "game": "James Pond 3",
+    "shortName": "James Pond 3",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "salmon85",
+    "kind": "port",
+    "description": "James Pond 3 ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/salmon85/James-Pond-3-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "JP3-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mickeyanddonaldcollection",
+    "name": "Mickey & Donald Collection",
+    "game": "Castle of Illusion / QuackShot / World of Illusion",
+    "shortName": "Castle of Illusion / QuackShot / World of Illusion",
+    "platform": "Sega Genesis",
+    "aliases": [
+      "Mickey & Donald Collection"
+    ],
+    "developer": "Darhkfox",
+    "kind": "port",
+    "description": "Castle of Illusion / QuackShot / World of Illusion ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Darhkfox/MickeyAndDonaldCollection",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Mickey-and-Donald-Collection-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mightyweenie",
+    "name": "mightyweenie",
+    "game": "Mutant League Hockey",
+    "shortName": "Mutant League Hockey",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "scheeseman486",
+    "kind": "port",
+    "description": "Mutant League Hockey ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/scheeseman486/mightyweenie",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "mightyweenie-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mspacmanrecomp",
+    "name": "Ms. Pac-Man",
+    "game": "Ms. Pac-Man (Tengen)",
+    "shortName": "Ms. Pac-Man (Tengen)",
+    "platform": "Sega Genesis",
+    "aliases": [
+      "Ms. Pac-Man (Tengen) (mspacmanrecomp)",
+      "Ms. Pac-Man"
+    ],
+    "developer": "vibecodekun",
+    "kind": "recomp",
+    "description": "Ms. Pac-Man (Tengen) recompiled from the Genesis version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/vibecodekun/mspacmanrecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "mspacman-recomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ninety-four",
+    "name": "Ninety Four",
+    "game": "NHL '94",
+    "shortName": "NHL '94",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "1nputs",
+    "kind": "decomp",
+    "description": "NHL '94 running natively on PC, built from the decompiled Genesis game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/1nputs/ninety-four",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ninety-four-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "paprium-pc",
+    "name": "Paprium Pc",
+    "game": "Paprium",
+    "shortName": "Paprium",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "thekoalakoa",
+    "kind": "port",
+    "description": "Paprium ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/thekoalakoa/paprium-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Paprium_PC_*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "phantasystar4rebuild",
+    "name": "ps4recomp",
+    "game": "Phantasy Star IV",
+    "shortName": "Phantasy Star IV",
+    "platform": "Sega Genesis",
+    "aliases": [
+      "Phantasy Star IV (PS4 Recomp)"
+    ],
+    "developer": "ideathmaniac",
+    "kind": "port",
+    "description": "Phantasy Star IV ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ideathmaniac/PhantasyStar4Rebuild",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PS4_Recomp_Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "project-friday",
+    "name": "Landstalker: The Treasures of King Nole",
+    "game": "Landstalker: The Treasures of King Nole",
+    "shortName": "Landstalker: The Treasures of King Nole",
+    "platform": "Sega Genesis",
+    "aliases": [
+      "Landstalker: The Treasures of King Nole (Project Friday)"
+    ],
+    "developer": "CmdrLucid",
+    "kind": "recomp",
+    "description": "Landstalker: The Treasures of King Nole recompiled from the Genesis version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/CmdrLucid/Project-Friday",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Project-Friday-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "psivrecomp",
+    "name": "PSIV Recomp",
+    "game": "Phantasy Star IV: The End of the Millennium",
+    "shortName": "Phantasy Star IV: The End of the Millennium",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "MotaviaWorks",
+    "kind": "port",
+    "description": "Phantasy Star IV: The End of the Millennium ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/MotaviaWorks/PSIVRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PSIV-Recomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "roadrashtrilogy-recomp",
+    "name": "Road Rash Trilogy Recomp",
+    "game": "Road Rash",
+    "shortName": "Road Rash",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "BTr-RJ",
+    "kind": "port",
+    "description": "Road Rash ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/BTr-RJ/RoadRashTrilogy_Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RoadRashTrilogyRecomp-*-Windows-x64-offline.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rocketknightadventuresrecomp",
+    "name": "Rocket Knight Adventures",
+    "game": "Rocket Knight Adventures",
+    "shortName": "Rocket Knight Adventures",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Rocket Knight Adventures recompiled from the Genesis version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/RocketKnightAdventuresRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RocketKnightAdventuresRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rolo-revisited",
+    "name": "Rolo Revisited",
+    "game": "Rolo to the Rescue",
+    "shortName": "Rolo to the Rescue",
+    "platform": "Sega Genesis",
+    "aliases": [
+      "Rolo to the Rescue (Rolo Revisited)"
+    ],
+    "developer": "TiberianDark",
+    "kind": "port",
+    "description": "Rolo to the Rescue ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/TiberianDark/rolo_revisited",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Rolo-Revisited-*-portable-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "s1forever",
+    "name": "Sonic 1 Forever",
+    "game": "Sonic the Hedgehog",
+    "shortName": "Sonic the Hedgehog",
+    "platform": "Sega Genesis",
+    "aliases": [
+      "Sonic the Hedgehog (2013)"
+    ],
+    "developer": "ElspethThePict",
+    "kind": "port",
+    "description": "Sonic the Hedgehog ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ElspethThePict/S1Forever",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SonicForever_*_Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "scooby-doo-mistery-mouse-version",
+    "name": "native port",
+    "game": "Scooby-Doo Mystery",
+    "shortName": "Scooby-Doo Mystery",
+    "platform": "Sega Genesis",
+    "aliases": [
+      "Scooby-Doo Mystery (native port)"
+    ],
+    "developer": "janezkranjc",
+    "kind": "port",
+    "description": "Scooby-Doo Mystery ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/janezkranjc/scooby-doo-mistery-mouse-version",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "scooby-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "snatcher-recomp",
+    "name": "Snatcher Recomp",
+    "game": "Snatcher",
+    "shortName": "Snatcher",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "aitorcachero",
+    "kind": "port",
+    "description": "Snatcher ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/aitorcachero/Snatcher-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Snatcher-Recomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sonic3air",
+    "name": "sonic3air",
+    "game": "Sonic 3 & Knuckles",
+    "shortName": "Sonic 3 & Knuckles",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "Eukaryot",
+    "kind": "decomp",
+    "description": "Sonic 3 & Knuckles running natively on PC, built from the decompiled Genesis game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Eukaryot/sonic3air",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "sonic3air_game.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sonic3andknucklesrecomp",
+    "name": "Sonic 3 & Knuckles Recompiled",
+    "game": "Sonic 3 & Knuckles",
+    "shortName": "Sonic 3 & Knuckles",
+    "platform": "Sega Genesis",
+    "aliases": [
+      "Sonic the Hedgehog 3"
+    ],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Sonic 3 & Knuckles recompiled from the Genesis version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/Sonic3AndKnucklesRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Sonic3KRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sonicthehedgehog2recomp",
+    "name": "SonicTheHedgehog2Recomp",
+    "game": "Sonic the Hedgehog 2",
+    "shortName": "Sonic the Hedgehog 2",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Sonic the Hedgehog 2 recompiled from the Genesis version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mstan/SonicTheHedgehog2Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SonicTheHedgehog2Recomp-windows-x64-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sonicthehedgehogrecomp",
+    "name": "Sonic the Hedgehog Recomp",
+    "game": "Sonic the Hedgehog",
+    "shortName": "Sonic the Hedgehog",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Sonic the Hedgehog recompiled from the Genesis version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/SonicTheHedgehogRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SonicTheHedgehogRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "strikehdcollection",
+    "name": "Strike Remastered Collection HD",
+    "game": "Desert Strike: Return to the Gulf; Jungle Strike; Urban Strike",
+    "shortName": "Desert Strike: Return to the Gulf; Jungle Strike; Urban Strike",
+    "platform": "Sega Genesis",
+    "aliases": [
+      "Desert Strike: Return to the Gulf"
+    ],
+    "developer": "Icedomega13",
+    "kind": "recomp",
+    "description": "Desert Strike: Return to the Gulf; Jungle Strike; Urban Strike recompiled from the Genesis version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Icedomega13/StrikeHDCollection",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "StrikeCollectionHD-*-portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "stritoraige",
+    "name": "Stritoraige",
+    "game": "Streets of Rage",
+    "shortName": "Streets of Rage",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "slex2jf",
+    "kind": "port",
+    "description": "Streets of Rage ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/slex2jf/STRITORAIGE",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "STRITORAIGE-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "superhangon-md-recomp",
+    "name": "Super Hang-On",
+    "game": "Super Hang-On",
+    "shortName": "Super Hang-On",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "ElFDA",
+    "kind": "recomp",
+    "description": "Super Hang-On recompiled from the Genesis version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ElFDA/SuperHangOn-MD-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "superhangon-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "supermonacoduo-remix-recomp",
+    "name": "Super Monaco Duo-Remix Recomp",
+    "game": "Super Monaco GP and Ayrton Senna's Super Monaco GP II",
+    "shortName": "Super Monaco GP and Ayrton Senna's Super Monaco GP II",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "BTr-RJ",
+    "kind": "port",
+    "description": "Super Monaco GP and Ayrton Senna's Super Monaco GP II ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/BTr-RJ/SuperMonacoDuo-Remix_Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SuperMonacoDuoRecomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tiny-toon-acme-all-stars-native",
+    "name": "Tiny Toon Adventures: ACME All-Stars",
+    "game": "Tiny Toon Adventures: ACME All-Stars",
+    "shortName": "Tiny Toon Adventures: ACME All-Stars",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "rafarvns",
+    "kind": "port",
+    "description": "Tiny Toon Adventures: ACME All-Stars ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/rafarvns/Tiny-Toon-Acme-All-Stars---Native",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TinyToon-v*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "top-gear-2-genesis-pc",
+    "name": "Top Gear 2 Recomp",
+    "game": "Top Gear 2",
+    "shortName": "Top Gear 2",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "vittau",
+    "kind": "port",
+    "description": "Top Gear 2 ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/vittau/top-gear-2-genesis-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TG2Recomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "wbmw-decomp",
+    "name": "Wbmw Decomp",
+    "game": "Wonder Boy in Monster World",
+    "shortName": "Wonder Boy in Monster World",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "matthewkris",
+    "kind": "port",
+    "description": "Wonder Boy in Monster World ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/matthewkris/wbmw-decomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "wbmw-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "wilywars-recomp",
+    "name": "Mega Man: The Wily Wars Recompiled",
+    "game": "Mega Man: The Wily Wars",
+    "shortName": "Mega Man: The Wily Wars",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "rac08241988",
+    "kind": "port",
+    "description": "Mega Man: The Wily Wars ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/rac08241988/WilyWars-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WilyWars-GenesisRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "xmen2-pc",
+    "name": "X-Men 2: Clone Wars PC",
+    "game": "X-Men 2: Clone Wars",
+    "shortName": "X-Men 2: Clone Wars",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "crabsmack",
+    "kind": "decomp",
+    "description": "X-Men 2: Clone Wars running natively on PC, built from the decompiled Genesis game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/crabsmack/xmen2-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "xmen2-native-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "zero-tolerance",
+    "name": "Zero Tolerance",
+    "game": "Zero Tolerance",
+    "shortName": "Zero Tolerance",
+    "platform": "Sega Genesis",
+    "aliases": [],
+    "developer": "Real-Gecko",
+    "kind": "port",
+    "description": "Zero Tolerance ported to run natively on PC from the Genesis version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Real-Gecko/zero-tolerance",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "zt-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

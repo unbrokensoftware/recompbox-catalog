@@ -1,0 +1,64 @@
+name: Harvest new ports
+
+on:
+  schedule:
+    - cron: "41 3 * * 1"   # weekly, Monday 03:41 UTC, before the daily catalog run
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: catalog-write
+  cancel-in-progress: false
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "10.0.x"
+
+      - uses: actions/cache/restore@v4
+        with:
+          path: .cache
+          key: github-api-${{ github.run_id }}
+          restore-keys: github-api-
+
+      # Finds projects in the lists under "discover" in feeds.json, checks each one, and adds new ones to
+      # sources/discovered. Existing entries are never changed.
+      - name: Harvest
+        timeout-minutes: 330
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: dotnet run --project generator -c Release -- --harvest
+
+      # Pushes made with GITHUB_TOKEN don't start other workflows, so build the catalog here too.
+      - name: Generate
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: dotnet run --project generator -c Release
+
+      # Saved even when a step failed or ran out of time, so the next run starts where this one stopped.
+      - uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: .cache
+          key: github-api-${{ github.run_id }}
+
+      - name: Publish
+        run: |
+          git add sources candidates catalog.json health.json maintenance.md
+          if git diff --cached --quiet; then
+            echo "Nothing new."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Harvest new ports"
+          git pull --rebase
+          git push

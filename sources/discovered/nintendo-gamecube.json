@@ -1,0 +1,2212 @@
+[
+  {
+    "id": "afe-port",
+    "name": "Animal Forest e+ Port",
+    "game": "Dōbutsu no Mori e+",
+    "shortName": "Dōbutsu no Mori e+",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "cailet0422",
+    "kind": "port",
+    "description": "Dōbutsu no Mori e+ ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/cailet0422/afe-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DobutsuNoMoriEPlus-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "aggressive-inline-static-recomp",
+    "name": "Aggressive Inline Static Recomp",
+    "game": "Aggressive Inline",
+    "shortName": "Aggressive Inline",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "Spaced1127",
+    "kind": "port",
+    "description": "Aggressive Inline ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Spaced1127/Aggressive-Inline-Static-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "AggressiveInline-Recomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "aimelee",
+    "name": "aimelee",
+    "game": "Super Smash Bros. Melee",
+    "shortName": "Super Smash Bros. Melee",
+    "platform": "Nintendo GameCube",
+    "aliases": [
+      "Super Smash Bros. Melee (AI-Melee)"
+    ],
+    "developer": "zurgace",
+    "kind": "port",
+    "description": "Super Smash Bros. Melee ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/zurgace/aimelee",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "AI-Melee-Windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "beach-recomp",
+    "name": "Beach Spikers Recomp",
+    "game": "Beach Spikers: Virtua Beach Volleyball",
+    "shortName": "Beach Spikers: Virtua Beach Volleyball",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "kobayashi90",
+    "kind": "port",
+    "description": "Beach Spikers: Virtua Beach Volleyball ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/kobayashi90/beach_recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BeachSpikers-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "bluewake",
+    "name": "BlueWake",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "shortName": "The Legend of Zelda: The Wind Waker",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "chrissotraidis",
+    "kind": "recomp",
+    "description": "The Legend of Zelda: The Wind Waker recompiled from the GameCube version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/chrissotraidis/bluewake",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BlueWake-v*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "clashofninja-recomp",
+    "name": "Naruto: Clash of Ninja Collection",
+    "game": "Naruto: Clash of Ninja",
+    "shortName": "Naruto: Clash of Ninja",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "mapleleafjack",
+    "kind": "recomp",
+    "description": "Naruto: Clash of Ninja recompiled from the GameCube version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mapleleafjack/ClashOfNinja-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NarutoLauncher-Windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "deepsea",
+    "name": "The Legend of Zelda: The Wind Waker — Deep Sea (AH64-dll)",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "shortName": "The Legend of Zelda: The Wind Waker",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "AH64-dll",
+    "kind": "port",
+    "description": "The Legend of Zelda: The Wind Waker ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/AH64-dll/DeepSea",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DeepSea-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "desktop-melee",
+    "name": "Desktop Melee",
+    "game": "Super Smash Bros. Melee",
+    "shortName": "Super Smash Bros. Melee",
+    "platform": "Nintendo GameCube",
+    "aliases": [
+      "Super Smash Bros. Melee (Desktop Melee)"
+    ],
+    "developer": "Mwrnk",
+    "kind": "port",
+    "description": "Super Smash Bros. Melee ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Mwrnk/desktop-melee",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Desktop-Melee-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "digimonra2-recomp",
+    "name": "Digimon RA2 Recomp",
+    "game": "Digimon Rumble Arena 2",
+    "shortName": "Digimon Rumble Arena 2",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "gabrielmedeiros1337",
+    "kind": "port",
+    "description": "Digimon Rumble Arena 2 ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/gabrielmedeiros1337/digimonra2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DigimonRA2_PC_Windows_x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dor2-static-recomp",
+    "name": "DOR2 Static Recomp",
+    "game": "WWE Day of Reckoning 2",
+    "shortName": "WWE Day of Reckoning 2",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "Spaced1127",
+    "kind": "port",
+    "description": "WWE Day of Reckoning 2 ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/Spaced1127/DOR2-Static-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DOR2StaticRecomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "eternaldarknessboundsouls",
+    "name": "EternalDarknessBoundSouls",
+    "game": "Eternal Darkness: Sanity's Requiem",
+    "shortName": "Eternal Darkness: Sanity's Requiem",
+    "platform": "Nintendo GameCube",
+    "aliases": [
+      "Eternal Darkness: Sanity's Requiem (Bound Souls)"
+    ],
+    "developer": "The-Stone-and-Rock",
+    "kind": "port",
+    "description": "Eternal Darkness: Sanity's Requiem ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/The-Stone-and-Rock/EternalDarknessBoundSouls",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "EternalDarknessBoundSouls-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "eternaldarknessrecomp",
+    "name": "Eternal Darkness Recomp",
+    "game": "Eternal Darkness: Sanity's Requiem",
+    "shortName": "Eternal Darkness: Sanity's Requiem",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "griches",
+    "kind": "recomp",
+    "description": "Eternal Darkness: Sanity's Requiem recompiled from the GameCube version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/griches/EternalDarknessRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "EternalDarkness-windows-x64-202610200024-1cb3fe6.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gauntlet-dark-legacy-pc-port",
+    "name": "Gauntlet Dark Legacy PC Port",
+    "game": "Gauntlet Dark Legacy",
+    "shortName": "Gauntlet Dark Legacy",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "sabishii-bit",
+    "kind": "port",
+    "description": "Gauntlet Dark Legacy ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/sabishii-bit/Gauntlet-Dark-Legacy-PC-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GauntletDarkLegacy-*-windows-x64-runtime.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gauntlet-rust",
+    "name": "Rust Engine",
+    "game": "Gauntlet: Dark Legacy",
+    "shortName": "Gauntlet: Dark Legacy",
+    "platform": "Nintendo GameCube",
+    "aliases": [
+      "Gauntlet: Dark Legacy (Rust Engine)"
+    ],
+    "developer": "dmonskull",
+    "kind": "port",
+    "description": "Gauntlet: Dark Legacy ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/dmonskull/gauntlet-rust",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "gauntlet-dark-legacy-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gd-melee-workspace",
+    "name": "GD's Melee",
+    "game": "Super Smash Bros. Melee",
+    "shortName": "Super Smash Bros. Melee",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "GurekamDhillon",
+    "kind": "port",
+    "description": "Super Smash Bros. Melee ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/GurekamDhillon/gd-melee-workspace",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GDMelee-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hmmmgc",
+    "name": "Harvest Moon: Magical Melody PC",
+    "game": "Harvest Moon: Magical Melody",
+    "shortName": "Harvest Moon: Magical Melody",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "RodoLy",
+    "kind": "port",
+    "description": "Harvest Moon: Magical Melody ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/RodoLy/HMMMGC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "HarvestMoonMM-native-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hwvx-sdl",
+    "name": "Hot Wheels: Velocity X",
+    "game": "Hot Wheels: Velocity X",
+    "shortName": "Hot Wheels: Velocity X",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "Alaxend0l",
+    "kind": "port",
+    "description": "Hot Wheels: Velocity X ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Alaxend0l/HWVX-SDL",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "hwvx-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "kirby-air-ride-recompiled",
+    "name": "Kirby Air Ride: Recompiled",
+    "game": "Kirby Air Ride",
+    "shortName": "Kirby Air Ride",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "sonsegajp",
+    "kind": "port",
+    "description": "Kirby Air Ride ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/sonsegajp/Kirby-Air-Ride-Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "KarMapEditor-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "lmcoop",
+    "name": "LmCoop",
+    "game": "Luigi's Mansion",
+    "shortName": "Luigi's Mansion",
+    "platform": "Nintendo GameCube",
+    "aliases": [
+      "Luigi's Mansion (LmCoop)"
+    ],
+    "developer": "Recoi1",
+    "kind": "port",
+    "description": "Luigi's Mansion ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Recoi1/LmCoop",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "LuigisMansionRecompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "luigis-mansion-recompiled",
+    "name": "Luigi's Mansion Recomp",
+    "game": "Luigi's Mansion",
+    "shortName": "Luigi's Mansion",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "rob646464",
+    "kind": "recomp",
+    "description": "Luigi's Mansion recompiled from the GameCube version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/rob646464/luigis-mansion-recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "LuigisMansionRecompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "luigis-mansion-recompiled-blind-accessibility",
+    "name": "Luigi's Mansion Recompiled (Blind Accessibility)",
+    "game": "Luigi's Mansion",
+    "shortName": "Luigi's Mansion",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "ChrisTavar2022",
+    "kind": "port",
+    "description": "Luigi's Mansion ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ChrisTavar2022/luigis-mansion-recompiled-Blind-Accessibility",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "LuigisMansionRecompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mario-party-4-pc-download-play-edition",
+    "name": "Mario Party 4 PC Download Play Edition",
+    "game": "Mario Party 4",
+    "shortName": "Mario Party 4",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "wigwoo1",
+    "kind": "port",
+    "description": "Mario Party 4 ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/wigwoo1/Mario-Party-4-PC-Download-Play-Edition",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Mario-Party-4-PC-Windows-Browser-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "marioparty4",
+    "name": "Party Board",
+    "game": "Mario Party 4",
+    "shortName": "Mario Party 4",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "zeranemesis",
+    "kind": "decomp",
+    "description": "Mario Party 4 running natively on PC, built from the decompiled GameCube game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/zeranemesis/Marioparty4",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PartyBoard-win-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "melee-pc",
+    "name": "Melee Pc",
+    "game": "Super Smash Bros. Melee",
+    "shortName": "Super Smash Bros. Melee",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "999sian",
+    "kind": "decomp",
+    "description": "Super Smash Bros. Melee running natively on PC, built from the decompiled GameCube game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "mods",
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/999sian/melee-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Melee-Windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "melee-unlocked",
+    "name": "Melee Unlocked",
+    "game": "Super Smash Bros. Melee",
+    "shortName": "Super Smash Bros. Melee",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "Hero88go",
+    "kind": "decomp",
+    "description": "Super Smash Bros. Melee running natively on PC, built from the decompiled GameCube game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/Hero88go/melee-unlocked",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MeleeUnlocked-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "metal-arms-recompiled",
+    "name": "Metal Arms Recompiled",
+    "game": "Metal Arms: Glitch in the System",
+    "shortName": "Metal Arms: Glitch in the System",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "matheussvml",
+    "kind": "port",
+    "description": "Metal Arms: Glitch in the System ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/matheussvml/Metal-Arms-Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MetalArmsRecompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "metroidprime2portvr",
+    "name": "MetroidPrime2PortVR",
+    "game": "Metroid Prime 2: Echoes",
+    "shortName": "Metroid Prime 2: Echoes",
+    "platform": "Nintendo GameCube",
+    "aliases": [
+      "Metroid Prime 2: Echoes (PrimedGun Echoes)"
+    ],
+    "developer": "iChris4",
+    "kind": "port",
+    "description": "Metroid Prime 2: Echoes ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/iChris4/MetroidPrime2PortVR",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PrimedGunEchoes-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "metroidprimeportvr",
+    "name": "MetroidPrimePortVR",
+    "game": "Metroid Prime",
+    "shortName": "Metroid Prime",
+    "platform": "Nintendo GameCube",
+    "aliases": [
+      "Metroid Prime (PrimedGun VR)"
+    ],
+    "developer": "iChris4",
+    "kind": "port",
+    "description": "Metroid Prime ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/iChris4/MetroidPrimePortVR",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PrimedGun-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mohfrontline-recomp",
+    "name": "Medal of Honor: Frontline (Recompiled)",
+    "game": "Medal of Honor: Frontline",
+    "shortName": "Medal of Honor: Frontline",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "goodshepherd23",
+    "kind": "port",
+    "description": "Medal of Honor: Frontline ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/goodshepherd23/MOHFrontline-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MOHFrontline-Recomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mp6-native-port",
+    "name": "Starlit Party",
+    "game": "Mario Party 6",
+    "shortName": "Mario Party 6",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "iirg4x",
+    "kind": "decomp",
+    "description": "Mario Party 6 running natively on PC, built from the decompiled GameCube game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/iirg4x/mp6-native-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "starlit-party-v*-win-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mvp06-plus",
+    "name": "MVP 06 Plus",
+    "game": "MVP 06: NCAA Baseball",
+    "shortName": "MVP 06: NCAA Baseball",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "spy-jam",
+    "kind": "port",
+    "description": "MVP 06: NCAA Baseball ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/spy-jam/MVP06-Plus",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MVP06-Plus-Beta-1.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "nflblitz2003-pc",
+    "name": "NFL Blitz 2003 PC",
+    "game": "NFL Blitz 2003",
+    "shortName": "NFL Blitz 2003",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "8bitninja64",
+    "kind": "recomp",
+    "description": "NFL Blitz 2003 recompiled from the GameCube version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/8bitninja64/NFLBlitz2003-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NFLBlitz2003-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "nimbus-recompilation-project",
+    "name": "The Nimbus Recompilation Project",
+    "game": "Dragon Ball Z: Budokai",
+    "shortName": "Dragon Ball Z: Budokai",
+    "platform": "Nintendo GameCube",
+    "aliases": [
+      "The Nimbus Recompilation Project"
+    ],
+    "developer": "thebabyhippo303",
+    "kind": "port",
+    "description": "Dragon Ball Z: Budokai ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/thebabyhippo303/nimbus-recompilation-project",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Nimbus-Alpha-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "nookery",
+    "name": "Animal Crossing PC Port",
+    "game": "Animal Crossing",
+    "shortName": "Animal Crossing",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "flyngmt",
+    "kind": "port",
+    "description": "Animal Crossing ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/flyngmt/Nookery",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Nookery-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "nukkororecomp",
+    "name": "Nukkoro Recomp",
+    "game": "Shadow the Hedgehog",
+    "shortName": "Shadow the Hedgehog",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "ZenKazeX",
+    "kind": "port",
+    "description": "Shadow the Hedgehog ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ZenKazeX/NukkoroRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NukkoroRecomp-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "open-nectar-pikmin-native-pc-mobile-port",
+    "name": "Open Nectar",
+    "game": "Pikmin",
+    "shortName": "Pikmin",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "SSunnKing",
+    "kind": "port",
+    "description": "Pikmin ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "nectar-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "paper-cut",
+    "name": "Paper Cut",
+    "game": "Paper Mario: The Thousand-Year Door",
+    "shortName": "Paper Mario: The Thousand-Year Door",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "LLCOOLT",
+    "kind": "port",
+    "description": "Paper Mario: The Thousand-Year Door ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/LLCOOLT/paper-cut",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "papercut-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "partyboard",
+    "name": "Party Board",
+    "game": "Mario Party 4",
+    "shortName": "Mario Party 4",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "mariopartyrd",
+    "kind": "decomp",
+    "description": "Mario Party 4 running natively on PC, built from the decompiled GameCube game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mariopartyrd/partyboard",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "partyboard_alpha_*_x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pkmn-colosseum-recomp",
+    "name": "Pokemon Colosseum Recomp",
+    "game": "Pokemon Colosseum",
+    "shortName": "Pokemon Colosseum",
+    "platform": "Nintendo GameCube",
+    "aliases": [
+      "Pokemon Colosseum (Pokemon Colosseum Recomp)"
+    ],
+    "developer": "dougchansan",
+    "kind": "port",
+    "description": "Pokemon Colosseum ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/dougchansan/pkmn-colosseum-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PokemonColosseumRecomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pn03-winport",
+    "name": "PN03 WinPort",
+    "game": "P.N.03",
+    "shortName": "P.N.03",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "wwesun2000",
+    "kind": "port",
+    "description": "P.N.03 ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/wwesun2000/PN03-WinPort",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PN03_WinPort_v2.3_win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pokemon-xd-pc-port",
+    "name": "Pokémon XD PC",
+    "game": "Pokémon XD: Gale of Darkness",
+    "shortName": "Pokémon XD: Gale of Darkness",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "imyourhuckleberryponcho",
+    "kind": "port",
+    "description": "Pokémon XD: Gale of Darkness ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/imyourhuckleberryponcho/Pokemon-XD-PC-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Pokemon-XD-PC-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "red-two",
+    "name": "Red Two",
+    "game": "Star Wars: Rogue Squadron II - Rogue Leader",
+    "shortName": "Star Wars: Rogue Squadron II - Rogue Leader",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "gminustwo",
+    "kind": "recomp",
+    "description": "Star Wars: Rogue Squadron II - Rogue Leader recompiled from the GameCube version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/gminustwo/red_two",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RedTwo-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "resident-evil-4-native-port",
+    "name": "Nightjar",
+    "game": "Resident Evil 4",
+    "shortName": "Resident Evil 4",
+    "platform": "Nintendo GameCube",
+    "aliases": [
+      "Resident Evil 4 (Nightjar)"
+    ],
+    "developer": "st4rwhx",
+    "kind": "port",
+    "description": "Resident Evil 4 ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/st4rwhx/Resident-Evil-4-Native-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Nightjar-Native-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ringout",
+    "name": "Ring Out",
+    "game": "Soulcalibur II",
+    "shortName": "Soulcalibur II",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "jackpoison-prog",
+    "kind": "recomp",
+    "description": "Soulcalibur II recompiled from the GameCube version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "mods",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/jackpoison-prog/RingOut",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RingOut-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rpbb-static-recomp",
+    "name": "Rocket Power Beach Bandits Static Recomp",
+    "game": "Rocket Power: Beach Bandits",
+    "shortName": "Rocket Power: Beach Bandits",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "Spaced1127",
+    "kind": "port",
+    "description": "Rocket Power: Beach Bandits ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Spaced1127/RPBB-Static-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RocketPower-Recomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "scooby-doo-refrightened",
+    "name": "Scooby-Doo: Refrightened",
+    "game": "Scooby-Doo! Night of 100 Frights",
+    "shortName": "Scooby-Doo! Night of 100 Frights",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "josiahg2502-glitch",
+    "kind": "recomp",
+    "description": "Scooby-Doo! Night of 100 Frights recompiled from the GameCube version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/josiahg2502-glitch/Scooby-Doo-Refrightened",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ScoobyDooRefrightened.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "scooby-doo-remasked",
+    "name": "Scooby-Doo: Re-Masked",
+    "game": "Scooby-Doo! Unmasked",
+    "shortName": "Scooby-Doo! Unmasked",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "josiahg2502-glitch",
+    "kind": "recomp",
+    "description": "Scooby-Doo! Unmasked recompiled from the GameCube version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/josiahg2502-glitch/Scooby-Doo-ReMasked",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ScoobyDooReMasked.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "silly-reencounter",
+    "name": "Silly ReEncounter",
+    "game": "Serious Sam: The Next Encounter",
+    "shortName": "Serious Sam: The Next Encounter",
+    "platform": "Nintendo GameCube",
+    "aliases": [
+      "Serious Sam: Next Encounter"
+    ],
+    "developer": "takoshero96",
+    "kind": "port",
+    "description": "Serious Sam: The Next Encounter ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/takoshero96/Silly-ReEncounter",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SillyReEncounter-Public.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "skiesofarcadialegends-recomp",
+    "name": "Skies of Arcadia Legends: Recompiled",
+    "game": "Skies of Arcadia Legends",
+    "shortName": "Skies of Arcadia Legends",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "ogdanimal",
+    "kind": "recomp",
+    "description": "Skies of Arcadia Legends recompiled from the GameCube version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/ogdanimal/SkiesOfArcadiaLegends-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SkiesOfArcadiaLegends-v*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "smb2-pc",
+    "name": "Smb2 Pc",
+    "game": "Smb2 Pc",
+    "shortName": "Smb2 Pc",
+    "platform": "Nintendo GameCube",
+    "aliases": [
+      "Super Monkey Ball 2"
+    ],
+    "developer": "girlyoulookthebest",
+    "kind": "port",
+    "description": "Smb2 Pc ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/girlyoulookthebest/smb2-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SMB2_PC_x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sms-port",
+    "name": "Super Mario Sunshine (zeranemesis)",
+    "game": "Super Mario Sunshine",
+    "shortName": "Super Mario Sunshine",
+    "platform": "Nintendo GameCube",
+    "aliases": [
+      "Super Mario Sunshine (PAL PC port)"
+    ],
+    "developer": "zeranemesis",
+    "kind": "decomp",
+    "description": "Super Mario Sunshine running natively on PC, built from the decompiled GameCube game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/zeranemesis/sms-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "sms-eclipse-win-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "smspc",
+    "name": "SMSPC",
+    "game": "Super Mario Sunshine",
+    "shortName": "Super Mario Sunshine",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "ZomZed",
+    "kind": "port",
+    "description": "Super Mario Sunshine ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ZomZed/SMSPC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SMS_PC_Port_*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sonic-adventure-2-battle-recompiled",
+    "name": "Sonic Adventure 2 Battle Recompiled",
+    "game": "Sonic Adventure 2: Battle",
+    "shortName": "Sonic Adventure 2: Battle",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "sonsegajp",
+    "kind": "port",
+    "description": "Sonic Adventure 2: Battle ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/sonsegajp/Sonic-Adventure-2-Battle-Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SA2BRecompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sonic-heroes-recomp",
+    "name": "Sonic Heroes Recomp",
+    "game": "Sonic Heroes",
+    "shortName": "Sonic Heroes",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "teclilla18",
+    "kind": "port",
+    "description": "Sonic Heroes ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/teclilla18/sonic-heroes-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SonicHeroes-PC-Setup-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sonic-riders-recomp",
+    "name": "Sonic Riders Recomp",
+    "game": "Sonic Riders",
+    "shortName": "Sonic Riders",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "teclilla18",
+    "kind": "port",
+    "description": "Sonic Riders ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/teclilla18/sonic-riders-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SonicRiders-PC-Setup-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "spongebobrecomp",
+    "name": "Spongebob Squarepants: Revenge of the Flying Dutchman",
+    "game": "SpongeBob SquarePants: Revenge of the Flying Dutchman",
+    "shortName": "SpongeBob SquarePants: Revenge of the Flying Dutchman",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "Spaced1127",
+    "kind": "port",
+    "description": "SpongeBob SquarePants: Revenge of the Flying Dutchman ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Spaced1127/SpongeBobRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SpongeBobRecomp-v*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ssne-native",
+    "name": "SSNE Native",
+    "game": "Serious Sam: Next Encounter",
+    "shortName": "Serious Sam: Next Encounter",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "SashexSRB",
+    "kind": "recomp",
+    "description": "Serious Sam: Next Encounter recompiled from the GameCube version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/SashexSRB/SSNE-Native",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SSNE-Native-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "star-fox-assault-recomp",
+    "name": "Star Fox Assault Recomp",
+    "game": "Star Fox Assault",
+    "shortName": "Star Fox Assault",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "xSNAIRZx",
+    "kind": "port",
+    "description": "Star Fox Assault ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/xSNAIRZx/star-fox-assault-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Star-Fox-Assault-Recomp-*-Windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "starfox-assault-recomp",
+    "name": "Starfox Assault Recomp",
+    "game": "Star Fox: Assault",
+    "shortName": "Star Fox: Assault",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "Elroy1995",
+    "kind": "port",
+    "description": "Star Fox: Assault ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Elroy1995/starfox-assault-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "sfa-recomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sth-recompiled",
+    "name": "STH Recompiled",
+    "game": "Shadow the Hedgehog",
+    "shortName": "Shadow the Hedgehog",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "FlyinRabit205",
+    "kind": "port",
+    "description": "Shadow the Hedgehog ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/FlyinRabit205/STH-Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ShadowNativePort-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "strikers",
+    "name": "Strikers",
+    "game": "Super Mario Strikers",
+    "shortName": "Super Mario Strikers",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "new-coke",
+    "kind": "decomp",
+    "description": "Super Mario Strikers running natively on PC, built from the decompiled GameCube game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/new-coke/strikers",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "strikers-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tssm-ports",
+    "name": "Tssm Ports",
+    "game": "The SpongeBob SquarePants Movie",
+    "shortName": "The SpongeBob SquarePants Movie",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "aidp2",
+    "kind": "port",
+    "description": "The SpongeBob SquarePants Movie ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/aidp2/tssm-ports",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TSSM-*-Windows-32bit.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "wario-world-recomp",
+    "name": "Wario World Recomp",
+    "game": "Wario World",
+    "shortName": "Wario World",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "BigSnek9",
+    "kind": "port",
+    "description": "Wario World ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/BigSnek9/wario-world-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WarioWorldRecomp-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "wmxix-static-recomp",
+    "name": "WMXIX Static Recomp",
+    "game": "WWE WrestleMania XIX",
+    "shortName": "WWE WrestleMania XIX",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "Spaced1127",
+    "kind": "port",
+    "description": "WWE WrestleMania XIX ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Spaced1127/WMXIX-Static-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WMXIX-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "wwe-wrestlemania-x8-recomp",
+    "name": "WWE WrestleMania X8 Recomp",
+    "game": "WWE WrestleMania X8",
+    "shortName": "WWE WrestleMania X8",
+    "platform": "Nintendo GameCube",
+    "aliases": [],
+    "developer": "Spaced1127",
+    "kind": "port",
+    "description": "WWE WrestleMania X8 ported to run natively on PC from the GameCube version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Spaced1127/WWE-WrestleMania-X8-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WrestleManiaX8Recomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "yampp",
+    "name": "Super Smash Bros. Melee (YAMPP)",
+    "game": "Super Smash Bros. Melee",
+    "shortName": "Super Smash Bros. Melee",
+    "platform": "Nintendo GameCube",
+    "aliases": [
+      "Super Smash Bros. Melee (YAMPP)"
+    ],
+    "developer": "sonsegajp",
+    "kind": "recomp",
+    "description": "Super Smash Bros. Melee recompiled from the GameCube version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/sonsegajp/YAMPP",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "YAMPP-Windows-x64-*-release.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "cr1-u",
+    "name": "CR1:U",
+    "game": "Chaos Rings",
+    "shortName": "Chaos Rings",
+    "platform": "Sony Playstation Vita",
+    "aliases": [
+      "Chaos Rings (CR1:U)"
+    ],
+    "developer": "DuIslingr",
+    "kind": "port",
+    "description": "Chaos Rings ported to run natively on PC from the PlayStation Vita version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/DuIslingr/CR1-U",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "CR1-U-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "nativ",
+    "name": "Killzone: Mercenary",
+    "game": "Killzone: Mercenary",
+    "shortName": "Killzone: Mercenary",
+    "platform": "Sony Playstation Vita",
+    "aliases": [],
+    "developer": "TheLostPantheon",
+    "kind": "recomp",
+    "description": "Killzone: Mercenary recompiled from the PlayStation Vita version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/TheLostPantheon/nativ",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ProjectNativ-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

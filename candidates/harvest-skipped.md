@@ -1,0 +1,997 @@
+# Harvest: not added
+
+Repositories the harvest found but couldn't use. Written by the harvest job.
+
+- 0xCydral/bloodborne_pc: duplicate: fork of deadinside28/bloodborne_pc
+- 12feihu/BodyHarvest-PC-Port: no Windows .zip or .7z release
+- 1nsec/Naruto-The-Broken-Bond-Android-Port: no Windows .zip or .7z release
+- 2023PerfectDark/Perfect-Dark-Zero-Reinstated: duplicate: fork of nikolaygorb/PerfectDarkZeroRecomp
+- 2whitelol/project-plumb-vr: no Windows .zip or .7z release
+- 360recomper/SVR07-Recomp: duplicate: fork of HollywoodAkeem/SVR07-Recomp
+- 3dge7161/Jiggle-or-Physics: no Windows .zip or .7z release
+- 5C8/sk83_na_m: duplicate: same download as 5C8/skate3recomp
+- 96dot/DAORecomp: no Windows .zip or .7z release
+- 96dot/Dragon-Age-Origins-Recomp: no Windows .zip or .7z release
+- 999sian/tmc: no Windows .zip or .7z release
+- aabrole/HuntersRecomp: no Windows .zip or .7z release
+- abdullah-tech7/UFC4-Native-Plus: duplicate: fork of schans-arg/UFC4-PC-Port
+- Adeelshah001/DWG2Recomp: no Windows .zip or .7z release
+- ADHD-TISM/Dave-Mirra-Recomp: no Windows .zip or .7z release
+- adi0900/GreenKid-MV: no Windows .zip or .7z release
+- Adoregabriel2005/Cebola-RECOMPILED: repository not found
+- Adoregabriel2005/monica-no-castelo-do-dragao-recomp: repository not found
+- Adoregabriel2005/mushroomrecompiled: repository not found
+- Adoregabriel2005/rose-recompiled: repository not found
+- AdventureT/OpenToshi: no Windows .zip or .7z release
+- AgitationSkeleton/boat_of_daphnes: duplicate: fork of chrissotraidis/bluewake
+- agray0425/Mother3Recomp: no Windows .zip or .7z release
+- aharonahdoot/StrikersRecomp: no Windows .zip or .7z release
+- aidenator/Lighthouse-3DS: duplicate: fork of HarbourMasters/Lighthouse
+- Akimitsu76/Lantern-Recomp: no Windows .zip or .7z release
+- akratch/golden-balloon: no Windows .zip or .7z release
+- Alboria-Studio/azura-releases: no Windows .zip or .7z release
+- aldiianshr-commits/NarutoUltimate-5-Recompile-: no Windows .zip or .7z release
+- Alejandro-Estrada-1/crash2-native: no Windows .zip or .7z release
+- AlekayDevs/minishcap-recomp: no Windows .zip or .7z release
+- Alex-LeTux/perfect_dark_VR: no Windows .zip or .7z release
+- alex-stampede/GRFS-Recomp: no Windows .zip or .7z release
+- alex61194/twin-embers: no Windows .zip or .7z release
+- alexbeavs-ps1-ports/wwf-smackdown-recomp: no Windows .zip or .7z release
+- alexkypraiou/smg2-reverse-engineering: no Windows .zip or .7z release
+- aliveoutside/infamous-second-son-linux: no Windows .zip or .7z release
+- almost-drowned-rat/Orta-Recompiled-Android: no Windows .zip or .7z release
+- alphanu1/daytona-arcade-recomp: no Windows .zip or .7z release
+- alphanu1/msg-twinsnakes-recomp: no Windows .zip or .7z release
+- AlvaroEPena/bo2-360-nx: no Windows .zip or .7z release
+- amykaname/smbcd: no Windows .zip or .7z release
+- andeecollard/jsrf-recomp: no Windows .zip or .7z release
+- andersfischernielsen/ssx3-decomp: no Windows .zip or .7z release
+- andrebrumdev/gow2-recomp: no Windows .zip or .7z release
+- andreoka-debug/ssf2xj-recomp: no Windows .zip or .7z release
+- Andrew-2435/Mega-Man-Zero-1-4-native-recompilation: no Windows .zip or .7z release
+- andrew17182/Fable-2-Recomp-macOS: no Windows .zip or .7z release
+- andrewnakas/skate3-android: no Windows .zip or .7z release
+- AndyALRLabs/ReCasted: repository not found
+- anishchandra24/Juiced2-Recompiled: no Windows .zip or .7z release
+- anishchandra24/MaddenNFL08-Recompiled: no Windows .zip or .7z release
+- anishchandra24/NHL2K8-Recompiled: no Windows .zip or .7z release
+- ant0-blase/MOHFrontline-GC-RECOMP: no Windows .zip or .7z release
+- ant0-blase/Saw2-X360-ReXGlue: no Windows .zip or .7z release
+- AntAir267/double-steal-2-recompiled: no Windows .zip or .7z release
+- AntAir267/wreckless-recomp: no Windows .zip or .7z release
+- Antriksh1984/TheWarriors-XBERecomp: no Windows .zip or .7z release
+- aoxzh/digimon-story-sunburst-recomp: no Windows .zip or .7z release
+- apexJCL/automodellista-recomp: no Windows .zip or .7z release
+- Apolinario-coder/MushroomMakerRecomp: repository not found
+- Apolinario-coder/SkyRecomp: repository not found
+- arieco57/bo3-recomp: no Windows .zip or .7z release
+- Armandpro12/chibi-robo-pc: no Windows .zip or .7z release
+- arnaldolima1/gow-ascension-pc: no Windows .zip or .7z release
+- arnaldolima1/gow-chains-of-olympus-pc: no Windows .zip or .7z release
+- ArnautDaniel/OpenMizzurna: no Windows .zip or .7z release
+- artesanalintelligence/PLARecomp: no Windows .zip or .7z release
+- aschaeffer9/greenscreen-89: no Windows .zip or .7z release
+- Ash01Live/Battlefield-2-Modern-Combat-Recomp: no Windows .zip or .7z release
+- Aulcreen/TenchuZ-Xbox-Recomp: no Windows .zip or .7z release
+- AurelioB/BanjoRecomp-Android: no Windows .zip or .7z release
+- AurelioB/totk-android: no Windows .zip or .7z release
+- AureoLightz/CitroWaker: no Windows .zip or .7z release
+- awkitsune/tmc_macos: no Windows .zip or .7z release
+- ayozetr/bloodborne_linux: no Windows .zip or .7z release
+- azmasm/switch2mac: no Windows .zip or .7z release
+- B1gGiantB8by/Bickle-KickleCubicleNES: repository not found
+- badcompany94-rcmp/project-tandem: repository not found
+- banner88/dwm1_disassembly: no Windows .zip or .7z release
+- bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port: duplicate: same download as Supermedo/uncharted_pc
+- BeemerCodes/MidnightclubLA-Recomp: no Windows .zip or .7z release
+- BelmanteGu/UltraStreetFighterIVRecomp: repository not found
+- Bentley734/DinoTale-Ultrawide: duplicate: fork of wootbeer/dinotale
+- BevelTipDrip/medievil_2019_pc_port: duplicate: fork of bc160201983/medievil_2019_pc_port
+- BeyondTomrrow/2K5Remade: no Windows .zip or .7z release
+- bifftannen1/Dead-Space-2-Recomp: no Windows .zip or .7z release
+- bighead.0/ladxhd_updated: repository not found
+- BigSnek9/ShadowRecomp: repository not found
+- billfoldes/nightfire-online: no Windows .zip or .7z release
+- BittahBandit1/ReFare: no Windows .zip or .7z release
+- BlackAndBlue95/Strikers-WiiCompiled: no Windows .zip or .7z release
+- BlackLineInteractive/Driveclub-Port: no Windows .zip or .7z release
+- blawar/ooot: no Windows .zip or .7z release
+- Blizz127/parasite-eve-decomp-port: no Windows .zip or .7z release
+- Blizz127/xenogears-decomp-port: no Windows .zip or .7z release
+- bloodborne-native/bloodborne-mac: no Windows .zip or .7z release
+- bloodborne-native/bloodborne-recomp: no Windows .zip or .7z release
+- bmbelo87/decomp-it-up-NX2: repository not found
+- bmy/bbport-mac: no Windows .zip or .7z release
+- bnunu/halo-ce-universal: no Windows .zip or .7z release
+- Boron853/Souls-of-the-Reaper: no Windows .zip or .7z release
+- BountyHunterKanden/SecondHunt: duplicate: fork of NoneGiven/MphRead
+- BR1ANELSNOW/Guitar-Hero-5-Recomp: no Windows .zip or .7z release
+- braaap-stututu/FM3-ReGPU: no Windows .zip or .7z release
+- brainWave4/FinalFantasyVSNESRecomp: no Windows .zip or .7z release
+- Brandon04Gonzalez/nier-android: no Windows .zip or .7z release
+- Brandon04Gonzalez/p4au-android: no Windows .zip or .7z release
+- Brandon04Gonzalez/p5r-android: no Windows .zip or .7z release
+- Brandon04Gonzalez/pq-android: no Windows .zip or .7z release
+- Brandon04Gonzalez/pq2-android: no Windows .zip or .7z release
+- BrazilianHobbyist/Project-RE-Visited-RE2: repository not found
+- BrixW/Contra3Recomp: no Windows .zip or .7z release
+- bromurok/BloodyRoarExtremeRecomp: no Windows .zip or .7z release
+- bromurok/TheKingofFightersNeowaveRecomp: no Windows .zip or .7z release
+- bruce-smith/Blinx2-Recompiled: no Windows .zip or .7z release
+- brunoamador20/fc26-mac-port: no Windows .zip or .7z release
+- BTFighter/Super-Mario-World-Remastered-Plus: no Windows .zip or .7z release
+- Buku313/Skate3-Mobile: no Windows .zip or .7z release
+- C-GBL/P3FES-Decompilation: no Windows .zip or .7z release
+- CalenCyr/SlugfestRecompiled: no Windows .zip or .7z release
+- CameronRedmore/Crash-Team-Racing-Turbocharged: no Windows .zip or .7z release
+- camybiohazard/Project-Veronica: duplicate: fork of aikatore/recvx-enhanced-port
+- canersaka/Yakuza-Dead-Souls-Recompiled: repository not found
+- captainj-sparrow/astral-chain-pc-recomp: duplicate: fork of valentderah/totk-pc-recomp
+- CarlosExabyte/Arceuszada: no Windows .zip or .7z release
+- carlosrmz009/arwing2: no Windows .zip or .7z release
+- carlosrmz009/arwing: no Windows .zip or .7z release
+- Carolux97/Azura: repository not found
+- catsandsoup/2Xtreme-recomp: no Windows .zip or .7z release
+- catskull/ShadowComplex-Recomp: no Windows .zip or .7z release
+- cblock85/GoldenEye64Recomp: no Windows .zip or .7z release
+- cdleveille/thug-pc-port: no Windows .zip or .7z release
+- centollOS/SwitchWakerHD: no Windows .zip or .7z release
+- cerroverb/espgaluda2-recomp: no Windows .zip or .7z release
+- cerroverb/futari-linux: no Windows .zip or .7z release
+- ChanseyIsTheBest/blur-nx: no Windows .zip or .7z release
+- chaotix359/Super-Hang-On-Ultimate: no Windows .zip or .7z release
+- chasem-dev/colosseum-launcher: no Windows .zip or .7z release
+- chasem-dev/orre-launcher: no Windows .zip or .7z release
+- chasem-dev/sms-android: no Windows .zip or .7z release
+- chasem-dev/sms-launcher: no Windows .zip or .7z release
+- chasem-dev/sms-pc-port: no Windows .zip or .7z release
+- chrisking1981/sly1-recomp: repository not found
+- chrissotraidis/bellpad: no Windows .zip or .7z release
+- chrissotraidis/kartpad: no Windows .zip or .7z release
+- chrissotraidis/projectreach: no Windows .zip or .7z release
+- chrissotraidis/snappad: no Windows .zip or .7z release
+- chrissotraidis/sunpad: no Windows .zip or .7z release
+- chronic8000/WaveRace64Recompiled: no Windows .zip or .7z release
+- Claudio5702/Cristalis: no Windows .zip or .7z release
+- ClickingMaster/pokeheartgold-single-screen: no Windows .zip or .7z release
+- ClickingMaster/ssrecomp: no Windows .zip or .7z release
+- CloudStrife29/SM2-Recomp: no Windows .zip or .7z release
+- codepdbh/CBFD-Recompiled-Android-Evolved: no Windows .zip or .7z release
+- codepdbh/NFS-CARBON-360-ANDROID-RECOMP: no Windows .zip or .7z release
+- codepdbh/nfsmw-android: no Windows .zip or .7z release
+- codepdbh/PSPRecomp-LCS-Android: no Windows .zip or .7z release
+- codepdbh/PSPRecomp-VCS-Android: no Windows .zip or .7z release
+- codepdbh/re3-android-port-evolved: no Windows .zip or .7z release
+- codepdbh/revc-android-port-evolved: no Windows .zip or .7z release
+- codepdbh/the-simpsons-game-android: no Windows .zip or .7z release
+- comoria08/defjam_recomp: no Windows .zip or .7z release
+- contactvirgilio/TetroidDX: no Windows .zip or .7z release
+- contatg/Def-Jam-Android-Native-Port: no Windows .zip or .7z release
+- CorrieDivitt/Birdman64VR: duplicate: fork of NoahVl/Birdman64
+- couchk1ng/GoldenEye-Recomp-SteamDeck: no Windows .zip or .7z release
+- CowKillers/dark-souls-remastered-android-port: no Windows .zip or .7z release
+- Coz-0/smo-recomp: no Windows .zip or .7z release
+- crabinacrabic/BadCompanyRecomp: no Windows .zip or .7z release
+- crabinacrabic/VivaPinataRecomp: no Windows .zip or .7z release
+- crabscrab650-sketch/ArmyOfTwo40thDay-Recomp: no Windows .zip or .7z release
+- crazyriddler/FinestHourRemastered: no Windows .zip or .7z release
+- crescent/mk8del: no Windows .zip or .7z release
+- cricri-pingouin/SliLumns: no Windows .zip or .7z release
+- CrownParkComputing/Chihiro-XBERecomp: no Windows .zip or .7z release
+- cultofblue/MKTrilogyN64Recomp: no Windows .zip or .7z release
+- cultofblue/mmpr-movie-gg2pc: no Windows .zip or .7z release
+- cultofblue/mmpr-movie-snes2pc: no Windows .zip or .7z release
+- cyberheater/Xbox-360-Quake4-decomp: no Windows .zip or .7z release
+- CyberLifeYT/L4D2-PC-Port: no Windows .zip or .7z release
+- Cybertwip/PepsiMan: no Windows .zip or .7z release
+- CyriacFR/Kalamar: no Windows .zip or .7z release
+- cyscott/dkr-recomp: no Windows .zip or .7z release
+- d4rksp4rt4n/HMBTN-ReFarmed: no Windows .zip or .7z release
+- damobeanrod/yoshis-story-recomp: no Windows .zip or .7z release
+- Danidark12/ValkyrieRecomp: duplicate: fork of Ed1z19/ValkyrieRecomp
+- daniel-madrid-07/weeping-of-the-empire: no Windows .zip or .7z release
+- DanielCoffey1/psu-decomp: no Windows .zip or .7z release
+- danielgomesvieira2000/mister-mosquito-pc: no Windows .zip or .7z release
+- danielgomesvieira2000/soulcalibur-recomp: no Windows .zip or .7z release
+- danilopaulinodasilva/kof98recomp: no Windows .zip or .7z release
+- DankZoneStudios/CV64Recomp: duplicate: fork of RevoSucks/CV64Recomp
+- danny199012/StreetFighter-X-Tekken-Recomp: no Windows .zip or .7z release
+- dannyowelch/deception-recomp: duplicate: fork of Voicedrew11/verdite2
+- dantheman11294/GGA-Recomp: repository not found
+- DanZC/suiCune: no Windows .zip or .7z release
+- darchap/Skate3-Port: no Windows .zip or .7z release
+- DarkIzuku/bloodborne_pc: duplicate: fork of deadinside28/bloodborne_pc
+- Darkluiside305/Extreme-G-2-Recompilation-: repository not found
+- darkuni/burgertime-arcade-landscape-recomp: no Windows .zip or .7z release
+- darkuni/starwars-arcade-recomp: no Windows .zip or .7z release
+- darkuni/time-pilot-arcade-landscape-recomp: no Windows .zip or .7z release
+- DarthSully/Tony-Hawk-Slop-Skater: no Windows .zip or .7z release
+- datfooldive/DW5-Android: no Windows .zip or .7z release
+- datfooldive/PES5-Android: no Windows .zip or .7z release
+- dc-decomp/ikaruga-decomp: no Windows .zip or .7z release
+- Decryptu/pokerecomp: no Windows .zip or .7z release
+- Deez-coder/SMO-android-port: no Windows .zip or .7z release
+- deivid22srk/dk64-recomp-android: no Windows .zip or .7z release
+- deivid22srk/naughtybear-restuff-android: no Windows .zip or .7z release
+- deivid22srk/ReChan-Android: no Windows .zip or .7z release
+- deivid22srk/redahm-android: no Windows .zip or .7z release
+- demonlorddio/Asuras_wrath_recomp: no Windows .zip or .7z release
+- Denkishi/ssbu-recomp: no Windows .zip or .7z release
+- Desm0nt/diablo3-port: no Windows .zip or .7z release
+- dfdx047/Dragon-Burst: no Windows .zip or .7z release
+- dfdx047/DragonBlast: no Windows .zip or .7z release
+- dfdx047/Zandatsu: no Windows .zip or .7z release
+- dguillot-gh/phantom-hourglass-recomp: no Windows .zip or .7z release
+- dimovitus/SF-pc-port-linux: no Windows .zip or .7z release
+- Dinzai/Megaman_StarForce_Recomp: no Windows .zip or .7z release
+- Dittobyte/Triggered-Chrono-RecompHD2D: no Windows .zip or .7z release
+- djsaunde/glover-decomp-1: no Windows .zip or .7z release
+- DogeXH/ACE6-Recomp-Linux-Binaries: no Windows .zip or .7z release
+- doldecomp/brawl: no Windows .zip or .7z release
+- Dooder64/wave-race-64-vr: duplicate: fork of elliotttate/wave-race-64-recomp
+- Doridian/BlastCorps: no Windows .zip or .7z release
+- Doridian/DozerEncore: no Windows .zip or .7z release
+- dougchansan/mk8-recomp: no Windows .zip or .7z release
+- dougieprishpreed/skate3recomp-plus: duplicate: fork of mchughalex/skate3recomp
+- douglasjv/BanjoRecomp: no Windows .zip or .7z release
+- DoutorRaposo/moonpearl: no Windows .zip or .7z release
+- DragonautMk/FFTA-DE-ReBuild: duplicate: fork of Jorge262007/FFTARecomp
+- drDOOM69GAMING/WWF-No-Mercy-Recompiled-Linux-: no Windows .zip or .7z release
+- DrummingBird1/sonic06-recomp: no Windows .zip or .7z release
+- ducvd89/Bloodborne-Android: duplicate: fork of deadinside28/bloodborne_pc
+- Dvrkie13/SparkPark: duplicate: fork of MildRain479/PokePark-Wiicompiled
+- Dyotson/ForzaHorizon1-ReImagined: no Windows .zip or .7z release
+- Dyotson/RecompiledHaloReach: no Windows .zip or .7z release
+- dzakyraf/pes2017-recomp: no Windows .zip or .7z release
+- eboody/Castlevania-ReVamped-Open-Source-Edition: no Windows .zip or .7z release
+- EddieVanHelgen/PerfectDarkZeroRestored: no Windows .zip or .7z release
+- EddyKine/yoshi-island-macos: no Windows .zip or .7z release
+- edeegg/Legends-Recomp: no Windows .zip or .7z release
+- edeegg/origins-recomp: no Windows .zip or .7z release
+- Edwin2929/sma3-recomp-android..git: repository not found
+- Ekspym/Tekken6-native-online: no Windows .zip or .7z release
+- elliotttate/DKC2Recomp: duplicate: fork of mstan/DKC2Recomp
+- elliotttate/wave-race-64-recomp: duplicate: fork of danielgomesvieira2000/wave-race-64-recomp
+- elprogramadorloco-arch/agvg2-recomp: no Windows .zip or .7z release
+- elprogramadorloco-arch/asuka100-recomp: no Windows .zip or .7z release
+- elprogramadorloco-arch/fuc-recomp: no Windows .zip or .7z release
+- elprogramadorloco-arch/korokoro-recomp: no Windows .zip or .7z release
+- emanuelcnjunior/TMNT-IV-Turtles-in-Time-PC-Recomp: no Windows .zip or .7z release
+- endercodezz/P3P3DS: no Windows .zip or .7z release
+- engage-pc-recomp/engage-pc-recomp: repository not found
+- enryutddxd/Tenkaichi3Decomp-TrimUI-R36S: no Windows .zip or .7z release
+- ErasedSin/WARRIORS-OF-ROCK-Erased-Reboot-Version: duplicate: fork of ronniecloud/re-wor
+- erikgaspar/pulseman-recomp: no Windows .zip or .7z release
+- erikomis/pes2013-recomp: no Windows .zip or .7z release
+- erikomis/resistance-recomp: no Windows .zip or .7z release
+- erikomis/resistance2-recomp: no Windows .zip or .7z release
+- erikomis/resistance3-recomp: no Windows .zip or .7z release
+- erpiopio/DragonBallZLegacyOfGokuI-Thor: no Windows .zip or .7z release
+- EstebanPdN/legend-of-doom-3ds: no Windows .zip or .7z release
+- EstebanPdN/zelda-alttp-3ds: no Windows .zip or .7z release
+- EstebanPdN/zelda-tmc-3ds: no Windows .zip or .7z release
+- ethan4love/psx-recomp-port: repository not found
+- ethanseagull/MarioKartWiiDS: no Windows .zip or .7z release
+- etonedemid/reNut_linuxfixes: no Windows .zip or .7z release
+- Etopia122/ProjectMysteryMachine: no Windows .zip or .7z release
+- exyled/Xenogears-PC: no Windows .zip or .7z release
+- fabioap-cpu/Burnout-Revenge-Recomp: no Windows .zip or .7z release
+- fabioap-cpu/Forza-Horizon-2-Recomp: no Windows .zip or .7z release
+- fabioap-cpu/SoulBlade_Recomp: repository not found
+- fabioap-cpu/Tekken3Recomp: repository not found
+- fabioap-cpu/WWF-SmackDown-2-Recomp: no Windows .zip or .7z release
+- Fable2Recomp/Fable2Recomp: no Windows .zip or .7z release
+- Faderz48/40-Winks-PC-Port: no Windows .zip or .7z release
+- faligame/Parasite-Eve-2-HD-Remaster: no Windows .zip or .7z release
+- faligame/Parasite-Eve-HD-Remaster: no Windows .zip or .7z release
+- feanor-noldorin/ico-recomp: no Windows .zip or .7z release
+- Felipe-Gomes-Amorim/kirby-amazing-mirror-recomp: no Windows .zip or .7z release
+- FelipePrado0/SpartanPort: duplicate: fork of Supermedo/bloodborne_pc
+- FermataRest/Ninja-s-Dawn-A-Ninja-Gaiden-2-Recompilation-Project: no Windows .zip or .7z release
+- FH1-ReImagined/ForzaHorizon1-ReImagined: no Windows .zip or .7z release
+- ficed/Braver: no Windows .zip or .7z release
+- fidalgojoao/Uncharted-The-Nathan-Drake-Collection-PC-port: duplicate: same download as Supermedo/uncharted_pc
+- fist-in/POW-Recompiled: repository not found
+- fladnaG86/Driveclub-Port-AppleSilicon: no Windows .zip or .7z release
+- florinp93/xmd-recompiled: no Windows .zip or .7z release
+- FluffyQuack/rexglue-MetalSlugXX: no Windows .zip or .7z release
+- foreverWIP/s1-port: no Windows .zip or .7z release
+- fractalstudio-sd/rally2-recomp-android: no Windows .zip or .7z release
+- frankjniu/ogre-battle-64-recomp-windows: duplicate: fork of lfarroco/ogre-battle-64-recomp
+- FrightWorks/FrightWorks-no100f: no Windows .zip or .7z release
+- frknue/tekken-recomp: no Windows .zip or .7z release
+- FrosttysBots/Disney-Extreme-Skaters-Recomp: no Windows .zip or .7z release
+- FulGerNet/rePOP: no Windows .zip or .7z release
+- fulldivegames/Majoras-Mask-VR: duplicate: fork of 2ship2harkinian/2ship2harkinian
+- fulldivegames/sm64coopdx-VR-Standalone-Physics-based: no Windows .zip or .7z release
+- FuzzynessUK/Quest64-Recomp: duplicate: fork of Rainchus/Quest64-Recomp
+- gabegm/nfshp2-recomp: no Windows .zip or .7z release
+- Gabrick75/fh2-recompiled: no Windows .zip or .7z release
+- gabrielbskk/mcla-recomp-rv: no Windows .zip or .7z release
+- gabrielofavero/pixel-recompilation: no Windows .zip or .7z release
+- Gadge64/WWFNoMercyRecomp: duplicate: fork of jessetbh/WWFNoMercyRecomp
+- GamebreakerDev/Gamebreaker: no Windows .zip or .7z release
+- GASQBDUV/thps2x-handheld-ports: no Windows .zip or .7z release
+- gb92/ProjectRecomp: no Windows .zip or .7z release
+- gcsmith/Pilotwings64Recomp: repository not found
+- gcsmith/Superman64Recomp: repository not found
+- GenissonEmilio/Futurama-Android: no Windows .zip or .7z release
+- geno55/deja-vu: no Windows .zip or .7z release
+- GenryTheFox0/OrbisGlue: repository not found
+- gerisson1996/MADAGASCAR-NX-PORT: no Windows .zip or .7z release
+- gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT: no Windows .zip or .7z release
+- GhostDucky13/Speed-Force-Justice-League-Heroes-Windows-Recompilation: no Windows .zip or .7z release
+- giangra/stuntdouble-reignition: no Windows .zip or .7z release
+- gibranfelix/oot-vr: no Windows .zip or .7z release
+- God-Hand-Rearmed/God-Hand-Rearmed: no Windows .zip or .7z release
+- godspirit00/IronPhoenix_port: no Windows .zip or .7z release
+- gokmenceylann/OOT-REMAKE-AMD: no Windows .zip or .7z release
+- GoldieLeGenie/DQIV-Recompiled: no Windows .zip or .7z release
+- Goldoire/fefw-recomp: repository not found
+- Goldoire/pokeemerald-dualscreen: no Windows .zip or .7z release
+- goshavindtburg/NX1recomp: no Windows .zip or .7z release
+- GrayRats/ArmoredcoreV-Port: no Windows .zip or .7z release
+- GreenNaugahyde/ZeldaWWHDRecompAndroid: no Windows .zip or .7z release
+- Grunttanamo/KarPur: no Windows .zip or .7z release
+- GTTeancum/OpenGTPS1: repository not found
+- GTTeancum/Timesplitters: repository not found
+- Gui-Tora/dmc-recomp: no Windows .zip or .7z release
+- gumilastik/DKC1Recomp-Coop: duplicate: fork of elliotttate/DKC1Recomp
+- Guuzzeji/otogi-xunchain: no Windows .zip or .7z release
+- ha7rock/blade2-mobile: no Windows .zip or .7z release
+- HAB3X/Biohazard-Outbreak-Mac: no Windows .zip or .7z release
+- HAB3X/Crash-Twinsanity-Mac: no Windows .zip or .7z release
+- hapqe/ssbu-recomp: no Windows .zip or .7z release
+- hardsilinder/FableDroid: no Windows .zip or .7z release
+- Harold0777/eagle_five_recomp: no Windows .zip or .7z release
+- Hdmaniak/DishSoap: repository not found
+- HekamiAeon/GBO-Code-Fairy-PS4RT: no Windows .zip or .7z release
+- HekamiAeon/Sakura-Wars-PS4RT: no Windows .zip or .7z release
+- HekamiAeon/Star-Ocean-Integrity-and-Faithlessness-PS4RT: no Windows .zip or .7z release
+- HekamiAeon/valkyria-revolution-ps4rt: no Windows .zip or .7z release
+- HenryKun55/celosia: no Windows .zip or .7z release
+- Heromachine/AlienResurrection-Recompilation: no Windows .zip or .7z release
+- Heromachine/NightmareCreatures-Recompilation: no Windows .zip or .7z release
+- Heromachine/Tenchu-SA-Recomp: no Windows .zip or .7z release
+- Hexveil404/PokeZ-ARecomp: duplicate: fork of peiikai/LASRecomp
+- highcmd/chinatown-wars-psp-recomp: no Windows .zip or .7z release
+- highcmd/half-minute-hero-psp-recomp: no Windows .zip or .7z release
+- highcmd/ssx-on-tour-psp-recomp: no Windows .zip or .7z release
+- HikariCalyx/trill: no Windows .zip or .7z release
+- hk21x/007eon-recomp: no Windows .zip or .7z release
+- hk21x/nightfire-recomp: no Windows .zip or .7z release
+- hk21x/pgr1-recomp: no Windows .zip or .7z release
+- hk21x/pgr2-recomp: no Windows .zip or .7z release
+- hklbertrand-lab/ReKaguraX: no Windows .zip or .7z release
+- HLLArtyParty/WaveRace64RecompForAndroid: no Windows .zip or .7z release
+- holdmysocks/rusty-mcla: no Windows .zip or .7z release
+- HookedBehemoth/OunceRecomp: no Windows .zip or .7z release
+- HopedWall/Hajinmon: no Windows .zip or .7z release
+- Hottuck71/PartyRecomp: no Windows .zip or .7z release
+- Hottuck71/ResortRecomp: no Windows .zip or .7z release
+- HUEVOMAN77/RedU: no Windows .zip or .7z release
+- IamWilmar/castlevania-recomp: no Windows .zip or .7z release
+- IamWilmar/mhs2-recomp: no Windows .zip or .7z release
+- IamWilmar/resonance-recomp: no Windows .zip or .7z release
+- IamWilmar/xenoblade3-recomp: no Windows .zip or .7z release
+- iCosiSenpai/Deluxe8: no Windows .zip or .7z release
+- igawa6/HarvestMoon64Recomp: no Windows .zip or .7z release
+- igawa6/Tomba2RecompDS: no Windows .zip or .7z release
+- ignzio/CB2-Online: no Windows .zip or .7z release
+- iHaiDeeZ/Conker-PS4: no Windows .zip or .7z release
+- iHaiDeeZ/Skylanders-PS4: no Windows .zip or .7z release
+- ihatecompvir/band3_recomp: no Windows .zip or .7z release
+- ILFforever/YW4Recomp: no Windows .zip or .7z release
+- Invictus-potens/smt4-recomp: no Windows .zip or .7z release
+- iptory/pes6-native: no Windows .zip or .7z release
+- iron-jay/banjo_tooie_xbla_recomp: no Windows .zip or .7z release
+- itar3/Fable2RecompMac: no Windows .zip or .7z release
+- itgmania/itgmania: no Windows .zip or .7z release
+- itouchdennis/scct-nx: no Windows .zip or .7z release
+- itouchdennis/scda-nx: no Windows .zip or .7z release
+- itsarahtonin/ssbm-rs: no Windows .zip or .7z release
+- itsbybanshee/wwe12-pc: duplicate: fork of iMrBurn/wwe12-pc
+- izzy2lost/SpaghettiKart: no Windows .zip or .7z release
+- J1mbo/cannonball-se: no Windows .zip or .7z release
+- JackPriceBurns/foxhollow: no Windows .zip or .7z release
+- jaluraDEV/haniwa-bridge: repository not found
+- Jauidev/Gears3Recomp: no Windows .zip or .7z release
+- Jauidev/GearsRecomp: no Windows .zip or .7z release
+- Jauidev/halo3recomp: no Windows .zip or .7z release
+- JayElDragon/blue-dragon-android: no Windows .zip or .7z release
+- JayElDragon/luigis-mansion-android: no Windows .zip or .7z release
+- JayElDragon/Paper-Boat-Android-Port: no Windows .zip or .7z release
+- jaylikesbunda/CrashoftheTitans-Wiicomp: no Windows .zip or .7z release
+- jbcgames/sms-android: no Windows .zip or .7z release
+- jbond2003/COD2-BRO-XBERecomp: no Windows .zip or .7z release
+- jcoker85/MC1Recomp: no Windows .zip or .7z release
+- jcoker85/SR1Recomp: no Windows .zip or .7z release
+- jcoker85/SR2Recomp: no Windows .zip or .7z release
+- jessicanataliagta/PSPRecomp: no Windows .zip or .7z release
+- JesusTaylo/rumble-roses-xx-recomp: no Windows .zip or .7z release
+- JFryy/reshadowtower: no Windows .zip or .7z release
+- Jgamrot/yharnam-pc: duplicate: fork of Supermedo/bloodborne_pc
+- jhaizhou-ops/d2r-mobile: no Windows .zip or .7z release
+- jillsandwich1998/reGH2: no Windows .zip or .7z release
+- JinWooPT/Jinra-Recomp: no Windows .zip or .7z release
+- jM5557/ailu-puzzle: no Windows .zip or .7z release
+- jmacato/ZoidsLegacyDecomp: no Windows .zip or .7z release
+- jmars125/xc2-recomp: repository not found
+- jmokikearns-png/Dancing-Stage-Fusion-PC: no Windows .zip or .7z release
+- jnmartin84/sf64-dc: no Windows .zip or .7z release
+- jnmartin84/sonic-r: no Windows .zip or .7z release
+- joesnose/DeadBabiesX-Windows-Native-port: no Windows .zip or .7z release
+- JoeyAW/TPVR: duplicate: fork of TwilitRealm/dusklight
+- johnnieb333/FFTA-Clan-Desk: duplicate: fork of Jorge262007/FFTARecomp
+- johnnygentoo/gvport: no Windows .zip or .7z release
+- johnnygentoo/MaxiboostPort: no Windows .zip or .7z release
+- jonrosner/melee-native: no Windows .zip or .7z release
+- joojofc13-wq/HappyWarsRecompiled: no Windows .zip or .7z release
+- josealmon/hamtaro-native: no Windows .zip or .7z release
+- joseestebanmarinrincones-dot/oni2comp: no Windows .zip or .7z release
+- josiahg2502-glitch/OogiesRevengeRecompiled: repository not found
+- josuloku-new/Fenix-Reborn: no Windows .zip or .7z release
+- jp244btc/vs-smb-recomp: duplicate: same download as jsp244/vs-smb-recomp
+- Juanmote/master-of-darkness-recomp: no Windows .zip or .7z release
+- juans-collab/infamous-2-recomp: repository not found
+- Juansolo457/graw360-recomp: no Windows .zip or .7z release
+- JulioCacko/The-Order-1886_pc: duplicate: fork of FelipePrado0/SpartanPort
+- JulioHeroZ/Tenkaichi3Rust: no Windows .zip or .7z release
+- jv36/fifastreet2-recomp: no Windows .zip or .7z release
+- kadraa-png/transformers-ps2-linux: no Windows .zip or .7z release
+- KaKaShUruKioRa/A-Link-to-the-Past-Project: no Windows .zip or .7z release
+- kandowontu/starfox-enhanced: repository not found
+- kandowontu2/UrbanRecomp: duplicate: fork of blackerking/UrbanRecomp
+- Katon17/black-linux: no Windows .zip or .7z release
+- Katon17/nfsmw-linux: no Windows .zip or .7z release
+- KawaiiBunga/MKVDCU-Recomp: no Windows .zip or .7z release
+- kazuyette/rr-decomp: no Windows .zip or .7z release
+- kc-anderson/kamite: no Windows .zip or .7z release
+- keepvaibin/nebula: no Windows .zip or .7z release
+- Ken5998/fh1-reimagined-arm64: no Windows .zip or .7z release
+- Ken5998/fh2-recompiled-arm64: no Windows .zip or .7z release
+- Ken5998/fifa-street-arm64: no Windows .zip or .7z release
+- Ken5998/infamous-reborn-arm64: no Windows .zip or .7z release
+- Ken5998/mm3-recomp-arm64: no Windows .zip or .7z release
+- Ken5998/pinyon-shift-arm64: no Windows .zip or .7z release
+- Ken5998/saints-reborn-arm64: no Windows .zip or .7z release
+- kensaiken/ExtremeFighters: no Windows .zip or .7z release
+- khasinski/parasite-eve-decomp: no Windows .zip or .7z release
+- kholdfuzion/GoldenRecomp: no Windows .zip or .7z release
+- kiesxoxo/burnout-crash-recomp: no Windows .zip or .7z release
+- KIexster/god-of-war-recomp: no Windows .zip or .7z release
+- kilnan/DarkRiftRecomp: no Windows .zip or .7z release
+- kilnan/ki-recomp: no Windows .zip or .7z release
+- kiMb4LL/mcla-macos: no Windows .zip or .7z release
+- kingzmanh/grabbed-by-the-ghoulies-pc: no Windows .zip or .7z release
+- kirakazeshin/DragonQuest8Recomp-3DS: no Windows .zip or .7z release
+- kirakira-dev/OunceNative: no Windows .zip or .7z release
+- kirby-letsgo/nightmare-creatures-decomp: no Windows .zip or .7z release
+- kirby-letsgo/tintin-prisoners-decomp: no Windows .zip or .7z release
+- Kirby64Ret/Kirby64Recomp: no Windows .zip or .7z release
+- kirklandsig/halo2-decompiled: no Windows .zip or .7z release
+- Kisenshin/final-fantasy-resonance-native-macos: no Windows .zip or .7z release
+- kitocato/bloodborne-linux-arm64: no Windows .zip or .7z release
+- koaque/Metropolismania-PC: no Windows .zip or .7z release
+- koels/UnleashedRecomp-macOS: no Windows .zip or .7z release
+- krystalgamer/memories-decomp: no Windows .zip or .7z release
+- krystalgamer/spidey-decomp: no Windows .zip or .7z release
+- kuosuko/tomodachi-native: no Windows .zip or .7z release
+- kvse/dsr-native: no Windows .zip or .7z release
+- kxrxh/lollipop-chainsaw-recomp: no Windows .zip or .7z release
+- lakshya16157/midtown-madness-3-PC-Native: no Windows .zip or .7z release
+- LanceSweatpants/Strikers-Quest-MR: no Windows .zip or .7z release
+- Larbaco/oot-native-linux: no Windows .zip or .7z release
+- LasVola/godhand-recomp: no Windows .zip or .7z release
+- LaughingInPurgatory/guardian: no Windows .zip or .7z release
+- laureladastra/mcdub3-nx: no Windows .zip or .7z release
+- lavilao/4u-native-arm32: no Windows .zip or .7z release
+- lawlietl4/LostOdysseyRecomp: no Windows .zip or .7z release
+- Lazaer-YZY/ds2-sotfs-recomp: no Windows .zip or .7z release
+- lcsmcm/re-adventures-billy-mandy: no Windows .zip or .7z release
+- leeashine/ot2-mobile: no Windows .zip or .7z release
+- LegendarySavageGamer/Geist-Recomp: no Windows .zip or .7z release
+- LegendarySavageGamer/SecondSight-Recompiled: no Windows .zip or .7z release
+- LemonHaze420/shenmue: no Windows .zip or .7z release
+- LeoDeadware/HP2Deadware: no Windows .zip or .7z release
+- LeoDeadware/NFSU2Deadware: no Windows .zip or .7z release
+- LeoDeadware/ROTKDeadware: no Windows .zip or .7z release
+- leoxcho/nicktoons-racing-recomp: no Windows .zip or .7z release
+- Leproide/MediEvilRecomp-ITA: duplicate: fork of BlackLabelHQ/MediEvilRecomp
+- Lightmaxifrvr/UnleashedRecomp-NX2: no Windows .zip or .7z release
+- lilscarecrow/mean-bean-recomp: no Windows .zip or .7z release
+- LinksTech/CTR-Reload-Edition: no Windows .zip or .7z release
+- linkzenic/2ship2harkinian-Android: no Windows .zip or .7z release
+- linkzenic/Shipwright-Android: no Windows .zip or .7z release
+- linkzenic/Shipwright-Ports: no Windows .zip or .7z release
+- linkzenic/Zelda64Recomp-Android: no Windows .zip or .7z release
+- linuxopt/pla-recomp: no Windows .zip or .7z release
+- linuxopt/plza-recomp: no Windows .zip or .7z release
+- literalynn/BurnoutDominatorReversed: no Windows .zip or .7z release
+- LomoXSoft/AfroSamuraiRecomp: no Windows .zip or .7z release
+- Loneranger419/FrightWorks-no100f-gc: no Windows .zip or .7z release
+- LoZazaMastro/RaceOneHub: repository not found
+- lswtcs-nx/lswtcs-nx: no Windows .zip or .7z release
+- LtCheeseburger/MVP-College-Baseball: no Windows .zip or .7z release
+- lucabravi/MonZaMac: no Windows .zip or .7z release
+- lucas-martinic/mario64mr: no Windows .zip or .7z release
+- Lucas-Tito/bt3xbx: no Windows .zip or .7z release
+- Lucas4411/ACNL-Recomp: no Windows .zip or .7z release
+- lucasliet/BattleShip-remix: duplicate: fork of JRickey/BattleShip
+- luisxl15/METAL-GEAR-SOLID-2-Sons-of-Liberty-for-Android: no Windows .zip or .7z release
+- luisxl15/Strikers-Android-Port: no Windows .zip or .7z release
+- ly05010419/MacNativeGames: no Windows .zip or .7z release
+- M1LT0N3R2431/007-Project-Russia: no Windows .zip or .7z release
+- m1ndcrap/Cars-Race-O-Rama-Recompiled: no Windows .zip or .7z release
+- Mabec-games/F-ZERO-GLINUX: no Windows .zip or .7z release
+- Mabec-games/iss-deluxed: duplicate: fork of sergiomanzur/issd-native
+- Mabec-games/Stunt-Race-FX-DECOMP: duplicate: fork of jeff-strutb/stuntracefx
+- Mabec-games/Table-Tennis-Rockstar-Linux: no Windows .zip or .7z release
+- Mabec-games/Tekken-3-for-Linux: no Windows .zip or .7z release
+- mabencs/Dragon-Age-Origins-Recomp-Android-Duo: no Windows .zip or .7z release
+- macprotips/peggle2-mac: no Windows .zip or .7z release
+- maddog847/Tiger-Woods-PGA-Tour-2004-XBERecomp: no Windows .zip or .7z release
+- madpai/open-halo-project: no Windows .zip or .7z release
+- magicseb/blinx-recomp: no Windows .zip or .7z release
+- malinkicat/ReAmped3: no Windows .zip or .7z release
+- mamcjr/BOTWRecompAndroid: no Windows .zip or .7z release
+- mamcjr/LASRecompAndroid: no Windows .zip or .7z release
+- mamcjr/TOTKDroid: no Windows .zip or .7z release
+- mamcjr/TOTKRecompAndroid: no Windows .zip or .7z release
+- manjarqo/ps4-native-mac: no Windows .zip or .7z release
+- MarcPique/mario-kart-wii-pc-builder: no Windows .zip or .7z release
+- MarcPique/Ratchet-and-Clank-Recomp: no Windows .zip or .7z release
+- mariopartyrd/marioparty4: no Windows .zip or .7z release
+- MarkPremier/EvolutionRecomp: no Windows .zip or .7z release
+- MaskeZenY/WindowWaker: no Windows .zip or .7z release
+- Masterllgod/midnight-club-3-dub-edition-remix-port-nativo: no Windows .zip or .7z release
+- Masterllgod/naruto-storm-revolution-port-nativo: no Windows .zip or .7z release
+- mateusfavarin/c1: no Windows .zip or .7z release
+- matfsouza/sh3vita: no Windows .zip or .7z release
+- MatiasRiveraC/SSX-Tricky-PC: no Windows .zip or .7z release
+- Matt122Shenk/silent-hill-pc-enhanced: duplicate: fork of SlickAmogus/silent-hill-decomp
+- Matteo842/CrashBandicoot-Launcher: no Windows .zip or .7z release
+- MattSG/mm3-recomp: no Windows .zip or .7z release
+- matty45/Crackdown2-Recomp: no Windows .zip or .7z release
+- maximqaxd/halflife_dc: no Windows .zip or .7z release
+- Mazillion/MechAssault2-PC-Recomp: no Windows .zip or .7z release
+- MBU-Team/OpenMBU: no Windows .zip or .7z release
+- mburkley/pacman-c: no Windows .zip or .7z release
+- MegaCadeDev/NaughtyBearRecomp: no Windows .zip or .7z release
+- Megami-Decomps/dds-decomp: no Windows .zip or .7z release
+- MenuuTUX/jojo-hftf-native: no Windows .zip or .7z release
+- Mevlock/uncharted_pc-dev: duplicate: fork of Supermedo/uncharted_pc
+- mi16jamie-cmyk/Mc-kids-Native-pc-port: no Windows .zip or .7z release
+- MikeDX/div-columns: no Windows .zip or .7z release
+- MikeTheSavage/chili-con-carnage-pc: no Windows .zip or .7z release
+- minimalice92/bloodwake-recomp: no Windows .zip or .7z release
+- minty-hippo/amped3revamped: no Windows .zip or .7z release
+- mircowuffwuff/super-mario-bros.-remastered-android: no Windows .zip or .7z release
+- MissingThePixel/MTR-PGR4: repository not found
+- misterrageguy-cyber/OoT2026-PC-Recomp: no Windows .zip or .7z release
+- mlgprorektm8/RyGT: repository not found
+- moddedrounds/RB2-Android: no Windows .zip or .7z release
+- moesuito/gt4-staticrecomp: no Windows .zip or .7z release
+- mogeldev/SCDA-XBERecomp-android: no Windows .zip or .7z release
+- MorsGames/sm64plus: no Windows .zip or .7z release
+- Mr4xd3mn/perfect-dark-android: no Windows .zip or .7z release
+- mrchrisster/WarioWareTwistedRecomp: no Windows .zip or .7z release
+- mrOt4/DKC1Recomp-NX: duplicate: fork of elliotttate/DKC1Recomp
+- Mrsuss60/bloodborne_pc_windows_port: duplicate: fork of deadinside28/bloodborne_pc
+- mstan/Final-Fantasy-VII: duplicate: fork of TechnicallyComputers/Final-Fantasy-VII
+- mstan/Mother1NESRecomp: no Windows .zip or .7z release
+- mstan/PaRappaTheRapperRecomp: duplicate: fork of kirby1237/PaRappaTheRapperRecomp
+- mstan/PocketMonstersStadiumRecomp: repository not found
+- Muhammad1259-sigma/totk-recomp: no Windows .zip or .7z release
+- mxmstr/Burnout3Recomp: no Windows .zip or .7z release
+- mzzvxm/LARecomp: no Windows .zip or .7z release
+- NaGaa95/jetpackjoyride_nx: no Windows .zip or .7z release
+- NaGaa95/UnleashedRecomp-NX: no Windows .zip or .7z release
+- Nakamizake/Def-Jam-Fight-for-NY-Recomp: no Windows .zip or .7z release
+- Nanikoss/MZM-Reprimed: no Windows .zip or .7z release
+- NathanKneT/DuskOnVita: no Windows .zip or .7z release
+- nathsou/smb: no Windows .zip or .7z release
+- nautxx/drmario64_recomp_plus: no Windows .zip or .7z release
+- nawaf-al-hussain/Tenkaichi3Decomp: duplicate: same download as z3xox/Tenkaichi3Decomp
+- NebulaCoop/nebula-coop: no Windows .zip or .7z release
+- negroISO/doax3-fortune-pc: no Windows .zip or .7z release
+- negroISO/doax3-scarlet-pc: no Windows .zip or .7z release
+- nepotira/smo-recomp-android: no Windows .zip or .7z release
+- NerunSmarts/ForzaRecomp: no Windows .zip or .7z release
+- NeverCookFirst/DimensionsRecomp: no Windows .zip or .7z release
+- Niecks90/medabots-nx: no Windows .zip or .7z release
+- Niecks90/sonicadvance-nx: no Windows .zip or .7z release
+- nikeymikey/bomberman-generation-moderngekko: no Windows .zip or .7z release
+- Nikman800/wiiplay-pc: no Windows .zip or .7z release
+- NitorikoSkye/N-Larged-XS: no Windows .zip or .7z release
+- NJH-1001/RCRness: no Windows .zip or .7z release
+- nmqx/smo-recomp: no Windows .zip or .7z release
+- Noext/gta-sa-port: no Windows .zip or .7z release
+- Noext/mc-ps3-port: no Windows .zip or .7z release
+- NoRain211/doaxbv-re: no Windows .zip or .7z release
+- NotAn127/SM64-PC-Port-WebGL: no Windows .zip or .7z release
+- NotRexed/Hookshot: repository not found
+- NotRexed/SkyboundTotk: repository not found
+- nour9264/Cosmic-Recomp-work: no Windows .zip or .7z release
+- novapowers0/DragonBallZBuusFuryRecomp: no Windows .zip or .7z release
+- NTx86/pokeemerald-sdl2pc: no Windows .zip or .7z release
+- nvd123-YT/ApeEscapeRecompiled: duplicate: fork of mstan/ApeEscapeRecomp
+- nvd123-YT/ExcitebikeNESRecompiled: no Windows .zip or .7z release
+- nvd123-YT/MarioKartWiiCompiled-Enhanced: no Windows .zip or .7z release
+- nvd123-YT/PokemonPinballRecompiled: no Windows .zip or .7z release
+- nvd123-YT/WariosWoodsNESRecomp: no Windows .zip or .7z release
+- Nycolazs/EoWRecomp: no Windows .zip or .7z release
+- Nycolazs/LASRecomp-Android-Plus: no Windows .zip or .7z release
+- Nycolazs/WindWakerHD-Android-Plus: no Windows .zip or .7z release
+- octagram-labs-group/TCSCC-Recomp: repository not found
+- OddTrie/S2Recomp: no Windows .zip or .7z release
+- Odrannnn/MetroidPrime2Port: repository not found
+- Odrannnn/MetroidPrimePort: repository not found
+- ogdanimal/Goemon64Recomp-Android: no Windows .zip or .7z release
+- oktanon/SMAS-Xbox-360: no Windows .zip or .7z release
+- Okxmir/chibi-robo-zip-lash-recompiled: no Windows .zip or .7z release
+- Okxmir/kirby-triple-deluxe-recompiled: no Windows .zip or .7z release
+- Okxmir/luigis-mansion-2-recompiled: no Windows .zip or .7z release
+- Okxmir/new-super-mario-bros-2-recompiled: no Windows .zip or .7z release
+- Okxmir/super-mario-3d-land-recompiled: no Windows .zip or .7z release
+- oldrusty-gg/rust-yugi-dotr: no Windows .zip or .7z release
+- olink9/driver1-decomp: no Windows .zip or .7z release
+- omegakatana92/Armored-Core-Recomp: no Windows .zip or .7z release
+- omegakatana92/Bloody-Roar: no Windows .zip or .7z release
+- omegakatana92/CrashBandicootRecomp: no Windows .zip or .7z release
+- omegakatana92/Gundam-Seed-Battle-Assault-Recomp: no Windows .zip or .7z release
+- omegakatana92/Macross-Do-You-Remember-Love-Recomp: no Windows .zip or .7z release
+- omegakatana92/Macross-VFX-2-Recomp: no Windows .zip or .7z release
+- omegakatana92/Robotech-Battlecry-Recomp: no Windows .zip or .7z release
+- omegakatana92/Samuai-Shodown-Warriors-Rage-Recomp: no Windows .zip or .7z release
+- omegakatana92/Samurai-Western-Recomp: no Windows .zip or .7z release
+- omegakatana92/Super-Dimension-Fortress-Macross-Scrambled-Valkyrie-Recomp: no Windows .zip or .7z release
+- omegakatana92/ZOE-Recompiled: no Windows .zip or .7z release
+- omenhachi/geometry-wars-2-pc-plus: duplicate: fork of saulob/geometry-wars-retro-evolved-2-recompiled
+- OMG-Guest/Halo-Mobile: duplicate: same download as OpenCommunityEdition/OpenCE
+- onerag90/fe3h-recomp: repository not found
+- oneup03/BanjoRecomp3D: duplicate: fork of BanjoRecomp/BanjoRecomp
+- oneup03/dino-recomp-3D: duplicate: fork of DinosaurPlanetRecomp/dino-recomp
+- oneup03/Donkey-Kong-64-3D: duplicate: fork of Rainchus/Donkey-Kong-64-Recompiled
+- oneup03/Goemon64Recomp3D: duplicate: fork of klorfmorf/Goemon64Recomp
+- OPaiva-1721/monster-high-recomp: no Windows .zip or .7z release
+- OPaiva-1721/naruto-storm-recomp: no Windows .zip or .7z release
+- OpenSmash-Ultimate/OpenSmash-Ultimate: no Windows .zip or .7z release
+- OpenSmash-Ultimate/WindowSmash: no Windows .zip or .7z release
+- OriginalSwayze/crusader-of-centy-recomp: no Windows .zip or .7z release
+- OriginalSwayze/greendog-recomp: no Windows .zip or .7z release
+- OriginalSwayze/Streets-of-Rage-Collection-Recomp: no Windows .zip or .7z release
+- OriginalSwayze/Streets-Of-Rage-Recomp: no Windows .zip or .7z release
+- otavix010/fifa-street-2-pc: no Windows .zip or .7z release
+- OTPR26/DekUI-Fork: duplicate: fork of tgacquin/mm3d-dekui
+- Oussama268/ShadowOfTheColossus-PC: repository not found
+- owaissseeee/GodHandAndroidPort: no Windows .zip or .7z release
+- owmyback/backbreaker-recomp: no Windows .zip or .7z release
+- oZiKe17/tlou-ps4-port-pc: no Windows .zip or .7z release
+- OZORDI/LibertyRecomp: no Windows .zip or .7z release
+- pablonolascoo/nfs-mw-2005-ps2-port: no Windows .zip or .7z release
+- PabloVSouza/typex2-recomp: no Windows .zip or .7z release
+- pahorema/kartnative: no Windows .zip or .7z release
+- panedivitasei/CrashCourse2Recomp: no Windows .zip or .7z release
+- papand7/Battlefield-Recompilation-Project: no Windows .zip or .7z release
+- papand7/nightfire-recomp: no Windows .zip or .7z release
+- patchzyy/Wiicompiled: no Windows .zip or .7z release
+- paulogaab21/ufc3recomp: repository not found
+- paviv14/TraumaTeam-Resuscitated: no Windows .zip or .7z release
+- Petexy/Tekken-Tag-2-Ultimate-Edition: no Windows .zip or .7z release
+- pettersdark/SymphonyRecomp-DUAL: no Windows .zip or .7z release
+- pettersdark/SymphonyRecomp-Ultimate: no Windows .zip or .7z release
+- Pheenoh/khcom: no Windows .zip or .7z release
+- phoboslab/wipeout-rewrite: no Windows .zip or .7z release
+- Phroster/DisruptorRecomp: no Windows .zip or .7z release
+- piconet-live/piconet-launcher: no Windows .zip or .7z release
+- piuzera/JUSDecomp: no Windows .zip or .7z release
+- PixDel/SSARecomp-Android: no Windows .zip or .7z release
+- PlasteredCrab/gw2-rs: no Windows .zip or .7z release
+- PotatoRecomp/B2HWii-Android: no Windows .zip or .7z release
+- PotatoRecomp/CGT-XBERecomp: no Windows .zip or .7z release
+- PotatoRecomp/RE4Wii-Android: no Windows .zip or .7z release
+- PowerBeef/d2r-metal: no Windows .zip or .7z release
+- PPrism/TerrariaOGC: no Windows .zip or .7z release
+- pr7games/FIFA-08-X360-PC-PORT: no Windows .zip or .7z release
+- PranchaD/re-Sonic06Demo: no Windows .zip or .7z release
+- PresidentRaptor/Ace-Combat-04-PC-Port: no Windows .zip or .7z release
+- pret/pokepinballrs: no Windows .zip or .7z release
+- pret/pokeplatinum: no Windows .zip or .7z release
+- privacymatters42069-del/PokiNative: no Windows .zip or .7z release
+- psxrestore/VeronicaRecomp: no Windows .zip or .7z release
+- quackmeansquack/mnr-pc-public: no Windows .zip or .7z release
+- r2bir2/scda-recomp: no Windows .zip or .7z release
+- RAC-Native/rac1-native-game: no Windows .zip or .7z release
+- RaccoonRecomp/ResidentEvilOutbreakRecompiled: no Windows .zip or .7z release
+- RaddSpencer/BioNick2: no Windows .zip or .7z release
+- rafidwayne/speedbreaker-windows-unofficial: no Windows .zip or .7z release
+- Raftacon/sierra-romeo-ao2-pc-port: no Windows .zip or .7z release
+- Raihwy3/Conker3DSRecomp: no Windows .zip or .7z release
+- Rainchus/ChameleonTwist2-JP-Recomp: no Windows .zip or .7z release
+- RamadeusXD/The-Simpsons-Road-Rage-25th-Anniversary-PC-Edition: no Windows .zip or .7z release
+- RanggaCasper/Black-Android: no Windows .zip or .7z release
+- RanggaCasper/MostWanted-Android: no Windows .zip or .7z release
+- RanggaCasper/ShaolinMonks-Android: no Windows .zip or .7z release
+- Raphix91/BananaNative: no Windows .zip or .7z release
+- rapidsamphire/AC6Recomp: no Windows .zip or .7z release
+- rash-pro/lionheart: no Windows .zip or .7z release
+- RayCarrot/Rayman3Readvanced: no Windows .zip or .7z release
+- Razoc/Akibot: duplicate: fork of imnotsharingmyname/pcportastrobot
+- re-rac/rerac-launcher: no Windows .zip or .7z release
+- reburndev/reburn3: no Windows .zip or .7z release
+- RecompPort/asura-wrath-pc: no Windows .zip or .7z release
+- RecompPort/pandora-tower-pc: no Windows .zip or .7z release
+- Red-tv141/DC2-PS2RECOMP: no Windows .zip or .7z release
+- redC0rvus/doa4-recomp-suite: no Windows .zip or .7z release
+- RemakerGamee/RetroRemakes-PS3-Ports: no Windows .zip or .7z release
+- RenanQueiroz/mcla-recomp: duplicate: fork of holdmysocks/mcla-recomp
+- rensoftworks/Armored-core-ReAnswered: no Windows .zip or .7z release
+- retronative/recarbon: no Windows .zip or .7z release
+- revvv991/uncharted-android: no Windows .zip or .7z release
+- RexxColder/BT2-Recomp: no Windows .zip or .7z release
+- RichardFontoura/gowa-pc: no Windows .zip or .7z release
+- Rinnegatamante/Crash-Team-Racing-High-Octane: duplicate: fork of CTR-tools/ctr-native
+- Rinnegatamante/Lighthouse: no Windows .zip or .7z release
+- Rio77/engage-recomp: no Windows .zip or .7z release
+- Rio77/fe3h-deck-recomp: no Windows .zip or .7z release
+- riseio/Jet-Force-Capricorn: no Windows .zip or .7z release
+- riseio/project-bumble: no Windows .zip or .7z release
+- riseio/TWIPE_00Sheven: no Windows .zip or .7z release
+- robertoqimin/battride-war-sousei-port: no Windows .zip or .7z release
+- RobGreenUK/Ridge-Racer-PS1-Recomp: no Windows .zip or .7z release
+- RobGreenUK/Ridge-Racer-Revolution-PS1-Recomp: no Windows .zip or .7z release
+- robin994/battleship-vita: no Windows .zip or .7z release
+- Rotmill/Dino-Crisis-Modern-Edition: no Windows .zip or .7z release
+- Royal2-4/Lake-Trio: duplicate: fork of xgcModding/platinum
+- RuiNelson/StreetsOfRageProject: no Windows .zip or .7z release
+- RussoPhone/tomodachi-ltd-recomp: no Windows .zip or .7z release
+- Rydeon95/TOTKEnhanced: duplicate: fork of valentderah/totk-pc-recomp
+- Ryu7w7/OCTR-NitroFueled-PC: duplicate: fork of GetLostIn/CTR-NitroFueled-PC
+- Ryzellx/godhand-port: no Windows .zip or .7z release
+- S95Sedan/lifeline: no Windows .zip or .7z release
+- sackchief/dqix-enhanced: no Windows .zip or .7z release
+- saifkabirasif/decomps: no Windows .zip or .7z release
+- saintiron82/macross30-releases: no Windows .zip or .7z release
+- sal063/Ace-Combat-3-static-recompilation: no Windows .zip or .7z release
+- sal063/Ace-Combat-5-Static-recompilation: no Windows .zip or .7z release
+- sal063/Ace-Combat-X-Recompilation: no Windows .zip or .7z release
+- Sampreeth004/nfs-carbon-recomp: no Windows .zip or .7z release
+- samuelit0davila/fifa-street-pc-port: no Windows .zip or .7z release
+- samyost1/tmc-android: no Windows .zip or .7z release
+- samyost1/zelda3-android: no Windows .zip or .7z release
+- Sanjg2626/OpenNectar-Quest-GitHub: no Windows .zip or .7z release
+- SansNope/MarathonRecomp-Android: no Windows .zip or .7z release
+- SansNope/UnleashedRecomp-Android: no Windows .zip or .7z release
+- santiagovalencia109/Wario-Land-Shake-It-Native-PC: no Windows .zip or .7z release
+- sanyokkua/nfsu2-xbox-port: no Windows .zip or .7z release
+- sargeeva/rumble-recomp: no Windows .zip or .7z release
+- SAT-R/sa2: no Windows .zip or .7z release
+- satperm/iss_mac_port: no Windows .zip or .7z release
+- ScikuVRC/DefJamFFNY-Remastered-Online: no Windows .zip or .7z release
+- Scotho/socom-unzipped: no Windows .zip or .7z release
+- Scrambled-Beans/drmbm-md-disasm: no Windows .zip or .7z release
+- sdiraimondo/KetsuiRecomp: no Windows .zip or .7z release
+- sebaz07/crashwoc-vita: no Windows .zip or .7z release
+- secretpray/Black: no Windows .zip or .7z release
+- secretpray/burnout-revenge: no Windows .zip or .7z release
+- sennecaelen/melee-ace-unlocked: no Windows .zip or .7z release
+- sergiomanzur/cvlod_recomp: duplicate: fork of fliperama86/cvlod_recomp
+- sergiomanzur/SymphonyRecomp: no Windows .zip or .7z release
+- sethlikepie/Gow2HD-Windows: no Windows .zip or .7z release
+- SeveerJ/Ghoulies_PC_Recomp: no Windows .zip or .7z release
+- SeveerJ/Orta_PC_Recomp: no Windows .zip or .7z release
+- shana2203/Mobius01: no Windows .zip or .7z release
+- ShayVD/spyro-vita: no Windows .zip or .7z release
+- shehab4546/RatchetPort: duplicate: fork of FelipePrado0/SpartanPort
+- ShinyWindow/Shipwright-VR: duplicate: fork of HarbourMasters/Shipwright
+- shipa-2/Xerenge: no Windows .zip or .7z release
+- Shy/BoktaiRecomp: no Windows .zip or .7z release
+- Sifayne/last-raven-recomp: no Windows .zip or .7z release
+- SilversRayGA/Cha-Cha-Plus: duplicate: fork of BoyClinton/Cha-Cha
+- simipoB/Galar-Native-Android: repository not found
+- Simon358/ctr-native-android: no Windows .zip or .7z release
+- singlemate/RunnerRecompiled: no Windows .zip or .7z release
+- SirSymo/SM2-Recomp: no Windows .zip or .7z release
+- Skate-2-Team/sk82-recomp: no Windows .zip or .7z release
+- skeezixmccat-coder/Grabbed-by-the-Ghoulies-windows-port: no Windows .zip or .7z release
+- SkiddyToast/Crackdown: no Windows .zip or .7z release
+- sloppinheimer/genma-onimusha-port: no Windows .zip or .7z release
+- sm64-port/sm64-port: no Windows .zip or .7z release
+- sm64pc/sm64ex: no Windows .zip or .7z release
+- SMCGames/Paper-Mario-ReCut-Deprecated: no Windows .zip or .7z release
+- SMCGames/Paper-Mario-ReCut: no Windows .zip or .7z release
+- smiluredev/SonicAdvanceRecomp: no Windows .zip or .7z release
+- snicolast/LostWorldNative: no Windows .zip or .7z release
+- snicolast/SegaRally2Native: no Windows .zip or .7z release
+- snicolast/StarWarsTrilogyNative: no Windows .zip or .7z release
+- SNO2207/WindowSmash: no Windows .zip or .7z release
+- solbakk47-a11y/Banjo-Tooie-Recompiled: no Windows .zip or .7z release
+- Solid7s/nfshp2-macos: no Windows .zip or .7z release
+- Sonic1908/NewAdventuresOfSonic-Recompiled: no Windows .zip or .7z release
+- sonicdcer/ExtremeGRecomp: repository not found
+- sonicfreak1337/SARecomp: no Windows .zip or .7z release
+- sonofskywalker3/khdays-358-android: no Windows .zip or .7z release
+- sonsegajp/HWDER: repository not found
+- sonukumar-87/gow3_mac_port: no Windows .zip or .7z release
+- sp-hy/OpenCross: no Windows .zip or .7z release
+- sp00nznet/burnout3: no Windows .zip or .7z release
+- sp00nznet/carnevil: no Windows .zip or .7z release
+- sp00nznet/crazytaxi: no Windows .zip or .7z release
+- sp00nznet/ctxbla: no Windows .zip or .7z release
+- sp00nznet/diddykongracing: no Windows .zip or .7z release
+- sp00nznet/flow: no Windows .zip or .7z release
+- sp00nznet/gh3: no Windows .zip or .7z release
+- sp00nznet/hl2-recomp: no Windows .zip or .7z release
+- sp00nznet/linksawakening-portable: no Windows .zip or .7z release
+- sp00nznet/LinksAwakening: no Windows .zip or .7z release
+- sp00nznet/metalslug: no Windows .zip or .7z release
+- sp00nznet/neodriftout: no Windows .zip or .7z release
+- sp00nznet/racer: no Windows .zip or .7z release
+- sp00nznet/Rampage: no Windows .zip or .7z release
+- sp00nznet/saintsrow: no Windows .zip or .7z release
+- sp00nznet/simpsonsarcade-ps3: no Windows .zip or .7z release
+- sp00nznet/simpsonsarcade: no Windows .zip or .7z release
+- sp00nznet/vig8: no Windows .zip or .7z release
+- sp00nznet/ww: no Windows .zip or .7z release
+- SpeedyJustice2/Ridge-Racer-PSP-Static-Recomp: no Windows .zip or .7z release
+- sprucey149/openbf: no Windows .zip or .7z release
+- SrBananaMan/Hamster64Recomp: no Windows .zip or .7z release
+- SrIgorM/Evil_Zone_ps1_PC-: no Windows .zip or .7z release
+- srikanthamsa/urban-reign-macos: no Windows .zip or .7z release
+- SSBUArena/ssbu-arena: no Windows .zip or .7z release
+- SSunnKing/ZeldaWWHDRecompAndroid---ENHANCED: no Windows .zip or .7z release
+- Starkka15/skylanders-sa-pc: no Windows .zip or .7z release
+- Starkka15/spyro-aht-pc: no Windows .zip or .7z release
+- Starkka15/spyro-anb-pc: no Windows .zip or .7z release
+- Starkka15/spyro-dotd-pc: no Windows .zip or .7z release
+- stingziz0u/mk64-ps3: no Windows .zip or .7z release
+- stingziz0u/smashps3: no Windows .zip or .7z release
+- StopSine/GGA64Recomp: duplicate: fork of klorfmorf/Goemon64Recomp
+- STS78721/MKW-THWOMP: no Windows .zip or .7z release
+- Subarasheese/daytona-xbla-recomp: no Windows .zip or .7z release
+- SunJaycy/GoldenEye-Recomp: no Windows .zip or .7z release
+- superheher/south-park-tower-defence-recomp: no Windows .zip or .7z release
+- Supermedo/bloodborne_pc: duplicate: fork of deadinside28/bloodborne_pc
+- SuperSenad/Ultra-Instinct-Tears: no Windows .zip or .7z release
+- Suspence00/digdug-decomp: no Windows .zip or .7z release
+- svera/model1-recomps: duplicate: fork of mr-finster/vf1-recomp
+- swaymun/AC-Recomp: no Windows .zip or .7z release
+- sweatyeggs69/CircleMoon: no Windows .zip or .7z release
+- sweatyeggs69/KNID: no Windows .zip or .7z release
+- sweatyeggs69/MetroFuse: no Windows .zip or .7z release
+- sweatyeggs69/MetroZero: no Windows .zip or .7z release
+- sweatyeggs69/MinCap: no Windows .zip or .7z release
+- sweatyeggs69/SuperSaga: no Windows .zip or .7z release
+- sweeax-exe/ffny-online: no Windows .zip or .7z release
+- T5eng/nxnative_totk: no Windows .zip or .7z release
+- tabnul/the-last-guardian-definitive: duplicate: same download as HayatoG/tlg_pc
+- tangerineturtle1/NX2navi: no Windows .zip or .7z release
+- tangosdev/sm64ds-decomp: no Windows .zip or .7z release
+- tanihad/Sly-2-Native-Pc-port: no Windows .zip or .7z release
+- TanookiStudios/VPW64DeluxeRecomp: no Windows .zip or .7z release
+- tarball/doa4-recomp: no Windows .zip or .7z release
+- tarball/doax2-recomp-releases: no Windows .zip or .7z release
+- tarball/doax2-recomp: no Windows .zip or .7z release
+- tbittech/kof2002um-nx: no Windows .zip or .7z release
+- Team-Beef-Studios/BeefRaiderXR: no Windows .zip or .7z release
+- TechHookDev/Ocarune: no Windows .zip or .7z release
+- TechnicallyComputers/BattleShip: duplicate: fork of JRickey/BattleShip
+- TekRantGaming/sms-pc-port: repository not found
+- testdriveupgrade/TDURecomp: no Windows .zip or .7z release
+- teton-dev/ExaltDS: no Windows .zip or .7z release
+- thatcalikid760/TTT2-Recomp: repository not found
+- thebardockgames/Precursor: no Windows .zip or .7z release
+- TheBiemGamer/GiantsRecomp: no Windows .zip or .7z release
+- TheBozos/VP2S_Recomp: no Windows .zip or .7z release
+- theclub654/ProjectCane: no Windows .zip or .7z release
+- TheCodeGuardian/AliceMacnessReturns: no Windows .zip or .7z release
+- thefixinhixon/TheMawRecomp: no Windows .zip or .7z release
+- thegh0sts/NHL-19-PS4-PORT-WINDOWS: duplicate: fork of GNSB/UFC-3-PS4-PORT-LINUX-WINDOWS
+- thegh0sts/SS2R: duplicate: fork of GetLostIn/CTR-NitroFueled-PC
+- TheGh0stShip/Nagano-Winter-Olympics-98-N64: no Windows .zip or .7z release
+- TheMagnumChad/PokeZ-ARecomp-Online: duplicate: fork of Hexveil404/PokeZ-ARecomp
+- ThePlayer14/project-gate-recomp: no Windows .zip or .7z release
+- TheSaltTrader/Ninja-s-Dawn---A-Ninja-Gaiden-2-Recompilation-Project: repository not found
+- Thiago86/CAB2: no Windows .zip or .7z release
+- Thiago86/ct2_recomp_Crazy_Taxi_2_Dreamcast_static_recompilation_e_sh4: no Windows .zip or .7z release
+- ThiagoFraga761/infamous2-pc: no Windows .zip or .7z release
+- ThisIsAkill/Table-Tennis-Linux: no Windows .zip or .7z release
+- timbo722/ZLAA: no Windows .zip or .7z release
+- timftw21/smbd-recompilation: no Windows .zip or .7z release
+- Tiptup300/TheNewT64risRecomp: no Windows .zip or .7z release
+- tools81/link-faces-of-evil-static-recomp: no Windows .zip or .7z release
+- tools81/nfl-head-coach-09-static-recomp: no Windows .zip or .7z release
+- toowasmir/WebOfShadowsRecomp: repository not found
+- trrrrrrrrrree/gaki-kurobikari-recomp: no Windows .zip or .7z release
+- truwa/nathan-drake-collection-macos: no Windows .zip or .7z release
+- tsapZ/GiantsRecomp: no Windows .zip or .7z release
+- tsapZ/ImaginatorsRecomp: no Windows .zip or .7z release
+- tsapZ/SSARecomp: no Windows .zip or .7z release
+- tsapZ/SuperChargersRecomp: no Windows .zip or .7z release
+- tsapZ/SwapForceRecomp: no Windows .zip or .7z release
+- tsapZ/TrapTeamRecomp: no Windows .zip or .7z release
+- twist84/halo3_cache_release_recomp: no Windows .zip or .7z release
+- Tzeentchnet/MetalGearAcid-Recomp: no Windows .zip or .7z release
+- Tzeentchnet/MetalGearAcid2-Recomp: no Windows .zip or .7z release
+- udarmolota/XDroid360: no Windows .zip or .7z release
+- ughman/c2c: no Windows .zip or .7z release
+- umagamer83182/Shinobido-Way-of-the-Ninja-Native-PC-Port: no Windows .zip or .7z release
+- unisasquatch/dimensions-rebricked: no Windows .zip or .7z release
+- Unkn0wnAli4n/TOoT-R: no Windows .zip or .7z release
+- UnknuwProjects/Black-Continue: no Windows .zip or .7z release
+- Unowa001/crackdown-recomp: repository not found
+- username-promised-to-me-3000-years-ago/inFAMOUSreborn-AppleSilicon: no Windows .zip or .7z release
+- uzir1127/Ace-Combat-X-Recompilation: no Windows .zip or .7z release
+- VandalsEmpire/lain-psx-decompiled-android: no Windows .zip or .7z release
+- vasist15-source/BOTWRecomp: no Windows .zip or .7z release
+- venom13/pokefirered-dualscreen: no Windows .zip or .7z release
+- vgs499p/gt4-recomp-mac: no Windows .zip or .7z release
+- VitoMiguelF/crashott-pc: no Windows .zip or .7z release
+- vjravenlight/shadow-moses-web: no Windows .zip or .7z release
+- Vnnc1/MK8-online: no Windows .zip or .7z release
+- vr4all-standalone/survivor2-code-veronica-vr: no Windows .zip or .7z release
+- vVKamiVv/Open-Catbox-Project: no Windows .zip or .7z release
+- vyanhursky/DefJamFFNY-recomp: no Windows .zip or .7z release
+- vzepec/ac3-decomp: no Windows .zip or .7z release
+- Wannamingo/DOA3: no Windows .zip or .7z release
+- wanszai/Virtua-Racing---Xbox360: no Windows .zip or .7z release
+- wasdconnor/MajorasMask360: no Windows .zip or .7z release
+- wastelandgunner/pokemon-colosseum-recompiled: no Windows .zip or .7z release
+- Waterdish/2ship2harkinian-Android: no Windows .zip or .7z release
+- Waterdish/Shipwright-Android: no Windows .zip or .7z release
+- Waterdish/zelda3-android: no Windows .zip or .7z release
+- whachuvr/Skate3VR: no Windows .zip or .7z release
+- whompay/Fable2Reborn: no Windows .zip or .7z release
+- whompay/FNCReborn: no Windows .zip or .7z release
+- whompay/GodfatherReborn: no Windows .zip or .7z release
+- whompay/inFAMOUS2reborn: no Windows .zip or .7z release
+- whompay/inFAMOUSreborn: no Windows .zip or .7z release
+- whompay/SaintsReborn: no Windows .zip or .7z release
+- wipeout-phantom-edition/wipeout-phantom-edition: no Windows .zip or .7z release
+- WistfulHopes/DBZ1: no Windows .zip or .7z release
+- WistfulHopes/RB2: no Windows .zip or .7z release
+- wizydeka-lang/naruto-storm3-recomp: no Windows .zip or .7z release
+- wizydeka-lang/NarutoRevXbox: no Windows .zip or .7z release
+- WK2D/White-Knight-Chronicles-2-Recomp: no Windows .zip or .7z release
+- WNBDEV/alter-echo-recomp: no Windows .zip or .7z release
+- WoofahRayetCode/inFAMOUS-US: no Windows .zip or .7z release
+- Wooloomooloo2/bloodborne_mac_port: no Windows .zip or .7z release
+- WR3CKINGBALL/tssm-recomp: no Windows .zip or .7z release
+- Wuteva/RogueTripRecomp: no Windows .zip or .7z release
+- wuzzy450/OpenRaven: no Windows .zip or .7z release
+- xander-haj/Z3R-Launcher: no Windows .zip or .7z release
+- xandoxan65/segarally95-recomp: no Windows .zip or .7z release
+- XAndromedaXR/PORTHEON: duplicate: fork of GNSB/UFC-3-PS4-PORT-LINUX-WINDOWS
+- xdivorex-gif/spiderman-2002-pc: no Windows .zip or .7z release
+- xenophobentx/takedawn: no Windows .zip or .7z release
+- xenosworks/dusklight-xenon: no Windows .zip or .7z release
+- xFractals/pokopia-native: repository not found
+- xPXavierx/bleach-soul-resurreccion-recomp: no Windows .zip or .7z release
+- xPXavierx/gow3-macos-arm64: no Windows .zip or .7z release
+- xtamqispeak/KirbyRecomp: no Windows .zip or .7z release
+- Yash-Singh1/wipeout-xl-rewrite: no Windows .zip or .7z release
+- yassinsolim/mw2-recomp: no Windows .zip or .7z release
+- YodaMMM/NightfirePort: no Windows .zip or .7z release
+- YoshiCrystal9/re-gh2: no Windows .zip or .7z release
+- ysrdevs/goldeneye-metal: no Windows .zip or .7z release
+- YYOzcan/Tobiichi-Port: no Windows .zip or .7z release
+- YYOzcan/tokisaki-port: no Windows .zip or .7z release
+- z2442/oot-PSP: no Windows .zip or .7z release
+- z3xox/BT3-Recomp: no Windows .zip or .7z release
+- zackfairestar-debug/reblue-android: no Windows .zip or .7z release
+- zchady/reflora: no Windows .zip or .7z release
+- ze-castro/spartan-total-warrior-recomp: no Windows .zip or .7z release
+- zeldaret/tmc: no Windows .zip or .7z release
+- zestydevy/smash64r: no Windows .zip or .7z release
+- ZloiKILLER/nfs3recompiled-android: no Windows .zip or .7z release
+- ZloiKILLER/nfshp2-port-win: no Windows .zip or .7z release
+- zofiansalonga-bit/one-piece-grand-battle-2-recomp: no Windows .zip or .7z release
+- zonehammer/conan-recomp: no Windows .zip or .7z release
+- zonehammer/fightnight-recomp: no Windows .zip or .7z release
+- zonehammer/wet-recomp: no Windows .zip or .7z release
+- zorde23/Uncharted_Collection_PC: duplicate: fork of FelipePrado0/SpartanPort
+- zschwendi/117-vision: no Windows .zip or .7z release
+- ztpeditor/project-amp: repository not found
+- zwaetschge/ACGC-Android-Port: no Windows .zip or .7z release
+- zWalt01/Country-Box: no Windows .zip or .7z release

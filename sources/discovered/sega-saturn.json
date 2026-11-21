@@ -1,0 +1,373 @@
+[
+  {
+    "id": "baroque-saturnrecomp",
+    "name": "Baroque (SaturnRecomp)",
+    "game": "Baroque",
+    "shortName": "Baroque",
+    "platform": "Sega Saturn",
+    "aliases": [],
+    "developer": "goodshepherd23",
+    "kind": "port",
+    "description": "Baroque ported to run natively on PC from the Saturn version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/goodshepherd23/Baroque-SaturnRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Baroque-SaturnRecomp-v*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "blast-wind-recomp",
+    "name": "Blast Wind Recomp",
+    "game": "Blast Wind",
+    "shortName": "Blast Wind",
+    "platform": "Sega Saturn",
+    "aliases": [
+      "Blast Wind (Blast Wind Recomp)"
+    ],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Blast Wind ported to run natively on PC from the Saturn version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Blast-Wind-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Blast-Wind-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "fighters-megamix-recomp",
+    "name": "Fighters Megamix Recomp",
+    "game": "Fighters Megamix",
+    "shortName": "Fighters Megamix",
+    "platform": "Sega Saturn",
+    "aliases": [],
+    "developer": "tmcleroy",
+    "kind": "port",
+    "description": "Fighters Megamix ported to run natively on PC from the Saturn version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/tmcleroy/fighters-megamix-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FightersMegamix-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "fighting-vipers-recomp",
+    "name": "Fighting Vipers Recomp",
+    "game": "Fighting Vipers",
+    "shortName": "Fighting Vipers",
+    "platform": "Sega Saturn",
+    "aliases": [
+      "Fighting Vipers (Fighting Vipers Recomp)"
+    ],
+    "developer": "tmcleroy",
+    "kind": "port",
+    "description": "Fighting Vipers ported to run natively on PC from the Saturn version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/tmcleroy/fighting-vipers-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FightingVipers-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "guardian-heroes-hd-remaster",
+    "name": "Guardian Heroes HD Remaster",
+    "game": "Guardian Heroes",
+    "shortName": "Guardian Heroes",
+    "platform": "Sega Saturn",
+    "aliases": [],
+    "developer": "faligame",
+    "kind": "port",
+    "description": "Guardian Heroes ported to run natively on PC from the Saturn version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/faligame/Guardian-Heroes-HD-Remaster",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GuardianHeroesHD-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hyper-duel-recomp",
+    "name": "Hyper Duel Recomp",
+    "game": "Hyper Duel",
+    "shortName": "Hyper Duel",
+    "platform": "Sega Saturn",
+    "aliases": [
+      "Hyper Duel (Hyper Duel Recomp)"
+    ],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Hyper Duel ported to run natively on PC from the Saturn version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Hyper-Duel-Recomp-",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Hyper-Duel-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pal-saturn-recomp",
+    "name": "PAL Saturn Recomp",
+    "game": "The Legend of Sword and Fairy",
+    "shortName": "The Legend of Sword and Fairy",
+    "platform": "Sega Saturn",
+    "aliases": [
+      "The Legend of Sword and Fairy (PAL Saturn Recomp)"
+    ],
+    "developer": "yifengling0",
+    "kind": "port",
+    "description": "The Legend of Sword and Fairy ported to run natively on PC from the Saturn version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/yifengling0/pal-saturn-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "pal-saturn-recomp-*-win-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pc-saturnbomberman",
+    "name": "Pc Saturnbomberman",
+    "game": "Saturn Bomberman",
+    "shortName": "Saturn Bomberman",
+    "platform": "Sega Saturn",
+    "aliases": [
+      "Saturn Bomberman (pc-saturnbomberman)"
+    ],
+    "developer": "callumjenkins",
+    "kind": "port",
+    "description": "Saturn Bomberman ported to run natively on PC from the Saturn version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/callumjenkins/pc-saturnbomberman",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "radiant-slivergun-recomp",
+    "name": "Radiant Silvergun Recomp",
+    "game": "Radiant Silvergun",
+    "shortName": "Radiant Silvergun",
+    "platform": "Sega Saturn",
+    "aliases": [
+      "Radiant Silvergun (Radiant Silvergun Recomp)"
+    ],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Radiant Silvergun ported to run natively on PC from the Saturn version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Radiant-Silvergun-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "saturntaisen",
+    "name": "SaturnTaisen",
+    "game": "Sakura Wars",
+    "shortName": "Sakura Wars",
+    "platform": "Sega Saturn",
+    "aliases": [
+      "Sakura Wars (SaturnTaisen)"
+    ],
+    "developer": "MatyMeatBoy",
+    "kind": "port",
+    "description": "Sakura Wars ported to run natively on PC from the Saturn version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/MatyMeatBoy/SaturnTaisen",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SaturnTaisen-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sfiii-native",
+    "name": "Shining Force III Recomp",
+    "game": "Shining Force III",
+    "shortName": "Shining Force III",
+    "platform": "Sega Saturn",
+    "aliases": [],
+    "developer": "mattkuhnQAAI",
+    "kind": "port",
+    "description": "Shining Force III ported to run natively on PC from the Saturn version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mattkuhnQAAI/sfiii-native",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SFIII-Native-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

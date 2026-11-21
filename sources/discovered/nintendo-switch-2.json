@@ -1,0 +1,672 @@
+[
+  {
+    "id": "age-of-decomp",
+    "name": "Age of Decomp",
+    "game": "Hyrule Warriors: Age of Imprisonment",
+    "shortName": "Hyrule Warriors: Age of Imprisonment",
+    "platform": "Nintendo Switch 2",
+    "aliases": [],
+    "developer": "iCosiSenpai",
+    "kind": "recomp",
+    "description": "Hyrule Warriors: Age of Imprisonment recompiled from the Switch 2 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/iCosiSenpai/age-of-decomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "AgeOfDecomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dkb-pc-recomp",
+    "name": "Donkey Kong Bananza PC Recomp",
+    "game": "Donkey Kong Bananza",
+    "shortName": "Donkey Kong Bananza",
+    "platform": "Nintendo Switch 2",
+    "aliases": [],
+    "developer": "Lucas-blip-png",
+    "kind": "recomp",
+    "description": "Donkey Kong Bananza recompiled from the Switch 2 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Lucas-blip-png/dkb-pc-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DKB-Setup-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "emblemweave",
+    "name": "EmblemWeave",
+    "game": "Fire Emblem: Fortune's Weave",
+    "shortName": "Fire Emblem: Fortune's Weave",
+    "platform": "Nintendo Switch 2",
+    "aliases": [],
+    "developer": "XiONDiGiTaL",
+    "kind": "port",
+    "description": "Fire Emblem: Fortune's Weave ported to run natively on PC from the Switch 2 version.",
+    "requirement": "",
+    "features": [
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/XiONDiGiTaL/EmblemWeave",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "EmblemWeave-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "fritchii",
+    "name": "Fritchii",
+    "game": "The Legend of Zelda: Ocarina of Time Switch 2 Edition",
+    "shortName": "The Legend of Zelda: Ocarina of Time Switch 2 Edition",
+    "platform": "Nintendo Switch 2",
+    "aliases": [
+      "The Legend of Zelda: Ocarina of Time Switch 2 Edition (Fritchii)"
+    ],
+    "developer": "Frizti",
+    "kind": "port",
+    "description": "The Legend of Zelda: Ocarina of Time Switch 2 Edition ported to run natively on PC from the Switch 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Frizti/Fritchii",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "heylisten",
+    "name": "HeyListen",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "shortName": "The Legend of Zelda: Ocarina of Time",
+    "platform": "Nintendo Switch 2",
+    "aliases": [],
+    "developer": "Sacrappy",
+    "kind": "port",
+    "description": "The Legend of Zelda: Ocarina of Time ported to run natively on PC from the Switch 2 version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/Sacrappy/HeyListen",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "HeyListen-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hwaoi-recomp",
+    "name": "HWAoI Recomp",
+    "game": "Hyrule Warriors: Age of Imprisonment",
+    "shortName": "Hyrule Warriors: Age of Imprisonment",
+    "platform": "Nintendo Switch 2",
+    "aliases": [],
+    "developer": "Alano6678",
+    "kind": "recomp",
+    "description": "Hyrule Warriors: Age of Imprisonment recompiled from the Switch 2 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Alano6678/hwaoi-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "HWAoI-Compiler-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "inhale",
+    "name": "Inhale",
+    "game": "Kirby and the Forgotten Land",
+    "shortName": "Kirby and the Forgotten Land",
+    "platform": "Nintendo Switch 2",
+    "aliases": [],
+    "developer": "mario-ttide",
+    "kind": "port",
+    "description": "Kirby and the Forgotten Land ported to run natively on PC from the Switch 2 version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/mario-ttide/Inhale",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Inhale-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "kart-recomp",
+    "name": "Kart Recomp",
+    "game": "Mario Kart World",
+    "shortName": "Mario Kart World",
+    "platform": "Nintendo Switch 2",
+    "aliases": [],
+    "developer": "MIXIDtheSilly",
+    "kind": "port",
+    "description": "Mario Kart World ported to run natively on PC from the Switch 2 version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/MIXIDtheSilly/kart-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "kart-recomp-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mkw-recomp",
+    "name": "MKW Recomp",
+    "game": "Mario Kart World",
+    "shortName": "Mario Kart World",
+    "platform": "Nintendo Switch 2",
+    "aliases": [],
+    "developer": "adriadam10",
+    "kind": "port",
+    "description": "Mario Kart World ported to run natively on PC from the Switch 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/adriadam10/mkw-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "mkw-recomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "obeliskchamber",
+    "name": "ObeliskChamber",
+    "game": "Fire Emblem: Fortune's Weave",
+    "shortName": "Fire Emblem: Fortune's Weave",
+    "platform": "Nintendo Switch 2",
+    "aliases": [
+      "Fire Emblem: Fortune's Weave (Obelisk Chamber)"
+    ],
+    "developer": "xinthefreefallxai",
+    "kind": "port",
+    "description": "Fire Emblem: Fortune's Weave ported to run natively on PC from the Switch 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/xinthefreefallxai/ObeliskChamber",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ObeliskChamber-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ocarina-recomp",
+    "name": "Ocarina Recomp",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "shortName": "The Legend of Zelda: Ocarina of Time",
+    "platform": "Nintendo Switch 2",
+    "aliases": [],
+    "developer": "sostenesfreitas",
+    "kind": "port",
+    "description": "The Legend of Zelda: Ocarina of Time ported to run natively on PC from the Switch 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/sostenesfreitas/ocarina-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Ocarina-Setup-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "oot-pc",
+    "name": "OOT PC",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "shortName": "The Legend of Zelda: Ocarina of Time",
+    "platform": "Nintendo Switch 2",
+    "aliases": [
+      "The Legend of Zelda: Ocarina of Time (OOT-PC)"
+    ],
+    "developer": "NovaOOT",
+    "kind": "port",
+    "description": "The Legend of Zelda: Ocarina of Time ported to run natively on PC from the Switch 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/NovaOOT/OOT-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "OOT-PC-app-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pokopia-ps5-port",
+    "name": "Pokopia PS5 Port",
+    "game": "Pokemon Pokopia",
+    "shortName": "Pokemon Pokopia",
+    "platform": "Nintendo Switch 2",
+    "aliases": [
+      "Pokemon Pokopia (Pokopia PS5 Port)"
+    ],
+    "developer": "KongaTime",
+    "kind": "port",
+    "description": "Pokemon Pokopia ported to run natively on PC from the Switch 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/KongaTime/pokopia-ps5-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PokopiaPS5Port-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "projectrelink",
+    "name": "ProjectReLink",
+    "game": "The Legend of Zelda: Ocarina of Time Remake",
+    "shortName": "The Legend of Zelda: Ocarina of Time Remake",
+    "platform": "Nintendo Switch 2",
+    "aliases": [
+      "The Legend of Zelda: Ocarina of Time Remake (Project ReLink)"
+    ],
+    "developer": "pixl27",
+    "kind": "port",
+    "description": "The Legend of Zelda: Ocarina of Time Remake ported to run natively on PC from the Switch 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/pixl27/ProjectReLink",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ProjectReLink-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "recompia",
+    "name": "Recompia",
+    "game": "Pokemon Pokopia",
+    "shortName": "Pokemon Pokopia",
+    "platform": "Nintendo Switch 2",
+    "aliases": [],
+    "developer": "Dittobyte",
+    "kind": "port",
+    "description": "Pokemon Pokopia ported to run natively on PC from the Switch 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Dittobyte/Recompia",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PokopiaRecomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "spaceanimalsrecomp",
+    "name": "Space Animals Recomp",
+    "game": "Star Fox",
+    "shortName": "Star Fox",
+    "platform": "Nintendo Switch 2",
+    "aliases": [
+      "Star Fox (2026)"
+    ],
+    "developer": "SerenityG4K",
+    "kind": "recomp",
+    "description": "Star Fox recompiled from the Switch 2 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/SerenityG4K/SpaceAnimalsRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SpaceAnimalsRecomp-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "spaceanimalsrecomp-3d",
+    "name": "SpaceAnimalsRecomp 3D",
+    "game": "Star Fox",
+    "shortName": "Star Fox",
+    "platform": "Nintendo Switch 2",
+    "aliases": [
+      "Star Fox (SpaceAnimalsRecomp 3D)"
+    ],
+    "developer": "agrofubris",
+    "kind": "port",
+    "description": "Star Fox ported to run natively on PC from the Switch 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/agrofubris/SpaceAnimalsRecomp-3D",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SpaceAnimalsRecomp-3D-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "spr-recomp-project",
+    "name": "SPR Recomp",
+    "game": "Splatoon Raiders",
+    "shortName": "Splatoon Raiders",
+    "platform": "Nintendo Switch 2",
+    "aliases": [],
+    "developer": "Elie-0066",
+    "kind": "recomp",
+    "description": "Splatoon Raiders recompiled from the Switch 2 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/Elie-0066/SPR-Recomp-Project",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SPR-Setup-*+*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "switch2-recomp",
+    "name": "Pokopia Recomp",
+    "game": "Pokopia",
+    "shortName": "Pokopia",
+    "platform": "Nintendo Switch 2",
+    "aliases": [
+      "Pokémon Pokopia"
+    ],
+    "developer": "drakolordx7",
+    "kind": "recomp",
+    "description": "Pokopia recompiled from the Switch 2 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/drakolordx7/switch2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PokopiaRecomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "xc2-ns2-recomp",
+    "name": "XC2 NS2 Recomp",
+    "game": "Xenoblade Chronicles 2",
+    "shortName": "Xenoblade Chronicles 2",
+    "platform": "Nintendo Switch 2",
+    "aliases": [],
+    "developer": "weile10000",
+    "kind": "port",
+    "description": "Xenoblade Chronicles 2 ported to run natively on PC from the Switch 2 version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/weile10000/xc2-ns2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "XC2-package-dist-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

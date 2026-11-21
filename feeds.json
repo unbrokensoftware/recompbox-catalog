@@ -3,6 +3,20 @@
   // repository wins, so our own entries stay first. Switch a feed with "enabled", add one by copying a block.
   // Types: local (a folder in this repo), url (an https JSON file in our entry format),
   // retcomm (a RetComM-style catalog repo), github-topics (writes a candidates report, never publishes).
+  // "discover" lists are read by the weekly harvest (--harvest) only to find new GitHub repositories; each one is
+  // checked and added under sources/discovered as our own entry. Our text, not theirs.
+  "removeAfterDays": 7,
+  "discover": [
+    { "id": "recomplauncher", "type": "recomplauncher", "url": "https://recomplauncher.com/pc-catalog.json", "note": "No data license: used only to find repositories and Windows download patterns." },
+    { "id": "recompendium", "type": "recompendium", "url": "https://recompendium.com/unricopie/catalogo.json", "note": "Recompendium (github.com/Nio03/unricopie), data CC BY-SA 4.0." },
+    { "id": "portcove", "type": "portcove", "url": "https://raw.githubusercontent.com/boburning/portcove/main/crates/portcove-core/catalog/listings.json", "note": "Portcove, Apache-2.0. Game titles only (no platform field)." },
+    { "id": "decompbuddy", "type": "decompbuddy", "url": "https://tanookistudios.com/decomp-buddy/catalog.json", "note": "No data license: used only to find repositories." },
+    { "id": "portslauncher", "type": "portslauncher", "url": "https://ports-launcher.nyaruhodo.com/catalog.json", "note": "No data license: used only to find repositories." },
+    { "id": "quiver-nintendo", "type": "quiver-community", "url": "https://raw.githubusercontent.com/tgeorgiadis/quiver-community-app-catalog/main/community-app-catalog/Nintendo.json", "note": "Quiver community catalog (deprecated, still readable). No data license: used only to find repositories." },
+    { "id": "quiver-playstation", "type": "quiver-community", "url": "https://raw.githubusercontent.com/tgeorgiadis/quiver-community-app-catalog/main/community-app-catalog/PlayStation.json", "note": "Quiver community catalog (deprecated, still readable). No data license: used only to find repositories." },
+    { "id": "quiver-xbox", "type": "quiver-community", "url": "https://raw.githubusercontent.com/tgeorgiadis/quiver-community-app-catalog/main/community-app-catalog/Xbox.json", "note": "Quiver community catalog (deprecated, still readable). No data license: used only to find repositories." },
+    { "id": "quiver-otherplatforms", "type": "quiver-community", "url": "https://raw.githubusercontent.com/tgeorgiadis/quiver-community-app-catalog/main/community-app-catalog/OtherPlatforms.json", "note": "Quiver community catalog (deprecated, still readable). No data license: used only to find repositories." }
+  ],
   "feeds": [
     {
       "id": "ours",

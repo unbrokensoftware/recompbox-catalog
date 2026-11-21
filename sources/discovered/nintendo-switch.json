@@ -1,0 +1,2649 @@
+[
+  {
+    "id": "acnhrecomp",
+    "name": "ACNHRecomp",
+    "game": "Animal Crossing: New Horizons",
+    "shortName": "Animal Crossing: New Horizons",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "Nycolazs",
+    "kind": "recomp",
+    "description": "Animal Crossing: New Horizons recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Nycolazs/ACNHRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ACNHRecomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ageofcalamityrecomp",
+    "name": "Age of Calamity Recomp",
+    "game": "Hyrule Warriors: Age of Calamity",
+    "shortName": "Hyrule Warriors: Age of Calamity",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "eliasm4r",
+    "kind": "port",
+    "description": "Hyrule Warriors: Age of Calamity ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/eliasm4r/AgeOfCalamityRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "AgeOfCalamityRecomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "arms-rearmed",
+    "name": "ARMS Rearmed",
+    "game": "ARMS",
+    "shortName": "ARMS",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "VirtuaQuest",
+    "kind": "port",
+    "description": "ARMS ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/VirtuaQuest/Arms-Rearmed",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ARMS-Rearmed-v*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "astralchain-pc",
+    "name": "Astral Chain PC",
+    "game": "Astral Chain",
+    "shortName": "Astral Chain",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "Puddz",
+    "kind": "port",
+    "description": "Astral Chain ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Puddz/AstralChain-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "AstralChain-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "b2recomp",
+    "name": "B2 Recomp",
+    "game": "Bayonetta 2",
+    "shortName": "Bayonetta 2",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "K0NL",
+    "kind": "recomp",
+    "description": "Bayonetta 2 recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/K0NL/B2recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "B2recomp-builder-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "b3-express",
+    "name": "B3 Express",
+    "game": "Bayonetta 3",
+    "shortName": "Bayonetta 3",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "LuvAbyss",
+    "kind": "port",
+    "description": "Bayonetta 3 ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/LuvAbyss/B3-Express",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "B3-Express-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "bayo3-recomp",
+    "name": "Bayonetta 3 Recomp",
+    "game": "Bayonetta 3",
+    "shortName": "Bayonetta 3",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "aoxzh",
+    "kind": "port",
+    "description": "Bayonetta 3 ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/aoxzh/bayo3-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Bayonetta3Recomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "botw-vr-recomp",
+    "name": "BOTW VR Recomp",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "shortName": "The Legend of Zelda: Breath of the Wild",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "guideahon",
+    "kind": "port",
+    "description": "The Legend of Zelda: Breath of the Wild ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/guideahon/BOTW-VR-RECOMP",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SavageWind-VR-0.5.0-alpha.5-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "brothership-recomp",
+    "name": "Brothership Recomp",
+    "game": "Mario & Luigi: Brothership",
+    "shortName": "Mario & Luigi: Brothership",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "Coaltergeist",
+    "kind": "port",
+    "description": "Mario & Luigi: Brothership ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Coaltergeist/Brothership-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BrothershipRecomp-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "cadence-pc-recomp",
+    "name": "Cadence of Recomp",
+    "game": "Cadence of Hyrule",
+    "shortName": "Cadence of Hyrule",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "SilvioDiaz",
+    "kind": "port",
+    "description": "Cadence of Hyrule ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/SilvioDiaz/cadence-pc-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Cadence-Setup-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "cruisn-blast-recomp",
+    "name": "Cruis'n Blast Recomp",
+    "game": "Cruis'n Blast",
+    "shortName": "Cruis'n Blast",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "darkuni",
+    "kind": "port",
+    "description": "Cruis'n Blast ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/darkuni/cruisn-blast-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "CruisnBlast-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "diablo-iii-switch-recomp",
+    "name": "Switch Recomp",
+    "game": "Diablo III: Eternal Collection",
+    "shortName": "Diablo III: Eternal Collection",
+    "platform": "Nintendo Switch",
+    "aliases": [
+      "Diablo III: Eternal Collection (Switch Recomp)"
+    ],
+    "developer": "retrogameworld",
+    "kind": "port",
+    "description": "Diablo III: Eternal Collection ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/retrogameworld/Diablo-III-Switch-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Diablo3Recomp_Windows_*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "doa-xtreme-3rd",
+    "name": "Dead or Alive Xtreme 3 Scarlet",
+    "game": "Dead or Alive Xtreme 3 Scarlet",
+    "shortName": "Dead or Alive Xtreme 3 Scarlet",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "VirtuaQuest",
+    "kind": "port",
+    "description": "Dead or Alive Xtreme 3 Scarlet ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/VirtuaQuest/DOA-Xtreme-3rd",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DOAX3Recomp-v*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "excuuuuse-me-princess",
+    "name": "AoC Recomp",
+    "game": "Hyrule Warriors: Age of Calamity",
+    "shortName": "Hyrule Warriors: Age of Calamity",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "Azzulin",
+    "kind": "port",
+    "description": "Hyrule Warriors: Age of Calamity ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Azzulin/EXCUUUUSE-ME-PRINCESS-",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "AoC-Recomp-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "fe3h-pc-recomp",
+    "name": "FE3H PC Recomp",
+    "game": "Fire Emblem: Three Houses",
+    "shortName": "Fire Emblem: Three Houses",
+    "platform": "Nintendo Switch",
+    "aliases": [
+      "Fire Emblem: Three Houses (FE3H PC Recomp)"
+    ],
+    "developer": "jaigner-hub",
+    "kind": "port",
+    "description": "Fire Emblem: Three Houses ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/jaigner-hub/fe3h-pc-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FE3H-Setup-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "fefw-recomp",
+    "name": "FEFW Recomp Preview",
+    "game": "Fire Emblem: Fortune's Weave",
+    "shortName": "Fire Emblem: Fortune's Weave",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "GregorioRuiz98",
+    "kind": "port",
+    "description": "Fire Emblem: Fortune's Weave ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/GregorioRuiz98/fefw-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FEFW-Recomp-Windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gu-native",
+    "name": "Gu Native",
+    "game": "Monster Hunter Generations Ultimate",
+    "shortName": "Monster Hunter Generations Ultimate",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "khorne-hub",
+    "kind": "port",
+    "description": "Monster Hunter Generations Ultimate ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/khorne-hub/gu-native",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MHGU-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hayarigami-recomp",
+    "name": "Hayarigami Recomp",
+    "game": "Shin Hayarigami 1.2.3 Pack",
+    "shortName": "Shin Hayarigami 1.2.3 Pack",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "ACGNnsj",
+    "kind": "port",
+    "description": "Shin Hayarigami 1.2.3 Pack ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ACGNnsj/hayarigami-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "hayarigami-123-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hotel-luigi",
+    "name": "Hotel Luigi",
+    "game": "Luigi's Mansion 3",
+    "shortName": "Luigi's Mansion 3",
+    "platform": "Nintendo Switch",
+    "aliases": [
+      "Luigi's Mansion 3 (Hotel Luigi)"
+    ],
+    "developer": "Zexyen",
+    "kind": "port",
+    "description": "Luigi's Mansion 3 ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Zexyen/Hotel-Luigi",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Recomp-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hwder",
+    "name": "HWDER",
+    "game": "Hyrule Warriors: Definitive Edition",
+    "shortName": "Hyrule Warriors: Definitive Edition",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "blocker-3",
+    "kind": "recomp",
+    "description": "Hyrule Warriors: Definitive Edition recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "gyro",
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/blocker-3/HWDER",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "HWDER-setup-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "kirby-forgotten-land-recompiled",
+    "name": "Kirby and the Forgotten Land Recompiled",
+    "game": "Kirby and the Forgotten Land",
+    "shortName": "Kirby and the Forgotten Land",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "scarxity",
+    "kind": "port",
+    "description": "Kirby and the Forgotten Land ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/scarxity/kirby-forgotten-land-recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ForgottenLandRecomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "kirby-redream",
+    "name": "Kirby: Redream",
+    "game": "Kirby's Return to Dream Land Deluxe",
+    "shortName": "Kirby's Return to Dream Land Deluxe",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "josiahg2502-glitch",
+    "kind": "port",
+    "description": "Kirby's Return to Dream Land Deluxe ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/josiahg2502-glitch/Kirby-Redream",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Kirby-Redream-PC.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "knife",
+    "name": "knife",
+    "game": "Tsukihime -A piece of blue glass moon-",
+    "shortName": "Tsukihime -A piece of blue glass moon-",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "AuroraWright",
+    "kind": "port",
+    "description": "Tsukihime -A piece of blue glass moon- ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/AuroraWright/knife",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "knife-x86_64-pc-windows-msvc.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "lasrecomp",
+    "name": "LAS Recomp",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "shortName": "The Legend of Zelda: Link's Awakening",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "peiikai",
+    "kind": "recomp",
+    "description": "The Legend of Zelda: Link's Awakening recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/peiikai/LASRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "LAS.Recomp-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "letsgo-recomp",
+    "name": "Let's Go Recomp",
+    "game": "Pokémon: Let's Go, Pikachu!",
+    "shortName": "Pokémon: Let's Go, Pikachu!",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "raulzrrs",
+    "kind": "recomp",
+    "description": "Pokémon: Let's Go, Pikachu! recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/raulzrrs/letsgo-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "LetsGoRecomp-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "lza-recomp",
+    "name": "LZA Recomp",
+    "game": "Pokémon Legends: Arceus",
+    "shortName": "Pokémon Legends: Arceus",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "MrWifi1143",
+    "kind": "port",
+    "description": "Pokémon Legends: Arceus ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/MrWifi1143/LZA-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "LZA-Recomp-ZA-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mansion2recomp",
+    "name": "Mansion2Recomp",
+    "game": "Luigi's Mansion 2 HD",
+    "shortName": "Luigi's Mansion 2 HD",
+    "platform": "Nintendo Switch",
+    "aliases": [
+      "Luigi's Mansion 2 HD (Mansion2Recomp)"
+    ],
+    "developer": "LuisDevGaming",
+    "kind": "port",
+    "description": "Luigi's Mansion 2 HD ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/LuisDevGaming/Mansion2Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "LuigisMansion2HD-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "marvel-ultimate-alliance-3-recomp",
+    "name": "MUA3 Recomp",
+    "game": "Marvel Ultimate Alliance 3: The Black Order",
+    "shortName": "Marvel Ultimate Alliance 3: The Black Order",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "VirtuaQuest",
+    "kind": "port",
+    "description": "Marvel Ultimate Alliance 3: The Black Order ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/VirtuaQuest/Marvel-Ultimate-Alliance-3-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MUA3-Recomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "metrist38-fefw-recomp",
+    "name": "FEFW Recomp",
+    "game": "Fire Emblem: Fortune's Weave",
+    "shortName": "Fire Emblem: Fortune's Weave",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "metrist38",
+    "kind": "port",
+    "description": "Fire Emblem: Fortune's Weave ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/metrist38/fefw-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "fefw-recomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "metroid-dread-recomp",
+    "name": "Metroid Dread Recomp",
+    "game": "Metroid Dread",
+    "shortName": "Metroid Dread",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "yozander2009-stack",
+    "kind": "recomp",
+    "description": "Metroid Dread recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MetroidDread-PC-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "metroid-prime-4-recomp",
+    "name": "Metroid Prime 4 Recomp",
+    "game": "Metroid Prime 4: Beyond",
+    "shortName": "Metroid Prime 4: Beyond",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "jaigner-hub",
+    "kind": "port",
+    "description": "Metroid Prime 4: Beyond ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/jaigner-hub/metroid-prime-4-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MP4-Setup-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "metroidprimeremasteredrecomp",
+    "name": "Metroid Prime Remastered (drakolordx7)",
+    "game": "Metroid Prime",
+    "shortName": "Metroid Prime",
+    "platform": "Nintendo Switch",
+    "aliases": [
+      "Metroid Prime Remastered"
+    ],
+    "developer": "drakolordx7",
+    "kind": "recomp",
+    "description": "Metroid Prime recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/drakolordx7/MetroidPrimeRemasteredRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "mpr-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mhgu-relink",
+    "name": "MHGU Relink",
+    "game": "Monster Hunter Generations Ultimate",
+    "shortName": "Monster Hunter Generations Ultimate",
+    "platform": "Nintendo Switch",
+    "aliases": [
+      "Monster Hunter Generations Ultimate (MHGU Relink)"
+    ],
+    "developer": "MEKCCK",
+    "kind": "port",
+    "description": "Monster Hunter Generations Ultimate ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/MEKCCK/MHGU-Relink",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "mhgu-relink-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mhgurecomp",
+    "name": "MHGU Recomp",
+    "game": "Monster Hunter Generations Ultimate",
+    "shortName": "Monster Hunter Generations Ultimate",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "morerokk",
+    "kind": "recomp",
+    "description": "Monster Hunter Generations Ultimate recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/morerokk/MHGURecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Windows-MHGURecomp.*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mlbts-native",
+    "name": "MLB The Show 26 for PC",
+    "game": "MLB The Show 26",
+    "shortName": "MLB The Show 26",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "sam110411",
+    "kind": "port",
+    "description": "MLB The Show 26 ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/sam110411/mlbts-native",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MLBTS-Setup-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "monado-ii",
+    "name": "Monado II",
+    "game": "Xenoblade Chronicles: Definitive Edition",
+    "shortName": "Xenoblade Chronicles: Definitive Edition",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "brendonbusker",
+    "kind": "port",
+    "description": "Xenoblade Chronicles: Definitive Edition ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/brendonbusker/Monado-II",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "monado-ii-windows-*-setup.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "monado-reborn",
+    "name": "Monado",
+    "game": "Xenoblade Chronicles: Definitive Edition",
+    "shortName": "Xenoblade Chronicles: Definitive Edition",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "Ivanprestef2",
+    "kind": "port",
+    "description": "Xenoblade Chronicles: Definitive Edition ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Ivanprestef2/Monado-Reborn",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Monado-Windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mp4-recomp",
+    "name": "Mp4 Recomp",
+    "game": "Metroid Prime 4: Beyond",
+    "shortName": "Metroid Prime 4: Beyond",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "linuxopt",
+    "kind": "recomp",
+    "description": "Metroid Prime 4: Beyond recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/linuxopt/mp4-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MetroidPrime4Recomp-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mua3-native",
+    "name": "MUA3 Native",
+    "game": "Marvel Ultimate Alliance 3: The Black Order",
+    "shortName": "Marvel Ultimate Alliance 3: The Black Order",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "KaikoClanworth1",
+    "kind": "port",
+    "description": "Marvel Ultimate Alliance 3: The Black Order ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/KaikoClanworth1/mua3-native",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MUA3Native-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mua3-pc-recomp",
+    "name": "MUA3 Recomp",
+    "game": "Marvel Ultimate Alliance 3: The Black Order",
+    "shortName": "Marvel Ultimate Alliance 3: The Black Order",
+    "platform": "Nintendo Switch",
+    "aliases": [
+      "Marvel Ultimate Alliance 3: The Black Order (MUA3 Recomp)"
+    ],
+    "developer": "SilvioDiaz",
+    "kind": "port",
+    "description": "Marvel Ultimate Alliance 3: The Black Order ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/SilvioDiaz/mua3-pc-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MUA3-Setup-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "new-pokemon-snap-recomp",
+    "name": "Snap Recomp",
+    "game": "New Pokemon Snap",
+    "shortName": "New Pokemon Snap",
+    "platform": "Nintendo Switch",
+    "aliases": [
+      "New Pokemon Snap (Snap Recomp)"
+    ],
+    "developer": "finalpantasy",
+    "kind": "port",
+    "description": "New Pokemon Snap ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/finalpantasy/new-pokemon-snap-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SnapRecomp-Builder-*-win-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "newsnaprecomp",
+    "name": "NewSnap Recomp",
+    "game": "New Pokémon Snap",
+    "shortName": "New Pokémon Snap",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "MatyMeatBoy",
+    "kind": "port",
+    "description": "New Pokémon Snap ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/MatyMeatBoy/NewSnapRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NewSnapRecomp-*-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "odysseyrecomp",
+    "name": "Odyssey Recomp",
+    "game": "Super Mario Odyssey",
+    "shortName": "Super Mario Odyssey",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "rwwo8",
+    "kind": "port",
+    "description": "Super Mario Odyssey ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/rwwo8/OdysseyRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Odyssey.Recomp-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pla-recomp",
+    "name": "PL:A Recomp",
+    "game": "Pokémon Legends: Arceus",
+    "shortName": "Pokémon Legends: Arceus",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "MrWifi1143",
+    "kind": "port",
+    "description": "Pokémon Legends: Arceus ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/MrWifi1143/PLA-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "LZA-Recomp-PLA-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pokel-arecomp",
+    "name": "PokeL ARecomp",
+    "game": "Pokémon Legends: Arceus",
+    "shortName": "Pokémon Legends: Arceus",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "fabioschmidt01",
+    "kind": "port",
+    "description": "Pokémon Legends: Arceus ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/fabioschmidt01/PokeL-ARecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PokeL-ARecomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pokev-recomp",
+    "name": "PokeV Recomp",
+    "game": "Pokémon Violet",
+    "shortName": "Pokémon Violet",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "didslima",
+    "kind": "port",
+    "description": "Pokémon Violet ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/didslima/PokeV-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PokeV-Recomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "power-moon-recomp-k10",
+    "name": "Power Moon Recomp",
+    "game": "Super Mario Odyssey",
+    "shortName": "Super Mario Odyssey",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "dos-ise",
+    "kind": "port",
+    "description": "Super Mario Odyssey ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/dos-ise/power-moon-recomp-k10",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Power.Moon.Recomp-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "powerfulmoon",
+    "name": "PowerfulMoon",
+    "game": "Super Mario Odyssey",
+    "shortName": "Super Mario Odyssey",
+    "platform": "Nintendo Switch",
+    "aliases": [
+      "Super Mario Odyssey (Power Moon Recomp)"
+    ],
+    "developer": "yngvifreyr1810",
+    "kind": "port",
+    "description": "Super Mario Odyssey ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/yngvifreyr1810/PowerfulMoon",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PowerfulMoon-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "primerecomp",
+    "name": "PrimeRecomp",
+    "game": "Metroid Prime Remastered",
+    "shortName": "Metroid Prime Remastered",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "gminustwo",
+    "kind": "recomp",
+    "description": "Metroid Prime Remastered recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "gyro",
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/gminustwo/primerecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PrimeRecomp-v*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "racing-8-dx-recomp",
+    "name": "Racing 8 DX Recomp",
+    "game": "Mario Kart 8 Deluxe",
+    "shortName": "Mario Kart 8 Deluxe",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "galarianpikachu2021-hue",
+    "kind": "recomp",
+    "description": "Mario Kart 8 Deluxe recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/galarianpikachu2021-hue/Racing-8-DX-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "KartRecomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "salsburysteaks",
+    "name": "Metroid Prime 4 Recomp",
+    "game": "Metroid Prime 4: Beyond",
+    "shortName": "Metroid Prime 4: Beyond",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "PlagueDrRiess",
+    "kind": "recomp",
+    "description": "Metroid Prime 4: Beyond recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/PlagueDrRiess/salsburysteaks",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MetroidPrime4Recomp-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "savagewindrecomp",
+    "name": "Savage Wind Recomp",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "shortName": "The Legend of Zelda: Breath of the Wild",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "Revivedx",
+    "kind": "recomp",
+    "description": "The Legend of Zelda: Breath of the Wild recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "gyro",
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Revivedx/SavageWindRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SavageWind-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sf2recomp",
+    "name": "SF2Recomp",
+    "game": "Shadow Fight 2",
+    "shortName": "Shadow Fight 2",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "bipinkrish",
+    "kind": "port",
+    "description": "Shadow Fight 2 ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/bipinkrish/sf2recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "sf2recomp-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "shin",
+    "name": "shin",
+    "game": "Umineko no Naku Koro ni Saku",
+    "shortName": "Umineko no Naku Koro ni Saku",
+    "platform": "Nintendo Switch",
+    "aliases": [
+      "Umineko no Naku Koro ni Saku (shin engine)"
+    ],
+    "developer": "DCNick3",
+    "kind": "port",
+    "description": "Umineko no Naku Koro ni Saku ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/DCNick3/shin",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "sdu-x86_64-pc-windows-msvc.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sm35recomp",
+    "name": "Super Mario Bros. 35",
+    "game": "Super Mario Bros. 35",
+    "shortName": "Super Mario Bros. 35",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "sm35recomp",
+    "kind": "recomp",
+    "description": "Super Mario Bros. 35 recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/sm35recomp/sm35recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SM35Recomp-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "smm2-dx",
+    "name": "SMM2Recomp DX",
+    "game": "Super Mario Maker 2",
+    "shortName": "Super Mario Maker 2",
+    "platform": "Nintendo Switch",
+    "aliases": [
+      "Super Mario Maker 2 (SMM2Recomp DX)"
+    ],
+    "developer": "sometimes-steve",
+    "kind": "port",
+    "description": "Super Mario Maker 2 ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/sometimes-steve/smm2-dx",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "smm2-dx-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "smm2recomp",
+    "name": "SMM2 Recomp",
+    "game": "Super Mario Maker 2",
+    "shortName": "Super Mario Maker 2",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "smm2recomp",
+    "kind": "recomp",
+    "description": "Super Mario Maker 2 recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/smm2recomp/smm2recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SMM2Recomp-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "smo2pc",
+    "name": "Super Mario Odyssey (toby-sym)",
+    "game": "Super Mario Odyssey",
+    "shortName": "Super Mario Odyssey",
+    "platform": "Nintendo Switch",
+    "aliases": [
+      "Super Mario Odyssey (toby-sym)"
+    ],
+    "developer": "toby-sym",
+    "kind": "recomp",
+    "description": "Super Mario Odyssey recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/toby-sym/smo2pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SMO2PC-*-windows-builder.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ssbu-recomp",
+    "name": "SSBU Recomp",
+    "game": "Super Smash Bros. Ultimate",
+    "shortName": "Super Smash Bros. Ultimate",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "OpenSmash-Ultimate",
+    "kind": "recomp",
+    "description": "Super Smash Bros. Ultimate recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/OpenSmash-Ultimate/ssbu-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ssbu-*053.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "strahlender-xnu",
+    "name": "Strahlender XNU",
+    "game": "Pokémon Brilliant Diamond",
+    "shortName": "Pokémon Brilliant Diamond",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "Veemyu",
+    "kind": "recomp",
+    "description": "Pokémon Brilliant Diamond recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Veemyu/strahlender-xnu",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "installer-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "strikers-recomp",
+    "name": "Strikers Recomp",
+    "game": "Mario Strikers: Battle League",
+    "shortName": "Mario Strikers: Battle League",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "MTG9T4",
+    "kind": "port",
+    "description": "Mario Strikers: Battle League ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/MTG9T4/strikers-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "StrikersRecomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "super-odyssey-pc-recomp",
+    "name": "Super Odyssey PC Recomp",
+    "game": "Super Mario Odyssey",
+    "shortName": "Super Mario Odyssey",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "Simon3Sarkis",
+    "kind": "port",
+    "description": "Super Mario Odyssey ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Simon3Sarkis/super-odyssey-pc-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Super.Odyssey.PC.Recomp-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "superwonders",
+    "name": "SuperWonders",
+    "game": "Super Mario Bros. Wonder",
+    "shortName": "Super Mario Bros. Wonder",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "vfjoo888",
+    "kind": "port",
+    "description": "Super Mario Bros. Wonder ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/vfjoo888/SuperWonders",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SuperWonders-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "swsh-recomp",
+    "name": "SwSh Recomp",
+    "game": "Pokemon Sword and Shield",
+    "shortName": "Pokemon Sword and Shield",
+    "platform": "Nintendo Switch",
+    "aliases": [
+      "Pokémon Sword"
+    ],
+    "developer": "raulzrrs",
+    "kind": "recomp",
+    "description": "Pokemon Sword and Shield recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/raulzrrs/swsh-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SwShRecomp-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tera-recomp",
+    "name": "Tera Recomp",
+    "game": "Pokemon Scarlet and Violet",
+    "shortName": "Pokemon Scarlet and Violet",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "tukidev-lgtm",
+    "kind": "port",
+    "description": "Pokemon Scarlet and Violet ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/tukidev-lgtm/Tera-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Tera-Setup-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tomodachilife-recomp",
+    "name": "TomodachiLife Recomp",
+    "game": "Tomodachi Life",
+    "shortName": "Tomodachi Life",
+    "platform": "Nintendo Switch",
+    "aliases": [
+      "Tomodachi Life: Living the Dream"
+    ],
+    "developer": "josiahg2502-glitch",
+    "kind": "recomp",
+    "description": "Tomodachi Life recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/josiahg2502-glitch/TomodachiLife-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Tomodachi-Life-PC.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "totk-pc-recomp",
+    "name": "TotK Recomp",
+    "game": "The Legend of Zelda: Tears of the Kingdom",
+    "shortName": "The Legend of Zelda: Tears of the Kingdom",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "valentderah",
+    "kind": "recomp",
+    "description": "The Legend of Zelda: Tears of the Kingdom recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "gyro",
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/valentderah/totk-pc-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TotK-Setup-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tsukire-pc-port",
+    "name": "Tsukire Pc Port",
+    "game": "Tsukihime -A piece of blue glass moon-",
+    "shortName": "Tsukihime -A piece of blue glass moon-",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "Broomstick-Girl-Magical-Amber",
+    "kind": "port",
+    "description": "Tsukihime -A piece of blue glass moon- ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Broomstick-Girl-Magical-Amber/tsukire-pc-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "tsukire-pc-port.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ultratears",
+    "name": "UltraTears",
+    "game": "The Legend of Zelda: Tears of the Kingdom",
+    "shortName": "The Legend of Zelda: Tears of the Kingdom",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "kuraeow",
+    "kind": "recomp",
+    "description": "The Legend of Zelda: Tears of the Kingdom recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/kuraeow/ultratears",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "UltraTears-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "uo-pc-recomp",
+    "name": "Unicorn Overlord PC Recomp",
+    "game": "Unicorn Overlord",
+    "shortName": "Unicorn Overlord",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "imalti0r",
+    "kind": "port",
+    "description": "Unicorn Overlord ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/imalti0r/uo-pc-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "UO-Setup-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "voerasdotcom-swsh-recomp",
+    "name": "SwSh Recomp",
+    "game": "Pokémon Sword and Pokémon Shield",
+    "shortName": "Pokémon Sword and Pokémon Shield",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "voerasdotcom",
+    "kind": "port",
+    "description": "Pokémon Sword and Pokémon Shield ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/voerasdotcom/swsh-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SwShRecomp-0.2.0-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "witch-time",
+    "name": "Witch Time",
+    "game": "Bayonetta 3",
+    "shortName": "Bayonetta 3",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "Zexyen",
+    "kind": "recomp",
+    "description": "Bayonetta 3 recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Zexyen/Witch-Time",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WitchTime-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "xc2-recomp",
+    "name": "XC2 Recomp",
+    "game": "Xenoblade Chronicles 2",
+    "shortName": "Xenoblade Chronicles 2",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "AksharDP",
+    "kind": "port",
+    "description": "Xenoblade Chronicles 2 ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/AksharDP/xc2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "XC2-Setup-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "xc3-recomp",
+    "name": "XC3 Recomp",
+    "game": "Xenoblade Chronicles 3",
+    "shortName": "Xenoblade Chronicles 3",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "jmars125",
+    "kind": "port",
+    "description": "Xenoblade Chronicles 3 ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/jmars125/xc3-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "XC3-Setup-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "xcx-recomp",
+    "name": "XCX Recomp",
+    "game": "Xenoblade Chronicles X: Definitive Edition",
+    "shortName": "Xenoblade Chronicles X: Definitive Edition",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "jmars125",
+    "kind": "recomp",
+    "description": "Xenoblade Chronicles X: Definitive Edition recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/jmars125/xcx-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "XCX-Setup-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ykw4recomp",
+    "name": "ykw4recomp",
+    "game": "Yo-kai Watch 4",
+    "shortName": "Yo-kai Watch 4",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "hxgohxrr",
+    "kind": "port",
+    "description": "Yo-kai Watch 4 ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/hxgohxrr/ykw4recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Yo-kai-Watch-4-Recomp-*-Early-Access-Windows-x64-No-HWID.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "za-recomp",
+    "name": "PL:Z-A Recomp",
+    "game": "Pokémon Legends: Z-A",
+    "shortName": "Pokémon Legends: Z-A",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "MrWifi1143",
+    "kind": "port",
+    "description": "Pokémon Legends: Z-A ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/MrWifi1143/ZA-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "LZA-Recomp-ZA-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "zelda-totk-port",
+    "name": "The Legend of Zelda: Tears of the Kingdom (ZuanCrisp)",
+    "game": "The Legend of Zelda: Tears of the Kingdom",
+    "shortName": "The Legend of Zelda: Tears of the Kingdom",
+    "platform": "Nintendo Switch",
+    "aliases": [
+      "The Legend of Zelda: Tears of the Kingdom (ZuanCrisp)"
+    ],
+    "developer": "ZuanCrisp",
+    "kind": "recomp",
+    "description": "The Legend of Zelda: Tears of the Kingdom recompiled from the Switch version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ZuanCrisp/Zelda-TOTK-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TotK-Setup-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "zonith",
+    "name": "Zonith",
+    "game": "The Legend of Zelda: Tears of the Kingdom",
+    "shortName": "The Legend of Zelda: Tears of the Kingdom",
+    "platform": "Nintendo Switch",
+    "aliases": [
+      "The Legend of Zelda: Tears of the Kingdom (Zonith)"
+    ],
+    "developer": "Dittobyte",
+    "kind": "port",
+    "description": "The Legend of Zelda: Tears of the Kingdom ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Dittobyte/Zonith",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TotK-Setup-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

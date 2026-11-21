@@ -1,0 +1,466 @@
+[
+  {
+    "id": "army-men-sarges-heroes-recomp",
+    "name": "Army Men: Sarge's Heroes — Recompiled",
+    "game": "Army Men: Sarge's Heroes",
+    "shortName": "Army Men: Sarge's Heroes",
+    "platform": "Sega Dreamcast",
+    "aliases": [],
+    "developer": "theurbanninja1993-sketch",
+    "kind": "port",
+    "description": "Army Men: Sarge's Heroes ported to run natively on PC from the Dreamcast version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/theurbanninja1993-sketch/army-men-sarges-heroes-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "army-men-sarges-heroes-recomp-v*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "bluestingerrecomp",
+    "name": "Blue Stinger Recompiled",
+    "game": "Blue Stinger",
+    "shortName": "Blue Stinger",
+    "platform": "Sega Dreamcast",
+    "aliases": [],
+    "developer": "DCRecomp",
+    "kind": "port",
+    "description": "Blue Stinger ported to run natively on PC from the Dreamcast version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/DCRecomp/BlueStingerRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BlueStinger-Builder-*-win-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "bombermanonlinerecomp",
+    "name": "Bomberman Online Recomp",
+    "game": "Bomberman Online",
+    "shortName": "Bomberman Online",
+    "platform": "Sega Dreamcast",
+    "aliases": [],
+    "developer": "nvd123-YT",
+    "kind": "recomp",
+    "description": "Bomberman Online recompiled from the Dreamcast version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/nvd123-YT/BombermanOnlineRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Bomberman.Online.Launcher-*-win-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "despiria-dreamrecomp",
+    "name": "deSPIRIA reBIRTH",
+    "game": "deSPIRIA",
+    "shortName": "deSPIRIA",
+    "platform": "Sega Dreamcast",
+    "aliases": [],
+    "developer": "goodshepherd23",
+    "kind": "recomp",
+    "description": "deSPIRIA recompiled from the Dreamcast version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/goodshepherd23/deSPIRIA-DreamRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "deSPIRIA-DreamRecomp-v*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "draconus-recomp",
+    "name": "Draconus Recomp",
+    "game": "Draconus: Cult of the Wyrm",
+    "shortName": "Draconus: Cult of the Wyrm",
+    "platform": "Sega Dreamcast",
+    "aliases": [
+      "Draconus: Cult of the Wyrm (Draconus-Recomp)"
+    ],
+    "developer": "GnomeChimpsky",
+    "kind": "port",
+    "description": "Draconus: Cult of the Wyrm ported to run natively on PC from the Dreamcast version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/GnomeChimpsky/Draconus-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DraconusRecomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dreamcastrecompiled",
+    "name": "DreamcastRecompiled",
+    "game": "ChuChu Rocket!",
+    "shortName": "ChuChu Rocket!",
+    "platform": "Sega Dreamcast",
+    "aliases": [],
+    "developer": "Duw0ng",
+    "kind": "port",
+    "description": "ChuChu Rocket! ported to run natively on PC from the Dreamcast version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Duw0ng/DreamcastRecompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DCR*_Stable_WIN64_ES_EN_VMU_FIXED.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "duckmarines",
+    "name": "duckmarines",
+    "game": "ChuChu Rocket!",
+    "shortName": "ChuChu Rocket!",
+    "platform": "Sega Dreamcast",
+    "aliases": [
+      "ChuChu Rocket! (Duck Marines)"
+    ],
+    "developer": "SimonLarsen",
+    "kind": "port",
+    "description": "ChuChu Rocket! ported to run natively on PC from the Dreamcast version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/SimonLarsen/duckmarines",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "duckmarines-*-win32.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "hail-to-the-king-pc",
+    "name": "Hail to the King PC",
+    "game": "Evil Dead: Hail to the King",
+    "shortName": "Evil Dead: Hail to the King",
+    "platform": "Sega Dreamcast",
+    "aliases": [],
+    "developer": "killersheaven",
+    "kind": "port",
+    "description": "Evil Dead: Hail to the King ported to run natively on PC from the Dreamcast version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/killersheaven/hail-to-the-king-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "hail-to-the-king-pc-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "headhunterrecomp",
+    "name": "HeadHunterRecomp",
+    "game": "Head Hunter",
+    "shortName": "Head Hunter",
+    "platform": "Sega Dreamcast",
+    "aliases": [
+      "Head Hunter (HeadHunterRecomp)"
+    ],
+    "developer": "DCRecomp",
+    "kind": "port",
+    "description": "Head Hunter ported to run natively on PC from the Dreamcast version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/DCRecomp/HeadHunterRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "HeadHunter-Builder-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rush2049-recomp",
+    "name": "Rush2049 Recomp",
+    "game": "San Francisco Rush 2049",
+    "shortName": "San Francisco Rush 2049",
+    "platform": "Sega Dreamcast",
+    "aliases": [],
+    "developer": "Cris9870",
+    "kind": "port",
+    "description": "San Francisco Rush 2049 ported to run natively on PC from the Dreamcast version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Cris9870/rush2049-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Rush2049-Windows-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sonic-adventure-dc-decomp",
+    "name": "Sonic Adventure DC Decomp",
+    "game": "Sonic Adventure",
+    "shortName": "Sonic Adventure",
+    "platform": "Sega Dreamcast",
+    "aliases": [],
+    "developer": "wigwoo1",
+    "kind": "port",
+    "description": "Sonic Adventure ported to run natively on PC from the Dreamcast version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/wigwoo1/Sonic-Adventure-DC-Decomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "sonic-adventure-windows-research-builds.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "space-channel-5",
+    "name": "Space Channel 5",
+    "game": "Space Channel 5",
+    "shortName": "Space Channel 5",
+    "platform": "Sega Dreamcast",
+    "aliases": [],
+    "developer": "ZoomiesZaggy",
+    "kind": "recomp",
+    "description": "Space Channel 5 recompiled from the Dreamcast version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/ZoomiesZaggy/Space-Channel-5",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SpaceChannel5-*-Windows-X64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "street-alpha-3-dreamcast-recomp",
+    "name": "Street Alpha 3 Dreamcast Recomp",
+    "game": "Street Fighter Alpha 3",
+    "shortName": "Street Fighter Alpha 3",
+    "platform": "Sega Dreamcast",
+    "aliases": [],
+    "developer": "irnutsmurt",
+    "kind": "port",
+    "description": "Street Fighter Alpha 3 ported to run natively on PC from the Dreamcast version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/irnutsmurt/Street-Alpha-3-Dreamcast-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SFA3-Setup-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "voldorium",
+    "name": "Voldorium",
+    "game": "SoulCalibur",
+    "shortName": "SoulCalibur",
+    "platform": "Sega Dreamcast",
+    "aliases": [],
+    "developer": "enrique363",
+    "kind": "recomp",
+    "description": "SoulCalibur recompiled from the Dreamcast version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/enrique363/voldorium",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Voldorium-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

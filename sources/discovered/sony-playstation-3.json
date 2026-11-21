@@ -1,0 +1,1534 @@
+[
+  {
+    "id": "ac4-port",
+    "name": "Armored Core 4 Port",
+    "game": "Armored Core 4",
+    "shortName": "Armored Core 4",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "SulphurS16",
+    "kind": "recomp",
+    "description": "Armored Core 4 recompiled from the PlayStation 3 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/SulphurS16/AC4-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "AC4-Port-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ace-combat-infinity-recomp",
+    "name": "Ace Combat Infinity",
+    "game": "Ace Combat Infinity",
+    "shortName": "Ace Combat Infinity",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "The-OPERATIONS-Team",
+    "kind": "recomp",
+    "description": "Ace Combat Infinity recompiled from the PlayStation 3 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/The-OPERATIONS-Team/Ace-combat-infinity-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ACI-Recomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "acfa-port",
+    "name": "Armored Core: For Answer Port",
+    "game": "Armored Core: For Answer",
+    "shortName": "Armored Core: For Answer",
+    "platform": "Sony Playstation 3",
+    "aliases": [
+      "Armored Core for Answer"
+    ],
+    "developer": "SulphurS16",
+    "kind": "recomp",
+    "description": "Armored Core: For Answer recompiled from the PlayStation 3 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/SulphurS16/ACFA-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ACFA-Port-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "allstars-port",
+    "name": "PlayStation All-Stars Battle Royale PC Port",
+    "game": "PlayStation All-Stars Battle Royale",
+    "shortName": "PlayStation All-Stars Battle Royale",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "samuelMadureira23",
+    "kind": "port",
+    "description": "PlayStation All-Stars Battle Royale ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/samuelMadureira23/allstars-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "AllStarsPort_kit_*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ascension-r",
+    "name": "Ascension R",
+    "game": "God of War: Ascension",
+    "shortName": "God of War: Ascension",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "rigaz29",
+    "kind": "port",
+    "description": "God of War: Ascension ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/rigaz29/Ascension-R",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Ascension-R-*-kit-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "bakugan-battle-brawlers-ps3-recomp",
+    "name": "Bakugan: Battle Brawlers — Bakugan PS3 recomp (Mauryln) (Mauryln)",
+    "game": "Bakugan: Battle Brawlers",
+    "shortName": "Bakugan: Battle Brawlers",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "Mauryln",
+    "kind": "port",
+    "description": "Bakugan: Battle Brawlers ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Mauryln/Bakugan-Battle-Brawlers-PS3-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Bakugan-Battle-Brawlers-Recomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "battride-war-recomp",
+    "name": "Battride War Recomp",
+    "game": "Kamen Rider: Battride War",
+    "shortName": "Kamen Rider: Battride War",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "robertoqimin",
+    "kind": "port",
+    "description": "Kamen Rider: Battride War ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/robertoqimin/battride-war-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BattrideWarRecomp-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "buzz-quizworld-recomp",
+    "name": "Buzz! Quiz World Recomp",
+    "game": "Buzz! Quiz World",
+    "shortName": "Buzz! Quiz World",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "mario910",
+    "kind": "port",
+    "description": "Buzz! Quiz World ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/mario910/buzz-quizworld-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BuzzPrepare-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "civrev-port",
+    "name": "Civilization Revolution 1 PC Port",
+    "game": "Sid Meier's Civilization Revolution",
+    "shortName": "Sid Meier's Civilization Revolution",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "CapTiveEel20",
+    "kind": "port",
+    "description": "Sid Meier's Civilization Revolution ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/CapTiveEel20/civrev-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "CivRevPC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "cubic-heroes",
+    "name": "Cubic.Heroes",
+    "game": "3D Dot Game Heroes",
+    "shortName": "3D Dot Game Heroes",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "irnutsmurt",
+    "kind": "port",
+    "description": "3D Dot Game Heroes ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/irnutsmurt/Cubic.Heroes",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Cubic.Heroes-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "demons-souls-recomp",
+    "name": "Demon's Souls Recomp",
+    "game": "Demon's Souls",
+    "shortName": "Demon's Souls",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "timboat",
+    "kind": "recomp",
+    "description": "Demon's Souls recompiled from the PlayStation 3 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/timboat/demons-souls-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DemonsSoulsRecomp-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "disgaea-d2-recomp-windows",
+    "name": "Disgaea D2: A Brighter Darkness",
+    "game": "Disgaea D2: A Brighter Darkness",
+    "shortName": "Disgaea D2: A Brighter Darkness",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "LUUKASR1",
+    "kind": "recomp",
+    "description": "Disgaea D2: A Brighter Darkness recompiled from the PlayStation 3 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/LUUKASR1/disgaea-d2-recomp-windows",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DisgaeaD2Launcher-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dod3-recomp",
+    "name": "Drakengard 3 Recompiled",
+    "game": "Drakengard 3",
+    "shortName": "Drakengard 3",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "soyjxck",
+    "kind": "recomp",
+    "description": "Drakengard 3 recompiled from the PlayStation 3 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/soyjxck/dod3-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "dod3-recomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dot-hack-versus-port",
+    "name": "Dot Hack Versus Port",
+    "game": ".hack//Versus",
+    "shortName": ".hack//Versus",
+    "platform": "Sony Playstation 3",
+    "aliases": [
+      ".hack//Versus (dot-hack-versus-port)"
+    ],
+    "developer": "joseflores-dev",
+    "kind": "port",
+    "description": ".hack//Versus ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/joseflores-dev/dot-hack-versus-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "hackversus-windows-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "erikomis-infamous2-recomp",
+    "name": "inFAMOUS 2 Recomp",
+    "game": "inFAMOUS 2",
+    "shortName": "inFAMOUS 2",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "erikomis",
+    "kind": "recomp",
+    "description": "inFAMOUS 2 recompiled from the PlayStation 3 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/erikomis/infamous2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "infamous2-recomp_*_aarch64.app.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "f1-ce-ps3",
+    "name": "F1 Championship Edition PC",
+    "game": "Formula One Championship Edition",
+    "shortName": "Formula One Championship Edition",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "mauricristiano95-hub",
+    "kind": "port",
+    "description": "Formula One Championship Edition ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mauricristiano95-hub/F1_CE_PS3",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "F1CE_launcher*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "folklore-decomp",
+    "name": "Folklore Decomp",
+    "game": "Folklore",
+    "shortName": "Folklore",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "Mava-b",
+    "kind": "port",
+    "description": "Folklore ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Mava-b/folklore-decomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Folklore-20261107-1109.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "god-of-war-hd-collection",
+    "name": "God of War Collection (VitaRT)",
+    "game": "God of War Collection",
+    "shortName": "God of War Collection",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "luisxl15",
+    "kind": "port",
+    "description": "God of War Collection ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/luisxl15/GOD-OF-WAR-HD-COLLECTION",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "installer.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gow-ascension-recomp",
+    "name": "GoW Ascension Recomp",
+    "game": "God of War: Ascension",
+    "shortName": "God of War: Ascension",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "bc160201983",
+    "kind": "port",
+    "description": "God of War: Ascension ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/bc160201983/GoW-Ascension-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GodOfWarAscension-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gowa-cmc-omniport",
+    "name": "GOWA cMc OmniPort",
+    "game": "God of War: Ascension",
+    "shortName": "God of War: Ascension",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "cMc292",
+    "kind": "port",
+    "description": "God of War: Ascension ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/cMc292/GOWA_cMc_OmniPort",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GOWA_cMc_OmniPort-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gran-turismo-6-pc",
+    "name": "Gran Turismo 6 PC",
+    "game": "Gran Turismo 6",
+    "shortName": "Gran Turismo 6",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "Mabec-games",
+    "kind": "port",
+    "description": "Gran Turismo 6 ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Mabec-games/Gran-Turismo-6-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GT6-Launcher-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "haze-recomp",
+    "name": "Haze Recomp",
+    "game": "Haze",
+    "shortName": "Haze",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "zdiemer",
+    "kind": "port",
+    "description": "Haze ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/zdiemer/haze-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "HazeRecomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "infamous1-recomp",
+    "name": "inFAMOUS 1 Recomp",
+    "game": "inFAMOUS",
+    "shortName": "inFAMOUS",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "erikomis",
+    "kind": "port",
+    "description": "inFAMOUS ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/erikomis/infamous1-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "infamous1-recomp_*_aarch64.app.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "infamous2-port",
+    "name": "inFAMOUS 2 Native PC Port",
+    "game": "inFAMOUS 2",
+    "shortName": "inFAMOUS 2",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "SamiEnazi",
+    "kind": "port",
+    "description": "inFAMOUS 2 ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/SamiEnazi/infamous2-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "inFAMOUS2-port-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "infamous2-recomp",
+    "name": "Infamous2 Recomp",
+    "game": "Infamous 2",
+    "shortName": "Infamous 2",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "bhuiyah",
+    "kind": "port",
+    "description": "Infamous 2 ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/bhuiyah/infamous2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "inFamous2Recomp-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "jsp-vs-ex",
+    "name": "J-Stars Victory VS-EX",
+    "game": "J-Stars Victory VS+",
+    "shortName": "J-Stars Victory VS+",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "Tsamiuy",
+    "kind": "port",
+    "description": "J-Stars Victory VS+ ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/Tsamiuy/jsp-vs-ex",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "jsp-*-portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mag-recomp",
+    "name": "MAG Recomp",
+    "game": "MAG",
+    "shortName": "MAG",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "tekulvw",
+    "kind": "port",
+    "description": "MAG ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/tekulvw/mag-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "mag-installer-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "make-soccer-club-game-project",
+    "name": "Make Soccer Club Game Project",
+    "game": "Saka Tsuku: Pro Soccer Club o Tsukurou!",
+    "shortName": "Saka Tsuku: Pro Soccer Club o Tsukurou!",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "PrimeTimerer",
+    "kind": "port",
+    "description": "Saka Tsuku: Pro Soccer Club o Tsukurou! ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/PrimeTimerer/Make-Soccer-Club-Game-Project",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Sakatsuku_PC_20261116-2306.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "nexus-recomp",
+    "name": "Project Raccoon",
+    "game": "Ratchet & Clank: Into the Nexus",
+    "shortName": "Ratchet & Clank: Into the Nexus",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "vagenam",
+    "kind": "port",
+    "description": "Ratchet & Clank: Into the Nexus ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/vagenam/nexus-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Project-Raccoon-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "project-8-plus",
+    "name": "Tony Hawk's Project 8 Plus",
+    "game": "Tony Hawk's Project 8",
+    "shortName": "Tony Hawk's Project 8",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "MaxLeiter",
+    "kind": "recomp",
+    "description": "Tony Hawk's Project 8 recompiled from the PlayStation 3 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/MaxLeiter/project-8-plus",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Project8Plus-*-hd-pack-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "project-helghast",
+    "name": "Project Helghast",
+    "game": "Killzone 3",
+    "shortName": "Killzone 3",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "undecuple",
+    "kind": "recomp",
+    "description": "Killzone 3 recompiled from the PlayStation 3 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/undecuple/project-helghast",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Project-Helghast-*-portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "project-pyrrhus",
+    "name": "Project Pyrrhus",
+    "game": "Killzone 2",
+    "shortName": "Killzone 2",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "undecuple",
+    "kind": "recomp",
+    "description": "Killzone 2 recompiled from the PlayStation 3 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/undecuple/project-pyrrhus",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Project-Pyrrhus-*-portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "project-tourline-5",
+    "name": "Project Tourline 5",
+    "game": "Gran Turismo 5",
+    "shortName": "Gran Turismo 5",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "mathewdouglas",
+    "kind": "port",
+    "description": "Gran Turismo 5 ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mathewdouglas/Project-Tourline-5",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "project-tourline-5-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "project-vekta",
+    "name": "Project Vekta",
+    "game": "Killzone HD",
+    "shortName": "Killzone HD",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "gustavomorinaga",
+    "kind": "port",
+    "description": "Killzone HD ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/gustavomorinaga/project-vekta",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "project-vekta-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ps3nhllegacyrecomp",
+    "name": "NHL Legacy Native",
+    "game": "NHL Legacy",
+    "shortName": "NHL Legacy",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "csrpfivem",
+    "kind": "port",
+    "description": "NHL Legacy ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/csrpfivem/PS3NHLLegacyRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "NHL-Legacy-Native_*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "qwarks-awakening",
+    "name": "Qwark's Awakening",
+    "game": "Ratchet & Clank",
+    "shortName": "Ratchet & Clank",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "undecuple",
+    "kind": "port",
+    "description": "Ratchet & Clank ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/undecuple/qwarks-awakening",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Qwarks-Awakening-*-launcher-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "racit",
+    "name": "RACiT",
+    "game": "Ratchet & Clank Future: A Crack in Time",
+    "shortName": "Ratchet & Clank Future: A Crack in Time",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "HighDrexler",
+    "kind": "recomp",
+    "description": "Ratchet & Clank Future: A Crack in Time recompiled from the PlayStation 3 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/HighDrexler/RACiT",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RACiT_Windows_Launcher_*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ratchet-tod-recomp",
+    "name": "Ratchet & Clank: Tools of Destruction Recompiled",
+    "game": "Ratchet & Clank Future: Tools of Destruction",
+    "shortName": "Ratchet & Clank Future: Tools of Destruction",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "Re-TeRo17",
+    "kind": "recomp",
+    "description": "Ratchet & Clank Future: Tools of Destruction recompiled from the PlayStation 3 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Re-TeRo17/ratchet-tod-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "tod-recomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "re-code-veronica-ps3-hd-recomp-pc",
+    "name": "Code Veronica HD Recomp",
+    "game": "Resident Evil Code: Veronica X",
+    "shortName": "Resident Evil Code: Veronica X",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "kastieloficial",
+    "kind": "recomp",
+    "description": "Resident Evil Code: Veronica X recompiled from the PlayStation 3 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "CodeVeronica-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "resistance-fall-of-man-recomp",
+    "name": "Resistance: Fall of Man Recomp",
+    "game": "Resistance: Fall of Man",
+    "shortName": "Resistance: Fall of Man",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "miroslavdanutalexandru-alt",
+    "kind": "recomp",
+    "description": "Resistance: Fall of Man recompiled from the PlayStation 3 version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/miroslavdanutalexandru-alt/Resistance-Fall-of-Man-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ResistancePort-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "resistance2port",
+    "name": "Resistance 2 Port",
+    "game": "Resistance 2",
+    "shortName": "Resistance 2",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "miroslavdanutalexandru-alt",
+    "kind": "port",
+    "description": "Resistance 2 ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/miroslavdanutalexandru-alt/Resistance2Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Resistance2Port-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "resistance3port",
+    "name": "Resistance 3 Port",
+    "game": "Resistance 3",
+    "shortName": "Resistance 3",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "miroslavdanutalexandru-alt",
+    "kind": "port",
+    "description": "Resistance 3 ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/miroslavdanutalexandru-alt/Resistance3Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Resistance3Port-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "soulbrandt",
+    "name": "Soulbrandt",
+    "game": "Demon's Souls",
+    "shortName": "Demon's Souls",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "JonathanDC64",
+    "kind": "recomp",
+    "description": "Demon's Souls recompiled from the PlayStation 3 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/JonathanDC64/Soulbrandt",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DemonsSoulsRecomp-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "t5dronline",
+    "name": "T5DR Online",
+    "game": "Tekken 5: Dark Resurrection Online",
+    "shortName": "Tekken 5: Dark Resurrection Online",
+    "platform": "Sony Playstation 3",
+    "aliases": [
+      "Tekken 5: Dark Resurrection"
+    ],
+    "developer": "TheWishin",
+    "kind": "recomp",
+    "description": "Tekken 5: Dark Resurrection Online recompiled from the PlayStation 3 version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/TheWishin/T5DROnline",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "T5DR-Online-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tokyojungle",
+    "name": "Tokyo Jungle",
+    "game": "Tokyo Jungle",
+    "shortName": "Tokyo Jungle",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "SilvioDiaz",
+    "kind": "port",
+    "description": "Tokyo Jungle ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/SilvioDiaz/tokyojungle",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TokyoJungle-Recompiled-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tourline-prologue",
+    "name": "Project Tourline Prologue",
+    "game": "Gran Turismo 5 Prologue",
+    "shortName": "Gran Turismo 5 Prologue",
+    "platform": "Sony Playstation 3",
+    "aliases": [],
+    "developer": "mathewdouglas",
+    "kind": "port",
+    "description": "Gran Turismo 5 Prologue ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mathewdouglas/Tourline-Prologue",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "tourline-prologue-v*-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

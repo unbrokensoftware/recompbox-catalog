@@ -1,0 +1,3926 @@
+[
+  {
+    "id": "agrabahport",
+    "name": "AgrabahPort",
+    "game": "Disney's Aladdin",
+    "shortName": "Disney's Aladdin",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "testsenvergonha-sys",
+    "kind": "port",
+    "description": "Disney's Aladdin ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/testsenvergonha-sys/AgrabahPort",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "agrabahport-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "alttp-dx",
+    "name": "Alttp Dx",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "shortName": "The Legend of Zelda: A Link to the Past",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [
+      "The Legend of Zelda: A Link to the Past (ALTTP-DX)"
+    ],
+    "developer": "YeOldPress",
+    "kind": "port",
+    "description": "The Legend of Zelda: A Link to the Past ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/YeOldPress/alttp-dx",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "alttp-dx-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "alttp-recomp",
+    "name": "ALttP Recomp",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "shortName": "The Legend of Zelda: A Link to the Past",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "AlekayDevs",
+    "kind": "port",
+    "description": "The Legend of Zelda: A Link to the Past ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/AlekayDevs/alttp-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "alttp-recomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ar-recomp",
+    "name": "ActRaiser Recompiled",
+    "game": "ActRaiser",
+    "shortName": "ActRaiser",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "DerrickGold",
+    "kind": "recomp",
+    "description": "ActRaiser recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/DerrickGold/ar-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ActRaiserRecompBuilder-*-windows-x64-portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ark-recomp",
+    "name": "Ark Recomp",
+    "game": "Terranigma",
+    "shortName": "Terranigma",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "aitorcachero",
+    "kind": "port",
+    "description": "Terranigma ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/aitorcachero/ark-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Terranigma_Recompiled_*_Windows_x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "babel-recomp",
+    "name": "Babel Recomp",
+    "game": "Illusion of Gaia",
+    "shortName": "Illusion of Gaia",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mrOt4",
+    "kind": "port",
+    "description": "Illusion of Gaia ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mrOt4/babel-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "babel-recomp-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "beavisandbutthead-recomp",
+    "name": "Beavis and Butt-Head Recomp",
+    "game": "Beavis and Butt-head",
+    "shortName": "Beavis and Butt-head",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "rac08241988",
+    "kind": "port",
+    "description": "Beavis and Butt-head ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/rac08241988/BeavisAndButtHead-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BeavisAndButtHead-SNESRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "blackthorne-snes-recomp",
+    "name": "Blackthorne Recomp",
+    "game": "Blackthorne",
+    "shortName": "Blackthorne",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Bentley734",
+    "kind": "port",
+    "description": "Blackthorne ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Bentley734/Blackthorne-SNES-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BlackthorneRecomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "bombermanrecomp",
+    "name": "BombermanRecomp",
+    "game": "Super Bomberman",
+    "shortName": "Super Bomberman",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "elliotttate",
+    "kind": "recomp",
+    "description": "Super Bomberman recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/elliotttate/BombermanRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BombermanRecomp-windows-x64-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "bttsnesrecomp",
+    "name": "Battletoads in Battlemaniacs Recomp",
+    "game": "Battletoads in Battlemaniacs",
+    "shortName": "Battletoads in Battlemaniacs",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mpolizel",
+    "kind": "port",
+    "description": "Battletoads in Battlemaniacs ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mpolizel/BTTSNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "battletoads-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "busterbustsloose",
+    "name": "BusterBustsLoose",
+    "game": "Tiny Toon Adventures: Buster Busts Loose!",
+    "shortName": "Tiny Toon Adventures: Buster Busts Loose!",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Darhkfox",
+    "kind": "port",
+    "description": "Tiny Toon Adventures: Buster Busts Loose! ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Darhkfox/BusterBustsLoose",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BusterBustsLoose-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "civilization-snes-static-recomp",
+    "name": "Civilization Recomp",
+    "game": "Sid Meier's Civilization",
+    "shortName": "Sid Meier's Civilization",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Junior-Jones",
+    "kind": "port",
+    "description": "Sid Meier's Civilization ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Junior-Jones/Civilization-SNES-Static-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Civilization-SNES-Static-Recomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "collectionrecomp",
+    "name": "CollectionRecomp",
+    "game": "Super Mario All-Stars",
+    "shortName": "Super Mario All-Stars",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [
+      "Super Mario All-Stars (CollectionRecomp)"
+    ],
+    "developer": "SatellaGuyAlt",
+    "kind": "port",
+    "description": "Super Mario All-Stars ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/SatellaGuyAlt/CollectionRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "CollectionRecomp-win-*.0.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dbz-super-saiya-densetsu-rust",
+    "name": "DBZ Super Saiya Densetsu Rust",
+    "game": "Dragon Ball Z: Super Saiya Densetsu",
+    "shortName": "Dragon Ball Z: Super Saiya Densetsu",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "JackRushante",
+    "kind": "port",
+    "description": "Dragon Ball Z: Super Saiya Densetsu ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/JackRushante/DBZ-Super-Saiya-Densetsu-Rust",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "dbz-ssd-recompiled-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "demonscrestsnesrecomp",
+    "name": "Demon's Crest Recompiled",
+    "game": "Demon's Crest",
+    "shortName": "Demon's Crest",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "rac08241988",
+    "kind": "recomp",
+    "description": "Demon's Crest recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/rac08241988/DemonsCrestSNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DemonsCrest-SNESRecomp-windows-x64-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dino-block-stacker",
+    "name": "Dino Block Stacker",
+    "game": "Tetris Attack",
+    "shortName": "Tetris Attack",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [
+      "Tetris Attack (Dino Block Stacker)"
+    ],
+    "developer": "sirdankz",
+    "kind": "port",
+    "description": "Tetris Attack ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/sirdankz/Dino-Block-Stacker",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DinoBlockStacker-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dk1snesrecomp",
+    "name": "Donkey Kong Country Recomp",
+    "game": "Donkey Kong Country",
+    "shortName": "Donkey Kong Country",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mpolizel",
+    "kind": "port",
+    "description": "Donkey Kong Country ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mpolizel/DK1SNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "donkeykongcountry-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dk2snsrecomp",
+    "name": "Donkey Kong Country 2 Recomp",
+    "game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "shortName": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mpolizel",
+    "kind": "port",
+    "description": "Donkey Kong Country 2: Diddy's Kong Quest ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mpolizel/DK2SNSRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "donkeykongcountry2-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dk3snesrecomp",
+    "name": "Donkey Kong Country 3 Recomp",
+    "game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "shortName": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mpolizel",
+    "kind": "port",
+    "description": "Donkey Kong Country 3: Dixie Kong's Double Trouble! ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mpolizel/DK3SNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "donkeykongcountry3-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dkc-3-recomp",
+    "name": "DKC 3 Recomp",
+    "game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "shortName": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "aitorcachero",
+    "kind": "port",
+    "description": "Donkey Kong Country 3: Dixie Kong's Double Trouble! ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/aitorcachero/DKC-3-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DKC_3_Recompiled_*_Windows_x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dkc1recomp",
+    "name": "DKC1 Recomp",
+    "game": "Donkey Kong Country",
+    "shortName": "Donkey Kong Country",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "elliotttate",
+    "kind": "recomp",
+    "description": "Donkey Kong Country recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/elliotttate/DKC1Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DKC1Recomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dkc2recomp",
+    "name": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "shortName": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Donkey Kong Country 2: Diddy's Kong Quest recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/DKC2Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DKC2Recomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dkc3recomp",
+    "name": "DKC3Recomp",
+    "game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "shortName": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "elliotttate",
+    "kind": "recomp",
+    "description": "Donkey Kong Country 3: Dixie Kong's Double Trouble! recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/elliotttate/DKC3Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DKC3Recomp-v*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "doomsnesrecomp",
+    "name": "DoomSNESRecomp",
+    "game": "Doom",
+    "shortName": "Doom",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [
+      "Doom (DoomSNESRecomp)"
+    ],
+    "developer": "Cacodemontube",
+    "kind": "port",
+    "description": "Doom ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Cacodemontube/DoomSNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DoomSNESRecomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dream",
+    "name": "dream",
+    "game": "Dream: Land of Giants",
+    "shortName": "Dream: Land of Giants",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "nathanialf",
+    "kind": "port",
+    "description": "Dream: Land of Giants ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/nathanialf/dream",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "dream-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "dssnesrecomp",
+    "name": "Desert Strike Recomp",
+    "game": "Desert Strike: Return to the Gulf",
+    "shortName": "Desert Strike: Return to the Gulf",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mpolizel",
+    "kind": "port",
+    "description": "Desert Strike: Return to the Gulf ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mpolizel/DSSNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "desertstrike-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "earthbound-companion",
+    "name": "EarthBound Companion",
+    "game": "EarthBound",
+    "shortName": "EarthBound",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "rages4calm",
+    "kind": "decomp",
+    "description": "EarthBound running natively on PC, built from the decompiled SNES game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/rages4calm/earthbound-companion",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "EarthBound-Companion-Windows-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "earthbound-pc-port-coop",
+    "name": "Earthbound PC Port COOP",
+    "game": "EarthBound",
+    "shortName": "EarthBound",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "edzito69",
+    "kind": "port",
+    "description": "EarthBound ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/edzito69/Earthbound-PC-Port-COOP",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Earthbound.PC.Port.COOP.-.Ver.*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "evertopia",
+    "name": "Evertopia",
+    "game": "Secret of Evermore",
+    "shortName": "Secret of Evermore",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [
+      "Secret of Evermore (Evertopia)"
+    ],
+    "developer": "PoultryTumor",
+    "kind": "port",
+    "description": "Secret of Evermore ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/PoultryTumor/Evertopia",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "evertopia-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "f-zeroforever",
+    "name": "FZeroSNESRecomp",
+    "game": "F Zero",
+    "shortName": "F Zero",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [
+      "F-Zero",
+      "★ F-Zero"
+    ],
+    "developer": "RetroPortingToolKit",
+    "kind": "recomp",
+    "description": "F Zero recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/RetroPortingToolKit/F-ZeroForever",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "F-Zero-Forever-*-windows-x64-with-msu.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "fbsnesrecomp",
+    "name": "FBSNESRecomp",
+    "game": "Flashback: The Quest for Identity",
+    "shortName": "Flashback: The Quest for Identity",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mpolizel",
+    "kind": "port",
+    "description": "Flashback: The Quest for Identity ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mpolizel/FBSNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "flashback-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ff-ii-recomp",
+    "name": "US release of Final Fantasy IV",
+    "game": "Final Fantasy II",
+    "shortName": "Final Fantasy II",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [
+      "Final Fantasy II (US release of Final Fantasy IV)"
+    ],
+    "developer": "aitorcachero",
+    "kind": "port",
+    "description": "Final Fantasy II ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/aitorcachero/FF-II-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FF_II_Recompiled_*_Windows_x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ff-iii-recomp",
+    "name": "US release of Final Fantasy VI",
+    "game": "Final Fantasy III",
+    "shortName": "Final Fantasy III",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [
+      "Final Fantasy III (US release of Final Fantasy VI)"
+    ],
+    "developer": "aitorcachero",
+    "kind": "port",
+    "description": "Final Fantasy III ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/aitorcachero/FF-III-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FF_III_Recompiled_*_Windows_x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ff-iv-recomp",
+    "name": "FF IV Recomp",
+    "game": "Final Fantasy IV",
+    "shortName": "Final Fantasy IV",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "aitorcachero",
+    "kind": "port",
+    "description": "Final Fantasy IV ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/aitorcachero/FF-IV-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FF_IV_Recompiled_*_Windows_x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ff-mystic-quest-recomp",
+    "name": "FF Mystic Quest Recomp",
+    "game": "Final Fantasy: Mystic Quest",
+    "shortName": "Final Fantasy: Mystic Quest",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "aitorcachero",
+    "kind": "port",
+    "description": "Final Fantasy: Mystic Quest ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/aitorcachero/FF-Mystic-Quest-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FF_Mystic_Quest_Recompiled_*_Windows_x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ff-v-recomp",
+    "name": "FF V Recomp",
+    "game": "Final Fantasy V",
+    "shortName": "Final Fantasy V",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "aitorcachero",
+    "kind": "port",
+    "description": "Final Fantasy V ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/aitorcachero/FF-V-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FF_V_Recompiled_*_Windows_x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ff-vi-recomp",
+    "name": "FF VI Recomp",
+    "game": "Final Fantasy VI",
+    "shortName": "Final Fantasy VI",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "aitorcachero",
+    "kind": "port",
+    "description": "Final Fantasy VI ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/aitorcachero/FF-VI-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FF_VI_Recompiled_*_Windows_x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "fzerorecomp",
+    "name": "F-Zero Recomp",
+    "game": "F Zero",
+    "shortName": "F Zero",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [
+      "F-Zero"
+    ],
+    "developer": "craigshaw",
+    "kind": "recomp",
+    "description": "F Zero recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/craigshaw/FZeroRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FZeroRecomp-v*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gogoackman1recomp",
+    "name": "Go Go Ackman Recompiled",
+    "game": "Go Go Ackman",
+    "shortName": "Go Go Ackman",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [
+      "Go! Go! Ackman"
+    ],
+    "developer": "catmidori",
+    "kind": "recomp",
+    "description": "Go Go Ackman recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/catmidori/gogoackman1recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GoGoAckmanRecompiled-*-Windows-x86-64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gundam-wing-endless-duel-snes-static-recomp",
+    "name": "Gundam Wing: Endless Duel Recomp",
+    "game": "Gundam Wing: Endless Duel",
+    "shortName": "Gundam Wing: Endless Duel",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Junior-Jones",
+    "kind": "port",
+    "description": "Gundam Wing: Endless Duel ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Junior-Jones/Gundam-Wing-Endless-Duel-SNES-Static-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Gundam-Wing-Endless-Duel-SNES-Static-Recomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "gundamwingendlessduelsnesrecomp",
+    "name": "Gundam Wing Endless Duel Recomp",
+    "game": "Shin Kidō Senki Gundam Wing: Endless Duel",
+    "shortName": "Shin Kidō Senki Gundam Wing: Endless Duel",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [
+      "Mobile Suit Gundam Wing: Endless Duel"
+    ],
+    "developer": "TechnicallyComputers",
+    "kind": "recomp",
+    "description": "Shin Kidō Senki Gundam Wing: Endless Duel recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/TechnicallyComputers/GundamWingEndlessDuelSNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "gundamwingendlessduel-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "haga-sn-recomp",
+    "name": "SNESRecomp port",
+    "game": "Hagane: The Final Conflict",
+    "shortName": "Hagane: The Final Conflict",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [
+      "Hagane: The Final Conflict (SNESRecomp port)"
+    ],
+    "developer": "guimaraf",
+    "kind": "port",
+    "description": "Hagane: The Final Conflict ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/guimaraf/haga-sn-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Hagane-The-Final-Conflict-SNESRecomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "harvestmoonsnesdecomp",
+    "name": "Harvest Moon Decomp",
+    "game": "Harvest Moon",
+    "shortName": "Harvest Moon",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [
+      "★ Harvest Moon"
+    ],
+    "developer": "RodoLy",
+    "kind": "port",
+    "description": "Harvest Moon ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/RodoLy/HarvestMoonSnesDecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "HarvestMoon-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "illusion-recomp",
+    "name": "Illusion of Time Recompiled",
+    "game": "Illusion of Gaia",
+    "shortName": "Illusion of Gaia",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "aitorcachero",
+    "kind": "port",
+    "description": "Illusion of Gaia ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/aitorcachero/Illusion-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Illusion_of_Time_Recompiled_*_Windows_x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "incrediblecrashdummies-recomp",
+    "name": "The Incredible Crash Dummies Recompiled",
+    "game": "The Incredible Crash Dummies",
+    "shortName": "The Incredible Crash Dummies",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "rac08241988",
+    "kind": "port",
+    "description": "The Incredible Crash Dummies ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/rac08241988/IncredibleCrashDummies-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "IncredibleCrashDummies-SNESRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "issd-native",
+    "name": "ISSD Native",
+    "game": "International Superstar Soccer Deluxe",
+    "shortName": "International Superstar Soccer Deluxe",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "sergiomanzur",
+    "kind": "recomp",
+    "description": "International Superstar Soccer Deluxe recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/sergiomanzur/issd-native",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ISSDModStudio-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "jungle-strike-snes-static-recomp",
+    "name": "Jungle Strike Recomp",
+    "game": "Jungle Strike",
+    "shortName": "Jungle Strike",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Junior-Jones",
+    "kind": "recomp",
+    "description": "Jungle Strike recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Junior-Jones/Jungle-Strike-SNES-Static-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Jungle-Strike-SNES-Static-Recomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "kirbysdreamcourse-recomp",
+    "name": "Kirbysdreamcourse Recomp",
+    "game": "Kirby's Dream Course",
+    "shortName": "Kirby's Dream Course",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "alondero",
+    "kind": "port",
+    "description": "Kirby's Dream Course ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/alondero/kirbysdreamcourse-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "kirbysdreamcourse-recomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "kirbysdreamland3recomp",
+    "name": "KirbysDreamLand3Recomp",
+    "game": "Kirby's Dream Land 3",
+    "shortName": "Kirby's Dream Land 3",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "marciliofilho",
+    "kind": "port",
+    "description": "Kirby's Dream Land 3 ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/marciliofilho/KirbysDreamLand3Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "kirbydreamland3-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "kirbysuperstarpc",
+    "name": "KirbySuperStarPC",
+    "game": "Kirby Super Star",
+    "shortName": "Kirby Super Star",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [
+      "Kirby Super Star (KirbySuperStarPC)"
+    ],
+    "developer": "nvd123-YT",
+    "kind": "port",
+    "description": "Kirby Super Star ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/nvd123-YT/KirbySuperStarPC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "kirbysuperstar-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "krustys-super-fun-house-pc-port",
+    "name": "Krusty's Super Fun House Recomp",
+    "game": "Krusty's Super Fun House",
+    "shortName": "Krusty's Super Fun House",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Bentley734",
+    "kind": "port",
+    "description": "Krusty's Super Fun House ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Bentley734/Krustys-Super-Fun-House-PC-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "KrustysSuperFunHouseRecomp-v*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ksssnesrecomp",
+    "name": "Kirby Super Star",
+    "game": "Kirby Super Star",
+    "shortName": "Kirby Super Star",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mpolizel",
+    "kind": "port",
+    "description": "Kirby Super Star ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mpolizel/KSSSNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "kirbysuperstar-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "lagoonsnesrecomp",
+    "name": "Lagoon Recomp",
+    "game": "Lagoon",
+    "shortName": "Lagoon",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "rages4calm",
+    "kind": "port",
+    "description": "Lagoon ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/rages4calm/LagoonSNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Lagoon-Companion-*-win-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "looney-tunes-b-ball-recomp",
+    "name": "Looney Tunes B-Ball Recompiled",
+    "game": "Looney Tunes B-Ball",
+    "shortName": "Looney Tunes B-Ball",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "SlippyGetBackHere",
+    "kind": "recomp",
+    "description": "Looney Tunes B-Ball recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/SlippyGetBackHere/looney_tunes_b-ball_recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "looneytunesbball-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "lufia-i-recomp",
+    "name": "Lufia I Recomp",
+    "game": "Lufia & The Fortress of Doom",
+    "shortName": "Lufia & The Fortress of Doom",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "aitorcachero",
+    "kind": "port",
+    "description": "Lufia & The Fortress of Doom ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/aitorcachero/Lufia-I-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Lufia_I_Recompiled_*_Windows_x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "lufia-ii-recomp",
+    "name": "Lufia II Recomp",
+    "game": "Lufia II: Rise of the Sinistrals",
+    "shortName": "Lufia II: Rise of the Sinistrals",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "aitorcachero",
+    "kind": "port",
+    "description": "Lufia II: Rise of the Sinistrals ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/aitorcachero/Lufia-II-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Lufia_II_Recompiled_*_Windows_x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "lufia2snesrecomp",
+    "name": "Lufia2SNESRecomp",
+    "game": "Lufia II: Rise of the Sinistrals",
+    "shortName": "Lufia II: Rise of the Sinistrals",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Cellenseres",
+    "kind": "recomp",
+    "description": "Lufia II: Rise of the Sinistrals recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Cellenseres/Lufia2SNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Lufia2Recomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "magicalpopnrecomp",
+    "name": "Magical Pop'n Recomp",
+    "game": "Magical Pop'n",
+    "shortName": "Magical Pop'n",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "looking-glassinsects",
+    "kind": "port",
+    "description": "Magical Pop'n ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/looking-glassinsects/MagicalPopnRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MagicalPopn-Builder.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "magicalquest-snes-recomp",
+    "name": "MagicalQuest SNES Recomp",
+    "game": "The Magical Quest Starring Mickey Mouse",
+    "shortName": "The Magical Quest Starring Mickey Mouse",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "RetroForgeBR",
+    "kind": "port",
+    "description": "The Magical Quest Starring Mickey Mouse ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/RetroForgeBR/MagicalQuest-SNES-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "magicalqueststarringmickeymousethe-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mario-all-stars-world-recomp",
+    "name": "Mario All-Stars + World Recomp",
+    "game": "Super Mario All-Stars + Super Mario World",
+    "shortName": "Super Mario All-Stars + Super Mario World",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Bentley734",
+    "kind": "port",
+    "description": "Super Mario All-Stars + Super Mario World ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Bentley734/Mario-All-Stars-World-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MarioAllStarsWorldRecomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mario-all-stars-world-split-recomp",
+    "name": "Mario All Stars World Split Recomp",
+    "game": "Super Mario Bros.",
+    "shortName": "Super Mario Bros.",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Bentley734",
+    "kind": "port",
+    "description": "Super Mario Bros. ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Bentley734/Mario-All-Stars-World-Split-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MarioAllStarsWorldSplitRecomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mega-man-7-recomp",
+    "name": "Mega Man 7 Recomp",
+    "game": "Mega Man 7",
+    "shortName": "Mega Man 7",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "omegakatana92",
+    "kind": "port",
+    "description": "Mega Man 7 ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/omegakatana92/Mega-Man-7-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MegaMan7-Windows-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "megaman7-recomp",
+    "name": "MegaMan7 Recomp",
+    "game": "Mega Man 7",
+    "shortName": "Mega Man 7",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "rac08241988",
+    "kind": "port",
+    "description": "Mega Man 7 ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/rac08241988/MegaMan7-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MegaMan7-SNESRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "megamanx2recomp",
+    "name": "MegaManX2SNESRecomp",
+    "game": "Mega Man X2",
+    "shortName": "Mega Man X2",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Mega Man X2 recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mstan/MegaManX2Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MegaManX2SNESRecomp-windows-x64-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "megamanx3snesrecomp",
+    "name": "Mega Man X3",
+    "game": "Mega Man X3",
+    "shortName": "Mega Man X3",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [
+      "Mega Man X3 (MegamanX3 SNES Recomp)"
+    ],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Mega Man X3 recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/MegamanX3SNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MegaManX3SNESRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "megamanxsnesrecomp",
+    "name": "Mega Man X Recomp",
+    "game": "Mega Man X",
+    "shortName": "Mega Man X",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Mega Man X recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mstan/MegaManXSNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MegaManXSNESRecomp-windows-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mighty-morphin-power-rangers-the-movie-recomp",
+    "name": "Mighty Morphin Power Rangers: The Movie",
+    "game": "Mighty Morphin Power Rangers: The Movie",
+    "shortName": "Mighty Morphin Power Rangers: The Movie",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "emanuelcnjunior",
+    "kind": "port",
+    "description": "Mighty Morphin Power Rangers: The Movie ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/emanuelcnjunior/Mighty-Morphin-Power-Rangers---The-Movie-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Power-Rangers-The-Movie-PC-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ogre-battle-pc",
+    "name": "Ogre Battle PC",
+    "game": "Ogre Battle: The March of the Black Queen",
+    "shortName": "Ogre Battle: The March of the Black Queen",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "hoyajavis",
+    "kind": "port",
+    "description": "Ogre Battle: The March of the Black Queen ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/hoyajavis/ogre-battle-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ogre-battle-pc-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "phase-distorter",
+    "name": "Phase Distorter",
+    "game": "EarthBound",
+    "shortName": "EarthBound",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "TheRunaway5",
+    "kind": "recomp",
+    "description": "EarthBound recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/TheRunaway5/Phase-Distorter",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Phase-Distorter-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rac08241988-uniracers-recomp",
+    "name": "Uniracers Recomp",
+    "game": "Uniracers",
+    "shortName": "Uniracers",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "rac08241988",
+    "kind": "port",
+    "description": "Uniracers ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/rac08241988/Uniracers-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Uniracers-SNESRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "redcomp-dream",
+    "name": "Uniracers Recomp",
+    "game": "Uniracers",
+    "shortName": "Uniracers",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "fselich",
+    "kind": "recomp",
+    "description": "Uniracers recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/fselich/redcomp-dream",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "redcomp-dream-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "relic-of-the-past",
+    "name": "Relic of the Past",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "shortName": "The Legend of Zelda: A Link to the Past",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "drizztdourden08",
+    "kind": "port",
+    "description": "The Legend of Zelda: A Link to the Past ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/drizztdourden08/relic-of-the-past",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "rotp-windows-directory.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rock-and-roll-racing-pc",
+    "name": "Rock n' Roll Racing PC",
+    "game": "Rock n' Roll Racing",
+    "shortName": "Rock n' Roll Racing",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Cris9870",
+    "kind": "port",
+    "description": "Rock n' Roll Racing ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Cris9870/rock-and-roll-racing-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RockAndRollRacingPC-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rock-n-roll-racing-snes-static-recomp",
+    "name": "Rock n' Roll Racing Recomp",
+    "game": "Rock n' Roll Racing",
+    "shortName": "Rock n' Roll Racing",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Junior-Jones",
+    "kind": "port",
+    "description": "Rock n' Roll Racing ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Junior-Jones/Rock-N-Roll-Racing-SNES-Static-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Rock-N-Roll-Racing-SNES-Static-Recomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sailor-moon-another-story-snes-static-recomp",
+    "name": "Sailor Moon: Another Story Recomp",
+    "game": "Bishoujo Senshi Sailor Moon: Another Story",
+    "shortName": "Bishoujo Senshi Sailor Moon: Another Story",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Junior-Jones",
+    "kind": "port",
+    "description": "Bishoujo Senshi Sailor Moon: Another Story ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Junior-Jones/Sailor-Moon-Another-Story-SNES-Static-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Sailor-Moon-Another-Story-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "scivrecomp",
+    "name": "Super Castlevania IV",
+    "game": "Super Castlevania IV",
+    "shortName": "Super Castlevania IV",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mpolizel",
+    "kind": "port",
+    "description": "Super Castlevania IV ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mpolizel/SCIVRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "supercastlevania4-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sfiitrecomp",
+    "name": "Street Fighter II Turbo: Hyper Fighting",
+    "game": "Street Fighter II Turbo: Hyper Fighting",
+    "shortName": "Street Fighter II Turbo: Hyper Fighting",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mpolizel",
+    "kind": "port",
+    "description": "Street Fighter II Turbo: Hyper Fighting ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mpolizel/SFIITRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "sf2turbo-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "simcity-snes-static-recomp",
+    "name": "SimCity Recomp",
+    "game": "SimCity",
+    "shortName": "SimCity",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Junior-Jones",
+    "kind": "port",
+    "description": "SimCity ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Junior-Jones/SimCity-SNES-Static-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SimCity-SNES-Static-Recomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "smas-launcher",
+    "name": "SMAS Launcher",
+    "game": "Super Mario All-Stars",
+    "shortName": "Super Mario All-Stars",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "qurious-pixel",
+    "kind": "port",
+    "description": "Super Mario All-Stars ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/qurious-pixel/SMAS_Launcher",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SMAS_LAUNCHER_Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "smksnesrecomp",
+    "name": "Super Mario Kart Recomp",
+    "game": "Super Mario Kart",
+    "shortName": "Super Mario Kart",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mpolizel",
+    "kind": "recomp",
+    "description": "Super Mario Kart recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mpolizel/SMKSNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "supermariokart-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "smw2recomp",
+    "name": "Super Mario World 2: Yoshi's Island",
+    "game": "Super Mario World 2: Yoshi's Island",
+    "shortName": "Super Mario World 2: Yoshi's Island",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mpolizel",
+    "kind": "port",
+    "description": "Super Mario World 2: Yoshi's Island ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mpolizel/SMW2Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "yoshisisland-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "soe-recomp",
+    "name": "Secret of Evermore Recompiled",
+    "game": "Secret of Evermore",
+    "shortName": "Secret of Evermore",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "aitorcachero",
+    "kind": "port",
+    "description": "Secret of Evermore ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/aitorcachero/SoE-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Secret_of_Evermore_Recompiled_*_Windows_x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "starfox-enhanced",
+    "name": "Star Fox Enhanced",
+    "game": "Star Fox",
+    "shortName": "Star Fox",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "kandowontu2",
+    "kind": "decomp",
+    "description": "Star Fox running natively on PC, built from the decompiled SNES game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/kandowontu2/starfox-enhanced",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "StarFoxEnhanced-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "starfoxsnesrecomp",
+    "name": "Star Fox (mstan)",
+    "game": "Star Fox",
+    "shortName": "Star Fox",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Star Fox recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mstan/StarFoxSNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "StarFoxSNESRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "strike-gunner-stg-recomp",
+    "name": "Strike Gunner S.T.G Recomp",
+    "game": "Strike Gunner S.T.G",
+    "shortName": "Strike Gunner S.T.G",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "SlippyGetBackHere",
+    "kind": "recomp",
+    "description": "Strike Gunner S.T.G recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/SlippyGetBackHere/Strike-Gunner-STG-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "strikegunnerstg-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "stuntracefx",
+    "name": "Stunt Race FX Remastered",
+    "game": "Stunt Race FX",
+    "shortName": "Stunt Race FX",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "jeff-strutb",
+    "kind": "port",
+    "description": "Stunt Race FX ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/jeff-strutb/stuntracefx",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "StuntRaceFXBuilder-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "super-mario-world-remastered-public",
+    "name": "Super Mario World Remastered",
+    "game": "Super Mario World",
+    "shortName": "Super Mario World",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "JHDev2006",
+    "kind": "port",
+    "description": "Super Mario World ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/JHDev2006/Super-Mario-World-Remastered-Public",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "super-metroid-launcher",
+    "name": "Super Metroid Launcher",
+    "game": "Super Metroid",
+    "shortName": "Super Metroid",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "RadzPrower",
+    "kind": "port",
+    "description": "Super Metroid ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/RadzPrower/Super-Metroid-Launcher",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Super_Metroid_Launcher_v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "superbomberman5snesrecomp",
+    "name": "Super Bomberman 5 Recomp",
+    "game": "Super Bomberman 5",
+    "shortName": "Super Bomberman 5",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "MauricioSuporte",
+    "kind": "recomp",
+    "description": "Super Bomberman 5 recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/MauricioSuporte/SuperBomberman5SNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "superbomberman5-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "supermarioallstars",
+    "name": "Super Mario All-Stars PC Port",
+    "game": "Super Mario All-Stars",
+    "shortName": "Super Mario All-Stars",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Darhkfox",
+    "kind": "port",
+    "description": "Super Mario All-Stars ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Darhkfox/SuperMarioAllStars",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SuperMarioAllStars-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "supermarioallstarsrecomp",
+    "name": "Super Mario All-Stars Recomp",
+    "game": "Super Mario All-Stars",
+    "shortName": "Super Mario All-Stars",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "TanookiStudios",
+    "kind": "recomp",
+    "description": "Super Mario All-Stars recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/TanookiStudios/SuperMarioAllStarsRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SuperMarioAllStars-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "supermariokartrecomp",
+    "name": "SuperMarioKartRecomp",
+    "game": "Super Mario Kart",
+    "shortName": "Super Mario Kart",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [
+      "Super Mario Kart (SuperMarioKartRecomp)"
+    ],
+    "developer": "Zaxaerith",
+    "kind": "port",
+    "description": "Super Mario Kart ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Zaxaerith/SuperMarioKartRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SuperMarioKartRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "supermariorpgrecomp",
+    "name": "SuperMarioRPGSNESRecomp",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "shortName": "Super Mario RPG: Legend of the Seven Stars",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Super Mario RPG: Legend of the Seven Stars recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mstan/SuperMarioRPGRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SuperMarioRPGSNESRecomp-windows-x64-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "supermarioworld2yoshisislandrecomp",
+    "name": "Super Mario World 2: Yoshi's Island Recomp",
+    "game": "Super Mario World 2: Yoshi's Island",
+    "shortName": "Super Mario World 2: Yoshi's Island",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Zaxaerith",
+    "kind": "port",
+    "description": "Super Mario World 2: Yoshi's Island ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/Zaxaerith/SuperMarioWorld2YoshisIslandRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "YoshisIslandRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "supermarioworldrecomp",
+    "name": "Super Mario World Recomp",
+    "game": "Super Mario World",
+    "shortName": "Super Mario World",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Super Mario World recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mstan/SuperMarioWorldRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SuperMarioWorldRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "supermetroiddecomp",
+    "name": "SuperMetroidDecomp",
+    "game": "Super Metroid",
+    "shortName": "Super Metroid",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "MrJackSpade",
+    "kind": "port",
+    "description": "Super Metroid ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/MrJackSpade/SuperMetroidDecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SuperMetroid-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "supermetroidplus",
+    "name": "Super Metroid Plus",
+    "game": "Super Metroid",
+    "shortName": "Super Metroid",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "peanutsofdoom",
+    "kind": "port",
+    "description": "Super Metroid ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/peanutsofdoom/supermetroidplus",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Super-Metroid-Plus-Windows-x64-253-254.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "supermetroidrecomp",
+    "name": "SuperMetroidSNESRecomp",
+    "game": "Super Metroid",
+    "shortName": "Super Metroid",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "Super Metroid recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mstan/SuperMetroidRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "supermetroid-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "superpunchoutrecomp",
+    "name": "Super Punch-Out!!",
+    "game": "Super Punch-Out!!",
+    "shortName": "Super Punch-Out!!",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "TanookiStudios",
+    "kind": "recomp",
+    "description": "Super Punch-Out!! recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/TanookiStudios/SuperPunchOutRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SuperPunchOut-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "superryuworld1-recomp",
+    "name": "Super Ryu World 1 — Native PC Port (Recomp tooling)",
+    "game": "Super Ryu World 1",
+    "shortName": "Super Ryu World 1",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "rac08241988",
+    "kind": "port",
+    "description": "Super Ryu World 1 ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/rac08241988/SuperRyuWorld1-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SuperRyuWorld1-SNESRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "theme-park-snes-static-recomp",
+    "name": "Theme Park Recomp",
+    "game": "Theme Park",
+    "shortName": "Theme Park",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Junior-Jones",
+    "kind": "port",
+    "description": "Theme Park ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Junior-Jones/Theme-Park-SNES-Static-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Theme-Park-SNES-Static-Recomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tlkrecomp",
+    "name": "TLKRecomp",
+    "game": "The Lion King",
+    "shortName": "The Lion King",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "kinduff",
+    "kind": "port",
+    "description": "The Lion King ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/kinduff/TLKRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TLKRecomp-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "top-gear-snes-static-recomp",
+    "name": "Top Gear Recomp",
+    "game": "Top Gear",
+    "shortName": "Top Gear",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Junior-Jones",
+    "kind": "port",
+    "description": "Top Gear ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Junior-Jones/Top-Gear-SNES-Static-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Top-Gear-Definitive-Edition-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "topgear-pc",
+    "name": "Top Gear PC",
+    "game": "Top Gear",
+    "shortName": "Top Gear",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "thebradshaw",
+    "kind": "decomp",
+    "description": "Top Gear running natively on PC, built from the decompiled SNES game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/thebradshaw/topgear-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "topgear-pc-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "trio",
+    "name": "trio",
+    "game": "Trio",
+    "shortName": "Trio",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [
+      "Trio (three SNES action platformers)"
+    ],
+    "developer": "y4my4my4m",
+    "kind": "port",
+    "description": "Trio ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/y4my4my4m/trio",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "trio-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "tsbnsnesrecomp",
+    "name": "The Simpsons: Bart's Nightmare Recomp",
+    "game": "The Simpsons: Bart's Nightmare",
+    "shortName": "The Simpsons: Bart's Nightmare",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mpolizel",
+    "kind": "port",
+    "description": "The Simpsons: Bart's Nightmare ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/mpolizel/TSBNSNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "bartsnightmare-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "uncharted-waters-new-horizons-snes-static-recomp",
+    "name": "Uncharted Waters: New Horizons Recomp",
+    "game": "Uncharted Waters: New Horizons",
+    "shortName": "Uncharted Waters: New Horizons",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Junior-Jones",
+    "kind": "port",
+    "description": "Uncharted Waters: New Horizons ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Junior-Jones/Uncharted-Waters-New-Horizons-SNES-Static-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Uncharted-Waters-New-Horizons-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "uniracers-recomp",
+    "name": "Uniracers Recomp",
+    "game": "Uniracers",
+    "shortName": "Uniracers",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "baldosa",
+    "kind": "port",
+    "description": "Uniracers ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/baldosa/uniracers-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "uniracers-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "urbanrecomp",
+    "name": "UrbanRecomp",
+    "game": "SimCity",
+    "shortName": "SimCity",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [
+      "SimCity (Urban Recomp)"
+    ],
+    "developer": "blackerking",
+    "kind": "port",
+    "description": "SimCity ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/blackerking/UrbanRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "UrbanRecomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "urbanstrike-recomp",
+    "name": "Urban Strike Recomp",
+    "game": "Urban Strike",
+    "shortName": "Urban Strike",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "rac08241988",
+    "kind": "port",
+    "description": "Urban Strike ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/rac08241988/UrbanStrike-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "UrbanStrike-SNESRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "warofthegemsrecomp",
+    "name": "WarOfTheGemsRecomp",
+    "game": "Marvel Super Heroes in War of the Gems",
+    "shortName": "Marvel Super Heroes in War of the Gems",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [
+      "Marvel Super Heroes in War of the Gems (WarOfTheGemsRecomp)"
+    ],
+    "developer": "VrilDox-Coluan",
+    "kind": "port",
+    "description": "Marvel Super Heroes in War of the Gems ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/VrilDox-Coluan/WarOfTheGemsRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WarOfTheGemsRecomp-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "waynesworld-recomp",
+    "name": "Wayne's World Recomp",
+    "game": "Wayne's World",
+    "shortName": "Wayne's World",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "rac08241988",
+    "kind": "port",
+    "description": "Wayne's World ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/rac08241988/WaynesWorld-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WaynesWorld-SNESRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "xalabaiasadventure-recomp",
+    "name": "Xalabaias Adventure",
+    "game": "Xalabaias Adventure",
+    "shortName": "Xalabaias Adventure",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "rac08241988",
+    "kind": "port",
+    "description": "Xalabaias Adventure ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/rac08241988/XalabaiasAdventure-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "XalabaiasAdventure-SNESRecomp-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "xmenmutantapocalypserecomp",
+    "name": "XMenMutantApocalypseRecomp",
+    "game": "X-Men: Mutant Apocalypse",
+    "shortName": "X-Men: Mutant Apocalypse",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [
+      "X-Men: Mutant Apocalypse (XMenMutantApocalypseRecomp)"
+    ],
+    "developer": "VrilDox-Coluan",
+    "kind": "port",
+    "description": "X-Men: Mutant Apocalypse ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/VrilDox-Coluan/XMenMutantApocalypseRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "XMenMutantApocalypseRecomp-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "yo-island-snes-recomp",
+    "name": "Yo Island Snes Recomp",
+    "game": "Super Mario World 2: Yoshi's Island",
+    "shortName": "Super Mario World 2: Yoshi's Island",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "guimaraf",
+    "kind": "port",
+    "description": "Super Mario World 2: Yoshi's Island ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/guimaraf/yo-Island-snes-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "islandSnesRecomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "zelda-3-launcher",
+    "name": "Zelda 3 Launcher",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "shortName": "The Legend of Zelda: A Link to the Past",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "RadzPrower",
+    "kind": "port",
+    "description": "The Legend of Zelda: A Link to the Past ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/RadzPrower/Zelda-3-Launcher",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Zelda_3_Launcher_v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "zelda-companion",
+    "name": "Zelda Companion",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "shortName": "The Legend of Zelda: A Link to the Past",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [
+      "The Legend of Zelda: A Link to the Past (Zelda Companion)"
+    ],
+    "developer": "rages4calm",
+    "kind": "port",
+    "description": "The Legend of Zelda: A Link to the Past ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/rages4calm/zelda-companion",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ZeldaCompanion-*-win-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "zeldaalttpsnesrecomp",
+    "name": "ZeldaAlttPSNESRecomp",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "shortName": "The Legend of Zelda: A Link to the Past",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "mstan",
+    "kind": "recomp",
+    "description": "The Legend of Zelda: A Link to the Past recompiled from the SNES version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/mstan/ZeldaAlttPSNESRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ZeldaALttPSNESRecomp-windows-x64-v*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "zombies-ate-my-neighbors-ultrawide",
+    "name": "Zombies Ate My Neighbors Ultrawide",
+    "game": "Zombies Ate My Neighbors",
+    "shortName": "Zombies Ate My Neighbors",
+    "platform": "Super Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "Bentley734",
+    "kind": "port",
+    "description": "Zombies Ate My Neighbors ported to run natively on PC from the SNES version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Bentley734/zombies-ate-my-neighbors-ultrawide",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ZAMNUltrawide-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

@@ -1,0 +1,683 @@
+[
+  {
+    "id": "4u-native",
+    "name": "MH4U for Android",
+    "game": "Monster Hunter 4 Ultimate",
+    "shortName": "Monster Hunter 4 Ultimate",
+    "platform": "Nintendo 3DS",
+    "aliases": [
+      "Monster Hunter 4 Ultimate (MH4U for Android)"
+    ],
+    "developer": "khorne-hub",
+    "kind": "port",
+    "description": "Monster Hunter 4 Ultimate ported to run natively on PC from the 3DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/khorne-hub/4u-native",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MH4U-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "angrybirdsrecomp",
+    "name": "Angry Birds Trilogy Recompiled",
+    "game": "Angry Birds Trilogy",
+    "shortName": "Angry Birds Trilogy",
+    "platform": "Nintendo 3DS",
+    "aliases": [],
+    "developer": "nvd123-YT",
+    "kind": "port",
+    "description": "Angry Birds Trilogy ported to run natively on PC from the 3DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/nvd123-YT/AngryBirdsRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "angry-birds-trilogy-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "canopus-protocol",
+    "name": "Canopus Protocol",
+    "game": "Shin Megami Tensei: Devil Survivor 2 Record Breaker",
+    "shortName": "Shin Megami Tensei: Devil Survivor 2 Record Breaker",
+    "platform": "Nintendo 3DS",
+    "aliases": [],
+    "developer": "riomoo",
+    "kind": "recomp",
+    "description": "Shin Megami Tensei: Devil Survivor 2 Record Breaker recompiled from the 3DS version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/riomoo/canopus-protocol",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "CanopusProtocol-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "clockwork",
+    "name": "clockwork",
+    "game": "Yo-kai Watch series",
+    "shortName": "Yo-kai Watch series",
+    "platform": "Nintendo 3DS",
+    "aliases": [
+      "Yo-kai Watch series (Clockwork)"
+    ],
+    "developer": "watchmakerers",
+    "kind": "port",
+    "description": "Yo-kai Watch series ported to run natively on PC from the 3DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/watchmakerers/clockwork",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "clockwork-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "fe-awakening-recomp",
+    "name": "Fire Emblem: Awakening for Windows",
+    "game": "Fire Emblem: Awakening",
+    "shortName": "Fire Emblem: Awakening",
+    "platform": "Nintendo 3DS",
+    "aliases": [],
+    "developer": "Zelkin1",
+    "kind": "port",
+    "description": "Fire Emblem: Awakening ported to run natively on PC from the 3DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Zelkin1/fe-awakening-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "fe-awakening-launcher-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "fe-fates-se-recomp",
+    "name": "Fire Emblem Fates Special Edition Recomp",
+    "game": "Fire Emblem Fates: Special Edition",
+    "shortName": "Fire Emblem Fates: Special Edition",
+    "platform": "Nintendo 3DS",
+    "aliases": [],
+    "developer": "Suuumiii",
+    "kind": "port",
+    "description": "Fire Emblem Fates: Special Edition ported to run natively on PC from the 3DS version.",
+    "requirement": "",
+    "features": [
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/Suuumiii/FE-Fates-SE-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FE-Fates-SE-Recomp-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "haiku",
+    "name": "Haiku",
+    "game": "Fire Emblem Fates",
+    "shortName": "Fire Emblem Fates",
+    "platform": "Nintendo 3DS",
+    "aliases": [],
+    "developer": "tyle-beep",
+    "kind": "port",
+    "description": "Fire Emblem Fates ported to run natively on PC from the 3DS version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/tyle-beep/Haiku",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Haiku.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "legocityundercover-thechasebegins-pc-port",
+    "name": "LegoCityUndercover TheChaseBegins PC Port",
+    "game": "LEGO City Undercover: The Chase Begins",
+    "shortName": "LEGO City Undercover: The Chase Begins",
+    "platform": "Nintendo 3DS",
+    "aliases": [],
+    "developer": "zJanny",
+    "kind": "port",
+    "description": "LEGO City Undercover: The Chase Begins ported to run natively on PC from the 3DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/zJanny/LegoCityUndercover-TheChaseBegins-PC-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "chase-windows-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mh4ultimatedc",
+    "name": "Monster Hunter 4 Ultimate",
+    "game": "Monster Hunter 4 Ultimate",
+    "shortName": "Monster Hunter 4 Ultimate",
+    "platform": "Nintendo 3DS",
+    "aliases": [],
+    "developer": "CompaLarios18",
+    "kind": "recomp",
+    "description": "Monster Hunter 4 Ultimate recompiled from the 3DS version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/CompaLarios18/MH4UltimateDC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "mh4u-port-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mk7recomp",
+    "name": "Mario Kart 7 Recompiled",
+    "game": "Mario Kart 7",
+    "shortName": "Mario Kart 7",
+    "platform": "Nintendo 3DS",
+    "aliases": [],
+    "developer": "nvd123-YT",
+    "kind": "port",
+    "description": "Mario Kart 7 ported to run natively on PC from the 3DS version.",
+    "requirement": "",
+    "features": [
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/nvd123-YT/MK7Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "mario-kart-7-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mm3d-dekui",
+    "name": "DekUI",
+    "game": "The Legend of Zelda: Majora's Mask 3D",
+    "shortName": "The Legend of Zelda: Majora's Mask 3D",
+    "platform": "Nintendo 3DS",
+    "aliases": [],
+    "developer": "tgacquin",
+    "kind": "port",
+    "description": "The Legend of Zelda: Majora's Mask 3D ported to run natively on PC from the 3DS version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/tgacquin/mm3d-dekui",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Dekui-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "mm3d-pc",
+    "name": "The Legend of Zelda: Majora's Mask 3D",
+    "game": "The Legend of Zelda: Majora's Mask 3D",
+    "shortName": "The Legend of Zelda: Majora's Mask 3D",
+    "platform": "Nintendo 3DS",
+    "aliases": [
+      "The Legend of Zelda: Majora's Mask 3D (MM3D-PC)"
+    ],
+    "developer": "Volpe34",
+    "kind": "recomp",
+    "description": "The Legend of Zelda: Majora's Mask 3D recompiled from the 3DS version into a native PC game.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Volpe34/MM3D-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MM3D-PC-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "msr2ds",
+    "name": "MSR2DS",
+    "game": "Metroid: Samus Returns",
+    "shortName": "Metroid: Samus Returns",
+    "platform": "Nintendo 3DS",
+    "aliases": [],
+    "developer": "gminustwo",
+    "kind": "port",
+    "description": "Metroid: Samus Returns ported to run natively on PC from the 3DS version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/gminustwo/msr2ds",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "msr2ds-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ocarina-retuned",
+    "name": "Ocarina ReTuned",
+    "game": "The Legend of Zelda: Ocarina of Time 3D",
+    "shortName": "The Legend of Zelda: Ocarina of Time 3D",
+    "platform": "Nintendo 3DS",
+    "aliases": [],
+    "developer": "OTPR26",
+    "kind": "recomp",
+    "description": "The Legend of Zelda: Ocarina of Time 3D recompiled from the 3DS version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/OTPR26/Ocarina-ReTuned",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Ocarina-ReTuned-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "pokemon-x-decomp",
+    "name": "Pokemon X Decomp",
+    "game": "Pokémon X",
+    "shortName": "Pokémon X",
+    "platform": "Nintendo 3DS",
+    "aliases": [],
+    "developer": "chanadinh",
+    "kind": "port",
+    "description": "Pokémon X ported to run natively on PC from the 3DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/chanadinh/pokemon-x-decomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PokemonX-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "triaevum",
+    "name": "TriAevum: Echoes of Time",
+    "game": "The Legend of Zelda: Ocarina of Time 3D",
+    "shortName": "The Legend of Zelda: Ocarina of Time 3D",
+    "platform": "Nintendo 3DS",
+    "aliases": [],
+    "developer": "coccofresco",
+    "kind": "recomp",
+    "description": "The Legend of Zelda: Ocarina of Time 3D recompiled from the 3DS version into a native PC game.",
+    "requirement": "",
+    "features": [
+      "hd-textures",
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/coccofresco/TriAevum",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TriAevum-v*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "triforce-recompiled",
+    "name": "Triforce Recompiled",
+    "game": "The Legend of Zelda: Tri Force Heroes",
+    "shortName": "The Legend of Zelda: Tri Force Heroes",
+    "platform": "Nintendo 3DS",
+    "aliases": [
+      "The Legend of Zelda: Tri Force Heroes (Triforce Recompiled)"
+    ],
+    "developer": "Tillundmausi",
+    "kind": "port",
+    "description": "The Legend of Zelda: Tri Force Heroes ported to run natively on PC from the 3DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Tillundmausi/Triforce-Recompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "TriforceRecompiled-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "wariowaregoldrecomp",
+    "name": "WarioWare Gold Recomp",
+    "game": "WarioWare Gold",
+    "shortName": "WarioWare Gold",
+    "platform": "Nintendo 3DS",
+    "aliases": [],
+    "developer": "nvd123-YT",
+    "kind": "port",
+    "description": "WarioWare Gold ported to run natively on PC from the 3DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/nvd123-YT/WarioWareGoldRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "warioware-gold-recomp-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "woohoo-flight-school",
+    "name": "Woohoo! Flight School",
+    "game": "Pilotwings Resort",
+    "shortName": "Pilotwings Resort",
+    "platform": "Nintendo 3DS",
+    "aliases": [],
+    "developer": "thefixinhixon",
+    "kind": "port",
+    "description": "Pilotwings Resort ported to run natively on PC from the 3DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/thefixinhixon/woohoo-flight-school",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "WoohooFlightSchool-Windows-kit.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "world-across",
+    "name": "World Across",
+    "game": "The Legend of Zelda: A Link Between Worlds",
+    "shortName": "The Legend of Zelda: A Link Between Worlds",
+    "platform": "Nintendo 3DS",
+    "aliases": [
+      "The Legend of Zelda: A Link Between Worlds (World Across)"
+    ],
+    "developer": "PaceTea",
+    "kind": "port",
+    "description": "The Legend of Zelda: A Link Between Worlds ported to run natively on PC from the 3DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/PaceTea/world-across",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "World-Across-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  }
+]

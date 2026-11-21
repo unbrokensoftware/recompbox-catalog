@@ -37,6 +37,26 @@ Every run also checks that each listed project still works, and records what it 
   so it comes back on its own once it works again.
 - Ports that are simply quiet (no new release in a long time) are never removed.
 
+## Finding new ports
+
+Every Monday a harvest job (`--harvest`) reads the outside lists under `discover` in `feeds.json`. They are only
+used to find GitHub repositories. Each one has to pass our own checks before it's added to `sources/discovered/` as
+our own entry:
+
+- It's a console game, on a platform we can match in LaunchBox (PC, DOS, Mac and phone projects are skipped).
+- Its GitHub repository has a release with a Windows .zip or .7z download.
+- It isn't one we already list. Duplicates are caught by repository (any case, after following moves), forks of a
+  listed project, and reuploads (same game, same platform, same download file; the most-starred one is kept).
+  Different projects for the same game are kept. They're alternatives.
+
+Descriptions are our own short text, not copied from the lists. What the harvest found but couldn't use is in
+`candidates/harvest-skipped.md`. Once added, an entry is ours: edit it freely; the harvest never changes it again.
+
+Lists we read: [RecompLauncher](https://recomplauncher.com), [Recompendium](https://recompendium.com)
+(data CC BY-SA 4.0), [Portcove](https://github.com/boburning/portcove) (Apache-2.0),
+[Decomp Buddy](https://tanookistudios.com/decomp-buddy/), [Ports Launcher](https://github.com/Nyaldee/Ports-Launcher)
+and the [Quiver community catalog](https://github.com/tgeorgiadis/quiver-community-app-catalog). Thanks to all of them.
+
 ## Adding a port
 
 Add a JSON file under `sources/community/` and open a pull request. A check runs the generator on it.

@@ -1,6 +1,6 @@
 # Catalog upkeep
 
-Written by the catalog job. 14 ports listed.
+Written by the catalog job. 2069 ports listed.
 
 ## Moved (0)
 

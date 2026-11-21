@@ -16,13 +16,14 @@ permissions:
   contents: write
 
 concurrency:
-  group: generate-catalog
+  group: catalog-write
   cancel-in-progress: false
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    # Generous: if GitHub's hourly API limit runs out, the generator waits for the reset instead of failing.
+    timeout-minutes: 360
     steps:
       - uses: actions/checkout@v4
 
@@ -30,10 +31,25 @@ jobs:
         with:
           dotnet-version: "10.0.x"
 
+      # Cached GitHub answers: unchanged ones come back as 304 and don't use up the API limit.
+      - uses: actions/cache/restore@v4
+        with:
+          path: .cache
+          key: github-api-${{ github.run_id }}
+          restore-keys: github-api-
+
       - name: Generate
+        timeout-minutes: 330
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: dotnet run --project generator -c Release
+
+      # Saved even when a step failed or ran out of time, so the next run starts where this one stopped.
+      - uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: .cache
+          key: github-api-${{ github.run_id }}
 
       - name: Publish
         run: |
@@ -45,4 +61,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "Update catalog"
+          git pull --rebase
           git push
