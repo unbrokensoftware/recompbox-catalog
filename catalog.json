@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generated": "2026-11-21T16:16:41+00:00",
+  "generated": "2026-11-21T17:08:19+00:00",
   "ports": [
     {
       "id": "2ship2harkinian",
@@ -367,7 +367,7 @@
       "pick": true,
       "repositoryUrl": "https://github.com/TwilitRealm/dusklight",
       "license": "CC0-1.0",
-      "stars": 6501,
+      "stars": 6502,
       "added": "2025-11-30T01:27:51+00:00",
       "updated": "2026-09-30T07:06:44+00:00",
       "colors": [
@@ -705,7 +705,7 @@
       "pick": true,
       "repositoryUrl": "https://github.com/HarbourMasters/SpaghettiKart",
       "license": "",
-      "stars": 2505,
+      "stars": 2506,
       "added": "2024-04-07T15:49:14+00:00",
       "updated": "2026-02-25T02:26:04+00:00",
       "colors": [
@@ -835,7 +835,7 @@
       "pick": false,
       "repositoryUrl": "https://github.com/HarbourMasters/Starship",
       "license": "CC0-1.0",
-      "stars": 2152,
+      "stars": 2153,
       "added": "2024-05-21T03:28:06+00:00",
       "updated": "2025-05-25T03:43:32+00:00",
       "colors": [
@@ -973,7 +973,7 @@
       "pick": true,
       "repositoryUrl": "https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp",
       "license": "MPL-2.0",
-      "stars": 1632,
+      "stars": 1633,
       "added": "2026-10-01T12:28:45+00:00",
       "updated": "2026-11-06T14:33:31+00:00",
       "colors": [
@@ -1054,7 +1054,7 @@
       "license": "MIT",
       "stars": 0,
       "added": "2026-11-21T16:05:01+00:00",
-      "updated": "2026-11-21T16:16:41+00:00",
+      "updated": "2026-11-21T17:08:19+00:00",
       "colors": [
         "#2e8b57",
         "#c9a227",
@@ -1083,6 +1083,12 @@
         "creates": "zelda3_assets.dat"
       },
       "releases": [
+        {
+          "version": "v1.0.1",
+          "published": "2026-11-21T17:08:19+00:00",
+          "sizeBytes": 20748116,
+          "prerelease": false
+        },
         {
           "version": "v1.0.0",
           "published": "2026-11-21T16:16:41+00:00",
