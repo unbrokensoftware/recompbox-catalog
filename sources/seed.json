@@ -1,0 +1,84 @@
+[
+  {
+    "id": "zelda64recomp", "name": "Zelda 64: Recompiled", "game": "The Legend of Zelda: Majora's Mask", "shortName": "Majora's Mask",
+    "platform": "Nintendo 64", "developer": "Zelda64Recomp", "kind": "recomp",
+    "description": "Majora's Mask rebuilt as a PC game. Plays at any frame rate and resolution with dual analog camera and mod support.",
+    "requirement": "US version", "features": ["widescreen", "high-fps", "mods", "gyro"],
+    "repositoryUrl": "https://github.com/Zelda64Recomp/Zelda64Recomp", "colors": ["#7b3fe4", "#2fb37a", "#1a0d2e"],
+    "install": "download", "assets": [{ "pattern": "Zelda64Recompiled-*-Windows.zip" }]
+  },
+  {
+    "id": "2ship2harkinian", "name": "2 Ship 2 Harkinian", "game": "The Legend of Zelda: Majora's Mask", "shortName": "Majora's Mask",
+    "platform": "Nintendo 64", "developer": "HarbourMasters", "kind": "decomp",
+    "description": "Majora's Mask on the libultraship engine with enhancements, cheats and a built-in mod manager.",
+    "requirement": "US version", "features": ["widescreen", "high-fps", "mods", "randomizer"],
+    "repositoryUrl": "https://github.com/HarbourMasters/2ship2harkinian", "colors": ["#6a32c9", "#e0a43a", "#160a26"],
+    "install": "download", "assets": [{ "pattern": "2Ship-*-Win64.zip" }]
+  },
+  {
+    "id": "shipwright", "name": "Ship of Harkinian", "game": "The Legend of Zelda: Ocarina of Time", "shortName": "Ocarina of Time",
+    "platform": "Nintendo 64", "developer": "HarbourMasters", "kind": "decomp",
+    "description": "Ocarina of Time running natively with a randomizer, enhancements and texture pack support.",
+    "requirement": "US 1.0 or GameCube version", "features": ["widescreen", "high-fps", "randomizer", "mods"],
+    "repositoryUrl": "https://github.com/HarbourMasters/Shipwright", "colors": ["#1f7a4a", "#c9a227", "#08170f"],
+    "install": "download", "assets": [{ "pattern": "SoH-*-Win64.zip" }]
+  },
+  {
+    "id": "starfox64recomp", "name": "Starfox 64: Recompiled", "game": "Star Fox 64", "shortName": "Star Fox 64",
+    "platform": "Nintendo 64", "developer": "sonicdcer", "kind": "recomp",
+    "description": "Star Fox 64 as a native game with widescreen, high frame rates and mod support.",
+    "requirement": "US 1.1 version", "features": ["widescreen", "high-fps", "mods"],
+    "repositoryUrl": "https://github.com/sonicdcer/Starfox64Recomp", "colors": ["#2b62d9", "#d93b3b", "#060c1c"],
+    "install": "download", "assets": [{ "pattern": "Starfox64Recompiled-*-Windows-*.zip" }]
+  },
+  {
+    "id": "starship", "name": "Starship", "game": "Star Fox 64", "shortName": "Star Fox 64",
+    "platform": "Nintendo 64", "developer": "HarbourMasters", "kind": "decomp",
+    "description": "Star Fox 64 on the libultraship engine with enhancements and custom assets.",
+    "requirement": "US 1.1 version", "features": ["widescreen", "high-fps", "mods"],
+    "repositoryUrl": "https://github.com/HarbourMasters/Starship", "colors": ["#1d4fb8", "#f0c43a", "#050b18"],
+    "install": "download", "assets": [{ "pattern": "Starship-*-Windows.zip" }]
+  },
+  {
+    "id": "spaghettikart", "name": "SpaghettiKart", "game": "Mario Kart 64", "shortName": "Mario Kart 64",
+    "platform": "Nintendo 64", "developer": "HarbourMasters", "kind": "decomp",
+    "description": "Mario Kart 64 with custom tracks, widescreen and high frame rates.",
+    "requirement": "US version", "features": ["widescreen", "high-fps"],
+    "repositoryUrl": "https://github.com/HarbourMasters/SpaghettiKart", "colors": ["#d8262f", "#f2c230", "#1c0607"],
+    "install": "download", "assets": [{ "pattern": "spaghetti-windows.zip" }]
+  },
+  {
+    "id": "render96", "name": "Render96", "game": "Super Mario 64", "shortName": "Super Mario 64",
+    "platform": "Nintendo 64", "developer": "Render96", "kind": "decomp",
+    "description": "Super Mario 64 with high-detail models and HD textures. Built on this PC from your copy.",
+    "requirement": "US version", "features": ["hd-textures", "widescreen"],
+    "repositoryUrl": "https://github.com/Render96/Render96ex", "colors": ["#e0262c", "#2f6be0", "#18080a"],
+    "install": "build", "recipe": "render96", "saves": "UserData", "releases": [{ "version": "f6e9e1b", "published": "2026-09-30T00:00:00Z" }],
+    "roms": [{ "label": "US", "sha1": "9bef1128717f958171a4afac3ed78ee2bb4e86ce", "sizeBytes": 8388608 }]
+  },
+  {
+    "id": "sm64coopdx", "name": "Co-op DX", "game": "Super Mario 64", "shortName": "Super Mario 64",
+    "platform": "Nintendo 64", "developer": "coop-deluxe", "kind": "decomp",
+    "description": "Super Mario 64 online with up to 16 players and a large mod library.",
+    "requirement": "US version", "features": ["online", "mods", "widescreen"],
+    "repositoryUrl": "https://github.com/coop-deluxe/sm64coopdx", "colors": ["#e8452c", "#3bb0e8", "#1a0a07"],
+    "install": "download", "assets": [{ "pattern": "sm64coopdx_Windows.zip" }],
+    "roms": [{ "label": "US", "sha1": "9bef1128717f958171a4afac3ed78ee2bb4e86ce", "sizeBytes": 8388608 }]
+  },
+  {
+    "id": "perfect-dark", "name": "Perfect Dark", "game": "Perfect Dark", "shortName": "Perfect Dark",
+    "platform": "Nintendo 64", "developer": "fgsfdsfgs", "kind": "decomp",
+    "description": "Perfect Dark with mouse and keyboard, high frame rates and widescreen.",
+    "requirement": "US 1.1 version", "features": ["high-fps", "widescreen"],
+    "repositoryUrl": "https://github.com/fgsfdsfgs/perfect_dark", "colors": ["#c21d3b", "#3a3f4a", "#0b0b0e"],
+    "install": "download", "assets": [{ "pattern": "pd-x86_64-windows.zip" }]
+  },
+  {
+    "id": "unleashedrecomp", "name": "Unleashed Recompiled", "game": "Sonic Unleashed", "shortName": "Sonic Unleashed",
+    "platform": "Microsoft Xbox 360", "developer": "hedge-dev", "kind": "recomp",
+    "description": "Sonic Unleashed recompiled for PC. Unlocked frame rate, ultrawide and mod support.",
+    "requirement": "Xbox 360 disc and title update", "features": ["high-fps", "widescreen", "mods"],
+    "repositoryUrl": "https://github.com/hedge-dev/UnleashedRecomp", "colors": ["#1f5fd6", "#f2a12a", "#060d1c"],
+    "install": "download", "assets": [{ "pattern": "UnleashedRecomp-Windows.zip" }]
+  }
+]

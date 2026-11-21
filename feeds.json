@@ -1,0 +1,36 @@
+{
+  // Where the catalog job pulls from. Feeds run top to bottom; the first entry for an id or GitHub
+  // repository wins, so our own entries stay first. Switch a feed with "enabled", add one by copying a block.
+  // Types: local (a folder in this repo), url (an https JSON file in our entry format),
+  // retcomm (a RetComM-style catalog repo), github-topics (writes a candidates report, never publishes).
+  "feeds": [
+    {
+      "id": "ours",
+      "type": "local",
+      "path": "sources",
+      "note": "Seed list plus community pull requests under sources/community."
+    },
+    {
+      "id": "retcomm",
+      "type": "retcomm",
+      "enabled": false,
+      "repo": "TechnicallyComputers/retcomm-catalog",
+      "branch": "main",
+      "platforms": {
+        "n64": "Nintendo 64",
+        "snes": "Super Nintendo Entertainment System",
+        "gba": "Nintendo Game Boy Advance"
+      },
+      "note": "Off until the RetComM maintainers OK reuse: the repo has no license. PlayStation is left out because the installer can't place disc sets (CUE/BIN) or a BIOS yet."
+    },
+    {
+      "id": "github-topics",
+      "type": "github-topics",
+      "topics": ["n64recomp", "recomp", "xenonrecomp", "static-recompilation", "pc-port"],
+      "minStars": 25,
+      "maxPerTopic": 50,
+      "output": "candidates/github-topics.md",
+      "note": "Report only. Review a candidate, then add it as an entry under sources/."
+    }
+  ]
+}

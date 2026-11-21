@@ -1,0 +1,331 @@
+using System.Net;
+using System.Net.Http.Headers;
+using System.Text;
+using System.Text.Encodings.Web;
+using System.Text.Json;
+using System.Text.RegularExpressions;
+using SM64EnhancedWindowsBuilder.Models;
+
+namespace CatalogGenerator;
+
+internal static partial class Program
+{
+    private const int MaxReleases = 5;
+    private static int _strictRejections;
+
+    internal static readonly JsonSerializerOptions ReadOptions = new(JsonSerializerDefaults.Web)
+    {
+        ReadCommentHandling = JsonCommentHandling.Skip,
+        AllowTrailingCommas = true
+    };
+
+    private static readonly JsonSerializerOptions WriteOptions = new(JsonSerializerDefaults.Web)
+    {
+        WriteIndented = true,
+        IndentSize = 2,
+        NewLine = "\n",
+        Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping
+    };
+
+    private static async Task<int> Main(string[] args)
+    {
+        string? root = null;
+        string? output = null;
+        bool strict = false, candidates = true;
+        for (int i = 0; i < args.Length; i++)
+        {
+            switch (args[i])
+            {
+                case "--root": root = Path.GetFullPath(args[++i]); break;
+                case "--out": output = Path.GetFullPath(args[++i]); break;
+                case "--strict": strict = true; break;
+                case "--no-candidates": candidates = false; break;
+                default: Console.Error.WriteLine($"Unknown argument: {args[i]}"); return 2;
+            }
+        }
+        root = Path.TrimEndingDirectorySeparator(root ?? FindRoot()) + Path.DirectorySeparatorChar;
+        output ??= Path.Combine(root, "catalog.json");
+
+        try { return await RunAsync(root, output, strict, candidates); }
+        catch (Exception ex) when (ex is HttpRequestException or JsonException or InvalidOperationException or TaskCanceledException or IOException)
+        {
+            Console.Error.WriteLine($"Failed: {ex.Message} Nothing written.");
+            return 1;
+        }
+    }
+
+    private static async Task<int> RunAsync(string root, string output, bool strict, bool candidates)
+    {
+        FeedFile feeds = JsonSerializer.Deserialize<FeedFile>(File.ReadAllText(Path.Combine(root, "feeds.json")), ReadOptions) ?? new();
+        var picks = new HashSet<string>(JsonSerializer.Deserialize<List<string>>(File.ReadAllText(Path.Combine(root, "picks.json")), ReadOptions) ?? [], StringComparer.Ordinal);
+
+        string? token = Environment.GetEnvironmentVariable("GITHUB_TOKEN") ?? Environment.GetEnvironmentVariable("GH_TOKEN");
+        if (string.IsNullOrEmpty(token)) Warn("No GITHUB_TOKEN set; GitHub allows only 60 unauthenticated requests an hour.");
+
+        // The token only ever goes to api.github.com. Feeds read files through a separate client without it.
+        using var api = new HttpClient { Timeout = TimeSpan.FromSeconds(60) };
+        api.DefaultRequestHeaders.UserAgent.ParseAdd("RecompBox-CatalogGenerator/1.0");
+        api.DefaultRequestHeaders.Accept.ParseAdd("application/vnd.github+json");
+        api.DefaultRequestHeaders.Add("X-GitHub-Api-Version", "2022-11-28");
+        if (!string.IsNullOrEmpty(token)) api.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
+        using var web = new HttpClient { Timeout = TimeSpan.FromSeconds(60) };
+        web.DefaultRequestHeaders.UserAgent.ParseAdd("RecompBox-CatalogGenerator/1.0");
+        var github = new GitHub(api);
+
+        // Feeds are read in file order; the first entry for an id or repository wins, so our own entries go first.
+        var entries = new List<SourceEntry>();
+        foreach (FeedConfig feed in feeds.Feeds.Where(f => f.Enabled && f.Type != FeedType.GitHubTopics))
+        {
+            List<SourceEntry> loaded = await Feeds.LoadAsync(feed, root, web);
+            Console.WriteLine($"Feed {feed.Id}: {loaded.Count} entries.");
+            entries.AddRange(loaded);
+        }
+
+        var ports = new List<CatalogPort>();
+        var ids = new HashSet<string>(StringComparer.Ordinal);
+        var repos = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
+        foreach (SourceEntry source in entries)
+        {
+            CatalogPort entry = source.Entry;
+            string label = string.IsNullOrWhiteSpace(entry.Id) ? source.Origin : entry.Id;
+            string? repo = GitHubRepo(entry.RepositoryUrl);
+            if (!source.Strict && repo is not null && repos.Contains(repo))
+                continue;
+            string? reason = ValidateSource(entry) ?? (ids.Contains(entry.Id) ? "duplicate id" : null);
+            CatalogPort? port = null;
+            if (reason is null)
+            {
+                (port, reason) = await EnrichAsync(github, entry with { Pick = picks.Contains(entry.Id) });
+                reason ??= ValidateOutput(port!);
+            }
+            if (reason is not null)
+            {
+                Reject($"{label} ({source.Origin})", source.Feed, reason, source.Strict);
+                continue;
+            }
+            ids.Add(port!.Id);
+            if (repo is not null) repos.Add(repo);
+            ports.Add(port);
+        }
+
+        foreach (string pick in picks.Where(p => !ids.Contains(p)).Order(StringComparer.Ordinal))
+            Warn($"Pick {pick} has no catalog entry.");
+        if (ports.Count == 0)
+        {
+            Console.Error.WriteLine("No valid entries; nothing written.");
+            return 1;
+        }
+        if (strict && _strictRejections > 0)
+        {
+            Console.Error.WriteLine($"{_strictRejections} of our own entries were rejected; nothing written.");
+            return 1;
+        }
+
+        ports.Sort((a, b) => string.CompareOrdinal(a.Id, b.Id));
+        var catalog = new Catalog
+        {
+            SchemaVersion = 1,
+            Generated = ports.Max(p => p.Updated > p.Added ? p.Updated : p.Added),
+            Ports = ports
+        };
+        Write(output, Encoding.UTF8.GetBytes(JsonSerializer.Serialize(catalog, WriteOptions) + "\n"));
+        Console.WriteLine($"Wrote {ports.Count} ports, rejected {_rejections}.");
+
+        if (candidates)
+        {
+            foreach (FeedConfig feed in feeds.Feeds.Where(f => f.Enabled && f.Type == FeedType.GitHubTopics))
+            {
+                // Candidates are a report, not the catalog: a failed search never fails the run.
+                try { await Candidates.RunAsync(feed, root, github, repos); }
+                catch (Exception ex) when (ex is HttpRequestException or JsonException or InvalidOperationException or KeyNotFoundException or TaskCanceledException)
+                { Warn($"Feed {feed.Id}: skipped ({ex.Message})"); }
+            }
+        }
+        return 0;
+    }
+
+    private static int _rejections;
+
+    internal static void Reject(string label, string feed, string reason, bool strict)
+    {
+        _rejections++;
+        if (strict) _strictRejections++;
+        Warn($"Rejected {label} from {feed}: {reason}");
+    }
+
+    private static string? ValidateSource(CatalogPort p)
+    {
+        if (!IsId(p.Id)) return "id must be lowercase letters, digits and dashes";
+        if (string.IsNullOrWhiteSpace(p.Name)) return "missing name";
+        if (string.IsNullOrWhiteSpace(p.Platform)) return "missing platform";
+        if (p.Install is not (CatalogInstallKind.Download or CatalogInstallKind.Build)) return $"unknown install kind '{p.Install}'";
+        if (!IsHttpsOrEmpty(p.RepositoryUrl)) return "repository URL must be https";
+        if (p.Install == CatalogInstallKind.Download)
+        {
+            if (string.IsNullOrEmpty(p.RepositoryUrl)) return "download entries need a repository";
+            if (GitHubRepo(p.RepositoryUrl) is null) return "download entries must be GitHub repositories";
+            if ((p.Assets ?? []).Count == 0) return "download entries need an asset pattern";
+        }
+        else if (!IsId(p.Recipe)) return "build entries need a recipe";
+        return null;
+    }
+
+    private static string? ValidateOutput(CatalogPort p)
+    {
+        foreach (var a in p.Assets)
+            if (a is null || !IsSafePattern(a.Pattern)) return $"unsafe asset pattern '{a?.Pattern}'";
+        foreach (string c in p.Colors)
+            if (c is null || !ColorRegex().IsMatch(c)) return $"bad color '{c}'";
+        if (p.Aliases.Any(string.IsNullOrWhiteSpace) || p.Features.Any(string.IsNullOrWhiteSpace)) return "blank alias or feature";
+        foreach (var r in p.Releases)
+            if (r is null || string.IsNullOrWhiteSpace(r.Version) || r.SizeBytes < 0) return "release without a version";
+        foreach (var r in p.Roms)
+            if (r is null || !IsHex(r.Sha1, 40) || r.SizeBytes < 0) return $"ROM '{r?.Label}' needs a 40-hex SHA-1";
+        var modIds = new HashSet<string>(StringComparer.Ordinal);
+        foreach (var m in p.Mods)
+        {
+            if (m is null || !IsId(m.Id)) return "mod id must be lowercase letters, digits and dashes";
+            if (!modIds.Add(m.Id!)) return $"duplicate mod id '{m.Id}'";
+            if (string.IsNullOrWhiteSpace(m.Name) || string.IsNullOrWhiteSpace(m.Category)) return $"mod '{m.Id}' needs a name and category";
+            if (m.Category.Equals(CatalogModCategory.Conversion, StringComparison.OrdinalIgnoreCase)) return $"mod '{m.Id}' is a conversion";
+            if (m.SizeBytes < 0 || !IsHttpsOrEmpty(m.Url)) return $"mod '{m.Id}' URL must be https";
+            if (!string.IsNullOrEmpty(m.Sha256) && !IsHex(m.Sha256, 64)) return $"mod '{m.Id}' needs a 64-hex SHA-256";
+            if (m.Features.Any(string.IsNullOrWhiteSpace)) return $"mod '{m.Id}' has a blank feature";
+        }
+        return null;
+    }
+
+    private static async Task<(CatalogPort? Port, string? Reason)> EnrichAsync(GitHub github, CatalogPort entry)
+    {
+        var port = entry with
+        {
+            ShortName = string.IsNullOrWhiteSpace(entry.ShortName) ? entry.Name : entry.ShortName,
+            Aliases = entry.Aliases ?? [],
+            Features = entry.Features ?? [],
+            Colors = entry.Colors ?? [],
+            Releases = entry.Releases ?? [],
+            Assets = entry.Assets ?? [],
+            Roms = entry.Roms ?? [],
+            Mods = (entry.Mods ?? []).Select(m => m is null ? m! : m with { Features = m.Features ?? [] }).ToList()
+        };
+        if (GitHubRepo(port.RepositoryUrl) is not { } repo) return (port, null);
+
+        JsonElement? info = await github.GetAsync($"repos/{repo}");
+        if (info is not { } r) return (null, $"GitHub repository {repo} not found");
+        string license = r.TryGetProperty("license", out var lic) && lic.ValueKind == JsonValueKind.Object &&
+                         lic.TryGetProperty("spdx_id", out var spdx) && spdx.GetString() is { } id && id != "NOASSERTION" ? id : "";
+        port = port with
+        {
+            Stars = r.GetProperty("stargazers_count").GetInt32(),
+            License = license.Length > 0 ? license : port.License,
+            Added = r.GetProperty("created_at").GetDateTimeOffset()
+        };
+
+        if (port.Install == CatalogInstallKind.Build)
+        {
+            var pinned = port.Releases.OrderByDescending(x => x.Published).ThenBy(x => x.Version, StringComparer.Ordinal).ToList();
+            return (port with { Releases = pinned, Updated = pinned.Count > 0 ? pinned[0].Published : port.Added }, null);
+        }
+
+        JsonElement? list = await github.GetAsync($"repos/{repo}/releases?per_page=50");
+        var stable = new List<CatalogRelease>();
+        var pre = new List<CatalogRelease>();
+        var matchers = port.Assets.Where(a => a is not null && IsSafePattern(a.Pattern) && a.Os == "windows").Select(a => Glob(a.Pattern)).ToList();
+        if (matchers.Count == 0) return (null, "no safe Windows asset pattern");
+        foreach (JsonElement rel in list?.EnumerateArray() ?? Enumerable.Empty<JsonElement>())
+        {
+            if (rel.GetProperty("draft").GetBoolean()) continue;
+            long? size = null;
+            foreach (JsonElement asset in rel.GetProperty("assets").EnumerateArray())
+            {
+                string name = asset.GetProperty("name").GetString() ?? "";
+                if (matchers.Any(m => m.IsMatch(name))) { size = asset.GetProperty("size").GetInt64(); break; }
+            }
+            if (size is null) continue;
+            string version = rel.GetProperty("tag_name").GetString() ?? "";
+            JsonElement published = rel.GetProperty("published_at");
+            if (version.Length == 0 || published.ValueKind != JsonValueKind.String) continue;
+            var release = new CatalogRelease { Version = version, Published = published.GetDateTimeOffset(), SizeBytes = size.Value };
+            (rel.GetProperty("prerelease").GetBoolean() ? pre : stable).Add(release);
+        }
+        var releases = (stable.Count > 0 ? stable : pre)
+            .OrderByDescending(x => x.Published).ThenBy(x => x.Version, StringComparer.Ordinal).Take(MaxReleases).ToList();
+        if (releases.Count == 0) return (null, $"no release has an asset matching {string.Join(", ", port.Assets.Select(a => a.Pattern))}");
+        return (port with { Releases = releases, Updated = releases[0].Published }, null);
+    }
+
+    internal static bool IsId(string? id) => IdRegex().IsMatch(id ?? "");
+
+    internal static bool RepoPart(string? part) => RepoPartRegex().IsMatch(part ?? "") && part != "." && part != "..";
+
+    internal static bool IsRepo(string? repo) => repo?.Split('/') is [var owner, var name] && RepoPart(owner) && RepoPart(name);
+
+    private static string? GitHubRepo(string? url)
+    {
+        if (!Uri.TryCreate(url, UriKind.Absolute, out var uri) || uri.Scheme != Uri.UriSchemeHttps ||
+            !uri.Host.Equals("github.com", StringComparison.OrdinalIgnoreCase)) return null;
+        string repo = uri.AbsolutePath.Trim('/');
+        return IsRepo(repo) ? repo : null;
+    }
+
+    private static Regex Glob(string pattern) =>
+        new("^" + Regex.Escape(pattern).Replace(@"\*", ".*").Replace(@"\?", ".") + "$", RegexOptions.IgnoreCase | RegexOptions.CultureInvariant);
+
+    private static bool IsHttpsOrEmpty(string? url) =>
+        string.IsNullOrEmpty(url) || (Uri.TryCreate(url, UriKind.Absolute, out var uri) && uri.Scheme == Uri.UriSchemeHttps);
+
+    private static bool IsSafePattern(string? pattern) =>
+        !string.IsNullOrWhiteSpace(pattern) && pattern.IndexOfAny(['/', '\\']) < 0 && !pattern.Contains("..", StringComparison.Ordinal);
+
+    private static bool IsHex(string? value, int length) =>
+        value is not null && value.Length == length && value.All(char.IsAsciiHexDigit);
+
+    internal static void Write(string path, byte[] bytes)
+    {
+        Directory.CreateDirectory(Path.GetDirectoryName(path)!);
+        if (File.Exists(path) && File.ReadAllBytes(path).AsSpan().SequenceEqual(bytes)) return;
+        File.WriteAllBytes(path + ".tmp", bytes);
+        File.Move(path + ".tmp", path, true);
+        Console.WriteLine($"Updated {path}");
+    }
+
+    private static void Warn(string message) =>
+        Console.Error.WriteLine(Environment.GetEnvironmentVariable("GITHUB_ACTIONS") == "true" ? "::warning::" + message : message);
+
+    private static string FindRoot()
+    {
+        foreach (string start in new[] { Environment.CurrentDirectory, AppContext.BaseDirectory })
+            for (var dir = new DirectoryInfo(start); dir is not null; dir = dir.Parent)
+                if (File.Exists(Path.Combine(dir.FullName, "feeds.json"))) return dir.FullName;
+        throw new InvalidOperationException("Cannot find feeds.json; run from the catalog repo or pass --root.");
+    }
+
+    [GeneratedRegex("^[a-z0-9][a-z0-9-]{0,63}$")]
+    private static partial Regex IdRegex();
+
+    [GeneratedRegex("^#[0-9A-Fa-f]{6}$")]
+    private static partial Regex ColorRegex();
+
+    [GeneratedRegex("^[A-Za-z0-9._-]+$")]
+    private static partial Regex RepoPartRegex();
+
+    internal sealed class GitHub(HttpClient http)
+    {
+        public async Task<JsonElement?> GetAsync(string path)
+        {
+            for (int attempt = 1; ; attempt++)
+            {
+                using var response = await http.GetAsync("https://api.github.com/" + path);
+                if (response.StatusCode == HttpStatusCode.NotFound) return null;
+                if (response.IsSuccessStatusCode)
+                {
+                    using var doc = JsonDocument.Parse(await response.Content.ReadAsStreamAsync());
+                    return doc.RootElement.Clone();
+                }
+                if (attempt >= 3 || (int)response.StatusCode < 500)
+                    throw new HttpRequestException($"GitHub {path} returned {(int)response.StatusCode} {response.ReasonPhrase}.");
+                await Task.Delay(TimeSpan.FromSeconds(5 * attempt));
+            }
+        }
+    }
+}

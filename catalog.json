@@ -1,0 +1,642 @@
+{
+  "schemaVersion": 1,
+  "generated": "2026-10-18T21:06:27+00:00",
+  "ports": [
+    {
+      "id": "2ship2harkinian",
+      "name": "2 Ship 2 Harkinian",
+      "game": "The Legend of Zelda: Majora's Mask",
+      "shortName": "Majora's Mask",
+      "platform": "Nintendo 64",
+      "aliases": [],
+      "developer": "HarbourMasters",
+      "kind": "decomp",
+      "description": "Majora's Mask on the libultraship engine with enhancements, cheats and a built-in mod manager.",
+      "requirement": "US version",
+      "features": [
+        "widescreen",
+        "high-fps",
+        "mods",
+        "randomizer"
+      ],
+      "pick": false,
+      "repositoryUrl": "https://github.com/HarbourMasters/2ship2harkinian",
+      "license": "CC0-1.0",
+      "stars": 2503,
+      "added": "2023-11-15T03:06:29+00:00",
+      "updated": "2026-08-25T17:54:43+00:00",
+      "colors": [
+        "#6a32c9",
+        "#e0a43a",
+        "#160a26"
+      ],
+      "install": "download",
+      "recipe": "",
+      "romFile": "",
+      "executable": "",
+      "saves": "",
+      "modsFolder": "",
+      "releases": [
+        {
+          "version": "5.0.1",
+          "published": "2026-08-25T17:54:43+00:00",
+          "sizeBytes": 44976935,
+          "prerelease": false
+        },
+        {
+          "version": "5.0.0",
+          "published": "2026-08-11T14:11:14+00:00",
+          "sizeBytes": 44981820,
+          "prerelease": false
+        },
+        {
+          "version": "4.0.2",
+          "published": "2026-03-02T03:00:53+00:00",
+          "sizeBytes": 49658653,
+          "prerelease": false
+        },
+        {
+          "version": "4.0.1",
+          "published": "2026-02-27T00:57:55+00:00",
+          "sizeBytes": 49983577,
+          "prerelease": false
+        },
+        {
+          "version": "4.0.0",
+          "published": "2026-01-30T16:01:16+00:00",
+          "sizeBytes": 49773009,
+          "prerelease": false
+        }
+      ],
+      "assets": [
+        {
+          "pattern": "2Ship-*-Win64.zip",
+          "os": "windows",
+          "arch": "x64"
+        }
+      ],
+      "roms": [],
+      "mods": []
+    },
+    {
+      "id": "perfect-dark",
+      "name": "Perfect Dark",
+      "game": "Perfect Dark",
+      "shortName": "Perfect Dark",
+      "platform": "Nintendo 64",
+      "aliases": [],
+      "developer": "fgsfdsfgs",
+      "kind": "decomp",
+      "description": "Perfect Dark with mouse and keyboard, high frame rates and widescreen.",
+      "requirement": "US 1.1 version",
+      "features": [
+        "high-fps",
+        "widescreen"
+      ],
+      "pick": false,
+      "repositoryUrl": "https://github.com/fgsfdsfgs/perfect_dark",
+      "license": "MIT",
+      "stars": 2120,
+      "added": "2023-07-21T15:52:32+00:00",
+      "updated": "2024-05-14T09:41:23+00:00",
+      "colors": [
+        "#c21d3b",
+        "#3a3f4a",
+        "#0b0b0e"
+      ],
+      "install": "download",
+      "recipe": "",
+      "romFile": "",
+      "executable": "",
+      "saves": "",
+      "modsFolder": "",
+      "releases": [
+        {
+          "version": "ci-dev-build",
+          "published": "2024-05-14T09:41:23+00:00",
+          "sizeBytes": 25739820,
+          "prerelease": false
+        }
+      ],
+      "assets": [
+        {
+          "pattern": "pd-x86_64-windows.zip",
+          "os": "windows",
+          "arch": "x64"
+        }
+      ],
+      "roms": [],
+      "mods": []
+    },
+    {
+      "id": "render96",
+      "name": "Render96",
+      "game": "Super Mario 64",
+      "shortName": "Super Mario 64",
+      "platform": "Nintendo 64",
+      "aliases": [],
+      "developer": "Render96",
+      "kind": "decomp",
+      "description": "Super Mario 64 with high-detail models and HD textures. Built on this PC from your copy.",
+      "requirement": "US version",
+      "features": [
+        "hd-textures",
+        "widescreen"
+      ],
+      "pick": true,
+      "repositoryUrl": "https://github.com/Render96/Render96ex",
+      "license": "",
+      "stars": 380,
+      "added": "2020-08-06T03:59:25+00:00",
+      "updated": "2026-09-30T00:00:00+00:00",
+      "colors": [
+        "#e0262c",
+        "#2f6be0",
+        "#18080a"
+      ],
+      "install": "build",
+      "recipe": "render96",
+      "romFile": "",
+      "executable": "",
+      "saves": "UserData",
+      "modsFolder": "",
+      "releases": [
+        {
+          "version": "f6e9e1b",
+          "published": "2026-09-30T00:00:00+00:00",
+          "sizeBytes": 0,
+          "prerelease": false
+        }
+      ],
+      "assets": [],
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "9bef1128717f958171a4afac3ed78ee2bb4e86ce",
+          "sizeBytes": 8388608
+        }
+      ],
+      "mods": []
+    },
+    {
+      "id": "shipwright",
+      "name": "Ship of Harkinian",
+      "game": "The Legend of Zelda: Ocarina of Time",
+      "shortName": "Ocarina of Time",
+      "platform": "Nintendo 64",
+      "aliases": [],
+      "developer": "HarbourMasters",
+      "kind": "decomp",
+      "description": "Ocarina of Time running natively with a randomizer, enhancements and texture pack support.",
+      "requirement": "US 1.0 or GameCube version",
+      "features": [
+        "widescreen",
+        "high-fps",
+        "randomizer",
+        "mods"
+      ],
+      "pick": true,
+      "repositoryUrl": "https://github.com/HarbourMasters/Shipwright",
+      "license": "",
+      "stars": 6127,
+      "added": "2022-03-22T01:42:52+00:00",
+      "updated": "2026-10-18T21:06:27+00:00",
+      "colors": [
+        "#1f7a4a",
+        "#c9a227",
+        "#08170f"
+      ],
+      "install": "download",
+      "recipe": "",
+      "romFile": "",
+      "executable": "",
+      "saves": "",
+      "modsFolder": "",
+      "releases": [
+        {
+          "version": "9.3.1",
+          "published": "2026-10-18T21:06:27+00:00",
+          "sizeBytes": 72980600,
+          "prerelease": false
+        },
+        {
+          "version": "9.3.0",
+          "published": "2026-10-06T02:44:55+00:00",
+          "sizeBytes": 72814046,
+          "prerelease": false
+        },
+        {
+          "version": "9.2.3",
+          "published": "2026-04-14T13:07:27+00:00",
+          "sizeBytes": 71870265,
+          "prerelease": false
+        },
+        {
+          "version": "9.2.2",
+          "published": "2026-04-14T02:30:45+00:00",
+          "sizeBytes": 71749718,
+          "prerelease": false
+        },
+        {
+          "version": "9.2.1",
+          "published": "2026-03-28T05:31:37+00:00",
+          "sizeBytes": 71612991,
+          "prerelease": false
+        }
+      ],
+      "assets": [
+        {
+          "pattern": "SoH-*-Win64.zip",
+          "os": "windows",
+          "arch": "x64"
+        }
+      ],
+      "roms": [],
+      "mods": []
+    },
+    {
+      "id": "sm64coopdx",
+      "name": "Co-op DX",
+      "game": "Super Mario 64",
+      "shortName": "Super Mario 64",
+      "platform": "Nintendo 64",
+      "aliases": [],
+      "developer": "coop-deluxe",
+      "kind": "decomp",
+      "description": "Super Mario 64 online with up to 16 players and a large mod library.",
+      "requirement": "US version",
+      "features": [
+        "online",
+        "mods",
+        "widescreen"
+      ],
+      "pick": false,
+      "repositoryUrl": "https://github.com/coop-deluxe/sm64coopdx",
+      "license": "",
+      "stars": 1556,
+      "added": "2023-10-30T03:11:39+00:00",
+      "updated": "2026-06-01T02:00:11+00:00",
+      "colors": [
+        "#e8452c",
+        "#3bb0e8",
+        "#1a0a07"
+      ],
+      "install": "download",
+      "recipe": "",
+      "romFile": "",
+      "executable": "",
+      "saves": "",
+      "modsFolder": "",
+      "releases": [
+        {
+          "version": "v1.5.1",
+          "published": "2026-06-01T02:00:11+00:00",
+          "sizeBytes": 41801915,
+          "prerelease": false
+        },
+        {
+          "version": "v1.5",
+          "published": "2026-05-28T03:01:07+00:00",
+          "sizeBytes": 41733076,
+          "prerelease": false
+        }
+      ],
+      "assets": [
+        {
+          "pattern": "sm64coopdx_Windows.zip",
+          "os": "windows",
+          "arch": "x64"
+        }
+      ],
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "9bef1128717f958171a4afac3ed78ee2bb4e86ce",
+          "sizeBytes": 8388608
+        }
+      ],
+      "mods": []
+    },
+    {
+      "id": "spaghettikart",
+      "name": "SpaghettiKart",
+      "game": "Mario Kart 64",
+      "shortName": "Mario Kart 64",
+      "platform": "Nintendo 64",
+      "aliases": [],
+      "developer": "HarbourMasters",
+      "kind": "decomp",
+      "description": "Mario Kart 64 with custom tracks, widescreen and high frame rates.",
+      "requirement": "US version",
+      "features": [
+        "widescreen",
+        "high-fps"
+      ],
+      "pick": true,
+      "repositoryUrl": "https://github.com/HarbourMasters/SpaghettiKart",
+      "license": "",
+      "stars": 2505,
+      "added": "2024-04-07T15:49:14+00:00",
+      "updated": "2026-02-25T02:26:04+00:00",
+      "colors": [
+        "#d8262f",
+        "#f2c230",
+        "#1c0607"
+      ],
+      "install": "download",
+      "recipe": "",
+      "romFile": "",
+      "executable": "",
+      "saves": "",
+      "modsFolder": "",
+      "releases": [
+        {
+          "version": "1.0.0",
+          "published": "2026-02-25T02:26:04+00:00",
+          "sizeBytes": 7806456,
+          "prerelease": false
+        }
+      ],
+      "assets": [
+        {
+          "pattern": "spaghetti-windows.zip",
+          "os": "windows",
+          "arch": "x64"
+        }
+      ],
+      "roms": [],
+      "mods": []
+    },
+    {
+      "id": "starfox64recomp",
+      "name": "Starfox 64: Recompiled",
+      "game": "Star Fox 64",
+      "shortName": "Star Fox 64",
+      "platform": "Nintendo 64",
+      "aliases": [],
+      "developer": "sonicdcer",
+      "kind": "recomp",
+      "description": "Star Fox 64 as a native game with widescreen, high frame rates and mod support.",
+      "requirement": "US 1.1 version",
+      "features": [
+        "widescreen",
+        "high-fps",
+        "mods"
+      ],
+      "pick": true,
+      "repositoryUrl": "https://github.com/sonicdcer/Starfox64Recomp",
+      "license": "GPL-3.0",
+      "stars": 409,
+      "added": "2024-08-25T13:30:07+00:00",
+      "updated": "2025-12-30T04:13:00+00:00",
+      "colors": [
+        "#2b62d9",
+        "#d93b3b",
+        "#060c1c"
+      ],
+      "install": "download",
+      "recipe": "",
+      "romFile": "",
+      "executable": "",
+      "saves": "",
+      "modsFolder": "",
+      "releases": [
+        {
+          "version": "1.0.3",
+          "published": "2025-12-30T04:13:00+00:00",
+          "sizeBytes": 24382268,
+          "prerelease": false
+        },
+        {
+          "version": "1.0.2",
+          "published": "2025-12-25T17:36:18+00:00",
+          "sizeBytes": 24379417,
+          "prerelease": false
+        },
+        {
+          "version": "1.0.1",
+          "published": "2025-12-25T08:45:52+00:00",
+          "sizeBytes": 24353417,
+          "prerelease": false
+        },
+        {
+          "version": "1.0.0",
+          "published": "2025-12-24T22:22:59+00:00",
+          "sizeBytes": 24379203,
+          "prerelease": false
+        }
+      ],
+      "assets": [
+        {
+          "pattern": "Starfox64Recompiled-*-Windows-*.zip",
+          "os": "windows",
+          "arch": "x64"
+        }
+      ],
+      "roms": [],
+      "mods": []
+    },
+    {
+      "id": "starship",
+      "name": "Starship",
+      "game": "Star Fox 64",
+      "shortName": "Star Fox 64",
+      "platform": "Nintendo 64",
+      "aliases": [],
+      "developer": "HarbourMasters",
+      "kind": "decomp",
+      "description": "Star Fox 64 on the libultraship engine with enhancements and custom assets.",
+      "requirement": "US 1.1 version",
+      "features": [
+        "widescreen",
+        "high-fps",
+        "mods"
+      ],
+      "pick": false,
+      "repositoryUrl": "https://github.com/HarbourMasters/Starship",
+      "license": "CC0-1.0",
+      "stars": 2151,
+      "added": "2024-05-21T03:28:06+00:00",
+      "updated": "2025-05-25T03:43:32+00:00",
+      "colors": [
+        "#1d4fb8",
+        "#f0c43a",
+        "#050b18"
+      ],
+      "install": "download",
+      "recipe": "",
+      "romFile": "",
+      "executable": "",
+      "saves": "",
+      "modsFolder": "",
+      "releases": [
+        {
+          "version": "v2.0.0",
+          "published": "2025-05-25T03:43:32+00:00",
+          "sizeBytes": 4218590,
+          "prerelease": false
+        },
+        {
+          "version": "v1.0.0",
+          "published": "2024-12-22T22:44:26+00:00",
+          "sizeBytes": 4936807,
+          "prerelease": false
+        }
+      ],
+      "assets": [
+        {
+          "pattern": "Starship-*-Windows.zip",
+          "os": "windows",
+          "arch": "x64"
+        }
+      ],
+      "roms": [],
+      "mods": []
+    },
+    {
+      "id": "unleashedrecomp",
+      "name": "Unleashed Recompiled",
+      "game": "Sonic Unleashed",
+      "shortName": "Sonic Unleashed",
+      "platform": "Microsoft Xbox 360",
+      "aliases": [],
+      "developer": "hedge-dev",
+      "kind": "recomp",
+      "description": "Sonic Unleashed recompiled for PC. Unlocked frame rate, ultrawide and mod support.",
+      "requirement": "Xbox 360 disc and title update",
+      "features": [
+        "high-fps",
+        "widescreen",
+        "mods"
+      ],
+      "pick": true,
+      "repositoryUrl": "https://github.com/hedge-dev/UnleashedRecomp",
+      "license": "GPL-3.0",
+      "stars": 5402,
+      "added": "2024-09-30T07:47:13+00:00",
+      "updated": "2025-04-03T22:04:45+00:00",
+      "colors": [
+        "#1f5fd6",
+        "#f2a12a",
+        "#060d1c"
+      ],
+      "install": "download",
+      "recipe": "",
+      "romFile": "",
+      "executable": "",
+      "saves": "",
+      "modsFolder": "",
+      "releases": [
+        {
+          "version": "v1.0.3",
+          "published": "2025-04-03T22:04:45+00:00",
+          "sizeBytes": 53386467,
+          "prerelease": false
+        },
+        {
+          "version": "v1.0.2",
+          "published": "2025-03-07T18:11:34+00:00",
+          "sizeBytes": 52897622,
+          "prerelease": false
+        },
+        {
+          "version": "v1.0.1",
+          "published": "2025-03-03T04:07:00+00:00",
+          "sizeBytes": 52890037,
+          "prerelease": false
+        },
+        {
+          "version": "v1.0.0",
+          "published": "2025-03-01T11:01:14+00:00",
+          "sizeBytes": 52888999,
+          "prerelease": false
+        }
+      ],
+      "assets": [
+        {
+          "pattern": "UnleashedRecomp-Windows.zip",
+          "os": "windows",
+          "arch": "x64"
+        }
+      ],
+      "roms": [],
+      "mods": []
+    },
+    {
+      "id": "zelda64recomp",
+      "name": "Zelda 64: Recompiled",
+      "game": "The Legend of Zelda: Majora's Mask",
+      "shortName": "Majora's Mask",
+      "platform": "Nintendo 64",
+      "aliases": [],
+      "developer": "Zelda64Recomp",
+      "kind": "recomp",
+      "description": "Majora's Mask rebuilt as a PC game. Plays at any frame rate and resolution with dual analog camera and mod support.",
+      "requirement": "US version",
+      "features": [
+        "widescreen",
+        "high-fps",
+        "mods",
+        "gyro"
+      ],
+      "pick": true,
+      "repositoryUrl": "https://github.com/Zelda64Recomp/Zelda64Recomp",
+      "license": "GPL-3.0",
+      "stars": 7746,
+      "added": "2023-10-23T19:54:50+00:00",
+      "updated": "2025-08-27T00:58:35+00:00",
+      "colors": [
+        "#7b3fe4",
+        "#2fb37a",
+        "#1a0d2e"
+      ],
+      "install": "download",
+      "recipe": "",
+      "romFile": "",
+      "executable": "",
+      "saves": "",
+      "modsFolder": "",
+      "releases": [
+        {
+          "version": "v1.2.2",
+          "published": "2025-08-27T00:58:35+00:00",
+          "sizeBytes": 28940501,
+          "prerelease": false
+        },
+        {
+          "version": "v1.2.1",
+          "published": "2025-08-18T22:23:16+00:00",
+          "sizeBytes": 28940639,
+          "prerelease": false
+        },
+        {
+          "version": "v1.2.0",
+          "published": "2025-05-04T16:12:44+00:00",
+          "sizeBytes": 28899740,
+          "prerelease": false
+        },
+        {
+          "version": "v1.0.1",
+          "published": "2024-05-19T00:43:03+00:00",
+          "sizeBytes": 26124317,
+          "prerelease": false
+        },
+        {
+          "version": "v1.0.0",
+          "published": "2024-05-10T05:07:15+00:00",
+          "sizeBytes": 26590112,
+          "prerelease": false
+        }
+      ],
+      "assets": [
+        {
+          "pattern": "Zelda64Recompiled-*-Windows.zip",
+          "os": "windows",
+          "arch": "x64"
+        }
+      ],
+      "roms": [],
+      "mods": []
+    }
+  ]
+}
