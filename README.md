@@ -84,7 +84,14 @@ Add a JSON file under `sources/community/` and open a pull request. A check runs
 - `assets`: a file name pattern for the Windows release download (`*` and `?`), .zip or .7z.
 - `features`: any of `widescreen`, `high-fps`, `hd-textures`, `mods`, `online`, `gyro`, `randomizer`.
 - Optional: `roms` (`label`, `sha1`, `sizeBytes` of the byte-swapped-to-big-endian ROM), `romFile`, `executable`,
-  `saves`, `modsFolder`, `mods`, `colors` (three `#rrggbb` values for the card placeholder).
+  `saves`, `modsFolder`, `mods`, `portableFile`, `colors` (three `#rrggbb` values for the card placeholder).
+- `portableFile`: an empty file created in the install folder after every install, for ports that keep their
+  settings, saves and mods next to the exe when it's there (Zelda64Recompiled uses `portable.txt`).
+- `mods`: each has `id`, `name`, `adds`, `category`, `sizeBytes`, `url`, `sha256`, and optionally `defaultOn`,
+  `required`, `features` and `requires` (ids of other mods of the same port that must be installed and on with
+  it). A mod in the `library` category isn't shown; it's installed only when a chosen mod requires it. A URL with
+  no file name, like Thunderstore's `https://thunderstore.io/package/download/{team}/{mod}/{version}/`, is
+  downloaded as a .zip, and the manifest, icon and readme at the top of a Thunderstore package are left out.
 
 We list ports and mods that enhance the original game. Total conversions and romhack campaigns are not listed.
 `picks.json` holds the LaunchBox picks.

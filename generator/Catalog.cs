@@ -36,6 +36,9 @@ internal sealed record CatalogPort
     public string Executable { get; init; } = "";
     public string Saves { get; init; } = "";
     public string ModsFolder { get; init; } = "";
+    // Empty file created in the install folder after every install, e.g. portable.txt so the port keeps
+    // its settings, saves and mods next to the exe.
+    public string PortableFile { get; init; } = "";
     public IReadOnlyList<CatalogRelease> Releases { get; init; } = [];
     public IReadOnlyList<CatalogAssetPattern> Assets { get; init; } = [];
     public IReadOnlyList<CatalogRomFingerprint> Roms { get; init; } = [];
@@ -43,6 +46,10 @@ internal sealed record CatalogPort
 
     [JsonIgnore]
     public CatalogRelease? Latest => Releases.Count > 0 ? Releases[0] : null;
+
+    // The mods people choose from. Libraries are installed only when a chosen mod requires them.
+    [JsonIgnore]
+    public IEnumerable<CatalogMod> Choices => Mods.Where(m => !m.IsLibrary);
 }
 
 internal static class CatalogInstallKind
@@ -71,6 +78,7 @@ internal static class CatalogModCategory
     public const string Characters = "characters";
     public const string RestoredContent = "restored-content";
     public const string Conversion = "conversion";
+    public const string Library = "library";
 }
 
 internal sealed record CatalogRelease
@@ -111,7 +119,11 @@ internal sealed record CatalogMod
     public string Sha256 { get; init; } = "";
     public bool DefaultOn { get; init; }
     public bool Required { get; init; }
+    public IReadOnlyList<string> Requires { get; init; } = [];
     public IReadOnlyList<string> Features { get; init; } = [];
+
+    [JsonIgnore]
+    public bool IsLibrary => Category.Equals(CatalogModCategory.Library, StringComparison.OrdinalIgnoreCase);
 }
 
 [JsonSourceGenerationOptions(JsonSerializerDefaults.Web, ReadCommentHandling = JsonCommentHandling.Skip, AllowTrailingCommas = true)]

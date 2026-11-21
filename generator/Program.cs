@@ -239,6 +239,13 @@ internal static partial class Program
             if (!string.IsNullOrEmpty(m.Sha256) && !IsHex(m.Sha256, 64)) return $"mod '{m.Id}' needs a 64-hex SHA-256";
             if (m.Features.Any(string.IsNullOrWhiteSpace)) return $"mod '{m.Id}' has a blank feature";
         }
+        if (p.Mods.Count > 0 && string.IsNullOrWhiteSpace(p.ModsFolder)) return "mods need a modsFolder";
+        foreach (var m in p.Mods)
+            foreach (string need in m.Requires)
+                if (need == m.Id || !modIds.Contains(need)) return $"mod '{m.Id}' requires '{need}', which isn't a mod of this port";
+        if (p.Mods.Any(m => m.IsLibrary && m.Required)) return "a library is installed only when a mod requires it, so it can't be required";
+        if (!string.IsNullOrEmpty(p.PortableFile) && (p.PortableFile.Contains("..", StringComparison.Ordinal) || Path.IsPathRooted(p.PortableFile) || p.PortableFile.Contains(':')))
+            return "portableFile must be a file inside the install folder";
         return null;
     }
 
@@ -310,7 +317,7 @@ internal static partial class Program
             Releases = entry.Releases ?? [],
             Assets = entry.Assets ?? [],
             Roms = entry.Roms ?? [],
-            Mods = (entry.Mods ?? []).Select(m => m is null ? m! : m with { Features = m.Features ?? [] }).ToList()
+            Mods = (entry.Mods ?? []).Select(m => m is null ? m! : m with { Features = m.Features ?? [], Requires = m.Requires ?? [] }).ToList()
         };
         if (GitHubRepo(port.RepositoryUrl) is not { } repo) return (port, null);
 
