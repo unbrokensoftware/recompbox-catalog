@@ -7,7 +7,7 @@
     "repositoryUrl": "https://github.com/Zelda64Recomp/Zelda64Recomp", "colors": ["#7b3fe4", "#2fb37a", "#1a0d2e"],
     "install": "download", "assets": [{ "pattern": "Zelda64Recompiled-*-Windows.zip" }],
     "roms": [{ "label": "US", "sha1": "d6133ace5afaa0882cf214cf88daba39e266c078", "sizeBytes": 33554432 }],
-    "saves": "saves", "modsFolder": "mods", "portableFile": "portable.txt",
+    "romFile": "mm.n64.us.1.0.z64", "saves": "saves", "modsFolder": "mods", "portableFile": "portable.txt",
     "keep": ["general.json", "graphics.json", "controls.json", "sound.json", "mods.json", "mod_config", "mod_data"],
     "mods": [
       {"id": "mmn64hd", "name": "MMN64HD", "adds": "Nerrel's HD textures that keep the N64 look. Includes textured stars and a clearer world map.", "category": "graphics", "sizeBytes": 3503966781, "url": "https://thunderstore.io/package/download/Nerrel/MMN64HD/1.2.1/", "sha256": "4542a85f5239753687897ff49f7da561cadc4f27288146a2b427af63b1c13557", "defaultOn": true, "features": ["hd-textures"]},
