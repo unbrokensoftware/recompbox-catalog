@@ -8,6 +8,7 @@
     "install": "download", "assets": [{ "pattern": "Zelda64Recompiled-*-Windows.zip" }],
     "roms": [{ "label": "US", "sha1": "d6133ace5afaa0882cf214cf88daba39e266c078", "sizeBytes": 33554432 }],
     "saves": "saves", "modsFolder": "mods", "portableFile": "portable.txt",
+    "keep": ["general.json", "graphics.json", "controls.json", "sound.json", "mods.json", "mod_config", "mod_data"],
     "mods": [
       {"id": "mmn64hd", "name": "MMN64HD", "adds": "Nerrel's HD textures that keep the N64 look. Includes textured stars and a clearer world map.", "category": "graphics", "sizeBytes": 3503966781, "url": "https://thunderstore.io/package/download/Nerrel/MMN64HD/1.2.1/", "sha256": "4542a85f5239753687897ff49f7da561cadc4f27288146a2b427af63b1c13557", "defaultOn": true, "features": ["hd-textures"]},
       {"id": "mmn64hd-link", "name": "MMN64HD Link", "adds": "A more detailed Link model to match MMN64HD. Choose it in the Player Models menu in game.", "category": "characters", "sizeBytes": 349764, "url": "https://thunderstore.io/package/download/Nerrel/MMN64HD_Link/1.0.0/", "sha256": "3470253759fec9a0568383f15066546161ff289c2b364cb2aa9c95b81b5a6145", "defaultOn": true, "requires": ["player-model-manager"]},

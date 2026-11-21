@@ -83,15 +83,34 @@ Add a JSON file under `sources/community/` and open a pull request. A check runs
 - `game` and `aliases`: titles used to match library games.
 - `assets`: a file name pattern for the Windows release download (`*` and `?`), .zip or .7z.
 - `features`: any of `widescreen`, `high-fps`, `hd-textures`, `mods`, `online`, `gyro`, `randomizer`.
-- Optional: `roms` (`label`, `sha1`, `sizeBytes` of the byte-swapped-to-big-endian ROM), `romFile`, `executable`,
-  `saves`, `modsFolder`, `mods`, `portableFile`, `colors` (three `#rrggbb` values for the card placeholder).
+- Optional: `roms` (`label`, `sha1`, `sizeBytes` of the byte-swapped-to-big-endian ROM; for SNES `.sfc`/`.smc`, the
+  ROM without a copier header), `romFile`, `executable`, `saves`, `keep`, `defaultFiles`, `setup`, `modsFolder`,
+  `modOrderFile`, `mods`, `portableFile`, `colors` (three `#rrggbb` values for the card placeholder).
 - `portableFile`: an empty file created in the install folder after every install, for ports that keep their
   settings, saves and mods next to the exe when it's there (Zelda64Recompiled uses `portable.txt`).
+- `keep`: settings files and folders in the install folder that are kept, like `saves`, when the port is updated or
+  repaired. Portable ports need this, since their settings sit next to the exe.
+- `defaultFiles`: `path` and `content` of settings files written on install only if the file isn't there yet, so a
+  player's own changes stay.
+- `setup`: a program from the release run after every install: `run` (a `.exe`, `.cmd` or `.bat`), `args` (`{rom}` is
+  the ROM's path in the install folder) and `creates` (a file it must make). Zelda 3 builds its assets from the ROM
+  this way. The install fails if it exits with an error or doesn't make the file.
+- `modOrderFile`: the port's mod list (`mods.json` for N64ModernRuntime ports). RecompBox puts its mods first, in the
+  order they're listed here, so the first wins where texture packs overlap, and turns on mods the game hasn't seen.
+  Give each mod its `loadId`, the `id` in its `mod.json`.
 - `mods`: each has `id`, `name`, `adds`, `category`, `sizeBytes`, `url`, `sha256`, and optionally `defaultOn`,
   `required`, `features` and `requires` (ids of other mods of the same port that must be installed and on with
   it). A mod in the `library` category isn't shown; it's installed only when a chosen mod requires it. A URL with
   no file name, like Thunderstore's `https://thunderstore.io/package/download/{team}/{mod}/{version}/`, is
-  downloaded as a .zip, and the manifest, icon and readme at the top of a Thunderstore package are left out.
+  downloaded as a .zip, and the manifest, icon and readme at the top of a Thunderstore package are left out. A URL to a
+  single file (like an `.rtz`) needs its `sha256`.
+- A mod its author only offers from their own page (one that blocks automatic downloads) has a `page` and `fileName`
+  instead of a `url`, and a `sha256`. When the player turns it on, RecompBox uses the file if it's already in their
+  Downloads folder, otherwise it opens the page, and the next time asks for the file. Either way the file is checked
+  against `sha256` before it's used.
+
+Mods we make ourselves, like the Banjo-Kazooie talking portraits, are released from
+[recompbox-mods](https://github.com/unbrokensoftware/recompbox-mods).
 
 We list ports and mods that enhance the original game. Total conversions and romhack campaigns are not listed.
 `picks.json` holds the LaunchBox picks.

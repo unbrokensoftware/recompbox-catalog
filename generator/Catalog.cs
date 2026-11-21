@@ -39,6 +39,15 @@ internal sealed record CatalogPort
     // Empty file created in the install folder after every install, e.g. portable.txt so the port keeps
     // its settings, saves and mods next to the exe.
     public string PortableFile { get; init; } = "";
+    // Settings files and folders kept, like the saves folder, when the port is updated or repaired.
+    public IReadOnlyList<string> Keep { get; init; } = [];
+    // Settings written on install only when the file isn't there yet, so the player's own changes stay.
+    public IReadOnlyList<CatalogDefaultFile> DefaultFiles { get; init; } = [];
+    // The port's mod list file (N64ModernRuntime's mods.json). RecompBox puts its mods first in the order listed
+    // in the catalog, which is the texture priority, and turns on the ones the game hasn't seen yet.
+    public string ModOrderFile { get; init; } = "";
+    // A program from the release run once after every install, like building the game's assets from the ROM.
+    public CatalogSetup? Setup { get; init; }
     public IReadOnlyList<CatalogRelease> Releases { get; init; } = [];
     public IReadOnlyList<CatalogAssetPattern> Assets { get; init; } = [];
     public IReadOnlyList<CatalogRomFingerprint> Roms { get; init; } = [];
@@ -81,6 +90,22 @@ internal static class CatalogModCategory
     public const string Library = "library";
 }
 
+internal sealed record CatalogDefaultFile
+{
+    public string Path { get; init; } = "";
+    public string Content { get; init; } = "";
+}
+
+internal sealed record CatalogSetup
+{
+    // Relative to the install folder; a .exe, .cmd or .bat from the release.
+    public string Run { get; init; } = "";
+    // "{rom}" is replaced with the ROM's path in the install folder.
+    public IReadOnlyList<string> Args { get; init; } = [];
+    // A file the setup must produce for the install to count.
+    public string Creates { get; init; } = "";
+}
+
 internal sealed record CatalogRelease
 {
     public string Version { get; init; } = "";
@@ -121,6 +146,15 @@ internal sealed record CatalogMod
     public bool Required { get; init; }
     public IReadOnlyList<string> Requires { get; init; } = [];
     public IReadOnlyList<string> Features { get; init; } = [];
+    // The mod's own id in the game, for the port's ModOrderFile.
+    public string LoadId { get; init; } = "";
+    // For a mod the author only offers from their own page (no Url): the page to download it from and the file's
+    // name. RecompBox opens the page and imports the file the player downloads, checked against Sha256.
+    public string Page { get; init; } = "";
+    public string FileName { get; init; } = "";
+
+    [JsonIgnore]
+    public bool IsManual => Url.Length == 0 && Page.Length > 0;
 
     [JsonIgnore]
     public bool IsLibrary => Category.Equals(CatalogModCategory.Library, StringComparison.OrdinalIgnoreCase);

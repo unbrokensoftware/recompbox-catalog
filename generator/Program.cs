@@ -244,8 +244,28 @@ internal static partial class Program
             foreach (string need in m.Requires)
                 if (need == m.Id || !modIds.Contains(need)) return $"mod '{m.Id}' requires '{need}', which isn't a mod of this port";
         if (p.Mods.Any(m => m.IsLibrary && m.Required)) return "a library is installed only when a mod requires it, so it can't be required";
-        if (!string.IsNullOrEmpty(p.PortableFile) && (p.PortableFile.Contains("..", StringComparison.Ordinal) || Path.IsPathRooted(p.PortableFile) || p.PortableFile.Contains(':')))
+        if (!string.IsNullOrEmpty(p.PortableFile) && !IsInside(p.PortableFile))
             return "portableFile must be a file inside the install folder";
+        if (p.Keep.Any(k => !IsInside(k))) return "keep entries must be inside the install folder";
+        if (p.DefaultFiles.Any(f => f is null || !IsInside(f.Path) || f.Content is null || f.Content.Length > 1048576))
+            return "defaultFiles need a path inside the install folder and content under 1 MB";
+        if (!string.IsNullOrEmpty(p.ModOrderFile) && !IsInside(p.ModOrderFile)) return "modOrderFile must be a file inside the install folder";
+        if (p.Setup is { } setup)
+        {
+            if (!IsInside(setup.Run) || !new[] { ".exe", ".cmd", ".bat" }.Contains(Path.GetExtension(setup.Run), StringComparer.OrdinalIgnoreCase))
+                return "setup.run must be a .exe, .cmd or .bat inside the install folder";
+            if (!string.IsNullOrEmpty(setup.Creates) && !IsInside(setup.Creates)) return "setup.creates must be inside the install folder";
+            if ((setup.Args ?? []).Any(a => a is null || a.Length > 260 || a.IndexOfAny(['"', '\r', '\n', '\0']) >= 0)) return "setup.args can't hold quotes or line breaks";
+            if ((setup.Args ?? []).Any(a => a.Contains("{rom}", StringComparison.Ordinal)) && string.IsNullOrEmpty(p.RomFile)) return "setup uses {rom}, so the port needs a romFile";
+        }
+        foreach (var m in p.Mods)
+        {
+            if (!string.IsNullOrEmpty(m.LoadId) && (m.LoadId.Length > 128 || !m.LoadId.All(c => char.IsAsciiLetterOrDigit(c) || c is '_' or '-' or '.')))
+                return $"mod '{m.Id}' loadId must be letters, digits, '_', '-' or '.'";
+            if (!string.IsNullOrEmpty(m.Page) && string.IsNullOrEmpty(m.Url) &&
+                (!IsHttpsOrEmpty(m.Page) || !IsHex(m.Sha256, 64) || string.IsNullOrEmpty(m.FileName) || m.FileName.IndexOfAny(['/', '\\', ':']) >= 0 || m.FileName.Contains("..", StringComparison.Ordinal)))
+                return $"mod '{m.Id}' from its author's page needs an https page, a fileName and a SHA-256";
+        }
         return null;
     }
 
@@ -317,6 +337,8 @@ internal static partial class Program
             Releases = entry.Releases ?? [],
             Assets = entry.Assets ?? [],
             Roms = entry.Roms ?? [],
+            Keep = entry.Keep ?? [],
+            DefaultFiles = entry.DefaultFiles ?? [],
             Mods = (entry.Mods ?? []).Select(m => m is null ? m! : m with { Features = m.Features ?? [], Requires = m.Requires ?? [] }).ToList()
         };
         if (GitHubRepo(port.RepositoryUrl) is not { } repo) return (port, null);
@@ -387,6 +409,10 @@ internal static partial class Program
 
     private static Regex Glob(string pattern) =>
         new("^" + Regex.Escape(pattern).Replace(@"\*", ".*").Replace(@"\?", ".") + "$", RegexOptions.IgnoreCase | RegexOptions.CultureInvariant);
+
+    private static bool IsInside(string? path) =>
+        !string.IsNullOrWhiteSpace(path) && !Path.IsPathRooted(path) && path.IndexOf(':') < 0 &&
+        path.Split('/', '\\').All(part => part.Length > 0 && part != "." && part != "..");
 
     private static bool IsHttpsOrEmpty(string? url) =>
         string.IsNullOrEmpty(url) || (Uri.TryCreate(url, UriKind.Absolute, out var uri) && uri.Scheme == Uri.UriSchemeHttps);
