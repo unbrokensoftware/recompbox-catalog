@@ -12,7 +12,7 @@
       "developer": "HarbourMasters",
       "kind": "decomp",
       "description": "Majora's Mask on the libultraship engine with enhancements, cheats and a built-in mod manager.",
-      "requirement": "US version",
+      "requirement": "US version (N64)",
       "features": [
         "widescreen",
         "high-fps",
@@ -32,15 +32,33 @@
       ],
       "install": "download",
       "recipe": "",
-      "romFile": "",
-      "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "romFile": "mm.z64",
+      "executable": "2ship.exe",
+      "saves": "saves",
+      "modsFolder": "mods",
       "portableFile": "",
-      "keep": [],
-      "defaultFiles": [],
+      "keep": [
+        "2ship2harkinian.json",
+        "imgui.ini",
+        "saves",
+        "mods"
+      ],
+      "defaultFiles": [
+        {
+          "path": "2ship2harkinian.json",
+          "content": "{\n  \"Window\": {\n    \"Fullscreen\": { \"Enabled\": true }\n  }\n}\n"
+        }
+      ],
       "modOrderFile": "",
-      "setup": null,
+      "setup": {
+        "run": "2ship.exe",
+        "args": [
+          "{rom}"
+        ],
+        "creates": "mm.o2r",
+        "stopWhenCreated": true,
+        "answerPrompts": true
+      },
       "releases": [
         {
           "version": "5.0.1",
@@ -80,8 +98,15 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "d6133ace5afaa0882cf214cf88daba39e266c078",
+          "sizeBytes": 33554432
+        }
+      ],
+      "mods": [],
+      "verified": true
     },
     {
       "id": "banjorecomp",
@@ -489,13 +514,24 @@
       ],
       "install": "download",
       "recipe": "",
-      "romFile": "",
-      "executable": "",
+      "romFile": "data/pd.ntsc-final.z64",
+      "executable": "pd.x86_64.exe",
       "saves": "",
       "modsFolder": "",
       "portableFile": "",
-      "keep": [],
-      "defaultFiles": [],
+      "keep": [
+        "pd.ini",
+        "eeprom.bin",
+        "mpsetups.bin",
+        "mpsetups-ext.bin",
+        "exported"
+      ],
+      "defaultFiles": [
+        {
+          "path": "pd.ini",
+          "content": "[Video]\nDefaultFullscreen=1\n"
+        }
+      ],
       "modOrderFile": "",
       "setup": null,
       "releases": [
@@ -513,8 +549,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US 1.1 (Rev 1)",
+          "sha1": "af8788ac4d1a57260eae9c53ffe851fcf2a3319b",
+          "sizeBytes": 33554432
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--portable"
+      ],
+      "verified": true
     },
     {
       "id": "render96",
@@ -769,7 +815,8 @@
           "sizeBytes": 8388608
         }
       ],
-      "mods": []
+      "mods": [],
+      "verified": true
     },
     {
       "id": "spaghettikart",
@@ -9032,7 +9079,7 @@
       "developer": "JRickey",
       "kind": "decomp",
       "description": "Super Smash Bros. running natively on PC, built from the decompiled 64 game.",
-      "requirement": "",
+      "requirement": "US or JP version",
       "features": [
         "hd-textures",
         "mods",
@@ -9048,8 +9095,8 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
-      "executable": "",
+      "romFile": "baserom.us.z64",
+      "executable": "BattleShip.exe",
       "saves": "",
       "modsFolder": "",
       "releases": [
@@ -9091,8 +9138,38 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "e2929e10fccc0aa84e5776227e798abc07cedabf",
+          "sizeBytes": 16777216
+        },
+        {
+          "label": "JP",
+          "sha1": "4b71f0e01878696733eefa9c80d11c147ecb4984"
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "BattleShip.cfg.json",
+        "imgui.ini",
+        "ssb64_save.bin"
+      ],
+      "defaultFiles": [
+        {
+          "path": "BattleShip.cfg.json",
+          "content": "{\n  \"Window\": {\n    \"Fullscreen\": { \"Enabled\": true }\n  }\n}\n"
+        }
+      ],
+      "setup": {
+        "run": "torch.exe",
+        "args": [
+          "o2r",
+          "{rom}"
+        ],
+        "creates": "BattleShip.o2r"
+      },
+      "verified": true
     },
     {
       "id": "battlestadium-don",
@@ -11339,7 +11416,7 @@
       "developer": "RevoSucks",
       "kind": "recomp",
       "description": "Bomberman 64 recompiled from the 64 version into a native PC game.",
-      "requirement": "",
+      "requirement": "US version",
       "features": [
         "hd-textures",
         "high-fps",
@@ -11355,10 +11432,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "bm64_us.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "v1.0.0",
@@ -11374,8 +11451,32 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "8a7648d8105ac4fc1ad942291b2ef89aeca921c9",
+          "sizeBytes": 8388608
+        }
+      ],
+      "mods": [],
+      "portableFile": "portable.txt",
+      "modOrderFile": "mods.json",
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data"
+      ],
+      "defaultFiles": [
+        {
+          "path": "graphics.json",
+          "content": "{\n  \"wm_option\": \"Fullscreen\",\n  \"res_option\": \"Auto\",\n  \"ar_option\": \"Expand\",\n  \"rr_option\": \"Display\",\n  \"msaa_option\": \"MSAA4X\",\n  \"hpfb_option\": \"Auto\",\n  \"api_option\": \"Auto\"\n}\n"
+        }
+      ],
+      "verified": true
     },
     {
       "id": "bmherorecomp",
@@ -37423,7 +37524,7 @@
       "developer": "HarbourMasters",
       "kind": "decomp",
       "description": "Super Mario 64 running natively on PC, built from the decompiled 64 game.",
-      "requirement": "",
+      "requirement": "US or JP version",
       "features": [
         "mods"
       ],
@@ -37436,10 +37537,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
-      "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "romFile": "baserom.us.z64",
+      "executable": "Ghostship.exe",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "3.0.0",
@@ -37455,8 +37556,41 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "9bef1128717f958171a4afac3ed78ee2bb4e86ce",
+          "sizeBytes": 8388608
+        },
+        {
+          "label": "JP",
+          "sha1": "8a20a5c83d6ceb0f0506cfc9fa20d8f438cafe51",
+          "sizeBytes": 8388608
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "ghostship.cfg.json",
+        "imgui.ini",
+        "mods",
+        "saves"
+      ],
+      "defaultFiles": [
+        {
+          "path": "ghostship.cfg.json",
+          "content": "{\n  \"Window\": {\n    \"Fullscreen\": { \"Enabled\": true }\n  }\n}\n"
+        }
+      ],
+      "setup": {
+        "run": "Ghostship.exe",
+        "args": [
+          "{rom}"
+        ],
+        "creates": "sm64.o2r",
+        "stopWhenCreated": true,
+        "answerPrompts": true
+      },
+      "verified": true
     },
     {
       "id": "ghsmashhrecomp",
@@ -37935,7 +38069,7 @@
       "developer": "klorfmorf",
       "kind": "recomp",
       "description": "Mystical Ninja Starring Goemon recompiled from the 64 version into a native PC game.",
-      "requirement": "",
+      "requirement": "US version",
       "features": [
         "gyro",
         "high-fps",
@@ -37951,10 +38085,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "mnsg.us.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "v0.2.0-dev",
@@ -37970,8 +38104,32 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "df8083a54296b8c151917c5333e1c85f014a2a66",
+          "sizeBytes": 16777216
+        }
+      ],
+      "mods": [],
+      "portableFile": "portable.txt",
+      "modOrderFile": "mods.json",
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data"
+      ],
+      "defaultFiles": [
+        {
+          "path": "graphics.json",
+          "content": "{\n  \"wm_option\": \"Fullscreen\",\n  \"res_option\": \"Auto\",\n  \"ar_option\": \"Expand\",\n  \"rr_option\": \"Display\",\n  \"msaa_option\": \"MSAA4X\",\n  \"hpfb_option\": \"Auto\",\n  \"api_option\": \"Auto\"\n}\n"
+        }
+      ],
+      "verified": true
     },
     {
       "id": "gogoackman1recomp",
@@ -52371,7 +52529,7 @@
       "developer": "HarbourMasters",
       "kind": "decomp",
       "description": "Banjo Kazooie running natively on PC, built from the decompiled 64 game.",
-      "requirement": "",
+      "requirement": "US, PAL or JP version",
       "features": [],
       "pick": false,
       "repositoryUrl": "https://github.com/HarbourMasters/Lighthouse",
@@ -52382,10 +52540,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
-      "executable": "",
+      "romFile": "baserom.us.z64",
+      "executable": "Lighthouse.exe",
       "saves": "",
-      "modsFolder": "",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "1.2.2",
@@ -52401,8 +52559,50 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US 1.0",
+          "sha1": "1fe1632098865f639e22c11b9a81ee8f29c75d7a",
+          "sizeBytes": 16777216
+        },
+        {
+          "label": "US Rev 1",
+          "sha1": "ded6ee166e740ad1bc810fd678a84b48e245ab80",
+          "sizeBytes": 16777216
+        },
+        {
+          "label": "PAL",
+          "sha1": "bb359a75941df74bf7290212c89fbc6e2c5601fe",
+          "sizeBytes": 16777216
+        },
+        {
+          "label": "JP",
+          "sha1": "90726d7e7cd5bf6cdfd38f45c9acbf4d45bd9fd8",
+          "sizeBytes": 16777216
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "lighthouse.cfg.json",
+        "imgui.ini",
+        "mods"
+      ],
+      "defaultFiles": [
+        {
+          "path": "lighthouse.cfg.json",
+          "content": "{\n  \"Window\": {\n    \"Fullscreen\": { \"Enabled\": true }\n  }\n}\n"
+        }
+      ],
+      "setup": {
+        "run": "Lighthouse.exe",
+        "args": [
+          "{rom}"
+        ],
+        "creates": "bk.o2r",
+        "stopWhenCreated": true,
+        "answerPrompts": true
+      },
+      "verified": true
     },
     {
       "id": "likethewind",
@@ -55058,7 +55258,7 @@
       "developer": "sonicdcer",
       "kind": "recomp",
       "description": "Mario Kart 64 recompiled from the 64 version into a native PC game.",
-      "requirement": "",
+      "requirement": "US version",
       "features": [],
       "pick": false,
       "repositoryUrl": "https://github.com/sonicdcer/MarioKart64Recomp",
@@ -55069,10 +55269,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "mk64.us.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "v0.9.2",
@@ -55094,8 +55294,32 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "579c48e211ae952530ffc8738709f078d5dd215e",
+          "sizeBytes": 12582912
+        }
+      ],
+      "mods": [],
+      "portableFile": "portable.txt",
+      "modOrderFile": "mods.json",
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data"
+      ],
+      "defaultFiles": [
+        {
+          "path": "graphics.json",
+          "content": "{\n  \"wm_option\": \"Fullscreen\",\n  \"res_option\": \"Auto\",\n  \"ar_option\": \"Expand\",\n  \"rr_option\": \"Display\",\n  \"msaa_option\": \"MSAA4X\",\n  \"hpfb_option\": \"Auto\",\n  \"api_option\": \"Auto\"\n}\n"
+        }
+      ],
+      "verified": true
     },
     {
       "id": "mariokartsupercircuitrecomp",
@@ -71722,7 +71946,7 @@
       "developer": "HarbourMasters",
       "kind": "decomp",
       "description": "Paper Mario running natively on PC, built from the decompiled 64 game.",
-      "requirement": "",
+      "requirement": "US version",
       "features": [
         "mods"
       ],
@@ -71735,10 +71959,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
-      "executable": "",
+      "romFile": "baserom.us.z64",
+      "executable": "Paperboat.exe",
       "saves": "",
-      "modsFolder": "",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "1.0.3",
@@ -71754,8 +71978,35 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "3837f44cda784b466c9a2d99df70d77c322b97a0",
+          "sizeBytes": 41943040
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "paperboat.cfg.json",
+        "imgui.ini",
+        "mods"
+      ],
+      "defaultFiles": [
+        {
+          "path": "paperboat.cfg.json",
+          "content": "{\n  \"Window\": {\n    \"Fullscreen\": { \"Enabled\": true }\n  }\n}\n"
+        }
+      ],
+      "setup": {
+        "run": "Paperboat.exe",
+        "args": [
+          "{rom}"
+        ],
+        "creates": "pm64.o2r",
+        "stopWhenCreated": true,
+        "answerPrompts": true
+      },
+      "verified": true
     },
     {
       "id": "paprium-pc",
