@@ -27,6 +27,7 @@ internal sealed record CatalogPort
     public string Requirement { get; init; } = "";
     public IReadOnlyList<string> Features { get; init; } = [];
     public bool Pick { get; init; }
+    [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingDefault)] public bool Verified { get; init; }
     public string RepositoryUrl { get; init; } = "";
     public string License { get; init; } = "";
     public int Stars { get; init; }
