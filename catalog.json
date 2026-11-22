@@ -7389,10 +7389,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "v0.11.1",
@@ -7432,8 +7432,30 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "78b36b48040426478011caef5e11884af2e80375",
+          "sizeBytes": 4194304
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data",
+        "saves"
+      ],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "portableFile": "portable.txt",
+      "verified": true
     },
     {
       "id": "avp-extinction-port",
@@ -11667,10 +11689,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "v0.1.0",
@@ -11686,8 +11708,29 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "bbb6666f5014a473747ee4145f036d9fb25d7348",
+          "sizeBytes": 12582912
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data",
+        "saves"
+      ],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "portableFile": "portable.txt",
+      "verified": true
     },
     {
       "id": "bodyharvestrecomp",
@@ -14989,10 +15032,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "ker.n64.us.1.0.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "V0.1.7",
@@ -15032,8 +15075,26 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "4cbadd3c4e0729dec46af64ad018050eada4f47a",
+          "sizeBytes": 67108864
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data",
+        "saves"
+      ],
+      "portableFile": "portable.txt",
+      "verified": true
     },
     {
       "id": "ch2k8-recomp",
@@ -16803,10 +16864,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "ker.n64.us.1.0.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "v0.1.4-stereo",
@@ -16822,8 +16883,26 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "4cbadd3c4e0729dec46af64ad018050eada4f47a",
+          "sizeBytes": 67108864
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data",
+        "saves"
+      ],
+      "portableFile": "portable.txt",
+      "verified": true
     },
     {
       "id": "conker-live-recompiled",
@@ -17029,10 +17108,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "ker.n64.us.1.0.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "v1.4.7",
@@ -17072,8 +17151,26 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "4cbadd3c4e0729dec46af64ad018050eada4f47a",
+          "sizeBytes": 67108864
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data",
+        "saves"
+      ],
+      "portableFile": "portable.txt",
+      "verified": true
     },
     {
       "id": "conkers-bfd-recomp",
@@ -38190,10 +38287,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "v1.0.1",
@@ -38215,8 +38312,30 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "270be17b3c8da9b88a7b99c2a545b0bce16837f4",
+          "sizeBytes": 8388608
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data",
+        "saves"
+      ],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "portableFile": "portable.txt",
+      "verified": true
     },
     {
       "id": "god-of-war-hd-collection",
@@ -43366,10 +43485,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "v0.9.0-beta.1",
@@ -43385,8 +43504,30 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "1583bacc9046a360df8ea4d536942155247e154c",
+          "sizeBytes": 8388608
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data",
+        "saves"
+      ],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "portableFile": "portable.txt",
+      "verified": true
     },
     {
       "id": "hiraku",
@@ -44935,10 +45076,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "v0.2.0",
@@ -44960,8 +45101,29 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "16dbc21620b52deab5c5abf8a309ac60adfbee85",
+          "sizeBytes": 16777216
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data",
+        "saves"
+      ],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "portableFile": "portable.txt",
+      "verified": true
     },
     {
       "id": "hybridheaven-recomp",
@@ -46753,10 +46915,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "2000.n64.us.1.1.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "v1.5",
@@ -46790,8 +46952,26 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "47a993fe1316dfd9e208603370d3dddae05f1d1b",
+          "sizeBytes": 16777216
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data",
+        "saves"
+      ],
+      "portableFile": "portable.txt",
+      "verified": true
     },
     {
       "id": "issd-native",
@@ -47938,10 +48118,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "v1.3.2",
@@ -47981,8 +48161,30 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "493ced9008dbe932d6e91179b68e8630cf23a023",
+          "sizeBytes": 33554432
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data",
+        "saves"
+      ],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "portableFile": "portable.txt",
+      "verified": true
     },
     {
       "id": "jetmoto2-recomp",
@@ -64005,10 +64207,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "v0.3.3",
@@ -64042,8 +64244,30 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "166eda1c05670d337e2c3f15a5db528ae1e5d6e3",
+          "sizeBytes": 33554432
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data",
+        "saves"
+      ],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "portableFile": "portable.txt",
+      "verified": true
     },
     {
       "id": "mp3-pc",
@@ -73673,10 +73897,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "d.n64.us.1.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "v0.1.16",
@@ -73716,8 +73940,26 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "af8788ac4d1a57260eae9c53ffe851fcf2a3319b",
+          "sizeBytes": 33554432
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data",
+        "saves"
+      ],
+      "portableFile": "portable.txt",
+      "verified": true
     },
     {
       "id": "perfect-dark-xbla-pc-recomp",
@@ -75048,10 +75290,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "v0.1.1",
@@ -75073,8 +75315,29 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "ec771aedf54ee1b214c25404fb4ec51cfd43191a",
+          "sizeBytes": 8388608
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data",
+        "saves"
+      ],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "portableFile": "portable.txt",
+      "verified": true
     },
     {
       "id": "pinball-ns",
@@ -77023,10 +77286,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "v0.84",
@@ -77054,8 +77317,30 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "483f7161aea39de8b45c9fbc70a2c3883c4dea8c",
+          "sizeBytes": 8388608
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data",
+        "saves"
+      ],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "portableFile": "portable.txt",
+      "verified": true
     },
     {
       "id": "power-instinct-matrimelee-recomp",
@@ -80705,10 +80990,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "v0.5.0-beta.1",
@@ -80742,8 +81027,30 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "037fb397cee2669048ed6b762a64698de4a4d88a",
+          "sizeBytes": 8388608
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data",
+        "saves"
+      ],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "portableFile": "portable.txt",
+      "verified": true
     },
     {
       "id": "rainbow-six-three-recomp",
@@ -85429,10 +85736,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "v.1.0.1",
@@ -85454,8 +85761,30 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "622d71a44da0b81ea68092cac9198c66154a4f4a",
+          "sizeBytes": 12582912
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data",
+        "saves"
+      ],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "portableFile": "portable.txt",
+      "verified": true
     },
     {
       "id": "rocketknightadventuresrecomp",
@@ -96802,10 +97131,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "v0.2.0",
@@ -96827,8 +97156,30 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "a36d91b5aac7bb95df0d7de5f9814f5270e25c2b",
+          "sizeBytes": 33554432
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data",
+        "saves"
+      ],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "portableFile": "portable.txt",
+      "verified": true
     },
     {
       "id": "starfox-assault-recomp",
@@ -104322,10 +104673,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "s1.n64.us.1.1.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "v0.3.0",
@@ -104353,8 +104704,26 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "4900b6c92fb8df1765e91e891dccc525bb102fe1",
+          "sizeBytes": 12582912
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data",
+        "saves"
+      ],
+      "portableFile": "portable.txt",
+      "verified": true
     },
     {
       "id": "thps2-64recomp",
@@ -104380,10 +104749,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "s2.n64.us.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "v0.3.0",
@@ -104399,8 +104768,26 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "458ac754cd8e08c46f4c5c9204192ecde84a179d",
+          "sizeBytes": 16777216
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data",
+        "saves"
+      ],
+      "portableFile": "portable.txt",
+      "verified": true
     },
     {
       "id": "thps2x-recompiled",
@@ -104469,10 +104856,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "s3.n64.us.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "v0.3.0",
@@ -104488,8 +104875,26 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "7b9438120c67214afaea09f4b106c54ef8f366c5",
+          "sizeBytes": 16777216
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data",
+        "saves"
+      ],
+      "portableFile": "portable.txt",
+      "verified": true
     },
     {
       "id": "threads-of-fate-recomp",
@@ -107262,10 +107667,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "v0.1.0-preview.10",
@@ -107305,8 +107710,30 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "75ebbe451906ce68b0dd43eef9ee44416452a4f1",
+          "sizeBytes": 12582912
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data",
+        "saves"
+      ],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "portableFile": "portable.txt",
+      "verified": true
     },
     {
       "id": "top-gear-snes-static-recomp",
@@ -108522,10 +108949,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "ublemakers.n64.us.1.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "v0.8.4",
@@ -108565,8 +108992,26 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "811709c6473f74cbf283aa61f056e1de3046ec73",
+          "sizeBytes": 8388608
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data",
+        "saves"
+      ],
+      "portableFile": "portable.txt",
+      "verified": true
     },
     {
       "id": "true-crime-new-york-city-recomp",
@@ -109410,10 +109855,10 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "ok2.n64.us.1.0.z64",
       "executable": "",
-      "saves": "",
-      "modsFolder": "",
+      "saves": "saves",
+      "modsFolder": "mods",
       "releases": [
         {
           "version": "Beta2",
@@ -109435,8 +109880,26 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "a86af6c2ac9f6d837181f07c0a27f7ee59e7df68",
+          "sizeBytes": 33554432
+        }
+      ],
+      "mods": [],
+      "keep": [
+        "general.json",
+        "graphics.json",
+        "controls.json",
+        "sound.json",
+        "mods.json",
+        "mod_config",
+        "mod_data",
+        "saves"
+      ],
+      "portableFile": "portable.txt",
+      "verified": true
     },
     {
       "id": "tutikumo",
