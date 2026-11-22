@@ -32,6 +32,8 @@ internal static partial class Harvest
                 if (RepoOf(p.RepositoryUrl) is { } r) knownRepos.Add(r);
             }
 
+        knownRepos.UnionWith(Program.Blocked(root));
+
         var hints = new Dictionary<string, Hint>(StringComparer.OrdinalIgnoreCase);
         foreach (DiscoverConfig source in feeds.Discover.Where(d => d.Enabled))
         {

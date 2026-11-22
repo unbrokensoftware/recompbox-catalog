@@ -57,6 +57,8 @@ internal sealed record CatalogPort
     public IReadOnlyList<CatalogRomFingerprint> Roms { get; init; } = [];
     public IReadOnlyList<string> SourceTypes { get; init; } = [];
     public IReadOnlyList<string> LaunchArgs { get; init; } = [];
+    [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingDefault)] public string SourceFile { get; init; } = "";
+    public IReadOnlyList<CatalogBios> Bios { get; init; } = [];
     public IReadOnlyList<CatalogMod> Mods { get; init; } = [];
 
     [JsonIgnore]
@@ -172,3 +174,13 @@ internal sealed record CatalogMod
 [JsonSourceGenerationOptions(JsonSerializerDefaults.Web, ReadCommentHandling = JsonCommentHandling.Skip, AllowTrailingCommas = true)]
 [JsonSerializable(typeof(Catalog))]
 internal sealed partial class CatalogJsonContext : JsonSerializerContext;
+
+internal sealed record CatalogBios
+{
+    public string Label { get; init; } = "";
+    public string Sha256 { get; init; } = "";
+    public string Sha1 { get; init; } = "";
+    public string Md5 { get; init; } = "";
+    public long SizeBytes { get; init; }
+    public string File { get; init; } = "";
+}

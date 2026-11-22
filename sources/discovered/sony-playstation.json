@@ -3371,38 +3371,6 @@
     "mods": []
   },
   {
-    "id": "dw2-pc",
-    "name": "Digimon World 2 PC",
-    "game": "Digimon World 2",
-    "shortName": "Digimon World 2",
-    "platform": "Sony Playstation",
-    "aliases": [],
-    "developer": "Wyrelade",
-    "kind": "decomp",
-    "description": "Digimon World 2 running natively on PC, built from the decompiled PlayStation game.",
-    "requirement": "",
-    "features": [],
-    "repositoryUrl": "https://github.com/Wyrelade/DW2-PC",
-    "license": "",
-    "colors": [],
-    "install": "download",
-    "recipe": "",
-    "romFile": "",
-    "executable": "",
-    "saves": "",
-    "modsFolder": "",
-    "releases": [],
-    "assets": [
-      {
-        "pattern": "DW2-PC-windows-x64.zip",
-        "os": "windows",
-        "arch": "x64"
-      }
-    ],
-    "roms": [],
-    "mods": []
-  },
-  {
     "id": "dw2-pc-port",
     "name": "Digimon World 2 PC Port",
     "game": "Digimon World 2",

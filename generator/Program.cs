@@ -59,6 +59,7 @@ internal static partial class Program
     {
         FeedFile feeds = JsonSerializer.Deserialize<FeedFile>(File.ReadAllText(Path.Combine(root, "feeds.json")), ReadOptions) ?? new();
         var picks = new HashSet<string>(JsonSerializer.Deserialize<List<string>>(File.ReadAllText(Path.Combine(root, "picks.json")), ReadOptions) ?? [], StringComparer.Ordinal);
+        HashSet<string> blocked = Blocked(root);
 
         (HttpClient api, HttpClient web, GitHub github) = CreateClients(root);
         using var apiScope = api;
@@ -94,6 +95,11 @@ internal static partial class Program
             string? repo = GitHubRepo(entry.RepositoryUrl);
             if (!source.Strict && repo is not null && repos.Contains(repo))
                 continue;
+            if (repo is not null && blocked.Contains(repo))
+            {
+                Console.WriteLine($"Blocked: {label} ({repo}).");
+                continue;
+            }
             string? reason = ValidateSource(entry) ?? (ids.Contains(entry.Id) ? "duplicate id" : null);
             if (reason is not null)
             {
@@ -550,5 +556,18 @@ internal static partial class Program
             }
             return response.StatusCode == HttpStatusCode.TooManyRequests ? TimeSpan.FromMinutes(1) : null;
         }
+    }
+
+    // Repositories left out of the catalog for good, like one whose download antivirus flags: blocked.json,
+    // [{ "repo": "owner/name", "reason": "...", "date": "yyyy-mm-dd" }]. The harvest never adds them again.
+    internal static HashSet<string> Blocked(string root)
+    {
+        string file = Path.Combine(root, "blocked.json");
+        var repos = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
+        if (!File.Exists(file)) return repos;
+        using var doc = JsonDocument.Parse(File.ReadAllText(file));
+        foreach (JsonElement item in doc.RootElement.EnumerateArray())
+            if (item.TryGetProperty("repo", out JsonElement repo) && repo.GetString() is { Length: > 0 } name) repos.Add(name);
+        return repos;
     }
 }
