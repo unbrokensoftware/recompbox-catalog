@@ -857,7 +857,7 @@
     "description": "Castlevania: Curse of Darkness ported to run natively on PC from the Xbox version.",
     "requirement": "",
     "features": [],
-    "repositoryUrl": "https://github.com/Neguchads/Castlevania-COD-Recomp",
+    "repositoryUrl": "https://github.com/Neguchads/ccod-xbox-recomp",
     "license": "",
     "colors": [],
     "install": "download",
