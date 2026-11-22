@@ -84,7 +84,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.gba",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -96,8 +96,18 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "15053499d5b3f49128a941d7f2d84876f5424d0c",
+        "sizeBytes": 4194304
+      }
+    ],
+    "mods": [],
+    "launchArgs": [
+      "{rom}"
+    ],
+    "verified": true
   },
   {
     "id": "bravely-emerald",
@@ -448,7 +458,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.gba",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -460,8 +470,18 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "c25b145e37456171ada4b0d440bf88a19f4d509f",
+        "sizeBytes": 16777216
+      }
+    ],
+    "mods": [],
+    "launchArgs": [
+      "{rom}"
+    ],
+    "verified": true
   },
   {
     "id": "ffta-recomp",
@@ -482,7 +502,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.gba",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -494,8 +514,19 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "4ac05441f4de70a4ec3dd932116346c61b8783d9",
+        "sizeBytes": 16777216
+      }
+    ],
+    "mods": [],
+    "launchArgs": [
+      "--rom",
+      "{rom}"
+    ],
+    "verified": true
   },
   {
     "id": "fftarecomp",
@@ -848,7 +879,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.gba",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -860,8 +891,19 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "85a46320a31f16f5c6dda27fc094edd078dbe43d",
+        "sizeBytes": 8388608
+      }
+    ],
+    "mods": [],
+    "launchArgs": [
+      "--rom",
+      "{rom}"
+    ],
+    "verified": true
   },
   {
     "id": "kururin",
@@ -1853,7 +1895,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "baserom.gba",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -1865,8 +1907,15 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "b4bd50e4131b027c334547b4524e2dbbd4227130",
+        "sizeBytes": 16777216
+      }
+    ],
+    "mods": [],
+    "verified": true
   },
   {
     "id": "txra-decomp",
@@ -1887,7 +1936,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.gba",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -1899,8 +1948,18 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "4197339d4add74bb40ed02a8fba5e58096afb487",
+        "sizeBytes": 4194304
+      }
+    ],
+    "mods": [],
+    "launchArgs": [
+      "{rom}"
+    ],
+    "verified": true
   },
   {
     "id": "warioland4",
@@ -1919,7 +1978,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "baserom_us.gba",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -1931,8 +1990,15 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "b9fe05a8080e124b67bce6a623234ee3b518a2c1",
+        "sizeBytes": 8388608
+      }
+    ],
+    "mods": [],
+    "verified": true
   },
   {
     "id": "warioland4recomp",

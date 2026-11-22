@@ -118,7 +118,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.gbc",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -130,8 +130,18 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "880374fb978b18af4aa529e2e32f7ffb4d7dd2f4",
+        "sizeBytes": 1048576
+      }
+    ],
+    "mods": [],
+    "launchArgs": [
+      "{rom}"
+    ],
+    "verified": true
   },
   {
     "id": "pinball-ns",
@@ -219,7 +229,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.gbc",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -231,8 +241,15 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "a302cddc085d65ca778153e2a591bd648ce963c9",
+        "sizeBytes": 2097152
+      }
+    ],
+    "mods": [],
+    "verified": true
   },
   {
     "id": "shantaerecomp",

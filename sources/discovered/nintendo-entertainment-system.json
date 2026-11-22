@@ -216,7 +216,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "_castlevania_3.nes",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -228,8 +228,15 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "0bb28dd9c2f8dfabb3349d1f65407b941ee78435",
+        "sizeBytes": 393232
+      }
+    ],
+    "mods": [],
+    "verified": true
   },
   {
     "id": "darkwing-duck-recomp",
@@ -248,7 +255,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.nes",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -260,8 +267,18 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "c7b81ee2ff158a58582bc1bf508ffb1213e7a53a",
+        "sizeBytes": 262160
+      }
+    ],
+    "mods": [],
+    "launchArgs": [
+      "{rom}"
+    ],
+    "verified": true
   },
   {
     "id": "dd2recomp",
@@ -640,7 +657,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.nes",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -652,8 +669,18 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "a87cc03208de69a69d67c59a8b1926e03b3fd598",
+        "sizeBytes": 131088
+      }
+    ],
+    "mods": [],
+    "launchArgs": [
+      "{rom}"
+    ],
+    "verified": true
   },
   {
     "id": "legendofzeldanesrecomp",
@@ -1228,7 +1255,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.nes",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -1240,8 +1267,18 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "ef76cebddc57b7c96cfc95b55dcc712fd5934b2c",
+        "sizeBytes": 24592
+      }
+    ],
+    "mods": [],
+    "launchArgs": [
+      "{rom}"
+    ],
+    "verified": true
   },
   {
     "id": "shadowgreat",
@@ -1326,7 +1363,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.nes",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -1338,8 +1375,19 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "33d23c2f2cfa4c9efec87f7bc1321ce3ce6c89bd",
+        "sizeBytes": 40976
+      }
+    ],
+    "mods": [],
+    "launchArgs": [
+      "--rom",
+      "{rom}"
+    ],
+    "verified": true
   },
   {
     "id": "startropics-recomp",
@@ -1461,7 +1509,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.nes",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -1473,8 +1521,18 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "71bab66d5c63b12c1e2b8e7cfebfa4b88256929c",
+        "sizeBytes": 262160
+      }
+    ],
+    "mods": [],
+    "launchArgs": [
+      "{rom}"
+    ],
+    "verified": true
   },
   {
     "id": "topgun2recomp",

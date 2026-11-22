@@ -50,7 +50,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.md",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -62,8 +62,18 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "69bf7a9ebcb851e0d571f93b26d785ca87621b01",
+        "sizeBytes": 1048576
+      }
+    ],
+    "mods": [],
+    "launchArgs": [
+      "{rom}"
+    ],
+    "verified": true
   },
   {
     "id": "beyond-oasis-recomp",
@@ -114,7 +124,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "d.bin",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -126,8 +136,15 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "d8d159c7c5a365242f989cc3aad2352fb27e3af3",
+        "sizeBytes": 524288
+      }
+    ],
+    "mods": [],
+    "verified": true
   },
   {
     "id": "castle-of-illusion-port",
@@ -149,7 +166,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.md",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -161,8 +178,18 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "4ac3687634a5acc55ac7f156c6de9749158713e4",
+        "sizeBytes": 524288
+      }
+    ],
+    "mods": [],
+    "launchArgs": [
+      "{rom}"
+    ],
+    "verified": true
   },
   {
     "id": "doom-troopers-pc-recomp",
@@ -349,7 +376,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "jp3.md",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -361,8 +388,15 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "df7fca887e7988e24ab2d08b015c6db2902fe571",
+        "sizeBytes": 2097152
+      }
+    ],
+    "mods": [],
+    "verified": true
   },
   {
     "id": "mickeyanddonaldcollection",
@@ -415,7 +449,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "uid_cache.bin",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -427,8 +461,15 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "84e203c5226bc1913a485804e59c6418e939bd3d",
+        "sizeBytes": 2097152
+      }
+    ],
+    "mods": [],
+    "verified": true
   },
   {
     "id": "mspacmanrecomp",
@@ -450,7 +491,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.md",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -462,8 +503,18 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "29fff97e19a00904846ad99baf6b9037b28df15f",
+        "sizeBytes": 131072
+      }
+    ],
+    "mods": [],
+    "launchArgs": [
+      "{rom}"
+    ],
+    "verified": true
   },
   {
     "id": "ninety-four",
@@ -684,7 +735,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.md",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -696,8 +747,18 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "49634bb09c38fa03549577f977e6afb6cebaac48",
+        "sizeBytes": 1048576
+      }
+    ],
+    "mods": [],
+    "launchArgs": [
+      "{rom}"
+    ],
+    "verified": true
   },
   {
     "id": "rolo-revisited",
@@ -786,7 +847,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "06ld.bin",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -798,8 +859,15 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "ccc9542d964de5bdc1e9101620cae40dd98e7127",
+        "sizeBytes": 2097152
+      }
+    ],
+    "mods": [],
+    "verified": true
   },
   {
     "id": "snatcher-recomp",
@@ -920,7 +988,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.md",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -932,8 +1000,18 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "8bca5dcef1af3e00098666fd892dc1c2a76333f9",
+        "sizeBytes": 1048576
+      }
+    ],
+    "mods": [],
+    "launchArgs": [
+      "{rom}"
+    ],
+    "verified": true
   },
   {
     "id": "sonicthehedgehogrecomp",
@@ -952,7 +1030,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.md",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -964,8 +1042,18 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "6ddb7de1e17e7f6cdb88927bd906352030daa194",
+        "sizeBytes": 524288
+      }
+    ],
+    "mods": [],
+    "launchArgs": [
+      "{rom}"
+    ],
+    "verified": true
   },
   {
     "id": "strikehdcollection",
@@ -1153,7 +1241,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.md",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -1165,8 +1253,18 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "e548e2ed4f69c32dd601a2b90bcf4eeb34d36c49",
+        "sizeBytes": 1048576
+      }
+    ],
+    "mods": [],
+    "launchArgs": [
+      "{rom}"
+    ],
+    "verified": true
   },
   {
     "id": "wbmw-decomp",
@@ -1251,7 +1349,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.md",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -1263,8 +1361,18 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "61409e6cf6065ab67d8952b891d8edcf47777193",
+        "sizeBytes": 2097152
+      }
+    ],
+    "mods": [],
+    "launchArgs": [
+      "{rom}"
+    ],
+    "verified": true
   },
   {
     "id": "zero-tolerance",

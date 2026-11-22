@@ -18,7 +18,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.32x",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -30,8 +30,18 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "0c2fff7bc79ed26507c08ac47464c3af19f7ced7",
+        "sizeBytes": 3145728
+      }
+    ],
+    "mods": [],
+    "launchArgs": [
+      "{rom}"
+    ],
+    "verified": true
   },
   {
     "id": "virtuaracing",
@@ -87,7 +97,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.32x",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -99,7 +109,14 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "18dfdeb50780c2623e60a6587d7ed701a1cf81f1",
+        "sizeBytes": 3145728
+      }
+    ],
+    "mods": [],
+    "verified": true
   }
 ]

@@ -50,7 +50,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.gb",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -62,8 +62,19 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "9c337d3f56938aa46cfc8b85c0db4631bcbe217c",
+        "sizeBytes": 524288
+      }
+    ],
+    "mods": [],
+    "launchArgs": [
+      "--rom",
+      "{rom}"
+    ],
+    "verified": true
   },
   {
     "id": "bigodao",
@@ -221,7 +232,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.gb",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -233,8 +244,19 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "90979baa1d0e24b41b5c304c5ddaf77450692d5a",
+        "sizeBytes": 262144
+      }
+    ],
+    "mods": [],
+    "launchArgs": [
+      "--rom",
+      "{rom}"
+    ],
+    "verified": true
   },
   {
     "id": "kirby-pinball-land-recomp",
@@ -253,7 +275,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.gb",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -265,8 +287,19 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "06efdb138ff56cd9522dece44adadd3fae169c76",
+        "sizeBytes": 262144
+      }
+    ],
+    "mods": [],
+    "launchArgs": [
+      "--rom",
+      "{rom}"
+    ],
+    "verified": true
   },
   {
     "id": "kirby-s-dream-land-2-recomp",
@@ -519,7 +552,7 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rom.gb",
     "executable": "",
     "saves": "",
     "modsFolder": "",
@@ -531,7 +564,17 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "279fb0223e362db553b739b1b8f9c18b81d92413",
+        "sizeBytes": 262144
+      }
+    ],
+    "mods": [],
+    "launchArgs": [
+      "{rom}"
+    ],
+    "verified": true
   }
 ]
