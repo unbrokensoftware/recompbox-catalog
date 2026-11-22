@@ -54,6 +54,8 @@ internal sealed record CatalogPort
     public IReadOnlyList<CatalogRelease> Releases { get; init; } = [];
     public IReadOnlyList<CatalogAssetPattern> Assets { get; init; } = [];
     public IReadOnlyList<CatalogRomFingerprint> Roms { get; init; } = [];
+    public IReadOnlyList<string> SourceTypes { get; init; } = [];
+    public IReadOnlyList<string> LaunchArgs { get; init; } = [];
     public IReadOnlyList<CatalogMod> Mods { get; init; } = [];
 
     [JsonIgnore]
@@ -107,6 +109,9 @@ internal sealed record CatalogSetup
     public IReadOnlyList<string> Args { get; init; } = [];
     // A file the setup must produce for the install to count.
     public string Creates { get; init; } = "";
+    [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingDefault)] public bool StopWhenCreated { get; init; }
+    [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingDefault)] public bool AnswerPrompts { get; init; }
+    public IReadOnlyList<System.Text.Json.Nodes.JsonObject> Requests { get; init; } = [];
 }
 
 internal sealed record CatalogRelease

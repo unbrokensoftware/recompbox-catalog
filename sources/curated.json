@@ -40,16 +40,27 @@
     "description": "Twilight Princess running natively on PC from the decompilation, with widescreen and high frame rates.",
     "requirement": "GameCube or Wii disc", "features": ["widescreen", "high-fps"],
     "repositoryUrl": "https://github.com/TwilitRealm/dusklight", "colors": ["#3f6b4a", "#c8a24a", "#0b120d"],
-    "install": "download", "assets": [{ "pattern": "Dusklight-*-win32-x86_64.zip" }]
+    "install": "download", "assets": [{ "pattern": "Dusklight-*-win32-x86_64.zip" }],
+    "executable": "dusklight.exe",
+    "saves": "UserData",
+    "keep": ["UserData"],
+    "sourceTypes": [".iso", ".gcm", ".rvz", ".wia", ".wbfs", ".ciso", ".gcz"],
+    "launchArgs": ["--user-dir", "{root}/UserData", "--dvd", "{source}", "--cvar", "backend.skipPreLaunchUI=true"],
+    "defaultFiles": [{"path": "UserData/config.json", "content": "{\n  \"backend.isoVerification\": 1,\n  \"backend.skipPreLaunchUI\": true,\n  \"backend.wasPresetChosen\": true,\n  \"backend.checkForUpdates\": false,\n  \"backend.checkForModUpdates\": false,\n  \"backend.graphicsBackend\": \"auto\",\n  \"backend.cardFileType\": 1,\n  \"game.lastSelectedGameModeId\": \"vanilla\",\n  \"video.enableFullscreen\": true,\n  \"video.enableVsync\": true\n}\n"}]
   },
   {
     "id": "wwhdrecomp", "name": "Wind Waker HD Recompiled", "game": "The Legend of Zelda: The Wind Waker HD", "shortName": "Wind Waker HD",
     "aliases": ["Zelda: The Wind Waker HD", "The Wind Waker HD"],
     "platform": "Nintendo Wii U", "developer": "ZeldaWWHDRecomp", "kind": "recomp",
     "description": "The Wind Waker HD recompiled for PC. Built on your PC from your own Wii U game files on first run.",
-    "requirement": "US Wii U game files", "features": ["widescreen", "high-fps"],
+    "requirement": "US Wii U game as a Cemu .wua archive (or a .wux/.wud with its keys beside it)", "features": ["widescreen", "high-fps"],
     "repositoryUrl": "https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp", "colors": ["#2a8fc9", "#e8d27a", "#06121c"],
-    "install": "download", "assets": [{ "pattern": "WindWakerHD-*-windows-x86_64.zip" }]
+    "install": "download", "assets": [{ "pattern": "WindWakerHD-*-windows-x86_64.zip" }],
+    "executable": "Wind Waker HD.exe",
+    "saves": "data/save",
+    "keep": ["data/save", "data/user"],
+    "sourceTypes": [".wua", ".wux", ".wud"],
+    "setup": {"run": "tools/python/python.exe", "args": ["tools/installer/setup.py", "--gui-protocol"], "creates": "data/install.json", "requests": [{"cmd": "probe", "path": "{source}"}, {"cmd": "install", "source": "{reply.kind}", "path": "{source}", "jobs": "{jobs}"}, {"cmd": "remove_toolchain"}, {"cmd": "quit"}]}
   },
   {
     "id": "zelda3-recompbox", "name": "Zelda 3 Reborn", "game": "The Legend of Zelda: A Link to the Past", "shortName": "A Link to the Past",

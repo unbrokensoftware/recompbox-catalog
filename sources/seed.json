@@ -41,17 +41,33 @@
     "id": "shipwright", "name": "Ship of Harkinian", "game": "The Legend of Zelda: Ocarina of Time", "shortName": "Ocarina of Time",
     "platform": "Nintendo 64", "developer": "HarbourMasters", "kind": "decomp",
     "description": "Ocarina of Time running natively with a randomizer, enhancements and texture pack support.",
-    "requirement": "US 1.0 or GameCube version", "features": ["widescreen", "high-fps", "randomizer", "mods"],
+    "requirement": "N64 version (any region or revision)", "features": ["widescreen", "high-fps", "randomizer", "mods"],
     "repositoryUrl": "https://github.com/HarbourMasters/Shipwright", "colors": ["#1f7a4a", "#c9a227", "#08170f"],
-    "install": "download", "assets": [{ "pattern": "SoH-*-Win64.zip" }]
+    "install": "download", "assets": [{ "pattern": "SoH-*-Win64.zip" }],
+    "roms": [{"label": "US 1.0", "sha1": "ad69c91157f6705e8ab06c79fe08aad47bb57ba7"}, {"label": "US 1.1", "sha1": "d3ecb253776cd847a5aa63d859d8c89a2f37b364"}, {"label": "US 1.2", "sha1": "41b3bdc48d98c48529219919015a1af22f5057c2"}, {"label": "JP 1.0", "sha1": "c892bbda3993e66bd0d56a10ecd30b1ee612210f"}, {"label": "JP 1.1", "sha1": "dbfc81f655187dc6fefd93fa6798face770d579d"}, {"label": "JP 1.2", "sha1": "fa5f5942b27480d60243c2d52c0e93e26b9e6b86"}, {"label": "PAL 1.0", "sha1": "328a1f1beba30ce5e178f031662019eb32c5f3b5"}, {"label": "PAL 1.1", "sha1": "cfbb98d392e4a9d39da8285d10cbef3974c2f012"}],
+    "romFile": "oot.z64",
+    "executable": "soh.exe",
+    "saves": "Save",
+    "modsFolder": "mods",
+    "keep": ["shipofharkinian.json", "imgui.ini", "Save", "mods"],
+    "defaultFiles": [{"path": "shipofharkinian.json", "content": "{\n  \"Window\": {\n    \"Fullscreen\": { \"Enabled\": true },\n    \"Backend\": { \"Id\": 0, \"Name\": \"DirectX 11\" }\n  },\n  \"CVars\": {\n    \"gSettings\": { \"InterpolationFPS\": 60 },\n    \"gMSAAValue\": 4\n  }\n}\n"}],
+    "setup": {"run": "soh.exe", "args": ["{rom}"], "creates": "oot.o2r", "stopWhenCreated": true, "answerPrompts": true}
   },
   {
     "id": "starfox64recomp", "name": "Starfox 64: Recompiled", "game": "Star Fox 64", "shortName": "Star Fox 64",
     "platform": "Nintendo 64", "developer": "sonicdcer", "kind": "recomp",
     "description": "Star Fox 64 as a native game with widescreen, high frame rates and mod support.",
-    "requirement": "US 1.1 version", "features": ["widescreen", "high-fps", "mods"],
+    "requirement": "US 1.1 version (Rev 1)", "features": ["widescreen", "high-fps", "mods"],
     "repositoryUrl": "https://github.com/sonicdcer/Starfox64Recomp", "colors": ["#2b62d9", "#d93b3b", "#060c1c"],
-    "install": "download", "assets": [{ "pattern": "Starfox64Recompiled-*-Windows-*.zip" }]
+    "install": "download", "assets": [{ "pattern": "Starfox64Recompiled-*-Windows-*.zip" }],
+    "roms": [{"label": "US 1.1", "sha1": "09f0d105f476b00efa5303a3ebc42e60a7753b7a", "sizeBytes": 12582912}],
+    "romFile": "sf64.n64.us.1.1.z64",
+    "saves": "saves",
+    "modsFolder": "mods",
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": ["general.json", "graphics.json", "controls.json", "sound.json", "mods.json", "mod_config", "mod_data"],
+    "defaultFiles": [{"path": "graphics.json", "content": "{\n  \"wm_option\": \"Fullscreen\",\n  \"res_option\": \"Auto\",\n  \"ar_option\": \"Expand\",\n  \"rr_option\": \"Display\",\n  \"msaa_option\": \"MSAA4X\",\n  \"hpfb_option\": \"Auto\",\n  \"api_option\": \"Auto\"\n}\n"}]
   },
   {
     "id": "starship", "name": "Starship", "game": "Star Fox 64", "shortName": "Star Fox 64",
@@ -67,7 +83,14 @@
     "description": "Mario Kart 64 with custom tracks, widescreen and high frame rates.",
     "requirement": "US version", "features": ["widescreen", "high-fps"],
     "repositoryUrl": "https://github.com/HarbourMasters/SpaghettiKart", "colors": ["#d8262f", "#f2c230", "#1c0607"],
-    "install": "download", "assets": [{ "pattern": "spaghetti-windows.zip" }]
+    "install": "download", "assets": [{ "pattern": "spaghetti-windows.zip" }],
+    "roms": [{"label": "US", "sha1": "579c48e211ae952530ffc8738709f078d5dd215e", "sizeBytes": 12582912}],
+    "romFile": "baserom.us.z64",
+    "executable": "Spaghettify.exe",
+    "modsFolder": "mods",
+    "keep": ["spaghettify.cfg.json", "imgui.ini", "Save", "mods"],
+    "defaultFiles": [{"path": "spaghettify.cfg.json", "content": "{\n  \"Window\": {\n    \"Fullscreen\": { \"Enabled\": true }\n  }\n}\n"}],
+    "setup": {"run": "Spaghettify.exe", "creates": "mk64.o2r", "stopWhenCreated": true, "answerPrompts": true}
   },
   {
     "id": "render96", "name": "Render96", "game": "Super Mario 64", "shortName": "Super Mario 64",
