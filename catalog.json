@@ -5010,7 +5010,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.md",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -5029,8 +5029,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "69bf7a9ebcb851e0d571f93b26d785ca87621b01",
+          "sizeBytes": 1048576
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "alive-reversing",
@@ -5354,7 +5364,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -5397,8 +5407,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "6d4f10a8b10e10dbe624cb23cf03b88bb8252973",
+          "sizeBytes": 1048576
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "alundra-2-recomp",
@@ -7523,7 +7543,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.gba",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -7542,8 +7562,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "15053499d5b3f49128a941d7f2d84876f5424d0c",
+          "sizeBytes": 4194304
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "azure-dreams-hd-recompilation",
@@ -7871,7 +7901,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -7890,8 +7920,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "38de0c84dd2bc3bdfc0a3d7ab0220c79b70887c3",
+          "sizeBytes": 2097152
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "badman-recompiled",
@@ -8858,7 +8899,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.gb",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -8877,8 +8918,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "9c337d3f56938aa46cfc8b85c0db4631bcbe217c",
+          "sizeBytes": 524288
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "battlearenatoshindenrecomp",
@@ -10484,7 +10536,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -10509,8 +10561,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "bcac87c7a982d8eb90cbf30a6c34fbabde135ff7",
+          "sizeBytes": 1048576
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "blast-wind-recomp",
@@ -12073,7 +12136,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -12098,8 +12161,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "5b99127cb3c60c5ebce11d9b91bd09914ebc53f2",
+          "sizeBytes": 524288
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "boom-boom-rocket-xbla-pc-recomp",
@@ -13831,7 +13904,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -13850,8 +13923,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "04bf92b242ba965c453b6eb13d522afb7db7996b",
+          "sizeBytes": 1048576
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "busters-hidden-treasure-pc",
@@ -13874,7 +13957,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "d.bin",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -13905,8 +13988,15 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "d8d159c7c5a365242f989cc3aad2352fb27e3af3",
+          "sizeBytes": 524288
+        }
+      ],
+      "mods": [],
+      "verified": true
     },
     {
       "id": "bustinout-recomp",
@@ -14567,7 +14657,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.md",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -14610,8 +14700,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "4ac3687634a5acc55ac7f156c6de9749158713e4",
+          "sizeBytes": 524288
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "castlevania-chronicles-recomp",
@@ -15283,7 +15383,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.32x",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -15326,8 +15426,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "0c2fff7bc79ed26507c08ac47464c3af19f7ced7",
+          "sizeBytes": 3145728
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "chase-the-express-recomp",
@@ -19361,7 +19471,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "_castlevania_3.nes",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -19380,8 +19490,15 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "0bb28dd9c2f8dfabb3349d1f65407b941ee78435",
+          "sizeBytes": 393232
+        }
+      ],
+      "mods": [],
+      "verified": true
     },
     {
       "id": "cv64recomp",
@@ -19933,7 +20050,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.nes",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -19958,8 +20075,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "c7b81ee2ff158a58582bc1bf508ffb1213e7a53a",
+          "sizeBytes": 262160
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "dawn-of-the-dragon-recomp",
@@ -23165,7 +23292,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -23202,8 +23329,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "2dc56eab3e70c0910ae47119d8b69f494e6000df",
+          "sizeBytes": 1048576
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "dino-crisis-2-recomp",
@@ -24172,7 +24310,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -24191,8 +24329,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "d737e90d91dba8620fd5c2985eb6ff2cda7f23f9",
+          "sizeBytes": 4194304
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "dkc1recomp",
@@ -25785,7 +25934,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -25822,8 +25971,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "736b9b994f506de0893ceb181f942739da089b05",
+          "sizeBytes": 2097152
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "dor2-static-recomp",
@@ -32436,7 +32596,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.gba",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -32479,8 +32639,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "c25b145e37456171ada4b0d440bf88a19f4d509f",
+          "sizeBytes": 16777216
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "fear-effect-2-retro-helix-recomp",
@@ -33219,7 +33389,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.gba",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -33256,8 +33426,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "4ac05441f4de70a4ec3dd932116346c61b8783d9",
+          "sizeBytes": 16777216
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "fftarecomp",
@@ -35664,7 +35845,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -35707,8 +35888,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "d3efd32b68f1fe37a82db9d9929b7ca7cc1a3af4",
+          "sizeBytes": 524288
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "g-diffuser",
@@ -41940,7 +42131,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -41959,8 +42150,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "380046437930d0e39cebd662ad1657e20ac4c9c8",
+          "sizeBytes": 2097152
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "haiku",
@@ -47760,7 +47962,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "jp3.md",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -47779,8 +47981,15 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "df7fca887e7988e24ab2d08b015c6db2902fe571",
+          "sizeBytes": 2097152
+        }
+      ],
+      "mods": [],
+      "verified": true
     },
     {
       "id": "janus-project",
@@ -50151,7 +50360,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.gb",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -50170,8 +50379,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "90979baa1d0e24b41b5c304c5ddaf77450692d5a",
+          "sizeBytes": 262144
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "kirby-epic-yarn-recomp",
@@ -50312,7 +50532,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.gb",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -50331,8 +50551,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "06efdb138ff56cd9522dece44adadd3fae169c76",
+          "sizeBytes": 262144
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "kirby-redream",
@@ -50490,7 +50721,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -50527,8 +50758,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "12aff7538f43641a1e2bf424593df5b49fe150f6",
+          "sizeBytes": 4194304
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "kirbysuperstarpc",
@@ -50996,7 +51238,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.gba",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -51021,8 +51263,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "85a46320a31f16f5c6dda27fc094edd078dbe43d",
+          "sizeBytes": 8388608
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "knowyourrolerecomp",
@@ -51351,7 +51604,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -51394,8 +51647,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "02b7a15f1c712503a36fc927ad688ade9ad8a0e5",
+          "sizeBytes": 524288
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "ksssnesrecomp",
@@ -51904,8 +52168,8 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
-      "executable": "",
+      "romFile": "rom.sfc",
+      "executable": "game/LagoonSNESRecomp.exe",
       "saves": "",
       "modsFolder": "",
       "releases": [
@@ -51947,8 +52211,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "416aad89d76d4a74e2db985db1aee3a50dbafec8",
+          "sizeBytes": 1048576
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "lain-psx-decompiled",
@@ -52752,7 +53027,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.nes",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -52771,8 +53046,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "a87cc03208de69a69d67c59a8b1926e03b3fd598",
+          "sizeBytes": 131088
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "legendofzeldanesrecomp",
@@ -54276,7 +54561,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -54307,8 +54592,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "a89931c1f29b161b8be717dfab4a4adb54b42b84",
+          "sizeBytes": 2621440
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "luigis-mansion-recompiled",
@@ -55379,7 +55674,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -55404,8 +55699,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "d245e41a2b590f7d63666b0772cbddfb26f254a2",
+          "sizeBytes": 2621440
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "mario-all-stars-world-split-recomp",
@@ -58346,7 +58652,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -58365,8 +58671,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "6e7c9c9dd397f771303ee4aec29d106b9f86c832",
+          "sizeBytes": 2097152
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "mega-man-8-recomp",
@@ -58998,7 +59315,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -59041,8 +59358,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "637079014421563283cded6aeaa0604597b2e33c",
+          "sizeBytes": 1572864
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "megamanx3snesrecomp",
@@ -59067,7 +59395,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -59110,8 +59438,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "b226f7ec59283b05c1e276e2f433893f45027cac",
+          "sizeBytes": 2097152
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "megamanx4recomp",
@@ -59349,7 +59688,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -59392,8 +59731,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "c65216760ba99178100a10d98457cf11496c2097",
+          "sizeBytes": 1572864
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "megamanzerorecomp",
@@ -61589,7 +61939,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "uid_cache.bin",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -61614,8 +61964,15 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "84e203c5226bc1913a485804e59c6418e939bd3d",
+          "sizeBytes": 2097152
+        }
+      ],
+      "mods": [],
+      "verified": true
     },
     {
       "id": "mikazuki-x3",
@@ -64561,7 +64918,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.md",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -64580,8 +64937,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "29fff97e19a00904846ad99baf6b9037b28df15f",
+          "sizeBytes": 131072
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "msr2ds",
@@ -71659,7 +72026,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.gbc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -71702,8 +72069,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "880374fb978b18af4aa529e2e32f7ffb4d7dd2f4",
+          "sizeBytes": 1048576
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "oratan-recomp",
@@ -72460,7 +72837,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.nes",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -72485,8 +72862,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "ef76cebddc57b7c96cfc95b55dcc712fd5934b2c",
+          "sizeBytes": 24592
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "pal-saturn-recomp",
@@ -83159,7 +83546,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -83178,8 +83565,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "cb249cf7301bdd985e6fe4bc4c942bf4f86d7d83",
+          "sizeBytes": 2097152
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "redline-recompiled",
@@ -83374,7 +83772,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.gbc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -83417,8 +83815,15 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "a302cddc085d65ca778153e2a591bd648ce963c9",
+          "sizeBytes": 2097152
+        }
+      ],
+      "mods": [],
+      "verified": true
     },
     {
       "id": "rekhcom",
@@ -85580,7 +85985,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -85623,8 +86028,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "66d864dd07f8eae86cf4e1f60f176b405a2ddbe9",
+          "sizeBytes": 1048576
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "rock-band-the-beatles-pc",
@@ -85807,7 +86223,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.md",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -85850,8 +86266,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "49634bb09c38fa03549577f977e6afb6cebaac48",
+          "sizeBytes": 1048576
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "rocky-recompiled",
@@ -88372,7 +88798,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "06ld.bin",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -88415,8 +88841,15 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "ccc9542d964de5bdc1e9101620cae40dd98e7127",
+          "sizeBytes": 2097152
+        }
+      ],
+      "mods": [],
+      "verified": true
     },
     {
       "id": "scooby-doo-mystery-mayhem-pc",
@@ -92551,7 +92984,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.nes",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -92570,8 +93003,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "33d23c2f2cfa4c9efec87f7bc1321ce3ce6c89bd",
+          "sizeBytes": 40976
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "smb2-pc",
@@ -94293,7 +94737,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.md",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -94336,8 +94780,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "8bca5dcef1af3e00098666fd892dc1c2a76333f9",
+          "sizeBytes": 1048576
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "sonicthehedgehogrecomp",
@@ -94360,7 +94814,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.md",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -94403,8 +94857,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "6ddb7de1e17e7f6cdb88927bd906352030daa194",
+          "sizeBytes": 524288
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "sonicthehedgehogsmsrecomp",
@@ -97382,7 +97846,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -97425,8 +97889,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "cf08148cd8f26d51f8c67c956179dfc594e7a4f1",
+          "sizeBytes": 1048576
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "startropics-recomp",
@@ -100166,7 +100641,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -100209,8 +100684,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "a4f7539054c359fe3f360b0e6b72e394439fe9df",
+          "sizeBytes": 4194304
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "supermarioworld2yoshisislandrecomp",
@@ -100585,7 +101070,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -100628,8 +101113,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "3604c855790f37db567e9b425252625045f86697",
+          "sizeBytes": 2097152
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "superryuworld1-recomp",
@@ -105842,7 +106338,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -105885,8 +106381,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "e5319132495fd34d03f141962d9d6e3d76fe7b02",
+          "sizeBytes": 3145728
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "tlou-pc",
@@ -106098,7 +106605,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "baserom.gba",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -106117,8 +106624,15 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "b4bd50e4131b027c334547b4524e2dbbd4227130",
+          "sizeBytes": 16777216
+        }
+      ],
+      "mods": [],
+      "verified": true
     },
     {
       "id": "tmnt-port",
@@ -106210,7 +106724,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.nes",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -106253,8 +106767,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "71bab66d5c63b12c1e2b8e7cfebfa4b88256929c",
+          "sizeBytes": 262160
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "tmnt-turtles-in-time-reshelled-recompiled",
@@ -107600,7 +108124,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.md",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -107643,8 +108167,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "e548e2ed4f69c32dd601a2b90bcf4eeb34d36c49",
+          "sizeBytes": 1048576
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "top-gear-overdrive-n64-native-pc-port",
@@ -110310,7 +110844,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.gba",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -110329,8 +110863,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "4197339d4add74bb40ed02a8fba5e58096afb487",
+          "sizeBytes": 4194304
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "ueberkill-army-of-two-the-devil-s-cartel-pc-port",
@@ -111156,7 +111700,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -111199,8 +111743,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "cb249cf7301bdd985e6fe4bc4c942bf4f86d7d83",
+          "sizeBytes": 2097152
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "unnamed-sdvx-clone",
@@ -111527,7 +112082,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -111570,8 +112125,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "9140ae08d62a562ccb98576ba89f381f9f4f1439",
+          "sizeBytes": 524288
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "urbanstrike-recomp",
@@ -113598,7 +114163,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.32x",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -113635,8 +114200,15 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "18dfdeb50780c2623e60a6587d7ed701a1cf81f1",
+          "sizeBytes": 3145728
+        }
+      ],
+      "mods": [],
+      "verified": true
     },
     {
       "id": "viva-pinata-recompiled-port",
@@ -114395,7 +114967,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.gb",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -114426,8 +114998,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "279fb0223e362db553b739b1b8f9c18b81d92413",
+          "sizeBytes": 262144
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "warioland4",
@@ -114450,7 +115032,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "baserom_us.gba",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -114493,8 +115075,15 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "b9fe05a8080e124b67bce6a623234ee3b518a2c1",
+          "sizeBytes": 8388608
+        }
+      ],
+      "mods": [],
+      "verified": true
     },
     {
       "id": "warioland4recomp",
@@ -114656,7 +115245,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -114675,8 +115264,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "df1bc952ac6b947a9cc55e21225e0a87647d1cb9",
+          "sizeBytes": 2097152
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "warriorsreborn",
@@ -118915,7 +119515,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.md",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -118958,8 +119558,18 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "61409e6cf6065ab67d8952b891d8edcf47777193",
+          "sizeBytes": 2097152
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "xmenmutantapocalypserecomp",
@@ -118984,7 +119594,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -119003,8 +119613,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "81f66a620352f6ecad3bdfe0d47f42c55971080c",
+          "sizeBytes": 2097152
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "xml1-recomp",
@@ -119978,7 +120599,7 @@
       "colors": [],
       "install": "download",
       "recipe": "",
-      "romFile": "",
+      "romFile": "rom.sfc",
       "executable": "",
       "saves": "",
       "modsFolder": "",
@@ -120021,8 +120642,19 @@
           "arch": "x64"
         }
       ],
-      "roms": [],
-      "mods": []
+      "roms": [
+        {
+          "label": "US",
+          "sha1": "6d4f10a8b10e10dbe624cb23cf03b88bb8252973",
+          "sizeBytes": 1048576
+        }
+      ],
+      "mods": [],
+      "launchArgs": [
+        "--rom",
+        "{rom}"
+      ],
+      "verified": true
     },
     {
       "id": "zero-tolerance",
