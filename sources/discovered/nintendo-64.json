@@ -21,10 +21,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "1080snowboarding.n64.us.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -33,8 +33,26 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "79cd1166c365e5809dec9b62e6d40d6032d5db3a",
+        "sizeBytes": 16777216
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   },
   {
     "id": "40winksrecomp",
@@ -470,10 +488,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "bar.n64.us.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -482,8 +500,26 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "e5ab4d226c08d22f68a2edcc48870203e67454b8",
+        "sizeBytes": 16777216
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   },
   {
     "id": "beetlerecomp",
@@ -504,10 +540,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "bar.n64.us.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -516,8 +552,32 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "e5ab4d226c08d22f68a2edcc48870203e67454b8",
+        "sizeBytes": 16777216
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "defaultFiles": [
+      {
+        "path": "graphics.json",
+        "content": "{\n  \"wm_option\": \"Fullscreen\",\n  \"res_option\": \"Auto\",\n  \"ar_option\": \"Expand\",\n  \"rr_option\": \"Display\",\n  \"msaa_option\": \"MSAA4X\",\n  \"hpfb_option\": \"Auto\",\n  \"api_option\": \"Auto\"\n}\n"
+      }
+    ],
+    "verified": true
   },
   {
     "id": "birdman64",
@@ -568,10 +628,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "bc.n64.us.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -580,8 +640,26 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "483f7161aea39de8b45c9fbc70a2c3883c4dea8c",
+        "sizeBytes": 8388608
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   },
   {
     "id": "blocksphere",
@@ -700,10 +778,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "bmhero.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -712,8 +790,26 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "a36364b7e59351f7551ab351cb3b41ebc4be285b",
+        "sizeBytes": 12582912
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   },
   {
     "id": "body-harvest-recomp",
@@ -764,10 +860,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "bh.us.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -776,8 +872,26 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "bbb6666f5014a473747ee4145f036d9fb25d7348",
+        "sizeBytes": 12582912
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   },
   {
     "id": "brally",
@@ -830,10 +944,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "btga.n64.us.1.0.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -842,8 +956,32 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "805248fb0a0ee694cad8d7dc927b631d860dd8cf",
+        "sizeBytes": 8388608
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "defaultFiles": [
+      {
+        "path": "graphics.json",
+        "content": "{\n  \"wm_option\": \"Fullscreen\",\n  \"res_option\": \"Auto\",\n  \"ar_option\": \"Expand\",\n  \"rr_option\": \"Display\",\n  \"msaa_option\": \"MSAA4X\",\n  \"hpfb_option\": \"Auto\",\n  \"api_option\": \"Auto\"\n}\n"
+      }
+    ],
+    "verified": true
   },
   {
     "id": "btrecomp",
@@ -865,10 +1003,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "btx.n64.us.1.0.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -877,8 +1015,32 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "535860d941738ac1210c20a9b80114fea0e0ff17",
+        "sizeBytes": 8388608
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "defaultFiles": [
+      {
+        "path": "graphics.json",
+        "content": "{\n  \"wm_option\": \"Fullscreen\",\n  \"res_option\": \"Auto\",\n  \"ar_option\": \"Expand\",\n  \"rr_option\": \"Display\",\n  \"msaa_option\": \"MSAA4X\",\n  \"hpfb_option\": \"Auto\",\n  \"api_option\": \"Auto\"\n}\n"
+      }
+    ],
+    "verified": true
   },
   {
     "id": "bzrecomp",
@@ -900,10 +1062,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "bz.n64.us.1.0.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -912,8 +1074,32 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "85b4febbe6fbd1ecfc883905e43e68e7188c44f9",
+        "sizeBytes": 16777216
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "defaultFiles": [
+      {
+        "path": "graphics.json",
+        "content": "{\n  \"wm_option\": \"Fullscreen\",\n  \"res_option\": \"Auto\",\n  \"ar_option\": \"Expand\",\n  \"rr_option\": \"Display\",\n  \"msaa_option\": \"MSAA4X\",\n  \"hpfb_option\": \"Auto\",\n  \"api_option\": \"Auto\"\n}\n"
+      }
+    ],
+    "verified": true
   },
   {
     "id": "cbfd-recompiled",
@@ -1275,10 +1461,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "castlevania2.n64.us.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -1287,8 +1473,32 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "879ead98f197fd05edda867655da5b1ce25aa5b8",
+        "sizeBytes": 16777216
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "defaultFiles": [
+      {
+        "path": "graphics.json",
+        "content": "{\n  \"wm_option\": \"Fullscreen\",\n  \"res_option\": \"Auto\",\n  \"ar_option\": \"Expand\",\n  \"rr_option\": \"Display\",\n  \"msaa_option\": \"MSAA4X\",\n  \"hpfb_option\": \"Auto\",\n  \"api_option\": \"Auto\"\n}\n"
+      }
+    ],
+    "verified": true
   },
   {
     "id": "destruction-decomp-64",
@@ -1411,10 +1621,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "yoshisstory.n64.us.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -1423,8 +1633,32 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "b13072fef6c6df48c07d8822c01e5bc59036f6da",
+        "sizeBytes": 16777216
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "defaultFiles": [
+      {
+        "path": "graphics.json",
+        "content": "{\n  \"wm_option\": \"Fullscreen\",\n  \"res_option\": \"Auto\",\n  \"ar_option\": \"Expand\",\n  \"rr_option\": \"Display\",\n  \"msaa_option\": \"MSAA4X\",\n  \"hpfb_option\": \"Auto\",\n  \"api_option\": \"Auto\"\n}\n"
+      }
+    ],
+    "verified": true
   },
   {
     "id": "dkr-r",
@@ -1480,10 +1714,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "dnzh.us.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -1492,8 +1726,32 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "de4db292cc6cf5dd1dd1d3c9700cf8e5c3078410",
+        "sizeBytes": 33554432
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "defaultFiles": [
+      {
+        "path": "graphics.json",
+        "content": "{\n  \"wm_option\": \"Fullscreen\",\n  \"res_option\": \"Auto\",\n  \"ar_option\": \"Expand\",\n  \"rr_option\": \"Display\",\n  \"msaa_option\": \"MSAA4X\",\n  \"hpfb_option\": \"Auto\",\n  \"api_option\": \"Auto\"\n}\n"
+      }
+    ],
+    "verified": true
   },
   {
     "id": "donald-duck-goin-quackers-recomp",
@@ -1717,10 +1975,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "drmario64.us.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -1729,8 +1987,32 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "a130d3622ce40e0158db2da4247101f6e92206fc",
+        "sizeBytes": 4194304
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "defaultFiles": [
+      {
+        "path": "graphics.json",
+        "content": "{\n  \"wm_option\": \"Fullscreen\",\n  \"res_option\": \"Auto\",\n  \"ar_option\": \"Expand\",\n  \"rr_option\": \"Display\",\n  \"msaa_option\": \"MSAA4X\",\n  \"hpfb_option\": \"Auto\",\n  \"api_option\": \"Auto\"\n}\n"
+      }
+    ],
+    "verified": true
   },
   {
     "id": "excitebike-64-recomp",
@@ -1749,10 +2031,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "excitebike64.n64.us.1.1.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -1761,8 +2043,26 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "c2fac422af135409c1b38569b309f9d452c81c35",
+        "sizeBytes": 16777216
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   },
   {
     "id": "f-zero-x-recomp",
@@ -1781,10 +2081,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "fzerox.n64.us.1.0.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -1793,8 +2093,26 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "5f658e88ffa9de23cba6986a8fd3d3a90d7b4340",
+        "sizeBytes": 16777216
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   },
   {
     "id": "g-diffuser",
@@ -1884,10 +2202,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "gga.us.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -1896,8 +2214,32 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "9f9e860816f9e2a68bb5f4f56086e0c7450c64d7",
+        "sizeBytes": 16777216
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "defaultFiles": [
+      {
+        "path": "graphics.json",
+        "content": "{\n  \"wm_option\": \"Fullscreen\",\n  \"res_option\": \"Auto\",\n  \"ar_option\": \"Expand\",\n  \"rr_option\": \"Display\",\n  \"msaa_option\": \"MSAA4X\",\n  \"hpfb_option\": \"Auto\",\n  \"api_option\": \"Auto\"\n}\n"
+      }
+    ],
+    "verified": true
   },
   {
     "id": "ghostship",
@@ -2182,10 +2524,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "ge007.us.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -2194,8 +2536,26 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "abe01e4aeb033b6c0836819f549c791b26cfde83",
+        "sizeBytes": 12582912
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   },
   {
     "id": "gt64-recomp",
@@ -2217,10 +2577,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "gt64.n64.us.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -2229,8 +2589,26 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "b941246af78748f4e081f496dac0a9e2056d3d8d",
+        "sizeBytes": 12582912
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   },
   {
     "id": "hangtimerecomp",
@@ -2289,10 +2667,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "harvest_moon_64.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -2301,8 +2679,26 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "90631460f1876a14849df0541d534012b410a34c",
+        "sizeBytes": 16777216
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   },
   {
     "id": "hbht",
@@ -2486,10 +2882,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "hybridheaven.us.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -2498,8 +2894,32 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "16dbc21620b52deab5c5abf8a309ac60adfbee85",
+        "sizeBytes": 16777216
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "defaultFiles": [
+      {
+        "path": "graphics.json",
+        "content": "{\n  \"wm_option\": \"Fullscreen\",\n  \"res_option\": \"Auto\",\n  \"ar_option\": \"Expand\",\n  \"rr_option\": \"Display\",\n  \"msaa_option\": \"MSAA4X\",\n  \"hpfb_option\": \"Auto\",\n  \"api_option\": \"Auto\"\n}\n"
+      }
+    ],
+    "verified": true
   },
   {
     "id": "infinite-mario-64-ever",
@@ -2755,10 +3175,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "knifeedge.n64.us.1.0.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -2767,8 +3187,32 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "b247167e37e7f62924be6b0d2362a091fd2352ac",
+        "sizeBytes": 8388608
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "defaultFiles": [
+      {
+        "path": "graphics.json",
+        "content": "{\n  \"wm_option\": \"Fullscreen\",\n  \"res_option\": \"Auto\",\n  \"ar_option\": \"Expand\",\n  \"rr_option\": \"Display\",\n  \"msaa_option\": \"MSAA4X\",\n  \"hpfb_option\": \"Auto\",\n  \"api_option\": \"Auto\"\n}\n"
+      }
+    ],
+    "verified": true
   },
   {
     "id": "kyujo",
@@ -2929,10 +3373,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "mariogolf64.n64.us.1.0.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -2941,8 +3385,26 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "e2c4e7a905b29529b49a1619a401fe699224829b",
+        "sizeBytes": 33554432
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   },
   {
     "id": "mario-kart-64-3ds",
@@ -2996,10 +3458,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "marioparty2.n64.us.1.0.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -3008,8 +3470,26 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "166eda1c05670d337e2c3f15a5db528ae1e5d6e3",
+        "sizeBytes": 33554432
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   },
   {
     "id": "mario-party-3-recomp",
@@ -3031,10 +3511,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "marioparty3.n64.us.1.0.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -3043,8 +3523,26 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "6beb80ff822b96bcf85dcdb512e8b2b7969d8259",
+        "sizeBytes": 33554432
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   },
   {
     "id": "mario-party-recomp",
@@ -3066,10 +3564,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "marioparty.n64.us.1.0.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -3078,8 +3576,26 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "1159bd56730094bfc71be30113e1cfc8bacf34f3",
+        "sizeBytes": 33554432
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   },
   {
     "id": "mariokart64recomp",
@@ -3188,10 +3704,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "mt.n64.us.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -3200,8 +3716,32 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "999047f07cec931ffbdcc7b33b8502ef602807ee",
+        "sizeBytes": 16777216
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "defaultFiles": [
+      {
+        "path": "graphics.json",
+        "content": "{\n  \"wm_option\": \"Fullscreen\",\n  \"res_option\": \"Auto\",\n  \"ar_option\": \"Expand\",\n  \"rr_option\": \"Display\",\n  \"msaa_option\": \"MSAA4X\",\n  \"hpfb_option\": \"Auto\",\n  \"api_option\": \"Auto\"\n}\n"
+      }
+    ],
+    "verified": true
   },
   {
     "id": "megaman64recompiled",
@@ -3220,10 +3760,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "megaman.n64.us.1.0.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -3232,8 +3772,32 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "f24fe0aff01aec018e2dd558ec4f076cf328129f",
+        "sizeBytes": 33554432
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "defaultFiles": [
+      {
+        "path": "graphics.json",
+        "content": "{\n  \"wm_option\": \"Fullscreen\",\n  \"res_option\": \"Auto\",\n  \"ar_option\": \"Expand\",\n  \"rr_option\": \"Display\",\n  \"msaa_option\": \"MSAA4X\",\n  \"hpfb_option\": \"Auto\",\n  \"api_option\": \"Auto\"\n}\n"
+      }
+    ],
+    "verified": true
   },
   {
     "id": "mergeship",
@@ -3520,10 +4084,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "papermario.n64.us.1.0.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -3532,8 +4096,26 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "3837f44cda784b466c9a2d99df70d77c322b97a0",
+        "sizeBytes": 41943040
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   },
   {
     "id": "paperboat",
@@ -3616,10 +4198,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "trw.n64.us.1.0.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -3628,8 +4210,32 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "037fb397cee2669048ed6b762a64698de4a4d88a",
+        "sizeBytes": 8388608
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "defaultFiles": [
+      {
+        "path": "graphics.json",
+        "content": "{\n  \"wm_option\": \"Fullscreen\",\n  \"res_option\": \"Auto\",\n  \"ar_option\": \"Expand\",\n  \"rr_option\": \"Display\",\n  \"msaa_option\": \"MSAA4X\",\n  \"hpfb_option\": \"Auto\",\n  \"api_option\": \"Auto\"\n}\n"
+      }
+    ],
+    "verified": true
   },
   {
     "id": "pd-friends-of-joanna",
@@ -3885,10 +4491,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "bm64u2_us.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -3897,8 +4503,26 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "66b1fd763793ecc6e03aa6c5d023df8de5351b9e",
+        "sizeBytes": 16777216
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   },
   {
     "id": "power-dozer",
@@ -3989,10 +4613,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "quest64_us.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -4001,8 +4625,32 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "91b96e938c6d91699057fad91d726ee5a23ce33a",
+        "sizeBytes": 16777216
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "defaultFiles": [
+      {
+        "path": "graphics.json",
+        "content": "{\n  \"wm_option\": \"Fullscreen\",\n  \"res_option\": \"Auto\",\n  \"ar_option\": \"Expand\",\n  \"rr_option\": \"Display\",\n  \"msaa_option\": \"MSAA4X\",\n  \"hpfb_option\": \"Auto\",\n  \"api_option\": \"Auto\"\n}\n"
+      }
+    ],
+    "verified": true
   },
   {
     "id": "quest64tale-recompiled",
@@ -4021,10 +4669,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "quest64_us.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -4033,8 +4681,32 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "91b96e938c6d91699057fad91d726ee5a23ce33a",
+        "sizeBytes": 16777216
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "defaultFiles": [
+      {
+        "path": "graphics.json",
+        "content": "{\n  \"wm_option\": \"Fullscreen\",\n  \"res_option\": \"Auto\",\n  \"ar_option\": \"Expand\",\n  \"rr_option\": \"Display\",\n  \"msaa_option\": \"MSAA4X\",\n  \"hpfb_option\": \"Auto\",\n  \"api_option\": \"Auto\"\n}\n"
+      }
+    ],
+    "verified": true
   },
   {
     "id": "racewave46",
@@ -4117,10 +4789,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "rayman2.n64.us.1.0.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -4129,8 +4801,26 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "50558356b059ad3fbaf5fe95380512b9dceaaf52",
+        "sizeBytes": 33554432
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   },
   {
     "id": "rgo-recomp",
@@ -4291,10 +4981,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "swrs.n64.us.1.1.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -4303,8 +4993,32 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "c12e1c6fb47a67da463c50b705ec682ec24ae80d",
+        "sizeBytes": 16777216
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "defaultFiles": [
+      {
+        "path": "graphics.json",
+        "content": "{\n  \"wm_option\": \"Fullscreen\",\n  \"res_option\": \"Auto\",\n  \"ar_option\": \"Expand\",\n  \"rr_option\": \"Display\",\n  \"msaa_option\": \"MSAA4X\",\n  \"hpfb_option\": \"Auto\",\n  \"api_option\": \"Auto\"\n}\n"
+      }
+    ],
+    "verified": true
   },
   {
     "id": "rush-2049-recomp",
@@ -4394,10 +5108,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "sssv.n64.us.1.0.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -4406,8 +5120,32 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "c968bba6a90db9ecbd957e910684a80726b0497d",
+        "sizeBytes": 8388608
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "defaultFiles": [
+      {
+        "path": "graphics.json",
+        "content": "{\n  \"wm_option\": \"Fullscreen\",\n  \"res_option\": \"Auto\",\n  \"ar_option\": \"Expand\",\n  \"rr_option\": \"Display\",\n  \"msaa_option\": \"MSAA4X\",\n  \"hpfb_option\": \"Auto\",\n  \"api_option\": \"Auto\"\n}\n"
+      }
+    ],
+    "verified": true
   },
   {
     "id": "sightline",
@@ -4501,10 +5239,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "snowboardkids.n64.us.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -4513,8 +5251,26 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "1583bacc9046a360df8ea4d536942155247e154c",
+        "sizeBytes": 8388608
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   },
   {
     "id": "snowboardkids-recompiled",
@@ -4572,10 +5328,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "snowboardkids2.n64.us.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -4584,8 +5340,26 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "5ce896fd64276948bc2b8cccd8cd51c25a9f32aa",
+        "sizeBytes": 16777216
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   },
   {
     "id": "snprecomp",
@@ -4848,10 +5622,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "sm64.n64.us.1.0.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -4860,8 +5634,26 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "9bef1128717f958171a4afac3ed78ee2bb4e86ce",
+        "sizeBytes": 8388608
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   },
   {
     "id": "super-smash-bros-recomp",
@@ -4880,10 +5672,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "smashbrothers.n64.us.1.0.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -4892,8 +5684,26 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "e2929e10fccc0aa84e5776227e798abc07cedabf",
+        "sizeBytes": 16777216
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   },
   {
     "id": "thps1-64recomp",
@@ -5019,10 +5829,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "bt.n64.us.1.0.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -5031,8 +5841,32 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "af1a89e12b638b8d82cc4c085c8e01d4cba03fb3",
+        "sizeBytes": 33554432
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "defaultFiles": [
+      {
+        "path": "graphics.json",
+        "content": "{\n  \"wm_option\": \"Fullscreen\",\n  \"res_option\": \"Auto\",\n  \"ar_option\": \"Expand\",\n  \"rr_option\": \"Display\",\n  \"msaa_option\": \"MSAA4X\",\n  \"hpfb_option\": \"Auto\",\n  \"api_option\": \"Auto\"\n}\n"
+      }
+    ],
+    "verified": true
   },
   {
     "id": "top-gear-overdrive-n64-native-pc-port",
@@ -5156,10 +5990,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "turok3.n64.us.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -5168,8 +6002,26 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "a2e0a28dc0d3a48c7c02cb9e4c4b38fe04b2d436",
+        "sizeBytes": 33554432
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   },
   {
     "id": "turok-recomp",
@@ -5367,10 +6219,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "wcw.nwo.revenge.us.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -5379,8 +6231,26 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "e1711a2511394b9357b5f1ac8ca5cc17bd674836",
+        "sizeBytes": 16777216
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   },
   {
     "id": "wcwvsnwoworldtourrecomp",
@@ -5646,10 +6516,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "wwf.nomercy.us.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -5658,8 +6528,26 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "91cee3d096f4a76644d8b35b9aead6448909abd1",
+        "sizeBytes": 33554432
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   },
   {
     "id": "wwfwrestlemania2000recomp",
@@ -5682,10 +6570,10 @@
     "colors": [],
     "install": "download",
     "recipe": "",
-    "romFile": "",
+    "romFile": "wwf.wm2k.us.z64",
     "executable": "",
-    "saves": "",
-    "modsFolder": "",
+    "saves": "saves",
+    "modsFolder": "mods",
     "releases": [],
     "assets": [
       {
@@ -5694,7 +6582,25 @@
         "arch": "x64"
       }
     ],
-    "roms": [],
-    "mods": []
+    "roms": [
+      {
+        "label": "US",
+        "sha1": "442d417a52ed672ca1a47e7261a5414debb1e27a",
+        "sizeBytes": 33554432
+      }
+    ],
+    "mods": [],
+    "portableFile": "portable.txt",
+    "modOrderFile": "mods.json",
+    "keep": [
+      "general.json",
+      "graphics.json",
+      "controls.json",
+      "sound.json",
+      "mods.json",
+      "mod_config",
+      "mod_data"
+    ],
+    "verified": true
   }
 ]
