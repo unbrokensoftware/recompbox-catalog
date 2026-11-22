@@ -100,7 +100,15 @@
       }
     ],
     "roms": [],
-    "mods": []
+    "mods": [],
+    "sourceTypes": [
+      ".cue"
+    ],
+    "launchArgs": [
+      "--disc",
+      "{source}"
+    ],
+    "verified": true
   },
   {
     "id": "fighting-vipers-recomp",
@@ -134,7 +142,15 @@
       }
     ],
     "roms": [],
-    "mods": []
+    "mods": [],
+    "sourceTypes": [
+      ".cue"
+    ],
+    "launchArgs": [
+      "--disc",
+      "{source}"
+    ],
+    "verified": true
   },
   {
     "id": "guardian-heroes-hd-remaster",
@@ -166,7 +182,15 @@
       }
     ],
     "roms": [],
-    "mods": []
+    "mods": [],
+    "sourceTypes": [
+      ".cue"
+    ],
+    "launchArgs": [
+      "--disc",
+      "{source}"
+    ],
+    "verified": true
   },
   {
     "id": "hyper-duel-recomp",

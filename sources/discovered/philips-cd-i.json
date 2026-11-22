@@ -61,7 +61,14 @@
       }
     ],
     "roms": [],
-    "mods": []
+    "mods": [],
+    "sourceTypes": [
+      ".cue"
+    ],
+    "launchArgs": [
+      "{source}"
+    ],
+    "verified": true
   },
   {
     "id": "hotelmario-decomp",

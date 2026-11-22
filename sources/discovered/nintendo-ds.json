@@ -160,7 +160,14 @@
       }
     ],
     "roms": [],
-    "mods": []
+    "mods": [],
+    "sourceTypes": [
+      ".nds"
+    ],
+    "launchArgs": [
+      "{source}"
+    ],
+    "verified": true
   },
   {
     "id": "dragon-quest-ix-modern",
@@ -668,7 +675,14 @@
       }
     ],
     "roms": [],
-    "mods": []
+    "mods": [],
+    "sourceTypes": [
+      ".nds"
+    ],
+    "launchArgs": [
+      "{source}"
+    ],
+    "verified": true
   },
   {
     "id": "newm-ds-recomp",

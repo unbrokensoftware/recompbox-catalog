@@ -584,7 +584,7 @@
     "install": "download",
     "recipe": "",
     "romFile": "",
-    "executable": "",
+    "executable": "build-release/Ape_Escape_Recompiled.exe",
     "saves": "",
     "modsFolder": "",
     "releases": [],
@@ -596,7 +596,84 @@
       }
     ],
     "roms": [],
-    "mods": []
+    "mods": [],
+    "sourceTypes": [
+      ".chd",
+      ".cue"
+    ],
+    "keepSourceCopy": true,
+    "bios": [
+      {
+        "label": "SCPH-1001 (USA)",
+        "sha256": "71af94d1e47a68c11e8fdb9f8368040601514a42a5a399cda48c7d3bff1e99d3",
+        "sizeBytes": 524288,
+        "file": "bios/SCPH1001.BIN"
+      },
+      {
+        "label": "SCPH-5500 (Japan)",
+        "sha256": "9c0421858e217805f4abe18698afea8d5aa36ff0727eb8484944e00eb5e7eadb",
+        "sizeBytes": 524288,
+        "file": "bios/SCPH5500.BIN"
+      },
+      {
+        "label": "SCPH-5501 (USA)",
+        "sha256": "11052b6499e466bbf0a709b1f9cb6834a9418e66680387912451e971cf8a1fef",
+        "sizeBytes": 524288,
+        "file": "bios/SCPH5501.BIN"
+      },
+      {
+        "label": "SCPH-5552 (Europe)",
+        "sha256": "1faaa18fa820a0225e488d9f086296b8e6c46df739666093987ff7d8fd352c09",
+        "sizeBytes": 524288,
+        "file": "bios/SCPH5552.BIN"
+      },
+      {
+        "label": "SCPH-7000 (Japan)",
+        "sha256": "e900504d1755f021f861b82c8258c5e6658c7b592f800cccd91f5d32ea380d28",
+        "sizeBytes": 524288,
+        "file": "bios/SCPH7000.BIN"
+      }
+    ],
+    "tools": [
+      {
+        "id": "retroporting-cmake-clang",
+        "name": "RetroPorting compiler pack 1.0.14",
+        "url": "https://github.com/RetroPortingToolKit/RetroPorting-Toolchains/releases/download/v1.0.14/cmake-clang-v1-windows-x64.zip",
+        "sha256": "28da9742385e7ff875b3d9311e8ed89dbdc84f27b6ecba2bc0d0acc11f6d2b4d",
+        "sizeBytes": 209497009
+      }
+    ],
+    "defaultFiles": [
+      {
+        "path": "recompbox-setup.cmd",
+        "content": "@echo off\nrem RecompBox: build a psxrecomp game from the player's disc and BIOS without its setup wizard, then point the game at them.\nrem   %1 disc copy in the install (disc\\...)   %2 BIOS in the install (bios\\<STEM>.BIN)   %3 compiler pack\nrem   %4 generated marker file   %5 game exe name   %6 build folder\nrem The pack's env.bat has Unix line endings, which cmd misreads, so its settings are made here.\nsetlocal\nset \"PACK_ROOT=%~3\"\nset \"PATH=%PACK_ROOT%\\bin;%PACK_ROOT%\\python;%PATH%\"\nset \"CC=%PACK_ROOT%\\bin\\clang.exe\"\nset \"CXX=%PACK_ROOT%\\bin\\clang++.exe\"\nset \"AR=%PACK_ROOT%\\bin\\llvm-ar.exe\"\nset \"RANLIB=%PACK_ROOT%\\bin\\llvm-ranlib.exe\"\nset \"RETCOMM_TOOLCHAIN_DIR=%PACK_ROOT%\"\nset \"RETCOMM_PYTHON=%PACK_ROOT%\\python\\python.exe\"\nset \"PYTHONHOME=\"\nset \"PYTHONPATH=\"\nset \"PYTHONNOUSERSITE=1\"\nif exist \"%PACK_ROOT%\\deps\\include\\zlib.h\" set \"ZLIB_ROOT=%PACK_ROOT%\\deps\"\nif exist \"%PACK_ROOT%\\deps\\lib\\cmake\\SDL3\\SDL3Config.cmake\" set \"SDL3_DIR=%PACK_ROOT%\\deps\\lib\\cmake\\SDL3\"\nif exist \"%PACK_ROOT%\\deps\\lib\\cmake\\SDL3\\SDL3-config.cmake\" set \"SDL3_DIR=%PACK_ROOT%\\deps\\lib\\cmake\\SDL3\"\ncd /d \"%~dp0\"\n\"%RETCOMM_PYTHON%\" psxrecomp\\psxrecomp_cli.py generate --project-root \"%~dp0.\" --config game.toml --disc \"%~1\" --bios \"%~2\" --bios-stem \"%~n2\" --gen-marker \"%~4\" --json-progress || exit /b 11\n\"%RETCOMM_PYTHON%\" psxrecomp\\psxrecomp_cli.py rebuild --project-root \"%~dp0.\" --config game.toml --build-dir \"%~dp0%~6\" --target psx-runtime --exe-basename \"%~5\" --no-pgo --prune-after build-intermediates || exit /b 12\nif not exist \"%~dp0%~6\\%~5.exe\" exit /b 13\nrem The game reads its disc and BIOS from files beside it; paths relative to the game folder survive the install being moved.\nset \"DISC_REL=../disc/%~nx1\"\nset \"BIOS_REL=../bios/%~nx2\"\n> \"%~dp0%~6\\disc.cfg\" echo %DISC_REL%\n> \"%~dp0%~6\\bios.cfg\" echo %BIOS_REL%\n> \"%~dp0%~6\\settings.toml\" (\n  echo [bios]\n  echo path = \"%BIOS_REL%\"\n  echo.\n  echo [disc]\n  echo path = \"%DISC_REL%\"\n  echo.\n  echo [launcher]\n  echo skip_launcher = true\n)\nexit /b 0\n"
+      }
+    ],
+    "setup": {
+      "run": "recompbox-setup.cmd",
+      "args": [
+        "{source}",
+        "{bios}",
+        "{tool:retroporting-cmake-clang}",
+        "SCUS_944.23_dispatch.c",
+        "Ape_Escape_Recompiled",
+        "build-release"
+      ],
+      "creates": "build-release/Ape_Escape_Recompiled.exe"
+    },
+    "launchArgs": [
+      "--no-launcher",
+      "--bios",
+      "{bios}"
+    ],
+    "keep": [
+      "build-release/memcards",
+      "build-release/saves",
+      "build-release/settings.toml",
+      "build-release/input.ini",
+      "build-release/keybinds.ini"
+    ],
+    "verified": true
   },
   {
     "id": "apeescaperecomp",
@@ -2960,7 +3037,7 @@
     "install": "download",
     "recipe": "",
     "romFile": "",
-    "executable": "",
+    "executable": "current/DisruptorRecompiled.exe",
     "saves": "",
     "modsFolder": "",
     "releases": [],
@@ -2972,7 +3049,15 @@
       }
     ],
     "roms": [],
-    "mods": []
+    "mods": [],
+    "sourceTypes": [
+      ".chd"
+    ],
+    "launchArgs": [
+      "--disc",
+      "{source}"
+    ],
+    "verified": true
   },
   {
     "id": "dmon-1-bevy-public-v1",
@@ -7088,7 +7173,15 @@
       }
     ],
     "roms": [],
-    "mods": []
+    "mods": [],
+    "sourceTypes": [
+      ".chd"
+    ],
+    "launchArgs": [
+      "--disc",
+      "{source}"
+    ],
+    "verified": true
   },
   {
     "id": "parasite-eve-pc",
@@ -7498,7 +7591,15 @@
       }
     ],
     "roms": [],
-    "mods": []
+    "mods": [],
+    "sourceTypes": [
+      ".chd"
+    ],
+    "launchArgs": [
+      "--disc",
+      "{source}"
+    ],
+    "verified": true
   },
   {
     "id": "psx-crash-bash",
@@ -8461,7 +8562,14 @@
       }
     ],
     "roms": [],
-    "mods": []
+    "mods": [],
+    "sourceTypes": [
+      ".chd"
+    ],
+    "launchArgs": [
+      "{source}"
+    ],
+    "verified": true
   },
   {
     "id": "revprecompile",
@@ -9224,7 +9332,7 @@
     "install": "download",
     "recipe": "",
     "romFile": "",
-    "executable": "",
+    "executable": "game/SimpsonsWrestling_Recompiled.exe",
     "saves": "",
     "modsFolder": "",
     "releases": [],
@@ -9236,7 +9344,15 @@
       }
     ],
     "roms": [],
-    "mods": []
+    "mods": [],
+    "sourceTypes": [
+      ".chd"
+    ],
+    "launchArgs": [
+      "--disc",
+      "{source}"
+    ],
+    "verified": true
   },
   {
     "id": "sledstormpsxrecomp",
@@ -11244,7 +11360,7 @@
     "install": "download",
     "recipe": "",
     "romFile": "",
-    "executable": "",
+    "executable": "overlay_toolchain/gcc/libexec/gcc/x86_64-w64-mingw32/16.2.0/cc1.exe",
     "saves": "",
     "modsFolder": "",
     "releases": [],
@@ -11256,7 +11372,14 @@
       }
     ],
     "roms": [],
-    "mods": []
+    "mods": [],
+    "sourceTypes": [
+      ".chd"
+    ],
+    "launchArgs": [
+      "{source}"
+    ],
+    "verified": true
   },
   {
     "id": "valkyrie-profile-recomp",

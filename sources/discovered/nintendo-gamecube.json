@@ -495,7 +495,15 @@
       }
     ],
     "roms": [],
-    "mods": []
+    "mods": [],
+    "sourceTypes": [
+      ".rvz"
+    ],
+    "launchArgs": [
+      "--iso",
+      "{source}"
+    ],
+    "verified": true
   },
   {
     "id": "hmmmgc",
@@ -836,7 +844,15 @@
       }
     ],
     "roms": [],
-    "mods": []
+    "mods": [],
+    "sourceTypes": [
+      ".rvz"
+    ],
+    "launchArgs": [
+      "--iso",
+      "{source}"
+    ],
+    "verified": true
   },
   {
     "id": "metal-arms-recompiled",

@@ -2163,7 +2163,14 @@
       }
     ],
     "roms": [],
-    "mods": []
+    "mods": [],
+    "sourceTypes": [
+      ".iso"
+    ],
+    "launchArgs": [
+      "{source}"
+    ],
+    "verified": true
   },
   {
     "id": "miopan",

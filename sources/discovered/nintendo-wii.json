@@ -1498,7 +1498,14 @@
       }
     ],
     "roms": [],
-    "mods": []
+    "mods": [],
+    "sourceTypes": [
+      ".rvz"
+    ],
+    "launchArgs": [
+      "{source}"
+    ],
+    "verified": true
   },
   {
     "id": "tanksrebirth",
@@ -1651,7 +1658,7 @@
     "install": "download",
     "recipe": "",
     "romFile": "",
-    "executable": "",
+    "executable": "tools/mingw/MinGW/libexec/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe",
     "saves": "",
     "modsFolder": "",
     "releases": [],
@@ -1663,7 +1670,14 @@
       }
     ],
     "roms": [],
-    "mods": []
+    "mods": [],
+    "sourceTypes": [
+      ".rvz"
+    ],
+    "launchArgs": [
+      "{source}"
+    ],
+    "verified": true
   },
   {
     "id": "wondersbeyondrecomp",

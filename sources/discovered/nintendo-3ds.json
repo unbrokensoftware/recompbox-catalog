@@ -666,7 +666,7 @@
     "install": "download",
     "recipe": "",
     "romFile": "",
-    "executable": "",
+    "executable": "kit/gcc/libexec/gcc/x86_64-w64-mingw32/16.2.0/cc1.exe",
     "saves": "",
     "modsFolder": "",
     "releases": [],
@@ -678,6 +678,13 @@
       }
     ],
     "roms": [],
-    "mods": []
+    "mods": [],
+    "sourceTypes": [
+      ".cci"
+    ],
+    "launchArgs": [
+      "{source}"
+    ],
+    "verified": true
   }
 ]
