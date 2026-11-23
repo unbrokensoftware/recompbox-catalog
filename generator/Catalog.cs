@@ -58,6 +58,8 @@ internal sealed record CatalogPort
     public IReadOnlyList<string> SourceTypes { get; init; } = [];
     public IReadOnlyList<string> LaunchArgs { get; init; } = [];
     [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingDefault)] public string SourceFile { get; init; } = "";
+    [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingDefault)] public bool KeepSourceCopy { get; init; }
+    public IReadOnlyList<CatalogTool> Tools { get; init; } = [];
     public IReadOnlyList<CatalogBios> Bios { get; init; } = [];
     public IReadOnlyList<CatalogMod> Mods { get; init; } = [];
 
@@ -183,4 +185,13 @@ internal sealed record CatalogBios
     public string Md5 { get; init; } = "";
     public long SizeBytes { get; init; }
     public string File { get; init; } = "";
+}
+
+internal sealed record CatalogTool
+{
+    public string Id { get; init; } = "";
+    public string Name { get; init; } = "";
+    public string Url { get; init; } = "";
+    public string Sha256 { get; init; } = "";
+    public long SizeBytes { get; init; }
 }
