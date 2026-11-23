@@ -34,6 +34,40 @@
     "mods": []
   },
   {
+    "id": "albw-native",
+    "name": "Albw Native",
+    "game": "The Legend of Zelda: A Link Between Worlds",
+    "shortName": "The Legend of Zelda: A Link Between Worlds",
+    "platform": "Nintendo 3DS",
+    "aliases": [
+      "The Legend of Zelda: A Link Between Worlds (albw-native)"
+    ],
+    "developer": "spacestate1",
+    "kind": "port",
+    "description": "The Legend of Zelda: A Link Between Worlds ported to run natively on PC from the 3DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/spacestate1/albw-native",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ALBW-windows-*-experimental.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "angrybirdsrecomp",
     "name": "Angry Birds Trilogy Recompiled",
     "game": "Angry Birds Trilogy",
@@ -504,6 +538,38 @@
     "assets": [
       {
         "pattern": "PokemonX-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "supersmashbros3dsrecomp",
+    "name": "Super Smash Bros. 3DS Recompiled",
+    "game": "Super Smash Bros. for Nintendo 3DS",
+    "shortName": "Super Smash Bros. for Nintendo 3DS",
+    "platform": "Nintendo 3DS",
+    "aliases": [],
+    "developer": "nvd123-YT",
+    "kind": "port",
+    "description": "Super Smash Bros. for Nintendo 3DS ported to run natively on PC from the 3DS version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/nvd123-YT/SuperSmashBros3DSRECOMP",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "smash-3ds-windows-x86_64.zip",
         "os": "windows",
         "arch": "x64"
       }

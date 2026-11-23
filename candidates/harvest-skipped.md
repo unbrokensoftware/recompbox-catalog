@@ -9,13 +9,14 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - 2whitelol/project-plumb-vr: no Windows .zip or .7z release
 - 360recomper/SVR07-Recomp: duplicate: fork of HollywoodAkeem/SVR07-Recomp
 - 3dge7161/Jiggle-or-Physics: no Windows .zip or .7z release
-- 5C8/sk83_na_m: duplicate: same download as 5C8/skate3recomp
 - 96dot/DAORecomp: no Windows .zip or .7z release
 - 96dot/Dragon-Age-Origins-Recomp: no Windows .zip or .7z release
 - 999sian/tmc: no Windows .zip or .7z release
 - aabrole/HuntersRecomp: no Windows .zip or .7z release
 - abdullah-tech7/UFC4-Native-Plus: duplicate: fork of schans-arg/UFC4-PC-Port
+- ablindingnight/nice-crash: no Windows .zip or .7z release
 - Adeelshah001/DWG2Recomp: no Windows .zip or .7z release
+- ADHD-TISM/Dave-Mirra-2-Recomp: no Windows .zip or .7z release
 - ADHD-TISM/Dave-Mirra-Recomp: no Windows .zip or .7z release
 - adi0900/GreenKid-MV: no Windows .zip or .7z release
 - Adoregabriel2005/Cebola-RECOMPILED: repository not found
@@ -23,6 +24,7 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - Adoregabriel2005/mushroomrecompiled: repository not found
 - Adoregabriel2005/rose-recompiled: repository not found
 - AdventureT/OpenToshi: no Windows .zip or .7z release
+- afkarxyz/PistonPort: duplicate: fork of FelipePrado0/SpartanPort
 - AgitationSkeleton/boat_of_daphnes: duplicate: fork of chrissotraidis/bluewake
 - agray0425/Mother3Recomp: no Windows .zip or .7z release
 - aharonahdoot/StrikersRecomp: no Windows .zip or .7z release
@@ -40,6 +42,7 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - alexkypraiou/smg2-reverse-engineering: no Windows .zip or .7z release
 - aliveoutside/infamous-second-son-linux: no Windows .zip or .7z release
 - almost-drowned-rat/Orta-Recompiled-Android: no Windows .zip or .7z release
+- almost-drowned-rat/ZoneOfTheEnders-Recompiled: no Windows .zip or .7z release
 - alphanu1/daytona-arcade-recomp: no Windows .zip or .7z release
 - alphanu1/msg-twinsnakes-recomp: no Windows .zip or .7z release
 - AlvaroEPena/bo2-360-nx: no Windows .zip or .7z release
@@ -72,6 +75,7 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - artesanalintelligence/PLARecomp: no Windows .zip or .7z release
 - aschaeffer9/greenscreen-89: no Windows .zip or .7z release
 - Ash01Live/Battlefield-2-Modern-Combat-Recomp: no Windows .zip or .7z release
+- Atlantean98/Alien-Trilogy-Remastered: no Windows .zip or .7z release
 - Aulcreen/TenchuZ-Xbox-Recomp: no Windows .zip or .7z release
 - AurelioB/BanjoRecomp-Android: no Windows .zip or .7z release
 - AurelioB/totk-android: no Windows .zip or .7z release
@@ -82,16 +86,17 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - B1gGiantB8by/Bickle-KickleCubicleNES: repository not found
 - badcompany94-rcmp/project-tandem: repository not found
 - banner88/dwm1_disassembly: no Windows .zip or .7z release
-- bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port: duplicate: same download as Supermedo/uncharted_pc
 - BeemerCodes/MidnightclubLA-Recomp: no Windows .zip or .7z release
 - BelmanteGu/UltraStreetFighterIVRecomp: repository not found
 - Bentley734/DinoTale-Ultrawide: duplicate: fork of wootbeer/dinotale
 - BevelTipDrip/medievil_2019_pc_port: duplicate: fork of bc160201983/medievil_2019_pc_port
 - BeyondTomrrow/2K5Remade: no Windows .zip or .7z release
+- bhuaysan/bloodborne-linux: no Windows .zip or .7z release
 - bifftannen1/Dead-Space-2-Recomp: no Windows .zip or .7z release
 - bighead.0/ladxhd_updated: repository not found
 - BigSnek9/ShadowRecomp: repository not found
 - billfoldes/nightfire-online: no Windows .zip or .7z release
+- BittahBandit1/Magatama: no Windows .zip or .7z release
 - BittahBandit1/ReFare: no Windows .zip or .7z release
 - BlackAndBlue95/Strikers-WiiCompiled: no Windows .zip or .7z release
 - BlackLineInteractive/Driveclub-Port: no Windows .zip or .7z release
@@ -122,6 +127,7 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - BTFighter/Super-Mario-World-Remastered-Plus: no Windows .zip or .7z release
 - Buku313/Skate3-Mobile: no Windows .zip or .7z release
 - C-GBL/P3FES-Decompilation: no Windows .zip or .7z release
+- CaiusCodes/MechAssault-Xbox-PC-Recomp: no Windows .zip or .7z release
 - CalenCyr/SlugfestRecompiled: no Windows .zip or .7z release
 - CameronRedmore/Crash-Team-Racing-Turbocharged: no Windows .zip or .7z release
 - camybiohazard/Project-Veronica: duplicate: fork of aikatore/recvx-enhanced-port
@@ -139,6 +145,7 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - cerroverb/espgaluda2-recomp: no Windows .zip or .7z release
 - cerroverb/futari-linux: no Windows .zip or .7z release
 - ChanseyIsTheBest/blur-nx: no Windows .zip or .7z release
+- ChanseyIsTheBest/culdcept-nx: no Windows .zip or .7z release
 - chaotix359/Super-Hang-On-Ultimate: no Windows .zip or .7z release
 - chasem-dev/colosseum-launcher: no Windows .zip or .7z release
 - chasem-dev/orre-launcher: no Windows .zip or .7z release
@@ -164,6 +171,7 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - codepdbh/re3-android-port-evolved: no Windows .zip or .7z release
 - codepdbh/revc-android-port-evolved: no Windows .zip or .7z release
 - codepdbh/the-simpsons-game-android: no Windows .zip or .7z release
+- Cogential/digimon-world-android: no Windows .zip or .7z release
 - comoria08/defjam_recomp: no Windows .zip or .7z release
 - contactvirgilio/TetroidDX: no Windows .zip or .7z release
 - contatg/Def-Jam-Android-Native-Port: no Windows .zip or .7z release
@@ -227,6 +235,7 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - Dittobyte/Triggered-Chrono-RecompHD2D: no Windows .zip or .7z release
 - djsaunde/glover-decomp-1: no Windows .zip or .7z release
 - DogeXH/ACE6-Recomp-Linux-Binaries: no Windows .zip or .7z release
+- Dokken1337/NightfireXboxPCVersion: no Windows .zip or .7z release
 - doldecomp/brawl: no Windows .zip or .7z release
 - Dooder64/wave-race-64-vr: duplicate: fork of elliotttate/wave-race-64-recomp
 - Doridian/BlastCorps: no Windows .zip or .7z release
@@ -238,6 +247,7 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - DragonautMk/FFTA-DE-ReBuild: duplicate: fork of Jorge262007/FFTARecomp
 - drDOOM69GAMING/WWF-No-Mercy-Recompiled-Linux-: no Windows .zip or .7z release
 - DrummingBird1/sonic06-recomp: no Windows .zip or .7z release
+- DuckyNerdball/Mercenaries-Recompiled: duplicate: fork of KraftMacAndChee/Mercenaries-Recompiled
 - ducvd89/Bloodborne-Android: duplicate: fork of deadinside28/bloodborne_pc
 - Dvrkie13/SparkPark: duplicate: fork of MildRain479/PokePark-Wiicompiled
 - Dyotson/ForzaHorizon1-ReImagined: no Windows .zip or .7z release
@@ -245,16 +255,19 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - dzakyraf/pes2017-recomp: no Windows .zip or .7z release
 - eboody/Castlevania-ReVamped-Open-Source-Edition: no Windows .zip or .7z release
 - EddieVanHelgen/PerfectDarkZeroRestored: no Windows .zip or .7z release
+- EddyGameDev/bioshock1-native-recomp: no Windows .zip or .7z release
 - EddyKine/yoshi-island-macos: no Windows .zip or .7z release
 - edeegg/Legends-Recomp: no Windows .zip or .7z release
 - edeegg/origins-recomp: no Windows .zip or .7z release
+- edeegg/Sparta-Recomp: no Windows .zip or .7z release
 - Edwin2929/sma3-recomp-android..git: repository not found
 - Ekspym/Tekken6-native-online: no Windows .zip or .7z release
+- eldandelion/arkos-sms: no Windows .zip or .7z release
 - elliotttate/DKC2Recomp: duplicate: fork of mstan/DKC2Recomp
 - elliotttate/wave-race-64-recomp: duplicate: fork of danielgomesvieira2000/wave-race-64-recomp
 - elprogramadorloco-arch/agvg2-recomp: no Windows .zip or .7z release
 - elprogramadorloco-arch/asuka100-recomp: no Windows .zip or .7z release
-- elprogramadorloco-arch/fuc-recomp: no Windows .zip or .7z release
+- elprogramadorloco-arch/fuc-recomp: repository not found
 - elprogramadorloco-arch/korokoro-recomp: no Windows .zip or .7z release
 - emanuelcnjunior/TMNT-IV-Turtles-in-Time-PC-Recomp: no Windows .zip or .7z release
 - endercodezz/P3P3DS: no Windows .zip or .7z release
@@ -280,7 +293,6 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - fabioap-cpu/SoulBlade_Recomp: repository not found
 - fabioap-cpu/Tekken3Recomp: repository not found
 - fabioap-cpu/WWF-SmackDown-2-Recomp: no Windows .zip or .7z release
-- Fable2Recomp/Fable2Recomp: no Windows .zip or .7z release
 - Faderz48/40-Winks-PC-Port: no Windows .zip or .7z release
 - faligame/Parasite-Eve-2-HD-Remaster: no Windows .zip or .7z release
 - faligame/Parasite-Eve-HD-Remaster: no Windows .zip or .7z release
@@ -290,7 +302,7 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - FermataRest/Ninja-s-Dawn-A-Ninja-Gaiden-2-Recompilation-Project: no Windows .zip or .7z release
 - FH1-ReImagined/ForzaHorizon1-ReImagined: no Windows .zip or .7z release
 - ficed/Braver: no Windows .zip or .7z release
-- fidalgojoao/Uncharted-The-Nathan-Drake-Collection-PC-port: duplicate: same download as Supermedo/uncharted_pc
+- fidalgojoao/Uncharted-The-Nathan-Drake-Collection-PC-port: duplicate: same download as bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port
 - fist-in/POW-Recompiled: repository not found
 - fladnaG86/Driveclub-Port-AppleSilicon: no Windows .zip or .7z release
 - florinp93/xmd-recompiled: no Windows .zip or .7z release
@@ -323,7 +335,6 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - GhostDucky13/Speed-Force-Justice-League-Heroes-Windows-Recompilation: no Windows .zip or .7z release
 - giangra/stuntdouble-reignition: no Windows .zip or .7z release
 - gibranfelix/oot-vr: no Windows .zip or .7z release
-- God-Hand-Rearmed/God-Hand-Rearmed: no Windows .zip or .7z release
 - godspirit00/IronPhoenix_port: no Windows .zip or .7z release
 - gokmenceylann/OOT-REMAKE-AMD: no Windows .zip or .7z release
 - GoldieLeGenie/DQIV-Recompiled: no Windows .zip or .7z release
@@ -402,6 +413,7 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - JayElDragon/luigis-mansion-android: no Windows .zip or .7z release
 - JayElDragon/Paper-Boat-Android-Port: no Windows .zip or .7z release
 - jaylikesbunda/CrashoftheTitans-Wiicomp: no Windows .zip or .7z release
+- Jazzneo/Marvel-Ultimate-Alliance-3-recomp: no Windows .zip or .7z release
 - jbcgames/sms-android: no Windows .zip or .7z release
 - jbond2003/COD2-BRO-XBERecomp: no Windows .zip or .7z release
 - jcoker85/MC1Recomp: no Windows .zip or .7z release
@@ -431,7 +443,6 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - joseestebanmarinrincones-dot/oni2comp: no Windows .zip or .7z release
 - josiahg2502-glitch/OogiesRevengeRecompiled: repository not found
 - josuloku-new/Fenix-Reborn: no Windows .zip or .7z release
-- jp244btc/vs-smb-recomp: duplicate: same download as jsp244/vs-smb-recomp
 - Juanmote/master-of-darkness-recomp: no Windows .zip or .7z release
 - juans-collab/infamous-2-recomp: repository not found
 - Juansolo457/graw360-recomp: no Windows .zip or .7z release
@@ -446,7 +457,6 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - Katon17/nfsmw-linux: no Windows .zip or .7z release
 - KawaiiBunga/MKVDCU-Recomp: no Windows .zip or .7z release
 - kazuyette/rr-decomp: no Windows .zip or .7z release
-- kc-anderson/kamite: no Windows .zip or .7z release
 - keepvaibin/nebula: no Windows .zip or .7z release
 - Ken5998/fh1-reimagined-arm64: no Windows .zip or .7z release
 - Ken5998/fh2-recompiled-arm64: no Windows .zip or .7z release
@@ -464,6 +474,7 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - kilnan/ki-recomp: no Windows .zip or .7z release
 - kiMb4LL/mcla-macos: no Windows .zip or .7z release
 - kingzmanh/grabbed-by-the-ghoulies-pc: no Windows .zip or .7z release
+- kingzmanh/wildwaters-n64-pc-port: no Windows .zip or .7z release
 - kirakazeshin/DragonQuest8Recomp-3DS: no Windows .zip or .7z release
 - kirakira-dev/OunceNative: no Windows .zip or .7z release
 - kirby-letsgo/nightmare-creatures-decomp: no Windows .zip or .7z release
@@ -479,6 +490,7 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - kuosuko/tomodachi-native: no Windows .zip or .7z release
 - kvse/dsr-native: no Windows .zip or .7z release
 - kxrxh/lollipop-chainsaw-recomp: no Windows .zip or .7z release
+- kyokoxdev/mw2nx: no Windows .zip or .7z release
 - lakshya16157/midtown-madness-3-PC-Native: no Windows .zip or .7z release
 - LanceSweatpants/Strikers-Quest-MR: no Windows .zip or .7z release
 - Larbaco/oot-native-linux: no Windows .zip or .7z release
@@ -496,6 +508,7 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - LeoDeadware/HP2Deadware: no Windows .zip or .7z release
 - LeoDeadware/NFSU2Deadware: no Windows .zip or .7z release
 - LeoDeadware/ROTKDeadware: no Windows .zip or .7z release
+- leonzordhue/PokemonStadium2-3DS: no Windows .zip or .7z release
 - leoxcho/nicktoons-racing-recomp: no Windows .zip or .7z release
 - Leproide/MediEvilRecomp-ITA: duplicate: fork of BlackLabelHQ/MediEvilRecomp
 - Lightmaxifrvr/UnleashedRecomp-NX2: no Windows .zip or .7z release
@@ -551,6 +564,7 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - MatiasRiveraC/SSX-Tricky-PC: no Windows .zip or .7z release
 - Matt122Shenk/silent-hill-pc-enhanced: duplicate: fork of SlickAmogus/silent-hill-decomp
 - Matteo842/CrashBandicoot-Launcher: no Windows .zip or .7z release
+- MattSG/midtown-madness-3-recomp: no Windows .zip or .7z release
 - MattSG/mm3-recomp: no Windows .zip or .7z release
 - matty45/Crackdown2-Recomp: no Windows .zip or .7z release
 - maximqaxd/halflife_dc: no Windows .zip or .7z release
@@ -592,7 +606,6 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - NathanKneT/DuskOnVita: no Windows .zip or .7z release
 - nathsou/smb: no Windows .zip or .7z release
 - nautxx/drmario64_recomp_plus: no Windows .zip or .7z release
-- nawaf-al-hussain/Tenkaichi3Decomp: duplicate: same download as z3xox/Tenkaichi3Decomp
 - NebulaCoop/nebula-coop: no Windows .zip or .7z release
 - negroISO/doax3-fortune-pc: no Windows .zip or .7z release
 - negroISO/doax3-scarlet-pc: no Windows .zip or .7z release
@@ -607,7 +620,6 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - NJH-1001/RCRness: no Windows .zip or .7z release
 - nmqx/smo-recomp: no Windows .zip or .7z release
 - Noext/gta-sa-port: no Windows .zip or .7z release
-- Noext/mc-ps3-port: no Windows .zip or .7z release
 - NoRain211/doaxbv-re: no Windows .zip or .7z release
 - NotAn127/SM64-PC-Port-WebGL: no Windows .zip or .7z release
 - NotRexed/Hookshot: repository not found
@@ -648,8 +660,6 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - omegakatana92/Super-Dimension-Fortress-Macross-Scrambled-Valkyrie-Recomp: no Windows .zip or .7z release
 - omegakatana92/ZOE-Recompiled: no Windows .zip or .7z release
 - omenhachi/geometry-wars-2-pc-plus: duplicate: fork of saulob/geometry-wars-retro-evolved-2-recompiled
-- OMG-Guest/Halo-Mobile: duplicate: same download as OpenCommunityEdition/OpenCE
-- onerag90/fe3h-recomp: repository not found
 - oneup03/BanjoRecomp3D: duplicate: fork of BanjoRecomp/BanjoRecomp
 - oneup03/dino-recomp-3D: duplicate: fork of DinosaurPlanetRecomp/dino-recomp
 - oneup03/Donkey-Kong-64-3D: duplicate: fork of Rainchus/Donkey-Kong-64-Recompiled
@@ -658,6 +668,7 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - OPaiva-1721/naruto-storm-recomp: no Windows .zip or .7z release
 - OpenSmash-Ultimate/OpenSmash-Ultimate: no Windows .zip or .7z release
 - OpenSmash-Ultimate/WindowSmash: no Windows .zip or .7z release
+- or1000b/Rayman-Revolutionized: no Windows .zip or .7z release
 - OriginalSwayze/crusader-of-centy-recomp: no Windows .zip or .7z release
 - OriginalSwayze/greendog-recomp: no Windows .zip or .7z release
 - OriginalSwayze/Streets-of-Rage-Collection-Recomp: no Windows .zip or .7z release
@@ -678,6 +689,7 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - patchzyy/Wiicompiled: no Windows .zip or .7z release
 - paulogaab21/ufc3recomp: repository not found
 - paviv14/TraumaTeam-Resuscitated: no Windows .zip or .7z release
+- penettrator/prototype2-nx: no Windows .zip or .7z release
 - Petexy/Tekken-Tag-2-Ultimate-Edition: no Windows .zip or .7z release
 - pettersdark/SymphonyRecomp-DUAL: no Windows .zip or .7z release
 - pettersdark/SymphonyRecomp-Ultimate: no Windows .zip or .7z release
@@ -705,6 +717,7 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - RAC-Native/rac1-native-game: no Windows .zip or .7z release
 - RaccoonRecomp/ResidentEvilOutbreakRecompiled: no Windows .zip or .7z release
 - RaddSpencer/BioNick2: no Windows .zip or .7z release
+- rafael-fj/mtf-recompiled: no Windows .zip or .7z release
 - rafidwayne/speedbreaker-windows-unofficial: no Windows .zip or .7z release
 - Raftacon/sierra-romeo-ao2-pc-port: no Windows .zip or .7z release
 - Raihwy3/Conker3DSRecomp: no Windows .zip or .7z release
@@ -764,6 +777,7 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - SansNope/MarathonRecomp-Android: no Windows .zip or .7z release
 - SansNope/UnleashedRecomp-Android: no Windows .zip or .7z release
 - santiagovalencia109/Wario-Land-Shake-It-Native-PC: no Windows .zip or .7z release
+- sanyokkua/hp1-xbox-port: no Windows .zip or .7z release
 - sanyokkua/nfsu2-xbox-port: no Windows .zip or .7z release
 - sargeeva/rumble-recomp: no Windows .zip or .7z release
 - SAT-R/sa2: no Windows .zip or .7z release
@@ -781,6 +795,7 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - sethlikepie/Gow2HD-Windows: no Windows .zip or .7z release
 - SeveerJ/Ghoulies_PC_Recomp: no Windows .zip or .7z release
 - SeveerJ/Orta_PC_Recomp: no Windows .zip or .7z release
+- SeveerJ/tnt64-recomp: no Windows .zip or .7z release
 - shana2203/Mobius01: no Windows .zip or .7z release
 - ShayVD/spyro-vita: no Windows .zip or .7z release
 - shehab4546/RatchetPort: duplicate: fork of FelipePrado0/SpartanPort
@@ -832,6 +847,7 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - sp00nznet/saintsrow: no Windows .zip or .7z release
 - sp00nznet/simpsonsarcade-ps3: no Windows .zip or .7z release
 - sp00nznet/simpsonsarcade: no Windows .zip or .7z release
+- sp00nznet/stuntrace: no Windows .zip or .7z release
 - sp00nznet/vig8: no Windows .zip or .7z release
 - sp00nznet/ww: no Windows .zip or .7z release
 - SpeedyJustice2/Ridge-Racer-PSP-Static-Recomp: no Windows .zip or .7z release
@@ -865,7 +881,6 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - sweatyeggs69/SuperSaga: no Windows .zip or .7z release
 - sweeax-exe/ffny-online: no Windows .zip or .7z release
 - T5eng/nxnative_totk: no Windows .zip or .7z release
-- tabnul/the-last-guardian-definitive: duplicate: same download as HayatoG/tlg_pc
 - tangerineturtle1/NX2navi: no Windows .zip or .7z release
 - tangosdev/sm64ds-decomp: no Windows .zip or .7z release
 - tanihad/Sly-2-Native-Pc-port: no Windows .zip or .7z release
@@ -890,7 +905,7 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - thegh0sts/NHL-19-PS4-PORT-WINDOWS: duplicate: fork of GNSB/UFC-3-PS4-PORT-LINUX-WINDOWS
 - thegh0sts/SS2R: duplicate: fork of GetLostIn/CTR-NitroFueled-PC
 - TheGh0stShip/Nagano-Winter-Olympics-98-N64: no Windows .zip or .7z release
-- TheMagnumChad/PokeZ-ARecomp-Online: duplicate: fork of Hexveil404/PokeZ-ARecomp
+- TheMagnumChad/PokeZ-ARecomp-Online: repository not found
 - ThePlayer14/project-gate-recomp: no Windows .zip or .7z release
 - TheSaltTrader/Ninja-s-Dawn---A-Ninja-Gaiden-2-Recompilation-Project: repository not found
 - Thiago86/CAB2: no Windows .zip or .7z release
@@ -927,6 +942,7 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - vasist15-source/BOTWRecomp: no Windows .zip or .7z release
 - venom13/pokefirered-dualscreen: no Windows .zip or .7z release
 - vgs499p/gt4-recomp-mac: no Windows .zip or .7z release
+- vitaslop/DinosaurPlanetRecomp-Vita: no Windows .zip or .7z release
 - VitoMiguelF/crashott-pc: no Windows .zip or .7z release
 - vjravenlight/shadow-moses-web: no Windows .zip or .7z release
 - Vnnc1/MK8-online: no Windows .zip or .7z release
@@ -957,6 +973,7 @@ Repositories the harvest found but couldn't use. Written by the harvest job.
 - WNBDEV/alter-echo-recomp: no Windows .zip or .7z release
 - WoofahRayetCode/inFAMOUS-US: no Windows .zip or .7z release
 - Wooloomooloo2/bloodborne_mac_port: no Windows .zip or .7z release
+- wootbeer/gsrandroid: no Windows .zip or .7z release
 - WR3CKINGBALL/tssm-recomp: no Windows .zip or .7z release
 - Wuteva/RogueTripRecomp: no Windows .zip or .7z release
 - wuzzy450/OpenRaven: no Windows .zip or .7z release

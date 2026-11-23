@@ -1078,6 +1078,41 @@
     "mods": []
   },
   {
+    "id": "mushroomrecompiled",
+    "name": "Mushroom Recompiled",
+    "game": "Super Mario Bros. 3",
+    "shortName": "Super Mario Bros. 3",
+    "platform": "Nintendo Entertainment System",
+    "aliases": [],
+    "developer": "gorigamia",
+    "kind": "port",
+    "description": "Super Mario Bros. 3 ported to run natively on PC from the NES version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/gorigamia/mushroomrecompiled",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MushroomRecompiled-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "nestris",
     "name": "NESTRIS",
     "game": "Tetris",

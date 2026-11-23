@@ -729,6 +729,40 @@
     "mods": []
   },
   {
+    "id": "hot-shots-golf-ps3-recomp",
+    "name": "Everybody's Golf 6",
+    "game": "Hot Shots Golf: World Invitational",
+    "shortName": "Hot Shots Golf: World Invitational",
+    "platform": "Sony Playstation 3",
+    "aliases": [
+      "Hot Shots Golf: World Invitational (Everybody's Golf 6)"
+    ],
+    "developer": "finalpantasy",
+    "kind": "port",
+    "description": "Hot Shots Golf: World Invitational ported to run natively on PC from the PlayStation 3 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/finalpantasy/hot-shots-golf-ps3-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "HotShotsGolfRecomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "infamous1-recomp",
     "name": "inFAMOUS 1 Recomp",
     "game": "inFAMOUS",

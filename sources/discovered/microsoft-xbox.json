@@ -710,6 +710,40 @@
     "mods": []
   },
   {
+    "id": "btvs-recomp",
+    "name": "BtVS Recomp",
+    "game": "Buffy the Vampire Slayer",
+    "shortName": "Buffy the Vampire Slayer",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Buffy the Vampire Slayer (BtVS Recomp)"
+    ],
+    "developer": "FallenAzazel",
+    "kind": "port",
+    "description": "Buffy the Vampire Slayer ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/FallenAzazel/BtVS_recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BtVS_recomp_*_win32.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "buffy-chaos-bleeds-pc",
     "name": "Buffy: Chaos Bleeds PC",
     "game": "Buffy the Vampire Slayer: Chaos Bleeds",
@@ -738,6 +772,41 @@
     "assets": [
       {
         "pattern": "Buffy-Chaos-Bleeds-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "buffy-tvs-xbox-pc",
+    "name": "Buffy the Vampire Slayer PC Port",
+    "game": "Buffy the Vampire Slayer",
+    "shortName": "Buffy the Vampire Slayer",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "KaikoClanworth1",
+    "kind": "port",
+    "description": "Buffy the Vampire Slayer ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/KaikoClanworth1/buffy-tvs-xbox-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Buffy-the-Vampire-Slayer-PC-*-Windows-x64.zip",
         "os": "windows",
         "arch": "x64"
       }
@@ -1107,6 +1176,38 @@
     "assets": [
       {
         "pattern": "CounterStrike-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "crimson-skies-high-road-to-revenge-repo",
+    "name": "Crimson Skies High Road To Revenge Repo",
+    "game": "Crimson Skies: High Road to Revenge",
+    "shortName": "Crimson Skies: High Road to Revenge",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "nacholuver1",
+    "kind": "port",
+    "description": "Crimson Skies: High Road to Revenge ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "CrimsonSkiesRecomp-*-win64.zip",
         "os": "windows",
         "arch": "x64"
       }
@@ -1725,6 +1826,40 @@
     "mods": []
   },
   {
+    "id": "gbtghoulies-qilinrecomp",
+    "name": "GBTGhoulies QilinRecomp",
+    "game": "Grabbed by the Ghoulies",
+    "shortName": "Grabbed by the Ghoulies",
+    "platform": "Microsoft Xbox",
+    "aliases": [
+      "Grabbed by the Ghoulies (GBTG-Qilincomp)"
+    ],
+    "developer": "Qilin1066",
+    "kind": "port",
+    "description": "Grabbed by the Ghoulies ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GBTGhoulies-QilinRecomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "genma-recomp",
     "name": "Genma Onimusha (rafaelkenedy)",
     "game": "Genma Onimusha",
@@ -1951,6 +2086,74 @@
     "assets": [
       {
         "pattern": "halo-ce-vita-*-pc-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "halo-mobile",
+    "name": "Halo Mobile",
+    "game": "Halo: Combat Evolved",
+    "shortName": "Halo: Combat Evolved",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "OMG-Guest",
+    "kind": "port",
+    "description": "Halo: Combat Evolved ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/OMG-Guest/Halo-Mobile",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "halo-windows-release.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "halo2-recomp",
+    "name": "Halo 2 Recomp",
+    "game": "Halo 2",
+    "shortName": "Halo 2",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "dalves408",
+    "kind": "port",
+    "description": "Halo 2 ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/dalves408/halo2-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Halo2-Recomp-*-Windows-x64.zip",
         "os": "windows",
         "arch": "x64"
       }
@@ -2546,6 +2749,38 @@
     "assets": [
       {
         "pattern": "kuf-wizard-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "lamborghini-static-recomp",
+    "name": "Lamborghini Static Recomp",
+    "game": "Lamborghini",
+    "shortName": "Lamborghini",
+    "platform": "Microsoft Xbox",
+    "aliases": [],
+    "developer": "trev82usa",
+    "kind": "port",
+    "description": "Lamborghini ported to run natively on PC from the Xbox version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/trev82usa/Lamborghini-static-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Lamborghini-recomp-*-windows-x64.zip",
         "os": "windows",
         "arch": "x64"
       }

@@ -32,6 +32,40 @@
     "mods": []
   },
   {
+    "id": "cdos-nintendods-recomp",
+    "name": "Castlevania: Dawn of Sorrow Recompiled",
+    "game": "Castlevania: Dawn of Sorrow",
+    "shortName": "Castlevania: Dawn of Sorrow",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "Neguchads",
+    "kind": "port",
+    "description": "Castlevania: Dawn of Sorrow ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/Neguchads/cdos-nintendods-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "CastlevaniaDawnOfSorrowRecomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "digimon-super-xros-wars-recomp",
     "name": "Digimon Super Xros Wars Recomp",
     "game": "Digimon Story: Super Xros Wars Red",
@@ -763,6 +797,40 @@
     "assets": [
       {
         "pattern": "MarioVsLuigi-Win64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "openff3-enhanced",
+    "name": "OpenFF3 Enhanced",
+    "game": "Final Fantasy III",
+    "shortName": "Final Fantasy III",
+    "platform": "Nintendo DS",
+    "aliases": [],
+    "developer": "ausnick2001",
+    "kind": "port",
+    "description": "Final Fantasy III ported to run natively on PC from the DS version.",
+    "requirement": "",
+    "features": [
+      "mods"
+    ],
+    "repositoryUrl": "https://github.com/ausnick2001/OpenFF3-Enhanced",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "OpenFF3-Enhanced-*-win-x64.zip",
         "os": "windows",
         "arch": "x64"
       }

@@ -133,6 +133,38 @@
     "mods": []
   },
   {
+    "id": "bleach-hts7-releases",
+    "name": "Bleach HTS7 Releases",
+    "game": "Bleach: Heat the Soul 7",
+    "shortName": "Bleach: Heat the Soul 7",
+    "platform": "Sony PSP",
+    "aliases": [],
+    "developer": "krprojecthts",
+    "kind": "port",
+    "description": "Bleach: Heat the Soul 7 ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/krprojecthts/Bleach-HTS7-Releases",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BLEACH.-.Heat.The.Soul.7.PC.Public.Release.*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "dissidia012-pc",
     "name": "Dissidia012 PC",
     "game": "Dissidia 012 Duodecim Final Fantasy",
@@ -734,6 +766,40 @@
     "assets": [
       {
         "pattern": "pure-recomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "silent-hill-origins-recomp",
+    "name": "Silent Hill: Origins (PS2) — silent-hill-origins-recomp (SirBraga)",
+    "game": "Silent Hill: Origins",
+    "shortName": "Silent Hill: Origins",
+    "platform": "Sony PSP",
+    "aliases": [
+      "Silent Hill: Origins (PS2)"
+    ],
+    "developer": "SirBraga",
+    "kind": "port",
+    "description": "Silent Hill: Origins ported to run natively on PC from the Sony PSP version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/SirBraga/silent-hill-origins-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SilentHillOrigins-Recomp-Windows-*.zip",
         "os": "windows",
         "arch": "x64"
       }

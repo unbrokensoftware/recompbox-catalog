@@ -1102,6 +1102,38 @@
     "mods": []
   },
   {
+    "id": "f1-05-pc",
+    "name": "F1 05 PC",
+    "game": "Formula One 05",
+    "shortName": "Formula One 05",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "KevinL50-sysadmin",
+    "kind": "port",
+    "description": "Formula One 05 ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/KevinL50-sysadmin/F1-05-PC",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "F1-05-PC-*-portable.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "f1-06-pc",
     "name": "F1 06 PC",
     "game": "Formula One 06",
@@ -1396,6 +1428,42 @@
     "assets": [
       {
         "pattern": "GHClassic-windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "god-hand-rearmed",
+    "name": "God Hand: Rearmed",
+    "game": "God Hand",
+    "shortName": "God Hand",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "God-Hand-Rearmed",
+    "kind": "port",
+    "description": "God Hand ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/God-Hand-Rearmed/God-Hand-Rearmed",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GHR-*.zip",
         "os": "windows",
         "arch": "x64"
       }
@@ -2297,6 +2365,38 @@
     "mods": []
   },
   {
+    "id": "nawaf-al-hussain-tenkaichi3decomp",
+    "name": "Tenkaichi3Decomp",
+    "game": "Dragon Ball Z: Budokai Tenkaichi 3",
+    "shortName": "Dragon Ball Z: Budokai Tenkaichi 3",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "nawaf-al-hussain",
+    "kind": "port",
+    "description": "Dragon Ball Z: Budokai Tenkaichi 3 ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/nawaf-al-hussain/Tenkaichi3Decomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Tenkaichi3Decomp-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "nightfire-port",
     "name": "Nightfire Port",
     "game": "007: Nightfire",
@@ -2838,6 +2938,41 @@
     "mods": []
   },
   {
+    "id": "rebruised",
+    "name": "ReBruised",
+    "game": "Black & Bruised",
+    "shortName": "Black & Bruised",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "Hotwire114",
+    "kind": "port",
+    "description": "Black & Bruised ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Hotwire114/ReBruised",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ReBruised-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "recvx-enhanced-port",
     "name": "RECVX Enhanced Port",
     "game": "Resident Evil Code: Veronica X",
@@ -3233,6 +3368,40 @@
     "assets": [
       {
         "pattern": "getaway-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sh4-pc",
+    "name": "Sh4 Pc",
+    "game": "Silent Hill 4: The Room",
+    "shortName": "Silent Hill 4: The Room",
+    "platform": "Sony Playstation 2",
+    "aliases": [
+      "Silent Hill 4: The Room (sh4-pc)"
+    ],
+    "developer": "phoenixd123",
+    "kind": "port",
+    "description": "Silent Hill 4: The Room ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/phoenixd123/sh4-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "sh4-pc-launcher-*-win64.zip",
         "os": "windows",
         "arch": "x64"
       }
@@ -3679,6 +3848,38 @@
     "mods": []
   },
   {
+    "id": "toca-race-driver-3",
+    "name": "Toca Race Driver 3",
+    "game": "TOCA Race Driver 3",
+    "shortName": "TOCA Race Driver 3",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "PipeKnight",
+    "kind": "port",
+    "description": "TOCA Race Driver 3 ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/PipeKnight/toca-race-driver-3",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "toca-race-driver-3-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "transformers-armada-recomp",
     "name": "Transformers Armada Recomp",
     "game": "Transformers",
@@ -3877,6 +4078,38 @@
     "assets": [
       {
         "pattern": "WWE-Crush-Hour-PC-alpha-0.0.1.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "yakuza-2-pc-port",
+    "name": "Yakuza 2 PC Port",
+    "game": "Yakuza 2",
+    "shortName": "Yakuza 2",
+    "platform": "Sony Playstation 2",
+    "aliases": [],
+    "developer": "IvanBarbosaFilho",
+    "kind": "port",
+    "description": "Yakuza 2 ported to run natively on PC from the PlayStation 2 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/IvanBarbosaFilho/Yakuza-2---PC-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Yakuza2-win64.zip",
         "os": "windows",
         "arch": "x64"
       }

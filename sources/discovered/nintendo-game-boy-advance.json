@@ -464,6 +464,40 @@
     "mods": []
   },
   {
+    "id": "fe8-ui",
+    "name": "FE8 Extended Frontend",
+    "game": "Fire Emblem: The Sacred Stones",
+    "shortName": "Fire Emblem: The Sacred Stones",
+    "platform": "Nintendo Game Boy Advance",
+    "aliases": [
+      "Fire Emblem: The Sacred Stones (FE8 Extended Frontend)"
+    ],
+    "developer": "stephenjayakar",
+    "kind": "port",
+    "description": "Fire Emblem: The Sacred Stones ported to run natively on PC from the Game Boy Advance version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/stephenjayakar/FE8-UI",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "FE8-UI-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "ffta-recomp",
     "name": "FFTA Recomp",
     "game": "Final Fantasy Tactics Advance",

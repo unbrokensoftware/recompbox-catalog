@@ -7020,6 +7020,42 @@
     "mods": []
   },
   {
+    "id": "opentm2",
+    "name": "OpenTM2",
+    "game": "Twisted Metal 2",
+    "shortName": "Twisted Metal 2",
+    "platform": "Sony Playstation",
+    "aliases": [],
+    "developer": "Tokatta007",
+    "kind": "port",
+    "description": "Twisted Metal 2 ported to run natively on PC from the PlayStation version.",
+    "requirement": "",
+    "features": [
+      "mods",
+      "online",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Tokatta007/OpenTM2",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "OpenTM2-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "panzerbanditrecomp",
     "name": "PanzerBanditRecomp",
     "game": "Panzer Bandit",
@@ -8519,6 +8555,40 @@
     "assets": [
       {
         "pattern": "revp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "rewraithed",
+    "name": "rewraithed",
+    "game": "Legacy of Kain: Soul Reaver",
+    "shortName": "Legacy of Kain: Soul Reaver",
+    "platform": "Sony Playstation",
+    "aliases": [
+      "Legacy of Kain: Soul Reaver (Rewraithed)"
+    ],
+    "developer": "fmil95",
+    "kind": "port",
+    "description": "Legacy of Kain: Soul Reaver ported to run natively on PC from the PlayStation version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/fmil95/rewraithed",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "rewraithed*_win32.zip",
         "os": "windows",
         "arch": "x64"
       }
@@ -11155,6 +11225,42 @@
     "mods": []
   },
   {
+    "id": "ultimate-vib-ribbon",
+    "name": "Ultimate Vib-Ribbon",
+    "game": "Vib Ribbon",
+    "shortName": "Vib Ribbon",
+    "platform": "Sony Playstation",
+    "aliases": [
+      "Vib-Ribbon"
+    ],
+    "developer": "CorrieDivitt",
+    "kind": "port",
+    "description": "Vib Ribbon ported to run natively on PC from the PlayStation version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/CorrieDivitt/Ultimate-Vib-Ribbon",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Ultimate-Vib-Ribbon-Windows-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "umjamlamrecomp",
     "name": "Um Jammer Lammy — UmJamLamRecomp (NJH-1001)",
     "game": "Um Jammer Lammy",
@@ -11245,6 +11351,40 @@
     "assets": [
       {
         "pattern": "ProjectVagrant-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "vagrantstory-port",
+    "name": "Vagrant Story Port",
+    "game": "Vagrant Story",
+    "shortName": "Vagrant Story",
+    "platform": "Sony Playstation",
+    "aliases": [],
+    "developer": "AliGothenburg",
+    "kind": "port",
+    "description": "Vagrant Story ported to run natively on PC from the PlayStation version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/AliGothenburg/VagrantStory-Port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "VagrantStory-Port-*-win64.zip",
         "os": "windows",
         "arch": "x64"
       }

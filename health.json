@@ -2,5 +2,13 @@
   "magiciansquest-recomp": {
     "firstFailed": "2026-11-22T04:22:46.2181149+00:00",
     "lastError": "no release has an asset matching MagiciansQuest-Recomp-0.1.0-alpha-windows-x64.zip"
+  },
+  "openantigrav": {
+    "firstFailed": "2026-11-23T03:45:52.8209114+00:00",
+    "lastError": "no release has an asset matching OpenAntiGrav-*-*d4-windows-x86_64.zip"
+  },
+  "openhuey": {
+    "firstFailed": "2026-11-23T03:45:52.8209114+00:00",
+    "lastError": "no release has an asset matching openhuey-*dcd-windows-x64.zip"
   }
 }

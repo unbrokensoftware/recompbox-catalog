@@ -737,6 +737,72 @@
     "mods": []
   },
   {
+    "id": "blitz-theleague-ii-recomp",
+    "name": "Blitz Recomp",
+    "game": "Blitz: The League II",
+    "shortName": "Blitz: The League II",
+    "platform": "Microsoft Xbox 360",
+    "aliases": [
+      "Blitz: The League II (Blitz Recomp)"
+    ],
+    "developer": "nacholuver1",
+    "kind": "port",
+    "description": "Blitz: The League II ported to run natively on PC from the Xbox 360 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/nacholuver1/Blitz-TheLeague-II-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BlitzTheLeagueII-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "blitz-theleague-recomp",
+    "name": "Blitz TheLeague Recomp",
+    "game": "Blitz: The League",
+    "shortName": "Blitz: The League",
+    "platform": "Microsoft Xbox 360",
+    "aliases": [],
+    "developer": "nacholuver1",
+    "kind": "port",
+    "description": "Blitz: The League ported to run natively on PC from the Xbox 360 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/nacholuver1/Blitz-TheLeague-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "BlitzTheLeague-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "boom-boom-rocket-xbla-pc-recomp",
     "name": "Boom Boom Rocket XBLA PC Recomp",
     "game": "Boom Boom Rocket",
@@ -2139,6 +2205,38 @@
     "mods": []
   },
   {
+    "id": "fable-return-to-albion",
+    "name": "Fable Return To Albion",
+    "game": "Fable II",
+    "shortName": "Fable II",
+    "platform": "Microsoft Xbox 360",
+    "aliases": [],
+    "developer": "Fable2Recomp",
+    "kind": "port",
+    "description": "Fable II ported to run natively on PC from the Xbox 360 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Fable2Recomp/Fable-Return-to-Albion",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Fable.Return.to.Albion-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "fable2pubgames-recomp",
     "name": "Fable II Pub Games (MGRayd Recomp)",
     "game": "Fable II Pub Games",
@@ -3281,6 +3379,40 @@
     "assets": [
       {
         "pattern": "GHVanHRecomp-*-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "ghworldtourrecomp",
+    "name": "GHWorldTourRecomp",
+    "game": "Guitar Hero: World Tour",
+    "shortName": "Guitar Hero: World Tour",
+    "platform": "Microsoft Xbox 360",
+    "aliases": [
+      "Guitar Hero: World Tour (GHWorldTourRecomp)"
+    ],
+    "developer": "zenthora",
+    "kind": "port",
+    "description": "Guitar Hero: World Tour ported to run natively on PC from the Xbox 360 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/zenthora/GHWorldTourRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "GHWorldTourRecomp-*-win64.zip",
         "os": "windows",
         "arch": "x64"
       }
@@ -7650,6 +7782,40 @@
     "mods": []
   },
   {
+    "id": "sk83-na-m",
+    "name": "Sk83 Na M",
+    "game": "Skate 3",
+    "shortName": "Skate 3",
+    "platform": "Microsoft Xbox 360",
+    "aliases": [
+      "Skate 3 (sk83_na_m)"
+    ],
+    "developer": "5C8",
+    "kind": "port",
+    "description": "Skate 3 ported to run natively on PC from the Xbox 360 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/5C8/sk83_na_m",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "OpenVR-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "skate1recompiled",
     "name": "Skate1Recompiled",
     "game": "Skate",
@@ -9920,6 +10086,38 @@
     "assets": [
       {
         "pattern": "WWE2K17-PC-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "x-men-destiny-pc",
+    "name": "X-Men: Destiny PC Port",
+    "game": "X-Men: Destiny",
+    "shortName": "X-Men: Destiny",
+    "platform": "Microsoft Xbox 360",
+    "aliases": [],
+    "developer": "KaikoClanworth1",
+    "kind": "port",
+    "description": "X-Men: Destiny ported to run natively on PC from the Xbox 360 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/KaikoClanworth1/x-men-destiny-pc",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "XMenDestiny-*-Windows-x64.zip",
         "os": "windows",
         "arch": "x64"
       }

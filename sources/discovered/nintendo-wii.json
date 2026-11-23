@@ -1167,6 +1167,40 @@
     "mods": []
   },
   {
+    "id": "punchoutwii-qilinrecomp",
+    "name": "PunchOutWii QilinRecomp",
+    "game": "Punch Out!!",
+    "shortName": "Punch Out!!",
+    "platform": "Nintendo Wii",
+    "aliases": [
+      "Punch-Out!! (PunchOutWii-QilinRecomp)"
+    ],
+    "developer": "Qilin1066",
+    "kind": "port",
+    "description": "Punch Out!! ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Qilin1066/PunchOutWii--QilinRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "PunchOut-QilinComp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "recharged",
     "name": "Recharged",
     "game": "Mario Strikers Charged",
@@ -1657,6 +1691,42 @@
     "assets": [
       {
         "pattern": "wiipartyrecomp-offline-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "wonderpark",
+    "name": "Wonderpark",
+    "game": "PokéPark 2: Wonders Beyond",
+    "shortName": "PokéPark 2: Wonders Beyond",
+    "platform": "Nintendo Wii",
+    "aliases": [],
+    "developer": "Dvrkie13",
+    "kind": "port",
+    "description": "PokéPark 2: Wonders Beyond ported to run natively on PC from the Wii version.",
+    "requirement": "",
+    "features": [
+      "high-fps",
+      "mods",
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Dvrkie13/Wonderpark",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Wonderpark-0.2.0.zip",
         "os": "windows",
         "arch": "x64"
       }

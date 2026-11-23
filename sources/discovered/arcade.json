@@ -164,6 +164,40 @@
     "mods": []
   },
   {
+    "id": "apbarcade-qilinrecomp",
+    "name": "ApbArcade QilinRecomp",
+    "game": "APB - All Points Bulletin",
+    "shortName": "APB - All Points Bulletin",
+    "platform": "Arcade",
+    "aliases": [
+      "APB - All Points Bulletin (ApbArcade-QilinRecomp)"
+    ],
+    "developer": "Qilin1066",
+    "kind": "port",
+    "description": "APB - All Points Bulletin ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Qilin1066/ApbArcade--QilinRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "ApbArcade--QilinRecomp-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "armored-warriors-recomp",
     "name": "Armored Warriors Recomp",
     "game": "Armored Warriors",
@@ -1589,6 +1623,38 @@
     "mods": []
   },
   {
+    "id": "jp244btc-vs-smb-recomp",
+    "name": "VS. SMB Recomp",
+    "game": "Vs. Super Mario Bros.",
+    "shortName": "Vs. Super Mario Bros.",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "jp244btc",
+    "kind": "port",
+    "description": "Vs. Super Mario Bros. ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/jp244btc/vs-smb-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "vssmb-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "kaizer-knuckle-recomp",
     "name": "Kaizer Knuckle Recomp",
     "game": "Kaiser Knuckle",
@@ -2573,6 +2639,40 @@
     "mods": []
   },
   {
+    "id": "ragerecomp",
+    "name": "RageRecomp",
+    "game": "Primal Rage",
+    "shortName": "Primal Rage",
+    "platform": "Arcade",
+    "aliases": [],
+    "developer": "thefixinhixon",
+    "kind": "port",
+    "description": "Primal Rage ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [
+      "online"
+    ],
+    "repositoryUrl": "https://github.com/thefixinhixon/RageRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "RageRecomp-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "real-bout-fatal-fury-2-the-newcomers-recomp",
     "name": "Real Bout Fatal Fury 2 The Newcomers Recomp",
     "game": "Real Bout Fatal Fury 2: The Newcomers",
@@ -3155,6 +3255,40 @@
     "assets": [
       {
         "pattern": "SFZ2AL-Windows-x64-*.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "sh-arcade-recomp",
+    "name": "Arcade",
+    "game": "Splatterhouse",
+    "shortName": "Splatterhouse",
+    "platform": "Arcade",
+    "aliases": [
+      "Splatterhouse (Arcade)"
+    ],
+    "developer": "gabo-mdev",
+    "kind": "port",
+    "description": "Splatterhouse ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/gabo-mdev/sh-arcade-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "sh-arcade-recomp-*-windows-x64.zip",
         "os": "windows",
         "arch": "x64"
       }
@@ -4251,6 +4385,40 @@
     "assets": [
       {
         "pattern": "vssmb-win64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "vs4-2006-enhanced",
+    "name": "VS4 v.2006 Enhanced",
+    "game": "Virtua Striker 4 Ver.2006",
+    "shortName": "Virtua Striker 4 Ver.2006",
+    "platform": "Arcade",
+    "aliases": [
+      "Virtua Striker 4 Ver.2006 (VS4 v.2006 Enhanced)"
+    ],
+    "developer": "LetsPlaymaker",
+    "kind": "port",
+    "description": "Virtua Striker 4 Ver.2006 ported to run natively on PC from the Arcade version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/LetsPlaymaker/vs4-2006-enhanced",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "VS4-2006-Enhanced-*-windows-x64.zip",
         "os": "windows",
         "arch": "x64"
       }

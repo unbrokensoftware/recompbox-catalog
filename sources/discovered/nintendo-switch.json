@@ -399,6 +399,40 @@
     "mods": []
   },
   {
+    "id": "dkcr-recomp",
+    "name": "DKCR Recomp",
+    "game": "Donkey Kong Country Returns HD",
+    "shortName": "Donkey Kong Country Returns HD",
+    "platform": "Nintendo Switch",
+    "aliases": [
+      "Donkey Kong Country Returns HD (DKCR Recomp)"
+    ],
+    "developer": "williamlavant7-dev",
+    "kind": "port",
+    "description": "Donkey Kong Country Returns HD ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/williamlavant7-dev/DKCR-Recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "DKCR.Recomp-*-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "doa-xtreme-3rd",
     "name": "Dead or Alive Xtreme 3 Scarlet",
     "game": "Dead or Alive Xtreme 3 Scarlet",
@@ -433,6 +467,40 @@
     "mods": []
   },
   {
+    "id": "eowrecomp",
+    "name": "EoWRecomp",
+    "game": "EoWRecomp",
+    "shortName": "EoWRecomp",
+    "platform": "Nintendo Switch",
+    "aliases": [
+      "The Legend of Zelda: Echoes of Wisdom"
+    ],
+    "developer": "patrickksmdev",
+    "kind": "port",
+    "description": "EoWRecomp ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/patrickksmdev/EoWRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "EoWRecomp-*-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "excuuuuse-me-princess",
     "name": "AoC Recomp",
     "game": "Hyrule Warriors: Age of Calamity",
@@ -457,6 +525,38 @@
     "assets": [
       {
         "pattern": "AoC-Recomp-*-Windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "fastball",
+    "name": "Fastball: MLB The Show 26 for PC",
+    "game": "MLB The Show 26",
+    "shortName": "MLB The Show 26",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "sam110411",
+    "kind": "port",
+    "description": "MLB The Show 26 ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/sam110411/fastball",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "MLBTS-Setup-*-windows.zip",
         "os": "windows",
         "arch": "x64"
       }
@@ -1145,7 +1245,7 @@
     "description": "MLB The Show 26 ported to run natively on PC from the Switch version.",
     "requirement": "",
     "features": [],
-    "repositoryUrl": "https://github.com/sam110411/mlbts-native",
+    "repositoryUrl": "https://github.com/sam110411/fastball",
     "license": "",
     "colors": [],
     "install": "download",
@@ -1805,6 +1905,40 @@
     "assets": [
       {
         "pattern": "sdu-x86_64-pc-windows-msvc.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "skywardrecomp",
+    "name": "Skyward Recomp",
+    "game": "The Legend of Zelda: Skyward Sword HD",
+    "shortName": "The Legend of Zelda: Skyward Sword HD",
+    "platform": "Nintendo Switch",
+    "aliases": [],
+    "developer": "Ramasanjaya22",
+    "kind": "port",
+    "description": "The Legend of Zelda: Skyward Sword HD ported to run natively on PC from the Switch version.",
+    "requirement": "",
+    "features": [
+      "widescreen"
+    ],
+    "repositoryUrl": "https://github.com/Ramasanjaya22/SkywardRecomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "SkywardRecomp-*-windows.zip",
         "os": "windows",
         "arch": "x64"
       }

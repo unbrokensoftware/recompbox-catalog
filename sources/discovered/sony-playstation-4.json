@@ -636,6 +636,40 @@
     "mods": []
   },
   {
+    "id": "everybodys-golf-ps4-pc-port",
+    "name": "Hot Shots Golf",
+    "game": "Everybody's Golf",
+    "shortName": "Everybody's Golf",
+    "platform": "Sony Playstation 4",
+    "aliases": [
+      "Everybody's Golf (Hot Shots Golf)"
+    ],
+    "developer": "finalpantasy",
+    "kind": "port",
+    "description": "Everybody's Golf ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/finalpantasy/everybodys-golf-ps4-pc-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "everybodys-golf-pc-*-windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "gbo-code-fairy-ps4rt-windows",
     "name": "GBO Code Fairy PS4RT for Windows",
     "game": "Mobile Suit Gundam Battle Operation: Code Fairy",
@@ -2594,6 +2628,38 @@
     "mods": []
   },
   {
+    "id": "the-last-guardian-definitive",
+    "name": "The Last Guardian Definitive",
+    "game": "The Last Guardian",
+    "shortName": "The Last Guardian",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "tabnul",
+    "kind": "port",
+    "description": "The Last Guardian ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/tabnul/the-last-guardian-definitive",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "tlg-windows-x86_64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "the-order-1886-pc-port",
     "name": "The Order: 1886 PC Port",
     "game": "The Order: 1886",
@@ -3049,6 +3115,40 @@
     "assets": [
       {
         "pattern": "uncharted-windows.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
+    "id": "uncharted-the-nathan-drake-collection-pc-port",
+    "name": "Uncharted PC Port",
+    "game": "Uncharted: The Nathan Drake Collection",
+    "shortName": "Uncharted: The Nathan Drake Collection",
+    "platform": "Sony Playstation 4",
+    "aliases": [],
+    "developer": "bc160201983",
+    "kind": "port",
+    "description": "Uncharted: The Nathan Drake Collection ported to run natively on PC from the PlayStation 4 version.",
+    "requirement": "",
+    "features": [
+      "high-fps"
+    ],
+    "repositoryUrl": "https://github.com/bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Uncharted-windows.zip",
         "os": "windows",
         "arch": "x64"
       }

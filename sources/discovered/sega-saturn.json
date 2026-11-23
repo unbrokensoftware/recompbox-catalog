@@ -69,6 +69,38 @@
     "mods": []
   },
   {
+    "id": "csotn-saturn-recomp",
+    "name": "Castlevania SOTN Saturn Recomp",
+    "game": "Castlevania: Symphony of the Night",
+    "shortName": "Castlevania: Symphony of the Night",
+    "platform": "Sega Saturn",
+    "aliases": [],
+    "developer": "Neguchads",
+    "kind": "port",
+    "description": "Castlevania: Symphony of the Night ported to run natively on PC from the Saturn version.",
+    "requirement": "",
+    "features": [],
+    "repositoryUrl": "https://github.com/Neguchads/csotn-saturn-recomp",
+    "license": "",
+    "colors": [],
+    "install": "download",
+    "recipe": "",
+    "romFile": "",
+    "executable": "",
+    "saves": "",
+    "modsFolder": "",
+    "releases": [],
+    "assets": [
+      {
+        "pattern": "Csotn-Saturn-*-Windows-x64.zip",
+        "os": "windows",
+        "arch": "x64"
+      }
+    ],
+    "roms": [],
+    "mods": []
+  },
+  {
     "id": "fighters-megamix-recomp",
     "name": "Fighters Megamix Recomp",
     "game": "Fighters Megamix",
