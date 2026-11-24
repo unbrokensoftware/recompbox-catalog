@@ -346,7 +346,7 @@
     "description": "Pokemon Red/Blue ported to run natively on PC from the Game Boy version.",
     "requirement": "",
     "features": [],
-    "repositoryUrl": "https://github.com/spiritsnails/oldamber",
+    "repositoryUrl": "https://github.com/spiritsnails/indigoporteau",
     "license": "",
     "colors": [],
     "install": "download",
