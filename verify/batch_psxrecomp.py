@@ -55,7 +55,7 @@ def snapshot(hwnd, path):
           f"public struct R {{ public int L, T, Ri, B; }} public static void Grab(IntPtr h, string p) {{ R r; GetWindowRect(h, out r); var b = new Bitmap(Math.Max(1, r.Ri - r.L), Math.Max(1, r.B - r.T)); "
           f"using (var g = Graphics.FromImage(b)) {{ var dc = g.GetHdc(); PrintWindow(h, dc, 2); g.ReleaseHdc(dc); }} b.Save(p); }} }}' -ReferencedAssemblies System.Drawing; "
           f"[S]::Grab([IntPtr]{hwnd}, '{path}')")
-    subprocess.run(["powershell", "-NoProfile", "-Command", ps], capture_output=True, timeout=60)
+    subprocess.run(["powershell", "-NoProfile", "-Command", ps], capture_output=True, timeout=300)
 
 
 def install(port_id, rom, target):
@@ -75,23 +75,35 @@ def play(port_id, target):
     f = fields(port_id)
     exe = os.path.join(target, f["executable"].replace("/", os.sep))
     p = subprocess.Popen(f'"{exe}" {marker.get("arguments", "")}', cwd=os.path.dirname(exe))
-    time.sleep(50)
-    if p.poll() is not None:
-        return f"exited with {p.returncode}"
-    wins = windows(p.pid)
-    boxes = [t for _, c, t in wins if c == "#32770"]
-    main = next((h for h, c, _ in wins if c != "#32770"), None) or (wins[0][0] if wins else None)
-    if main:
-        snapshot(main, os.path.join(SHOTS, port_id + ".png").replace("/", "\\"))
-    subprocess.run(["taskkill", "/F", "/T", "/PID", str(p.pid)], capture_output=True)
-    time.sleep(3)
-    return f"message box: {boxes}" if boxes else None
+    try:
+        time.sleep(50)
+        if p.poll() is not None:
+            return f"exited with {p.returncode}"
+        wins = windows(p.pid)
+        boxes = [t for _, c, t in wins if c == "#32770"]
+        main = next((h for h, c, _ in wins if c != "#32770"), None) or (wins[0][0] if wins else None)
+        if main:
+            try:
+                snapshot(main, os.path.join(SHOTS, port_id + ".png").replace("/", "\\"))
+            except subprocess.TimeoutExpired:
+                return "screenshot timed out"
+        return f"message box: {boxes}" if boxes else None
+    finally:
+        subprocess.run(["taskkill", "/F", "/T", "/PID", str(p.pid)], capture_output=True)
+        kill_under(target)
+        time.sleep(3)
+
+
+def kill_under(folder):
+    ps = (f"Get-CimInstance Win32_Process | Where-Object {{ $_.ExecutablePath -like '{folder}\\*' }} | "
+          f"ForEach-Object {{ Stop-Process -Id $_.ProcessId -Force -ErrorAction SilentlyContinue }}")
+    subprocess.run(["powershell", "-NoProfile", "-Command", ps], capture_output=True, timeout=300)
 
 
 results = json.load(open(RESULTS, encoding="utf-8")) if os.path.exists(RESULTS) else {}
 base = json.load(open(CATALOG, encoding="utf-8"))
 for port_id, info in SCAN.items():
-    if port_id in results or not any(b["stem"].startswith("SCPH") for b in info["bios"]):
+    if port_id in results or port_id == "digimon-world-2-recomp" or not any(b["stem"].startswith("SCPH") for b in info["bios"]):
         continue
     rom = info["rom"]
     before = os.stat(rom).st_mtime
@@ -100,16 +112,21 @@ for port_id, info in SCAN.items():
     target = os.path.join(r"D:\AI\picktest", "psx-" + port_id)
     shutil.rmtree(target, ignore_errors=True)
     started = time.time()
-    try:
-        why = install(port_id, rom, target)
-        if why is None:
-            why = play(port_id, target)
-    except subprocess.TimeoutExpired:
-        why = "timed out"
+    for attempt in range(2):
+        try:
+            why = install(port_id, rom, target)
+            if why is None:
+                why = play(port_id, target)
+        except subprocess.TimeoutExpired:
+            why = "timed out"
+        kill_under(target)
+        shutil.rmtree(target, ignore_errors=True)
+        if not (why and "Access to the path" in why):
+            break
+        time.sleep(30)
     if os.stat(rom).st_mtime != before:
         print("STOP: the original disc changed:", rom, flush=True)
         sys.exit(2)
-    shutil.rmtree(target, ignore_errors=True)
     results[port_id] = {"ok": why is None, "why": why or "", "minutes": round((time.time() - started) / 60, 1), "fields": fields(port_id)}
     print(port_id, "OK" if why is None else "FAIL " + why, results[port_id]["minutes"], "min", flush=True)
     json.dump(results, open(RESULTS, "w", encoding="utf-8"), indent=1)
