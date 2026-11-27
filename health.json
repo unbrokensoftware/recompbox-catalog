@@ -3,6 +3,14 @@
     "firstFailed": "2026-11-26T04:24:11.9939482+00:00",
     "lastError": "GitHub repository evaa-01/adam not found"
   },
+  "brave-fencer-musashi-decomp-port": {
+    "firstFailed": "2026-11-27T04:24:18.278386+00:00",
+    "lastError": "no release has an asset matching bfm-r48-*-windows-x64.zip"
+  },
+  "mad-riders-recomp": {
+    "firstFailed": "2026-11-27T04:24:18.278386+00:00",
+    "lastError": "GitHub repository Gandalf4212/mad-riders-recomp not found"
+  },
   "magiciansquest-recomp": {
     "firstFailed": "2026-11-22T04:22:46.2181149+00:00",
     "lastError": "no release has an asset matching MagiciansQuest-Recomp-0.1.0-alpha-windows-x64.zip"
@@ -14,5 +22,9 @@
   "openhuey": {
     "firstFailed": "2026-11-23T03:45:52.8209114+00:00",
     "lastError": "no release has an asset matching openhuey-*dcd-windows-x64.zip"
+  },
+  "resident-evil-4-native-port": {
+    "firstFailed": "2026-11-27T04:24:18.278386+00:00",
+    "lastError": "no release has an asset matching Nightjar-Native-*-Windows-x64.zip"
   }
 }
